@@ -50,6 +50,8 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 
 * [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
 * [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
+* [The Coronavirus is the Future Shock of the Decade: Three Things You Need To Know](https://mailchi.mp/iftf/news-from-the-future-issue-1478053?e=76e445d5a7)
+* \*\*\*\*[Coronavirus — The Black Swan of 2020](https://angel.co/re/story/13514)
 
 
 
