@@ -21,6 +21,10 @@ Want to write here:
 * [CoronaCuration](https://t.me/joinchat/KFwHIRhxdvdjrA9y2_EyUw) for people to post information and links
 * [CoronaColab](https://t.me/joinchat/KFwHIRnRj6KrH6Q5D8hZkw): Get Shit Done
 
+## Read more
+
+* [https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
+
 
 
 
