@@ -1,8 +1,8 @@
 # Let's stop covid-19
 
-Collectign the knowledgebase on the fighting corona virus. Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT) \(pls be responsible\).
+Collectign the knowledgebase on the fighting corona virus. 
 
-Want to write here: 
+Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT) \(pls be responsible\).
 
 ## Problems
 
