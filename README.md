@@ -1,6 +1,6 @@
 # Flattening the Curve \#stopcovid
 
-Our task to flatten the curve:
+Our task to flatten the curve of Coronavirus \(covid-19\):
 
 ![](.gitbook/assets/image%20%281%29.png)
 
@@ -36,6 +36,9 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * Containment, changes to daily life, vulnerable populations
 * Slow or no precautionary measures by governments, employers and organizations
 * People around me still thinking it is a joke or a conspiracy
+* community education on health, educational impact to current learners, effecting policy changes
+* Workplace impact, employee safety, employee well-being , continuity , work adjustments
+* breakdown of supply chains
 
 ## **What are the consequences of the COVID-19 pandemic?**
 
