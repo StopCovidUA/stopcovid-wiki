@@ -12,7 +12,7 @@ Purpose: Collecting the knowledgebase on the fighting corona virus.
 Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT) \(pls be responsible\).
 {% endhint %}
 
-## Problems
+## Tasks & Problems
 
 * Problems switching to work at home
 * Online events being cancelled
@@ -20,6 +20,8 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * Anxiety / need hope
 * Pooling volunteers
 * Food and medicine delivery
+
+![](.gitbook/assets/image%20%281%29.png)
 
 ## **What are the consequences of the COVID-19 pandemic?**
 
@@ -53,6 +55,7 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * [The Coronavirus is the Future Shock of the Decade: Three Things You Need To Know](https://mailchi.mp/iftf/news-from-the-future-issue-1478053?e=76e445d5a7)
 * \*\*\*\*[Coronavirus — The Black Swan of 2020](https://angel.co/re/story/13514)
 * [Coronavirus Tech Playbook](https://coronavirustechhandbook.com/)
+* [Library](https://coronavirustechhandbook.com/communities)
 
 
 
