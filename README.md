@@ -14,6 +14,8 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 
 ## Tasks & Problems
 
+[https://miro.com/app/board/o9J\_kukEi2M=/](https://miro.com/app/board/o9J_kukEi2M=/)
+
 * [Anxiety and Psycological Support](psychological-support.md)
 * [Food and medicine delivery](food-and-medicine-supply-chains.md)
 * [Moving events online](moving-events-online.md)
