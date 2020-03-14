@@ -34,7 +34,7 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * [Anxiety and Psycological Support](psychological-support.md)
 * [Food and medicine delivery](food-and-medicine-supply-chains.md)
 * Vulnerable populations
-* Breakdown of supply chains
+* Breakdown of supply chains – Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
 * Survival
 
 ### [Remote work](moving-events-online.md)
@@ -45,16 +45,18 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 ### Pandemic Management
 
 * Capacity Building of Communities and Government Bodies
-* Analytics & Forecasting
-* Availability, Accessibility, & Affordability \(ie free\) of coronavirus testing kits
-* [Other technology](tech.md)
-* Effecting policy changes
+  * Effecting policy changes
+  * Increasing transparency around the severity of the virus, collecting better data about the spread to improve model accuracy
+  * Analytics & Forecasting
+* Testing kits \(Availability, Accessibility, & Affordability\)
 * Awareness Campaigns
   * Am not willing to let 60% of the population get the virus
   * Slow or no precautionary measures by governments, employers and organizations
   * People around me still thinking it is a joke or a conspiracy
   * community education on health, educational impact to current learners
   * Spreading the narrative on social distancing as well as hospital capacity augmentation
+  * Motivating and teaching Social Distancing practices as only effective response
+* [Other technology](tech.md)
 
 ### Sociological
 
@@ -64,9 +66,7 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 
 ### ...
 
-* increasing transparency around the severity of the virus, collecting better data about the spread to improve model accuracy
-* Motivating and teaching Social Distancing practices as only effective response
-* People bring provided for while social distancing/quarantining. Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
+* * * People bring provided for while social distancing/quarantining. 
 * Increasing surge capacity of ICUs and hospital beds. Interested in creating a simple prototype design for renovating vacant buildings to be repurposed for healthcare occupancy quickly and efficiently.
 * supporting my community and slowing the spread.
 * Helping my local community weather the storm.
