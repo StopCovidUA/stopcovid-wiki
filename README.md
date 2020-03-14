@@ -35,7 +35,8 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * [Food and medicine delivery](food-and-medicine-supply-chains.md)
 * Vulnerable populations
 * Breakdown of supply chains – Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
-* Survival
+* Stress on the healthcare system – Increasing surge capacity of ICUs and hospital beds.Interested in creating a simple prototype design for renovating vacant buildings to be repurposed for healthcare occupancy quickly and efficiently
+* [Other technology](tech.md)
 
 ### [Remote work](moving-events-online.md)
 
@@ -50,31 +51,22 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
   * Analytics & Forecasting
 * Testing kits \(Availability, Accessibility, & Affordability\)
 * Awareness Campaigns
+  * Supporting my community and slowing the spread. 
+  * Helping my local community weather the storm.
   * Am not willing to let 60% of the population get the virus
+  * r0 and the west’s inability to cope with it
   * Slow or no precautionary measures by governments, employers and organizations
   * People around me still thinking it is a joke or a conspiracy
   * community education on health, educational impact to current learners
   * Spreading the narrative on social distancing as well as hospital capacity augmentation
+  * Public not taking this 'event' seriously and still out and about
   * Motivating and teaching Social Distancing practices as only effective response
-* [Other technology](tech.md)
 
 ### Sociological
 
 * Exponential spread, and the resulting societal, economic and political ramifications
 * slow reactions of politicians and public, donwplaying, a general feeling of "it won't happen to me" I sense in many people
 * exponential growth due to insufficient testing, no social distancing, and medical professional and media censorship
-
-### ...
-
-* * * People bring provided for while social distancing/quarantining. 
-* Increasing surge capacity of ICUs and hospital beds. Interested in creating a simple prototype design for renovating vacant buildings to be repurposed for healthcare occupancy quickly and efficiently.
-* supporting my community and slowing the spread.
-* Helping my local community weather the storm.
-* r0 and the west’s inability to cope with it
-* public not taking this 'event' seriously and still out and about
-* protecting system especially in education sector, risk reduction, policy based evidence, Monitoring, evaluation and learning
-* lack of transparency behind policy, centralised control, protecting vulnerable people
-* stress on the healthcare system
 * ensuring this doesn't reinforce narratives of fear, polarization and "othering"; focusing on government competence and non-governmental initiative
 * getting out the word, and making this a positive change process, not reinforcing fear
 * long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
