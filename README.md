@@ -18,7 +18,7 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 
 * [Anxiety and Psycological Support](psychological-support.md)
 * [Food and medicine delivery](food-and-medicine-supply-chains.md)
-* [Moving events online](moving-events-online.md)
+* [Working online](moving-events-online.md)
 * Lungs ventilation tech \(need open hardware\)
 
 ![](.gitbook/assets/image%20%281%29.png)
@@ -29,10 +29,7 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * “Governments around the world may see this health crisis as an opportunity to introduce or implement controversial technology and systems for surveillance,” according to this [Access Now report](https://www.accessnow.org/protect-digital-rights-promote-public-health-towards-a-better-coronavirus-response/). **Key takeaway:** the outbreak is an opportunity “to assess how we can protect public health in the digital age, and where our digital rights fit into the global humanitarian response.”
 * Building systems that are resilient to the global effects of pandemics could have far-reaching benefits. This 2010 paper published in the journal Influenza and [Other Respiratory Viruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941659/) lists eight social benefits gained from developing effective response mechanisms to pandemics. **Key takeaway:** there are many “potential collateral benefits from pandemic planning and preparations that can be realized regardless of a future pandemic occurring.” ****
 
-## Projects
 
-* [Open Source ventilator hackathon](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/?fbclid=IwAR21A0LNDOajH30Shd0f7hPemwYIncr-g5dqVlqqHOWjStVO-jUaDo9TrOQ)
-* [Support chat](https://discord.gg/rs8Jyg)
 
 ## Working groups
 
