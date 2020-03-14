@@ -1,8 +1,8 @@
-# Flattening the Curve – way to \#stopcovid
+# Flattening the Curve – Way to \#stopcovid
 
-Our task to flatten the curve of Coronavirus \(covid-19\):
+## Our task to flatten the curve of Coronavirus \(covid-19\):
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 Purpose: Collecting the knowledgebase on the fighting corona virus effects. 
 
@@ -11,6 +11,7 @@ Purpose: Collecting the knowledgebase on the fighting corona virus effects.
 * [This explainer video](https://www.youtube.com/watch?v=Kas0tIxDvrg) is an easy-to-understand 9-minute course on the fundamentals of epidemiology. **Key takeaway:** the number of recorded coronavirus cases outside mainland China is increasing by a factor of 10 every 16 days.
 * After watching the above video, you’ll understand the logic of Yascha Mounk’s article in [The Atlantic, “Cancel Everything.”](https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-cancel-everything/607675/) **Key takeaway:** “so far only one measure has been effective against the coronavirus: extreme social distancing.”
 * [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) is an open-sourced list of resources for citizen-scientists, makers, and others interested in learning how to help. **Key takeaway:** crowd-sourced activity around responses to COVID-19 is immense, and is an important source of informative signals to consider.
+* [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
 
 {% hint style="info" %}
 Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT) \(pls be responsible\).
@@ -24,29 +25,55 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * “Governments around the world may see this health crisis as an opportunity to introduce or implement controversial technology and systems for surveillance,” according to this [Access Now report](https://www.accessnow.org/protect-digital-rights-promote-public-health-towards-a-better-coronavirus-response/). **Key takeaway:** the outbreak is an opportunity “to assess how we can protect public health in the digital age, and where our digital rights fit into the global humanitarian response.”
 * Building systems that are resilient to the global effects of pandemics could have far-reaching benefits. This 2010 paper published in the journal Influenza and [Other Respiratory Viruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941659/) lists eight social benefits gained from developing effective response mechanisms to pandemics. **Key takeaway:** there are many “potential collateral benefits from pandemic planning and preparations that can be realized regardless of a future pandemic occurring.” ****
 
-## Stakeholders & Actions
+## Stakeholders & Concerns
 
-![link: https://miro.com/app/board/o9J\_kukEi2M=/](.gitbook/assets/covid-reaction.jpg)
+![link: https://miro.com/app/board/o9J\_kukEi2M=/](../.gitbook/assets/covid-reaction.jpg)
 
-* [Anxiety and Psycological Support](psychological-support.md)
-* [Food and medicine delivery](food-and-medicine-supply-chains.md)
-* [Working online](moving-events-online.md)
-* [Technology](tech.md)
-* Flattening the curve
-* Remote work
-* Online education
-* Vital services
-* Analytics & Forecasting
-* Pandemic Management
-* Awareness Campaigns
-* Capacity Building of Communities and Government Bodies
-* Availability, Accessibility, & Affordability \(ie free\) of coronavirus testing kits
-* Containment, changes to daily life, vulnerable populations
-* Slow or no precautionary measures by governments, employers and organizations
-* People around me still thinking it is a joke or a conspiracy
-* community education on health, educational impact to current learners, effecting policy changes
+### Vital services
+
+* [Anxiety and Psycological Support](../psychological-support.md)
+* [Food and medicine delivery](../food-and-medicine-supply-chains.md)
+* Vulnerable populations
+* Breakdown of supply chains – Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
+* Stress on the healthcare system – Increasing surge capacity of ICUs and hospital beds.Interested in creating a simple prototype design for renovating vacant buildings to be repurposed for healthcare occupancy quickly and efficiently
+* [Other technology](../tech.md)
+
+### [Remote work](../moving-events-online.md)
+
+* Changes to daily life
 * Workplace impact, employee safety, employee well-being , continuity , work adjustments
-* breakdown of supply chains
+
+### Pandemic Management
+
+* Capacity Building of Communities and Government Bodies
+  * Effecting policy changes
+  * Increasing transparency around the severity of the virus, collecting better data about the spread to improve model accuracy
+  * Analytics & Forecasting
+* Testing kits \(Availability, Accessibility, & Affordability\)
+* Awareness Campaigns
+  * Supporting my community and slowing the spread. 
+  * Helping my local community weather the storm.
+  * Am not willing to let 60% of the population get the virus
+  * r0 and the west’s inability to cope with it
+  * Slow or no precautionary measures by governments, employers and organizations
+  * People around me still thinking it is a joke or a conspiracy
+  * community education on health, educational impact to current learners
+  * Spreading the narrative on social distancing as well as hospital capacity augmentation
+  * Public not taking this 'event' seriously and still out and about
+  * Motivating and teaching Social Distancing practices as only effective response
+
+### Sociological
+
+* Exponential spread, and the resulting societal, economic and political ramifications
+* slow reactions of politicians and public, donwplaying, a general feeling of "it won't happen to me" I sense in many people
+* exponential growth due to insufficient testing, no social distancing, and medical professional and media censorship
+* ensuring this doesn't reinforce narratives of fear, polarization and "othering"; focusing on government competence and non-governmental initiative
+* getting out the word, and making this a positive change process, not reinforcing fear
+* long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
+
+{% hint style="info" %}
+[Join Corona Volunteer Program](https://docs.google.com/presentation/d/16Z0vlKU9Jcibb8-i2gGjezbrIydzKhWlk8MifBF7HKs/edit#slide=id.g7164137af0_0_10)
+{% endhint %}
 
 ## Working groups
 
@@ -71,4 +98,9 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * [Coronavirus Tech Playbook](https://coronavirustechhandbook.com/)
 * [Library](https://coronavirustechhandbook.com/communities)
 * [Get Your Home Ready](https://www.cdc.gov/coronavirus/2019-ncov/prepare/get-your-household-ready-for-COVID-19.html)
+* [“Flattening the Curve” is a deadly delusion](https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727)
+
+{% hint style="info" %}
+As a general PSA: this is a novel and confusing situation, and there are genuine uncertainties and differences of opinion. I would strongly encourage every volunteer to express their estimates of the feasibility of various plans as constructively as possible, and to personally focus on whichever task you think is likely to make the greatest difference in the time we have. Thanks, do good work and stay safe.
+{% endhint %}
 
