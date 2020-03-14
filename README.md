@@ -1,6 +1,6 @@
 # Let's stop covid-19
 
-Purpose: Collecting the knowledgebase on the fighting corona virus. 
+Purpose: Collecting the knowledgebase on the fighting corona virus effects. 
 
 #### What’s important to understand about what’s happening now?
 
@@ -14,12 +14,10 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 
 ## Tasks & Problems
 
-* Problems switching to work at home
-* Online events being cancelled
-* Openhardware for lungs ventilation
-* Anxiety / need hope
-* Pooling volunteers
-* Food and medicine delivery
+* [Anxiety and Psycological Support](psychological-support.md)
+* [Food and medicine delivery](food-and-medicine-supply-chains.md)
+* [Moving events online](moving-events-online.md)
+* Lungs ventilation tech \(need open hardware\)
 
 ![](.gitbook/assets/image%20%281%29.png)
 
