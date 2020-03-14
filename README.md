@@ -12,7 +12,9 @@ Purpose: Collecting the knowledgebase on the fighting corona virus effects.
 Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT) \(pls be responsible\).
 {% endhint %}
 
-## [Stakeholders & Needs](https://miro.com/app/board/o9J_kukEi2M=/)
+## Stakeholders & Needs
+
+![link: https://miro.com/app/board/o9J\_kukEi2M=/](.gitbook/assets/covid-reaction.jpg)
 
 * [Anxiety and Psycological Support](psychological-support.md)
 * [Food and medicine delivery](food-and-medicine-supply-chains.md)
