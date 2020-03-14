@@ -1,4 +1,8 @@
-# Covid Reaction Movement \#stopcovid
+# Flattening the Cruve \#stopcovid
+
+Our task to flatten the curve:
+
+![](.gitbook/assets/image%20%281%29.png)
 
 Purpose: Collecting the knowledgebase on the fighting corona virus effects. 
 
@@ -19,9 +23,19 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * [Anxiety and Psycological Support](psychological-support.md)
 * [Food and medicine delivery](food-and-medicine-supply-chains.md)
 * [Working online](moving-events-online.md)
-* Lungs ventilation tech \(need open hardware\)
-
-![](.gitbook/assets/image%20%281%29.png)
+* [Technology](tech.md)
+* Flattening the curve
+* Remote work
+* Online education
+* Vital services
+* Analytics & Forecasting
+* Pandemic Management
+* Awareness Campaigns
+* Capacity Building of Communities and Government Bodies
+* Availability, Accessibility, & Affordability \(ie free\) of coronavirus testing kits
+* Containment, changes to daily life, vulnerable populations
+* Slow or no precautionary measures by governments, employers and organizations
+* People around me still thinking it is a joke or a conspiracy
 
 ## **What are the consequences of the COVID-19 pandemic?**
 
