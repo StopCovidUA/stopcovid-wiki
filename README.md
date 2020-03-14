@@ -1,6 +1,6 @@
 # Flattening the Curve – Way to \#stopcovid
 
-Our task to flatten the curve of Coronavirus \(covid-19\):
+## Our task to flatten the curve of Coronavirus \(covid-19\):
 
 ![](.gitbook/assets/image%20%281%29.png)
 
@@ -29,32 +29,41 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 
 ![link: https://miro.com/app/board/o9J\_kukEi2M=/](.gitbook/assets/covid-reaction.jpg)
 
+### Vital services
+
 * [Anxiety and Psycological Support](psychological-support.md)
 * [Food and medicine delivery](food-and-medicine-supply-chains.md)
-* [Working online](moving-events-online.md)
-* [Technology](tech.md)
-* Flattening the curve
-* Remote work
-* Online education
-* Vital services
-* Analytics & Forecasting
-* Pandemic Management
-* Awareness Campaigns
-* Capacity Building of Communities and Government Bodies
-* Availability, Accessibility, & Affordability \(ie free\) of coronavirus testing kits
-* Containment, changes to daily life, vulnerable populations
-* Slow or no precautionary measures by governments, employers and organizations
-* People around me still thinking it is a joke or a conspiracy
-* community education on health, educational impact to current learners, effecting policy changes
+* Vulnerable populations
+* Breakdown of supply chains
+* Survival
+
+### [Remote work](moving-events-online.md)
+
+* Changes to daily life
 * Workplace impact, employee safety, employee well-being , continuity , work adjustments
-* breakdown of supply chains
+
+### Pandemic Management
+
+* Capacity Building of Communities and Government Bodies
+* Analytics & Forecasting
+* Availability, Accessibility, & Affordability \(ie free\) of coronavirus testing kits
+* [Other technology](tech.md)
+* Effecting policy changes
+* Awareness Campaigns
+  * Am not willing to let 60% of the population get the virus
+  * Slow or no precautionary measures by governments, employers and organizations
+  * People around me still thinking it is a joke or a conspiracy
+  * community education on health, educational impact to current learners
+  * Spreading the narrative on social distancing as well as hospital capacity augmentation
+
+### Sociological
+
 * Exponential spread, and the resulting societal, economic and political ramifications
 * slow reactions of politicians and public, donwplaying, a general feeling of "it won't happen to me" I sense in many people
 * exponential growth due to insufficient testing, no social distancing, and medical professional and media censorship
-* Survival
-* Am not willing to let 60% of the population get the virus
-* Stop the pandemic
-* Spreading the narrative on social distancing as well as hospital capacity augmentation
+
+### ...
+
 * increasing transparency around the severity of the virus, collecting better data about the spread to improve model accuracy
 * Motivating and teaching Social Distancing practices as only effective response
 * People bring provided for while social distancing/quarantining. Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.

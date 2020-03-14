@@ -6,6 +6,7 @@
 * Monitoring
 * Distributed healthcare
 * Testing
+* Online education
 
 ## Read more
 
