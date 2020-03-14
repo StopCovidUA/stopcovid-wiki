@@ -1,4 +1,4 @@
-# Flattening the Curve \#stopcovid
+# Flattening the Curve – way to \#stopcovid
 
 Our task to flatten the curve of Coronavirus \(covid-19\):
 
