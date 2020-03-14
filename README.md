@@ -16,6 +16,8 @@ Purpose: Collecting the knowledgebase on the fighting corona virus effects.
 Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT) \(pls be responsible\).
 {% endhint %}
 
+{% embed url="https://www.endcoronavirus.org/" %}
+
 ## **What are the consequences of the COVID-19 pandemic?**
 
 * [Venture capitalist Azeem Azhar discusses six ways coronavirus will change our world](https://www.exponentialview.co/p/-six-ways-coronavirus-will-change). His list includes: open-sourcing formerly proprietary information about global threats, and a rise in online learning, working, and convening. **Key takeaway:** prepare for a shift from fragile global supply chains to “networked, decentralized and resilient” models.
