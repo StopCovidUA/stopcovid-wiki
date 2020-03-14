@@ -71,6 +71,10 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * getting out the word, and making this a positive change process, not reinforcing fear
 * long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
 
+{% hint style="info" %}
+[Join Corona Volunteer Program](https://docs.google.com/presentation/d/16Z0vlKU9Jcibb8-i2gGjezbrIydzKhWlk8MifBF7HKs/edit#slide=id.g7164137af0_0_10)
+{% endhint %}
+
 ## Working groups
 
 * [\#Stopcovid Discord](https://discord.gg/rs8Jyg)
