@@ -46,10 +46,6 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * Workplace impact, employee safety, employee well-being , continuity , work adjustments
 * breakdown of supply chains
 
-## \*\*\*\*
-
-
-
 ## Working groups
 
 * [\#Stopcovid Discord](https://discord.gg/rs8Jyg)
@@ -72,8 +68,5 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * \*\*\*\*[Coronavirus — The Black Swan of 2020](https://angel.co/re/story/13514)
 * [Coronavirus Tech Playbook](https://coronavirustechhandbook.com/)
 * [Library](https://coronavirustechhandbook.com/communities)
-
-
-
-
+* [Get Your Home Ready](https://www.cdc.gov/coronavirus/2019-ncov/prepare/get-your-household-ready-for-COVID-19.html)
 
