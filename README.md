@@ -32,16 +32,10 @@
 
 ### Информационная кампания
 
-* Supporting my community and slowing the spread. 
-* Helping my local community weather the storm.
-* Am not willing to let 60% of the population get the virus
-* r0 and the west’s inability to cope with it
-* Slow or no precautionary measures by governments, employers and organizations
-* People around me still thinking it is a joke or a conspiracy
-* community education on health, educational impact to current learners
-* Spreading the narrative on social distancing as well as hospital capacity augmentation
-* Public not taking this 'event' seriously and still out and about
-* Motivating and teaching Social Distancing practices as only effective response
+* Поддержка моего сообщества \(семья, коллеги, дом, все связанные группы\) и замедление распространения. Нужно помочь моему  сообществу пережить шторм. 
+* Противостоять распространению вируса 60%+ населения \(у вируса высокий коэффициент распространения, в Китае были введены очень жесткие меры, так они справились\). Медленные или отсутствующие меры предосторожности со стороны правительств, работодателей и организаций
+* Люди вокруг все еще думают, что это шутка или заговор. Не воспринимают угрозу серьезно
+* Нужно рассказывать про социальное дистанцирование и потребность в расширении медицинского потенциала 
 
 ### Усиление потенциала сообществ и гос структур
 
