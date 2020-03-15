@@ -3,8 +3,6 @@
 * [Координационный центр по остановке коронавируса](README.md)
 * [Управление](upravlenie.md)
 
-## Украина <a id="ukraine"></a>
-
 ## English
 
 * [Our task to flatten the curve of Coronavirus \(covid-19\)](english/our-task-to-flatten-the-curve-of-coronavirus-covid-19.md)
