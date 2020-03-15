@@ -9,6 +9,6 @@
 * [Переход на удаленную работу](online-work.md)
 * [Удаленное и онлайн образование](udalennoe-i-onlain-obrazovanie.md)
 * [Технологические решения](tekhnologicheskie-resheniya.md)
-* [Как лучше подготовиться к кризисам в будущем?](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
+* [Работа с социологическими и политическими последствиями](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
 * [Управление движением](upravlenie.md)
 

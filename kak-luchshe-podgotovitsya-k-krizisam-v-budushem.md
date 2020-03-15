@@ -1,4 +1,14 @@
-# Как лучше подготовиться к кризисам в будущем?
+# Работа с социологическими и политическими последствиями
+
+* Exponential spread, and the resulting societal, economic and political ramifications
+* slow reactions of politicians and public, donwplaying, a general feeling of "it won't happen to me" I sense in many people
+* exponential growth due to insufficient testing, no social distancing, and medical professional and media censorship
+* ensuring this doesn't reinforce narratives of fear, polarization and "othering"; focusing on government competence and non-governmental initiative
+* getting out the word, and making this a positive change process, not reinforcing fear
+* long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
+* Переход на e-ID
+
+## Как лучше подготовиться к кризисам в будущем?
 
 * [Ending Pandemics](https://endingpandemics.org/) is an organization dedicated to the early discovery of infectious disease outbreaks so they can be halted before they become pandemics. **Key takeaway:** “If we prioritize our efforts to find outbreaks faster in animals, it is possible to prevent human infection altogether.”
 * In a world of uncertainty, only one thing is certain: shocks, disruptions, and other unsettling events will occur, and they will be novel and surprising. IFTF executive director Marina Gorbis argues in her essay [“The Future as a Way of Life,”](https://medium.com/@mgorbis/the-future-as-a-way-of-life-4bc314ec97de) that the only way to effectively deal with black swan events is through a “massively public endeavor” to envision and make the future. **Key takeaway:** “futures thinking is an essential 21st century skill: we need to cultivate it widely in everything we do.”

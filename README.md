@@ -67,15 +67,6 @@
 
 Изменения в повседневной жизни Воздействие на рабочем месте, безопасность сотрудников, благополучие сотрудников, преемственность, корректировка работы
 
-## Работа с социологическими и политическими последствиями
-
-* Exponential spread, and the resulting societal, economic and political ramifications
-* slow reactions of politicians and public, donwplaying, a general feeling of "it won't happen to me" I sense in many people
-* exponential growth due to insufficient testing, no social distancing, and medical professional and media censorship
-* ensuring this doesn't reinforce narratives of fear, polarization and "othering"; focusing on government competence and non-governmental initiative
-* getting out the word, and making this a positive change process, not reinforcing fear
-* long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
-
 ## Полезные материалы
 
 * [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
