@@ -36,6 +36,7 @@
 * Противостоять распространению вируса 60%+ населения \(у вируса высокий коэффициент распространения, в Китае были введены очень жесткие меры, так они справились\). Медленные или отсутствующие меры предосторожности со стороны правительств, работодателей и организаций
 * Люди вокруг все еще думают, что это шутка или заговор. Не воспринимают угрозу серьезно
 * Нужно рассказывать про социальное дистанцирование и потребность в расширении медицинского потенциала 
+* [Технологические решения](tekhnologicheskie-resheniya.md)
 
 ### Усиление потенциала сообществ и гос структур
 
@@ -55,7 +56,6 @@
 
 * Changes to daily life
 * Workplace impact, employee safety, employee well-being , continuity , work adjustments
-* [Технологические решения](tekhnologicheskie-resheniya.md)
 
 ## Работа с социологическими и политическими последствиями
 
@@ -85,6 +85,6 @@
 * [Мне нужно, чтобы вы прочитали это и решили, что коронавирус приближается к пандемии с помощью системного мышления](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
 
 {% hint style="info" %}
-As a general PSA: this is a novel and confusing situation, and there are genuine uncertainties and differences of opinion. I would strongly encourage every volunteer to express their estimates of the feasibility of various plans as constructively as possible, and to personally focus on whichever task you think is likely to make the greatest difference in the time we have. Thanks, do good work and stay safe.
+Общая рекомендация: это новая и запутанная ситуация, и существуют много неопределенности и различия во мнениях. Я настоятельно призываю каждого добровольца как можно более конструктивно выражать свои оценки осуществимости различных планов и лично сосредоточиться на любой задаче, которая, по вашему мнению, будет иметь наибольшее значение в наше время. Спасибо, сделайте хорошую работу и будьте в безопасности.
 {% endhint %}
 
