@@ -10,7 +10,7 @@
   * [Аналитика / Меппинг данных](upravlenie-pandemiei/analitika-mepping-dannykh.md)
   * [Технологические решения](upravlenie-pandemiei/tekhnologicheskie-resheniya.md)
 * [Переход на удаленную работу](online-work.md)
-* [Удаленное и онлайн образование](udalennoe-i-onlain-obrazovanie.md)
+* [Онлайн образование](udalennoe-i-onlain-obrazovanie.md)
 * [Будучи в другой стране](buduchi-v-drugoi-strane.md)
 * [Работа с социологическими и политическими последствиями](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
 * [Управление движением](upravlenie.md)
