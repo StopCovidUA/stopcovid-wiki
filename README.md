@@ -70,6 +70,4 @@
 * [Работа с социологическими и политическими последствиями](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
 * [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
 * Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
-* \*\*\*\*[**Подпишитесь на канал с обновлениями**](https://t.me/stopcoviduaupdates)\*\*\*\*
-* **Пожалуйста, помогите распространить этот материал!** ❤️
 
