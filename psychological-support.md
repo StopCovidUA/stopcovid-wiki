@@ -39,6 +39,11 @@ We know that your communities may be feeling anxious, stressed or frightened. He
 * If you feel overwhelmed, talk to a health worker or counselor. Have a plan on where to go to and how to seek help for physical and mental health needs if required.
 * Get the facts. Gather information that will help you accurately determine your risk so that you can take reasonable precautions. Find a credible source you can trust such as the WHO website or a local or state public health agency.
 
+## Идеи
+
+* Совместные игры по сети
+* Поддерживающие мемы
+
 ## Read More
 
 * [Manual for PIs: the pandemic](https://docs.google.com/document/d/1X9QS8CCJ_oVxIaX_ChOzlrgfz_CY2xGipwgSFhyVfME/mobilebasic?usp=gmail_thread)
