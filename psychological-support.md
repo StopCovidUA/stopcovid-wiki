@@ -63,7 +63,7 @@
 ## Идеи
 
 * Совместные игры по сети
-* Поддерживающие мемы
+* [Поддерживающие мемы](https://www.facebook.com/groups/coronavirus.memes)
 
 ## Read More
 

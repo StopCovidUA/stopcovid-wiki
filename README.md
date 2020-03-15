@@ -30,7 +30,7 @@
 * Волонтеры / актитвисты
 
 {% hint style="info" %}
- Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua). Каждый день в 18:00 \(Киев\) созвон в [https://meet.jit.si/covid-ua](https://meet.jit.si/covid-ua) \([добавить в календарь](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXBiazNwbmpoNG1tOHZqZ2MxZTEzMzNpcmhfMjAyMDAzMTVUMTYwMDAwWiBtYXguc2VtZW5jaHVrQG0&tmsrc=max.semenchuk%40gmail.com)\).
+ Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua). Каждый день в 18:00 \(Киев\) созвон в [https://meet.jit.si/covid-ua](https://meet.jit.si/covid-ua) \([добавить в календарь](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXBiazNwbmpoNG1tOHZqZ2MxZTEzMzNpcmhfMjAyMDAzMTVUMTYwMDAwWiBtYXguc2VtZW5jaHVrQG0&tmsrc=max.semenchuk%40gmail.com)\). Если вы уже над чем-то работаете напишите в чате и мы добавил ваш проект к списку.
 {% endhint %}
 
 ## Управление пандемией
@@ -70,11 +70,5 @@
 ## Полезные материалы
 
 * [Работа с социологическими и политическими последствиями](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
-* [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
-* [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
-* \*\*\*\*[Coronavirus — The Black Swan of 2020](https://angel.co/re/story/13514)
-* [Library](https://coronavirustechhandbook.com/communities)
-* [Get Your Home Ready](https://www.cdc.gov/coronavirus/2019-ncov/prepare/get-your-household-ready-for-COVID-19.html)
-* [“Flattening the Curve” is a deadly delusion](https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727)
-* [Мне нужно, чтобы вы прочитали это и решили, что коронавирус приближается к пандемии с помощью системного мышления](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
+* [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
 

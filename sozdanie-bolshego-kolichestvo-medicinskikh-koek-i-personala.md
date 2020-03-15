@@ -5,4 +5,5 @@
 ## Идеи
 
 * Use hotels and gyms
+* [“Flattening the Curve” is a deadly delusion](https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727)
 
