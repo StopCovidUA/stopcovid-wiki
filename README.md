@@ -20,15 +20,9 @@
 
 Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
 
-## **Какие будут последствия пандемии COVID-19?** 
-
-* [Венчурный капиталист Азим Азхар обсуждает шесть способов, которыми коронавирус изменит наш мир](https://www.exponentialview.co/p/-six-ways-coronavirus-will-change). Его список включает в себя: открытые источники ранее запатентованной информации о глобальных угрозах, а также рост онлайн-обучения, работы и собраний. **Ключевые выводы:** подготовьтесь к переходу от хрупких глобальных цепочек поставок к «сетевым, децентрализованным и устойчивым» моделям. 
-* «Правительства всего мира могут рассматривать этот кризис в области здравоохранения как возможность внедрить или внедрить противоречивые технологии и системы для эпиднадзора», - говорится в отчете [Access Now](https://www.accessnow.org/protect-digital-rights-promote-public-health-towards-a-better-coronavirus-response/). **Ключевой вывод:** вспышка - это возможность «оценить, как мы можем защитить здравоохранение в эпоху цифровых технологий и где наши цифровые права вписываются в глобальные гуманитарные меры». 
-* Создание систем, устойчивых к глобальным последствиям пандемий, может иметь далеко идущие преимущества. В этой статье 2010 года, опубликованной в журнале [«Грипп и другие респираторные вирусы»](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941659/), перечислены восемь социальных выгод, полученных от разработки эффективных механизмов реагирования на пандемии. **Ключевой вывод:** есть много «потенциальных побочных выгод от планирования и подготовки к пандемии, которые могут быть реализованы независимо от будущей пандемии».
-
 ## Вовлеченные группы и стратегия
 
-* Бизнесы
+* Бизнесы \([есть документ-рекомендация на английском](https://iccwbo.org/publication/coronavirus-guidelines-for-business/)\)
 * Гражданское население
 * Медицинские сервисы
 * Военные
@@ -47,13 +41,15 @@
 * Противостоять распространению вируса 60%+ населения \(у вируса высокий коэффициент распространения, в Китае были введены очень жесткие меры, так они справились\). Медленные или отсутствующие меры предосторожности со стороны правительств, работодателей и организаций
 * Люди вокруг все еще думают, что это шутка или заговор. Не воспринимают угрозу серьезно
 * Нужно рассказывать про социальное дистанцирование и потребность в расширении медицинского потенциала 
+* Ознакомьтесь [с информацией о вирусе](o-koronaviruse.md), примите личные меры, передайте дальше
 
 ### Усиление потенциала сообществ и гос структур
 
 * Создание эффективных политик
-* Открытие и прозрачность данных по распространению вируса. Есть [вот эти данные](https://public.tableau.com/profile/publicviz?fbclid=IwAR2nTNZDiO-GM-y2940gWCCB19xfN8X1yJMVnx0grp-OHoY6xZAT_wylyUk#!/vizhome/monitor_15841091301660/sheet0), но нужно понимать что далеко не все случаи зафиксированы. На вчера тесты были только в паре областей. Можно сравнить [с европейскими данными](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/a19d5d1f86ee4d99b013eed5f637232d)
+* Открытие и прозрачность данных по распространению вируса. Есть [вот эти данные](https://public.tableau.com/profile/publicviz?fbclid=IwAR2nTNZDiO-GM-y2940gWCCB19xfN8X1yJMVnx0grp-OHoY6xZAT_wylyUk#!/vizhome/monitor_15841091301660/sheet0), но нужно понимать что далеко не все случаи зафиксированы. На вчера тесты были только в паре областей. Можно сравнить [с европейскими данными](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/a19d5d1f86ee4d99b013eed5f637232d) и [данными Оксфордского университета](https://ourworldindata.org/coronavirus)
 * Аналитика и предсказание
 * Создать эффективную координацию между НГО, правительством и активистами
+* Создание фонда для помощи \([глобальный пример](https://www.covid19responsefund.org/)\)
 * [Технологические решения](tekhnologicheskie-resheniya.md)
 
 ### Помощь уязвимым слоям населения \(пожилые, люди на карантине...\)
@@ -67,17 +63,13 @@
 
 Изменения в повседневной жизни Воздействие на рабочем месте, безопасность сотрудников, благополучие сотрудников, преемственность, корректировка работы
 
-## Работа с социологическими и политическими последствиями
-
-* Exponential spread, and the resulting societal, economic and political ramifications
-* slow reactions of politicians and public, donwplaying, a general feeling of "it won't happen to me" I sense in many people
-* exponential growth due to insufficient testing, no social distancing, and medical professional and media censorship
-* ensuring this doesn't reinforce narratives of fear, polarization and "othering"; focusing on government competence and non-governmental initiative
-* getting out the word, and making this a positive change process, not reinforcing fear
-* long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
+{% hint style="info" %}
+Общая рекомендация: это новая и запутанная ситуация, и существуют много неопределенности и различия во мнениях. Я настоятельно призываю каждого добровольца как можно более конструктивно выражать свои оценки осуществимости различных планов и лично сосредоточиться на любой задаче, которая, по вашему мнению, будет иметь наибольшее значение в наше время. Спасибо, сделайте хорошую работу и будьте в безопасности.
+{% endhint %}
 
 ## Полезные материалы
 
+* [Работа с социологическими и политическими последствиями](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
 * [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
 * [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
 * \*\*\*\*[Coronavirus — The Black Swan of 2020](https://angel.co/re/story/13514)
@@ -85,9 +77,4 @@
 * [Get Your Home Ready](https://www.cdc.gov/coronavirus/2019-ncov/prepare/get-your-household-ready-for-COVID-19.html)
 * [“Flattening the Curve” is a deadly delusion](https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727)
 * [Мне нужно, чтобы вы прочитали это и решили, что коронавирус приближается к пандемии с помощью системного мышления](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
-* [Как лучше подготовиться к кризисам в будущем?](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
-
-{% hint style="info" %}
-Общая рекомендация: это новая и запутанная ситуация, и существуют много неопределенности и различия во мнениях. Я настоятельно призываю каждого добровольца как можно более конструктивно выражать свои оценки осуществимости различных планов и лично сосредоточиться на любой задаче, которая, по вашему мнению, будет иметь наибольшее значение в наше время. Спасибо, сделайте хорошую работу и будьте в безопасности.
-{% endhint %}
 
