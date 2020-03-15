@@ -1,35 +1,30 @@
 # Координационный центр по остановке коронавируса
 
 {% hint style="info" %}
-Это база знаний для сбора информации и координации работы по остановке коронавируса. 
+Это база знаний для сбора информации и координации работы по остановке коронавируса. Если вам нужны права для редактирования-обновления –[подключитесь тут](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT) и действуйте ответственно.
 {% endhint %}
 
-Друзья, наша первоочередная задача сейчас остановить распостранение вируса и снизить нагрузку на систему здравоохранения. Если мы сможем максимально изолироваться сейчас, то больше людей смогут получить нужную поддержку. Ниже информация о том что происходит и какие действия можно предпринять – как помочь и где получить помощь.
+Друзья, наша первоочередная задача сейчас остановить распространение вируса и снизить нагрузку на систему здравоохранения. Если мы сможем максимально изолироваться сейчас, то больше людей смогут получить нужную поддержку. Ниже информация о том что происходит и какие действия можно предпринять – как помочь и где получить помощь.
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-{% file src=".gitbook/assets/77fdf637d0bd6d81fc821.mp4" caption="Визуализация распостранения при эффективном карантине" %}
+![&#x412;&#x438;&#x437;&#x443;&#x430;&#x43B;&#x438;&#x437;&#x430;&#x446;&#x438;&#x44F; &#x440;&#x430;&#x441;&#x43F;&#x440;&#x43E;&#x441;&#x442;&#x440;&#x430;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x43F;&#x440;&#x438; &#x44D;&#x444;&#x444;&#x435;&#x43A;&#x442;&#x438;&#x432;&#x43D;&#x43E;&#x43C; &#x43A;&#x430;&#x440;&#x430;&#x43D;&#x442;&#x438;&#x43D;&#x435;](.gitbook/assets/ezgif-6-4e39aa5a7d9a.gif)
 
 ## Что важно понимать насчет того что сейчас происходит
 
-* [This explainer video](https://www.youtube.com/watch?v=Kas0tIxDvrg) is an easy-to-understand 9-minute course on the fundamentals of epidemiology. **Ключевой вывод:** число зарегистрированных случаев коронавируса за пределами материкового Китая увеличивается в 10 раз каждые 16 дней. 
-* Посмотрев вышеупомянутое видео, вы поймете логику статьи Яши Маунка в [The Atlantic, “Cancel Everything.”](https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-cancel-everything/607675/) **Ключевой вывод:** «до сих пор против коронавируса была эффективна только одна мера: крайняя социальная дистанция». Технический справочник Coronavirus представляет собой открытый список ресурсов для граждан-ученых, производителей и других, заинтересованных в изучении того, как помочь. 
-* [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/). Ключевой вывод: активная коллективная деятельность вокруг ответов на COVID-19 огромна и является важным источником информационных сигналов для рассмотрения. 
-* [Мне нужно, чтобы вы прочитали это и решили, что коронавирус приближается к пандемии с помощью системного мышления](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
-
-{% hint style="info" %}
-Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT) \(pls be responsible\).
-{% endhint %}
+* [Объясняющий ролик \(англ\)](https://www.youtube.com/watch?v=Kas0tIxDvrg) по эпидемиологии простыми словами за 9 минут. **Ключевой вывод:** число зарегистрированных случаев коронавируса за пределами материкового Китая увеличивается в 10 раз каждые 16 дней. 
+* Посмотрев вышеупомянутое видео, вы поймете логику статьи Яши Маунка в [The Atlantic, “Cancel Everything.”](https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-cancel-everything/607675/) **Ключевой вывод:** "до сих пор против коронавируса была эффективна только одна мера: крайняя социальная дистанция». Технический справочник Coronavirus 
+* [Технический справочник по Коронавирусу](https://coronavirustechhandbook.com/) представляет собой открытый список ресурсов для граждан-ученых, производителей и других, заинтересованных в изучении того, как помочь". Ключевой вывод: активная коллективная деятельность вокруг ответов на COVID-19 огромна и является важным источником информационных сигналов для рассмотрения. 
 
 {% embed url="https://www.endcoronavirus.org/" %}
 
-## **What are the consequences of the COVID-19 pandemic?**
+## **Какие будут последствия пандемии COVID-19?**
 
 * [Venture capitalist Azeem Azhar discusses six ways coronavirus will change our world](https://www.exponentialview.co/p/-six-ways-coronavirus-will-change). His list includes: open-sourcing formerly proprietary information about global threats, and a rise in online learning, working, and convening. **Key takeaway:** prepare for a shift from fragile global supply chains to “networked, decentralized and resilient” models.
 * “Governments around the world may see this health crisis as an opportunity to introduce or implement controversial technology and systems for surveillance,” according to this [Access Now report](https://www.accessnow.org/protect-digital-rights-promote-public-health-towards-a-better-coronavirus-response/). **Key takeaway:** the outbreak is an opportunity “to assess how we can protect public health in the digital age, and where our digital rights fit into the global humanitarian response.”
 * Building systems that are resilient to the global effects of pandemics could have far-reaching benefits. This 2010 paper published in the journal Influenza and [Other Respiratory Viruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941659/) lists eight social benefits gained from developing effective response mechanisms to pandemics. **Key takeaway:** there are many “potential collateral benefits from pandemic planning and preparations that can be realized regardless of a future pandemic occurring.” ****
 
-## Stakeholders & Concerns
+## Вовлеченные группы
 
 ![link: https://miro.com/app/board/o9J\_kukEi2M=/](.gitbook/assets/covid-reaction.jpg)
 
@@ -104,6 +99,7 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * [Get Your Home Ready](https://www.cdc.gov/coronavirus/2019-ncov/prepare/get-your-household-ready-for-COVID-19.html)
 * [“Flattening the Curve” is a deadly delusion](https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727)
 * [https://www.washingtonpost.com/graphics/2020/world/corona-simulator/](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+* [Мне нужно, чтобы вы прочитали это и решили, что коронавирус приближается к пандемии с помощью системного мышления](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
 
 {% hint style="info" %}
 As a general PSA: this is a novel and confusing situation, and there are genuine uncertainties and differences of opinion. I would strongly encourage every volunteer to express their estimates of the feasibility of various plans as constructively as possible, and to personally focus on whichever task you think is likely to make the greatest difference in the time we have. Thanks, do good work and stay safe.
