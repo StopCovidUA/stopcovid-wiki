@@ -33,6 +33,11 @@
 * Медицинские сервисы
 * Военные
 * Инфлюенсеры
+* Волонтеры / актитвисты
+
+{% hint style="info" %}
+ Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua)
+{% endhint %}
 
 ## Управление пандемией
 
@@ -71,21 +76,16 @@
 * getting out the word, and making this a positive change process, not reinforcing fear
 * long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
 
-{% hint style="info" %}
- Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua)
-{% endhint %}
-
 ## Полезные материалы
 
-* [Как лучше подготовиться к кризисам в будущем?](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
 * [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
 * [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
 * \*\*\*\*[Coronavirus — The Black Swan of 2020](https://angel.co/re/story/13514)
-* [Coronavirus Tech Playbook](https://coronavirustechhandbook.com/)
 * [Library](https://coronavirustechhandbook.com/communities)
 * [Get Your Home Ready](https://www.cdc.gov/coronavirus/2019-ncov/prepare/get-your-household-ready-for-COVID-19.html)
 * [“Flattening the Curve” is a deadly delusion](https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727)
 * [Мне нужно, чтобы вы прочитали это и решили, что коронавирус приближается к пандемии с помощью системного мышления](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
+* [Как лучше подготовиться к кризисам в будущем?](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
 
 {% hint style="info" %}
 Общая рекомендация: это новая и запутанная ситуация, и существуют много неопределенности и различия во мнениях. Я настоятельно призываю каждого добровольца как можно более конструктивно выражать свои оценки осуществимости различных планов и лично сосредоточиться на любой задаче, которая, по вашему мнению, будет иметь наибольшее значение в наше время. Спасибо, сделайте хорошую работу и будьте в безопасности.
