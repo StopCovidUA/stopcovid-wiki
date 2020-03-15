@@ -30,7 +30,7 @@
 
 ## Управление пандемией
 
-### Информационная кампания
+### [Информационная кампания](informacionnaya-kampaniya.md)
 
 * Поддержка моего сообщества \(семья, коллеги, дом, все связанные группы\) и замедление распространения. Нужно помочь моему  сообществу пережить шторм. 
 * Противостоять распространению вируса 60%+ населения \(у вируса высокий коэффициент распространения, в Китае были введены очень жесткие меры, так они справились\). Медленные или отсутствующие меры предосторожности со стороны правительств, работодателей и организаций
@@ -44,23 +44,18 @@
 * Аналитика и предсказание
 * Создать эффективную координацию между НГО, правительством и активистами
 
-### Помощь уязвимым слоям населения \(люди на каратн
+### Помощь уязвимым слоям населения \(пожилые, люди на карантине...\)
 
-* Помощь уязвимым слоям населения \(пожилые люди\) – Супервнуки
-* [Food and medicine delivery](english/food-and-medicine-supply-chains.md)
-* [Anxiety and Psycological Support](psychological-support.md)
-* Breakdown of supply chains – Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
-* Stress on the healthcare system – Increasing surge capacity of ICUs and hospital beds.Interested in creating a simple prototype design for renovating vacant buildings to be repurposed for healthcare occupancy quickly and efficiently
-* [Other technology](english/tech.md)
+* Пожилыми людьми занимаются [Жизнелюб / Супервнуки](https://superonuki.com/)
+* [Доставка продуктов и медикаментов](dostavka-produktov-i-medikamentov.md) – наличие достаточных запасов, чтобы смягчить экономическое давление \(аренда/долги\), чтобы людям не приходилось выполнять какую-либо, не крайне необходимую работу. Также нужно улучшить доступность тестов и средств защиты
+* [Психологическая поддержка при повышении тревожности](psychological-support.md)
+* [Стресс в системе здравоохранения.](sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md) Увеличение пропускной способности отделений интенсивной терапии и больничных коек. Заинтересован в создании простого проекта прототипа для ремонта пустующих зданий, чтобы быстро и эффективно переориентировать его на занятость в здравоохранении
 
-### Улучшить доступность тестов и средств защиты
-
-...
-
-## [Переход на удаленную работу](english/moving-events-online.md)
+## [Переход на удаленную работу](online-work.md)
 
 * Changes to daily life
 * Workplace impact, employee safety, employee well-being , continuity , work adjustments
+* [Технологические решения](tekhnologicheskie-resheniya.md)
 
 ## Работа с социологическими и политическими последствиями
 
@@ -75,16 +70,9 @@
  Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua)
 {% endhint %}
 
-## Read more
+## Полезные материалы
 
-**How can we better prepare ourselves for the next future shock?**
-
-* [Ending Pandemics](https://endingpandemics.org/) is an organization dedicated to the early discovery of infectious disease outbreaks so they can be halted before they become pandemics. **Key takeaway:** “If we prioritize our efforts to find outbreaks faster in animals, it is possible to prevent human infection altogether.”
-* In a world of uncertainty, only one thing is certain: shocks, disruptions, and other unsettling events will occur, and they will be novel and surprising. IFTF executive director Marina Gorbis argues in her essay [“The Future as a Way of Life,”](https://medium.com/@mgorbis/the-future-as-a-way-of-life-4bc314ec97de) that the only way to effectively deal with black swan events is through a “massively public endeavor” to envision and make the future. **Key takeaway:** “futures thinking is an essential 21st century skill: we need to cultivate it widely in everything we do.”
-* Now, more than ever, it’s time to unstick your mind. “To avoid being blindsided by the future, you must develop mental habits of actively challenging what you believe could or could not be different,” writes IFTF’s Jane McGonigal in her essay, [“Counterfactual Thinking Is the Key to Creativity — and a Vaccine against Future Shock.”](https://medium.com/institute-for-the-future/counterfactual-thinking-is-the-key-to-creativity-and-a-vaccine-against-future-shock-9774a111b996) **Key takeaway:** “to invent something new, or make any kind of change in your society, you first have to be able to imagine how things can be different.”
-
-## Articles
-
+* [Как лучше подготовиться к кризисам в будущем?](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
 * [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
 * [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
 * [The Coronavirus is the Future Shock of the Decade: Three Things You Need To Know](https://mailchi.mp/iftf/news-from-the-future-issue-1478053?e=76e445d5a7)
