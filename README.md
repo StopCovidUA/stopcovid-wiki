@@ -28,26 +28,13 @@
 
 ![link: https://miro.com/app/board/o9J\_kukEi2M=/](.gitbook/assets/covid-reaction.jpg)
 
-### Vital services
-
-* [Anxiety and Psycological Support](english/psychological-support.md)
-* [Food and medicine delivery](english/food-and-medicine-supply-chains.md)
-* Vulnerable populations
-* Breakdown of supply chains – Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
-* Stress on the healthcare system – Increasing surge capacity of ICUs and hospital beds.Interested in creating a simple prototype design for renovating vacant buildings to be repurposed for healthcare occupancy quickly and efficiently
-* [Other technology](english/tech.md)
-
-### [Remote work](english/moving-events-online.md)
-
-* Changes to daily life
-* Workplace impact, employee safety, employee well-being , continuity , work adjustments
-
-### Pandemic Management
+### Управление пандемией
 
 * Capacity Building of Communities and Government Bodies
   * Effecting policy changes
   * Increasing transparency around the severity of the virus, collecting better data about the spread to improve model accuracy
   * Analytics & Forecasting
+  * Создать связь между НГО, правительством и активистами
 * Testing kits \(Availability, Accessibility, & Affordability\)
 * Awareness Campaigns
   * Supporting my community and slowing the spread. 
@@ -60,6 +47,22 @@
   * Spreading the narrative on social distancing as well as hospital capacity augmentation
   * Public not taking this 'event' seriously and still out and about
   * Motivating and teaching Social Distancing practices as only effective response
+
+### Vital services
+
+* Помощь уязвимым слоям населения \(пожилые люди\) – Супервнуки
+* [Food and medicine delivery](english/food-and-medicine-supply-chains.md)
+* [Anxiety and Psycological Support](english/psychological-support.md)
+* * Breakdown of supply chains – Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
+* Stress on the healthcare system – Increasing surge capacity of ICUs and hospital beds.Interested in creating a simple prototype design for renovating vacant buildings to be repurposed for healthcare occupancy quickly and efficiently
+* [Other technology](english/tech.md)
+
+### [Remote work](english/moving-events-online.md)
+
+* Changes to daily life
+* Workplace impact, employee safety, employee well-being , continuity , work adjustments
+
+### 
 
 ### Sociological
 
