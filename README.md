@@ -71,14 +71,8 @@
 * long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
 
 {% hint style="info" %}
-[Join Corona Volunteer Program](https://docs.google.com/presentation/d/16Z0vlKU9Jcibb8-i2gGjezbrIydzKhWlk8MifBF7HKs/edit#slide=id.g7164137af0_0_10)
+ Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua)
 {% endhint %}
-
-## Working groups
-
-* [\#Stopcovid Discord](https://discord.gg/rs8Jyg)
-* [CoronaCuration](https://t.me/joinchat/KFwHIRhxdvdjrA9y2_EyUw) for people to post information and links
-* [CoronaColab](https://t.me/joinchat/KFwHIRnRj6KrH6Q5D8hZkw): Get Shit Done
 
 ## Read more
 
