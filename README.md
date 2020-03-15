@@ -10,6 +10,8 @@
 
 ![&#x412;&#x438;&#x437;&#x443;&#x430;&#x43B;&#x438;&#x437;&#x430;&#x446;&#x438;&#x44F; &#x440;&#x430;&#x441;&#x43F;&#x440;&#x43E;&#x441;&#x442;&#x440;&#x430;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x43F;&#x440;&#x438; &#x44D;&#x444;&#x444;&#x435;&#x43A;&#x442;&#x438;&#x432;&#x43D;&#x43E;&#x43C; &#x43A;&#x430;&#x440;&#x430;&#x43D;&#x442;&#x438;&#x43D;&#x435;](.gitbook/assets/ezgif-6-4e39aa5a7d9a.gif)
 
+Больше моеделей и визуализаций в статье [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+
 ## Что важно понимать насчет того что сейчас происходит
 
 * [Объясняющий ролик \(англ\)](https://www.youtube.com/watch?v=Kas0tIxDvrg) по эпидемиологии простыми словами за 9 минут. **Ключевой вывод:** число зарегистрированных случаев коронавируса за пределами материкового Китая увеличивается в 10 раз каждые 16 дней. 
@@ -81,7 +83,6 @@
 * [Library](https://coronavirustechhandbook.com/communities)
 * [Get Your Home Ready](https://www.cdc.gov/coronavirus/2019-ncov/prepare/get-your-household-ready-for-COVID-19.html)
 * [“Flattening the Curve” is a deadly delusion](https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727)
-* [https://www.washingtonpost.com/graphics/2020/world/corona-simulator/](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 * [Мне нужно, чтобы вы прочитали это и решили, что коронавирус приближается к пандемии с помощью системного мышления](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
 
 {% hint style="info" %}
