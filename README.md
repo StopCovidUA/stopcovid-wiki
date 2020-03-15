@@ -42,7 +42,7 @@
 ### Усиление потенциала сообществ и гос структур
 
 * Создание эффективных политик
-* Открытие и прозрачность данных по распространению вируса. Есть [вот эти данные](https://public.tableau.com/profile/publicviz?fbclid=IwAR2nTNZDiO-GM-y2940gWCCB19xfN8X1yJMVnx0grp-OHoY6xZAT_wylyUk#!/vizhome/monitor_15841091301660/sheet0), но нужно понимать что далеко не все случаи зафиксированы. На вчера тесты были только в паре областей
+* Открытие и прозрачность данных по распространению вируса. Есть [вот эти данные](https://public.tableau.com/profile/publicviz?fbclid=IwAR2nTNZDiO-GM-y2940gWCCB19xfN8X1yJMVnx0grp-OHoY6xZAT_wylyUk#!/vizhome/monitor_15841091301660/sheet0), но нужно понимать что далеко не все случаи зафиксированы. На вчера тесты были только в паре областей. Можно сравнить [с европейскими данными](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/a19d5d1f86ee4d99b013eed5f637232d)
 * Аналитика и предсказание
 * Создать эффективную координацию между НГО, правительством и активистами
 * [Технологические решения](tekhnologicheskie-resheniya.md)
@@ -76,7 +76,6 @@
 * [Как лучше подготовиться к кризисам в будущем?](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
 * [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
 * [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
-* [The Coronavirus is the Future Shock of the Decade: Three Things You Need To Know](https://mailchi.mp/iftf/news-from-the-future-issue-1478053?e=76e445d5a7)
 * \*\*\*\*[Coronavirus — The Black Swan of 2020](https://angel.co/re/story/13514)
 * [Coronavirus Tech Playbook](https://coronavirustechhandbook.com/)
 * [Library](https://coronavirustechhandbook.com/communities)
