@@ -24,32 +24,34 @@
 * «Правительства всего мира могут рассматривать этот кризис в области здравоохранения как возможность внедрить или внедрить противоречивые технологии и системы для эпиднадзора», - говорится в отчете [Access Now](https://www.accessnow.org/protect-digital-rights-promote-public-health-towards-a-better-coronavirus-response/). **Ключевой вывод:** вспышка - это возможность «оценить, как мы можем защитить здравоохранение в эпоху цифровых технологий и где наши цифровые права вписываются в глобальные гуманитарные меры». 
 * Создание систем, устойчивых к глобальным последствиям пандемий, может иметь далеко идущие преимущества. В этой статье 2010 года, опубликованной в журнале [«Грипп и другие респираторные вирусы»](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941659/), перечислены восемь социальных выгод, полученных от разработки эффективных механизмов реагирования на пандемии. **Ключевой вывод:** есть много «потенциальных побочных выгод от планирования и подготовки к пандемии, которые могут быть реализованы независимо от будущей пандемии».
 
-## Вовлеченные группы
+## Вовлеченные группы и стратегия
 
 ![link: https://miro.com/app/board/o9J\_kukEi2M=/](.gitbook/assets/covid-reaction.jpg)
 
-### Управление пандемией
+## Управление пандемией
 
-* Информационная кампания
-  * Supporting my community and slowing the spread. 
-  * Helping my local community weather the storm.
-  * Am not willing to let 60% of the population get the virus
-  * r0 and the west’s inability to cope with it
-  * Slow or no precautionary measures by governments, employers and organizations
-  * People around me still thinking it is a joke or a conspiracy
-  * community education on health, educational impact to current learners
-  * Spreading the narrative on social distancing as well as hospital capacity augmentation
-  * Public not taking this 'event' seriously and still out and about
-  * Motivating and teaching Social Distancing practices as only effective response
-* Усиление потенциала сообществ и гос структур
-  * Создание эффективных политик
-  * Открытые данные по распространению вируса и прозрачность \(см 
-  * Increasing transparency around the severity of the virus, collecting better data about the spread to improve model accuracy
-  * Analytics & Forecasting
-  * Создать связь между НГО, правительством и активистами
-* Testing kits \(Availability, Accessibility, & Affordability\)
+### Информационная кампания
 
-### Vital services
+* Supporting my community and slowing the spread. 
+* Helping my local community weather the storm.
+* Am not willing to let 60% of the population get the virus
+* r0 and the west’s inability to cope with it
+* Slow or no precautionary measures by governments, employers and organizations
+* People around me still thinking it is a joke or a conspiracy
+* community education on health, educational impact to current learners
+* Spreading the narrative on social distancing as well as hospital capacity augmentation
+* Public not taking this 'event' seriously and still out and about
+* Motivating and teaching Social Distancing practices as only effective response
+
+### Усиление потенциала сообществ и гос структур
+
+* Создание эффективных политик
+* Открытые данные по распространению вируса и прозрачность \(см 
+* Increasing transparency around the severity of the virus, collecting better data about the spread to improve model accuracy
+* Analytics & Forecasting
+* Создать связь между НГО, правительством и активистами
+
+### Помощь уязвимым слоям населения \(люди на каратн
 
 * Помощь уязвимым слоям населения \(пожилые люди\) – Супервнуки
 * [Food and medicine delivery](english/food-and-medicine-supply-chains.md)
@@ -58,14 +60,16 @@
 * Stress on the healthcare system – Increasing surge capacity of ICUs and hospital beds.Interested in creating a simple prototype design for renovating vacant buildings to be repurposed for healthcare occupancy quickly and efficiently
 * [Other technology](english/tech.md)
 
-### [Remote work](english/moving-events-online.md)
+### Улучшить доступность тестов и средств защиты
+
+...
+
+## [Переход на удаленную работу](english/moving-events-online.md)
 
 * Changes to daily life
 * Workplace impact, employee safety, employee well-being , continuity , work adjustments
 
-### 
-
-### Sociological
+## Работа с социологическими и политическими последствиями
 
 * Exponential spread, and the resulting societal, economic and political ramifications
 * slow reactions of politicians and public, donwplaying, a general feeling of "it won't happen to me" I sense in many people
