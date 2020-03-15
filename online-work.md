@@ -1,7 +1,8 @@
 # Переход на удаленную работу
 
-Crowdsourced guide for organisations and individuals finding themselves needing to implement "work from home" processes for the first time.
+Краудсорсинг-гайд для организаций и частных лиц, которые впервые нуждаются в реализации процессов «работы на дому».
 
+* [Що почитати про віддалену роботу?](https://www.notion.so/8aae91ba856c492b863dc07a87ac1a0d)
 * [http://remoteworksurvivalkit.co.uk](http://remoteworksurvivakit.co.uk)\*\*\*\*
 * [OMG I’m working remotely, now what?!](http://omgwfh.com)\*\*\*\*
 * [Distributed / Remote Working Manual](https://edgeryders.eu/t/distributed-collaboration-manual/11263)\*\*\*\*
@@ -126,10 +127,7 @@ Diverse tech nonprofit entrepreneurs around the globe are building tech to solve
 
 ### \*\*\*\*[**March 24 Webinar: Negotiating Losses in Times of Crisis** ](https://zoom.us/webinar/register/WN_uYQkCM27T5aYOjLgGEmihQ?utm_campaign=7841610&utm_content=3673899887&utm_medium=email&utm_source=Emailvision)\*\*\*\*
 
-**12:00 GMT. Hosted by London Business School, Niro Sivanathan, Associate Professor of Organisational Behaviour**  
-
-
-
+12:00 GMT. Hosted by London Business School, Niro Sivanathan, Associate Professor of Organisational Behaviour
 
 ## Идеи
 
