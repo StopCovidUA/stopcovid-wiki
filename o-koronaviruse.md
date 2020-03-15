@@ -1,4 +1,4 @@
-# О коронавирусе \(SARS-CoV-2\)
+# О коронавирусе \(SARS-CoV-2\) и диагностика
 
 * [Що треба знати про новий коронавірус? Инфо от кабмина](https://covid19.com.ua/)
 * [Официальный телеграм канал МОЗ Украина](https://t.me/mozofficial)
@@ -10,5 +10,5 @@
 
 ![https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](.gitbook/assets/image%20%283%29.png)
 
-
+![](.gitbook/assets/image%20%284%29.png)
 

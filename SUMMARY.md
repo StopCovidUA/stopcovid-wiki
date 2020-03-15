@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Координационный центр по остановке коронавируса в Украине](README.md)
-* [О коронавирусе \(SARS-CoV-2\)](o-koronaviruse.md)
+* [О коронавирусе \(SARS-CoV-2\) и диагностика](o-koronaviruse.md)
 * [Аналитика / Меппинг данных](analitika-mepping-dannykh.md)
 * [Информационная кампания](informacionnaya-kampaniya.md)
 * [Психологическая поддержка при повышении тревожности](psychological-support.md)
