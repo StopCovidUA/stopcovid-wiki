@@ -2,6 +2,7 @@
 
 * [Координационный центр по остановке коронавируса в Украине](README.md)
 * [Управление](upravlenie.md)
+* [Информационная кампания](informacionnaya-kampaniya.md)
 
 ## English
 
