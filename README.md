@@ -28,7 +28,7 @@
 
 ## Вовлеченные группы и стратегия
 
-* Бизнесы \([есть документ-рекомендация на английском](https://iccwbo.org/publication/coronavirus-guidelines-for-business/)\)
+* Бизнесы
 * Гражданское население
 * Медицинские сервисы
 * Военные
@@ -51,10 +51,9 @@
 ### Усиление потенциала сообществ и гос структур
 
 * Создание эффективных политик
-* Открытие и прозрачность данных по распространению вируса. Есть [вот эти данные](https://public.tableau.com/profile/publicviz?fbclid=IwAR2nTNZDiO-GM-y2940gWCCB19xfN8X1yJMVnx0grp-OHoY6xZAT_wylyUk#!/vizhome/monitor_15841091301660/sheet0), но нужно понимать что далеко не все случаи зафиксированы. На вчера тесты были только в паре областей. Можно сравнить [с европейскими данными](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/a19d5d1f86ee4d99b013eed5f637232d) и [данными Оксфордского университета](https://ourworldindata.org/coronavirus)
+* Открытие и прозрачность данных по распространению вируса. Есть [вот эти данные](https://public.tableau.com/profile/publicviz?fbclid=IwAR2nTNZDiO-GM-y2940gWCCB19xfN8X1yJMVnx0grp-OHoY6xZAT_wylyUk#!/vizhome/monitor_15841091301660/sheet0), но нужно понимать что далеко не все случаи зафиксированы. На вчера тесты были только в паре областей. Можно сравнить [с европейскими данными](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/a19d5d1f86ee4d99b013eed5f637232d)
 * Аналитика и предсказание
 * Создать эффективную координацию между НГО, правительством и активистами
-* Создание фонда для помощи \([глобальный пример](https://www.covid19responsefund.org/)\)
 * [Технологические решения](tekhnologicheskie-resheniya.md)
 
 ### Помощь уязвимым слоям населения \(пожилые, люди на карантине...\)
@@ -67,6 +66,15 @@
 ## [Переход на удаленную работу](online-work.md)
 
 Изменения в повседневной жизни Воздействие на рабочем месте, безопасность сотрудников, благополучие сотрудников, преемственность, корректировка работы
+
+## Работа с социологическими и политическими последствиями
+
+* Exponential spread, and the resulting societal, economic and political ramifications
+* slow reactions of politicians and public, donwplaying, a general feeling of "it won't happen to me" I sense in many people
+* exponential growth due to insufficient testing, no social distancing, and medical professional and media censorship
+* ensuring this doesn't reinforce narratives of fear, polarization and "othering"; focusing on government competence and non-governmental initiative
+* getting out the word, and making this a positive change process, not reinforcing fear
+* long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
 
 ## Полезные материалы
 
