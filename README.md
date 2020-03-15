@@ -30,7 +30,7 @@
 * Волонтеры / актитвисты
 
 {% hint style="info" %}
- Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua)
+ Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua). Каждый день в 18:00 \(Киев\) созвон в [https://meet.jit.si/covid-ua](https://meet.jit.si/covid-ua)
 {% endhint %}
 
 ## Управление пандемией
