@@ -30,13 +30,7 @@
 
 ### Управление пандемией
 
-* Capacity Building of Communities and Government Bodies
-  * Effecting policy changes
-  * Increasing transparency around the severity of the virus, collecting better data about the spread to improve model accuracy
-  * Analytics & Forecasting
-  * Создать связь между НГО, правительством и активистами
-* Testing kits \(Availability, Accessibility, & Affordability\)
-* Awareness Campaigns
+* Информационная кампания
   * Supporting my community and slowing the spread. 
   * Helping my local community weather the storm.
   * Am not willing to let 60% of the population get the virus
@@ -47,13 +41,20 @@
   * Spreading the narrative on social distancing as well as hospital capacity augmentation
   * Public not taking this 'event' seriously and still out and about
   * Motivating and teaching Social Distancing practices as only effective response
+* Усиление потенциала сообществ и гос структур
+  * Создание эффективных политик
+  * Открытые данные по распространению вируса и прозрачность \(см 
+  * Increasing transparency around the severity of the virus, collecting better data about the spread to improve model accuracy
+  * Analytics & Forecasting
+  * Создать связь между НГО, правительством и активистами
+* Testing kits \(Availability, Accessibility, & Affordability\)
 
 ### Vital services
 
 * Помощь уязвимым слоям населения \(пожилые люди\) – Супервнуки
 * [Food and medicine delivery](english/food-and-medicine-supply-chains.md)
 * [Anxiety and Psycological Support](english/psychological-support.md)
-* * Breakdown of supply chains – Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
+* Breakdown of supply chains – Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
 * Stress on the healthcare system – Increasing surge capacity of ICUs and hospital beds.Interested in creating a simple prototype design for renovating vacant buildings to be repurposed for healthcare occupancy quickly and efficiently
 * [Other technology](english/tech.md)
 
