@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Координационный центр по остановке коронавируса в Украине](README.md)
+* [О коронавирусе](o-koronaviruse.md)
 * [Информационная кампания](informacionnaya-kampaniya.md)
 * [Психологическая поддержка при повышении тревожности](psychological-support.md)
 * [Создание большего количество медицинских коек и персонала](sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md)
