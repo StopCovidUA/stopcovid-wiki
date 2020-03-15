@@ -3,11 +3,11 @@
 * [Координационный центр по остановке коронавируса в Украине](README.md)
 * [Управление](upravlenie.md)
 * [Информационная кампания](informacionnaya-kampaniya.md)
+* [Психологическая поддержка](psychological-support.md)
 
 ## English
 
 * [Our task to flatten the curve of Coronavirus \(covid-19\)](english/our-task-to-flatten-the-curve-of-coronavirus-covid-19.md)
-* [Psychological Support](english/psychological-support.md)
 * [Food & Medicine Supply Chains](english/food-and-medicine-supply-chains.md)
 * [More beds](english/more-beds.md)
 * [Tech](english/tech.md)

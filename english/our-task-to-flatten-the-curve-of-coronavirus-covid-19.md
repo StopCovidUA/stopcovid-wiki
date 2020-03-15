@@ -29,7 +29,7 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 
 ### Vital services
 
-* [Anxiety and Psycological Support](psychological-support.md)
+* [Anxiety and Psycological Support](../psychological-support.md)
 * [Food and medicine delivery](food-and-medicine-supply-chains.md)
 * Vulnerable populations
 * Breakdown of supply chains – Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
