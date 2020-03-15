@@ -30,7 +30,7 @@
 * Волонтеры / актитвисты
 
 {% hint style="info" %}
- Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua). Каждый день в 18:00 \(Киев\) созвон в [https://meet.jit.si/covid-ua](https://meet.jit.si/covid-ua)
+ Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua). Каждый день в 18:00 \(Киев\) созвон в [https://meet.jit.si/covid-ua](https://meet.jit.si/covid-ua) \([добавить в календарь](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXBiazNwbmpoNG1tOHZqZ2MxZTEzMzNpcmhfMjAyMDAzMTVUMTYwMDAwWiBtYXguc2VtZW5jaHVrQG0&tmsrc=max.semenchuk%40gmail.com)\).
 {% endhint %}
 
 ## Управление пандемией
