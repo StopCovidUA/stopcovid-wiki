@@ -1,6 +1,6 @@
-# Flattening the Curve – Way to \#stopcovid
+# Координационный центр по остановке коронавируса
 
-## Our task to flatten the curve of Coronavirus \(covid-19\):
+Друзья, наша первоочередная задача сейчас остановить распостранение вируса и снизить нагрузку на систему здравоохранения. Если мы сможем максимально изолироваться сейчас, то больше людей смогут получить нужную поддержку. Ниже информация о том что происходит и какие действия можно предпринять – как помочь и где получить помощь.
 
 ![](.gitbook/assets/image%20%281%29.png)
 
@@ -31,14 +31,14 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 
 ### Vital services
 
-* [Anxiety and Psycological Support](psychological-support.md)
-* [Food and medicine delivery](food-and-medicine-supply-chains.md)
+* [Anxiety and Psycological Support](english/psychological-support.md)
+* [Food and medicine delivery](english/food-and-medicine-supply-chains.md)
 * Vulnerable populations
 * Breakdown of supply chains – Enough supplies to go around and alleviating economic pressures \(rent/debts\) so people don’t have to work any but most strictly necessary jobs.
 * Stress on the healthcare system – Increasing surge capacity of ICUs and hospital beds.Interested in creating a simple prototype design for renovating vacant buildings to be repurposed for healthcare occupancy quickly and efficiently
-* [Other technology](tech.md)
+* [Other technology](english/tech.md)
 
-### [Remote work](moving-events-online.md)
+### [Remote work](english/moving-events-online.md)
 
 * Changes to daily life
 * Workplace impact, employee safety, employee well-being , continuity , work adjustments
@@ -99,6 +99,7 @@ Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov
 * [Library](https://coronavirustechhandbook.com/communities)
 * [Get Your Home Ready](https://www.cdc.gov/coronavirus/2019-ncov/prepare/get-your-household-ready-for-COVID-19.html)
 * [“Flattening the Curve” is a deadly delusion](https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727)
+* [https://www.washingtonpost.com/graphics/2020/world/corona-simulator/](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
 {% hint style="info" %}
 As a general PSA: this is a novel and confusing situation, and there are genuine uncertainties and differences of opinion. I would strongly encourage every volunteer to express their estimates of the feasibility of various plans as constructively as possible, and to personally focus on whichever task you think is likely to make the greatest difference in the time we have. Thanks, do good work and stay safe.
