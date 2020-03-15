@@ -7,7 +7,7 @@
 * [Tech](tech.md)
 * [Remote Work](moving-events-online.md)
 
-## По-русски <a id="russian"></a>
+## Украина <a id="ukraine"></a>
 
-* [Flattening the Curve – Way to \#stopcovid](russian/flattening-the-curve-way-to-stopcovid.md)
+* [План действий по остановке коронавируса](ukraine/flattening-the-curve-way-to-stopcovid.md)
 
