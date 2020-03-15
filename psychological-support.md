@@ -1,4 +1,4 @@
-# Психологическая поддержка
+# Психологическая поддержка при повышении тревожности
 
 ## Найти психолога
 
@@ -6,6 +6,8 @@
 * [https://bemeta.co](https://bemeta.co/)
 * [https://www.treatfield.com/](https://www.treatfield.com/)
 * [https://www.facebook.com/1271074139/posts/10216629649354936/](https://www.facebook.com/1271074139/posts/10216629649354936/)
+
+![](.gitbook/assets/image%20%282%29.png)
 
 ## People still working
 
