@@ -8,14 +8,14 @@
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-## Что важно понимать насчет того что происходит
 
-#### What’s important to understand about what’s happening now?
 
-* [This explainer video](https://www.youtube.com/watch?v=Kas0tIxDvrg) is an easy-to-understand 9-minute course on the fundamentals of epidemiology. **Key takeaway:** the number of recorded coronavirus cases outside mainland China is increasing by a factor of 10 every 16 days.
-* After watching the above video, you’ll understand the logic of Yascha Mounk’s article in [The Atlantic, “Cancel Everything.”](https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-cancel-everything/607675/) **Key takeaway:** “so far only one measure has been effective against the coronavirus: extreme social distancing.”
-* [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) is an open-sourced list of resources for citizen-scientists, makers, and others interested in learning how to help. **Key takeaway:** crowd-sourced activity around responses to COVID-19 is immense, and is an important source of informative signals to consider.
-* [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
+## Что важно понимать насчет того что сейчас происходит
+
+* [This explainer video](https://www.youtube.com/watch?v=Kas0tIxDvrg) is an easy-to-understand 9-minute course on the fundamentals of epidemiology. **Ключевой вывод:** число зарегистрированных случаев коронавируса за пределами материкового Китая увеличивается в 10 раз каждые 16 дней. 
+* Посмотрев вышеупомянутое видео, вы поймете логику статьи Яши Маунка в [The Atlantic, “Cancel Everything.”](https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-cancel-everything/607675/) **Ключевой вывод:** «до сих пор против коронавируса была эффективна только одна мера: крайняя социальная дистанция». Технический справочник Coronavirus представляет собой открытый список ресурсов для граждан-ученых, производителей и других, заинтересованных в изучении того, как помочь. 
+* [The Coronavirus Tech Handbook](https://coronavirustechhandbook.com/). Ключевой вывод: активная коллективная деятельность вокруг ответов на COVID-19 огромна и является важным источником информационных сигналов для рассмотрения. 
+* [Мне нужно, чтобы вы прочитали это и решили, что коронавирус приближается к пандемии с помощью системного мышления](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
 
 {% hint style="info" %}
 Want to write here – here're [the rights](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT) \(pls be responsible\).
