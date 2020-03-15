@@ -28,7 +28,7 @@
 
 ## Вовлеченные группы и стратегия
 
-* Бизнесы
+* Бизнесы \([есть документ-рекомендация на английском](https://iccwbo.org/publication/coronavirus-guidelines-for-business/)\)
 * Гражданское население
 * Медицинские сервисы
 * Военные
@@ -66,15 +66,6 @@
 ## [Переход на удаленную работу](online-work.md)
 
 Изменения в повседневной жизни Воздействие на рабочем месте, безопасность сотрудников, благополучие сотрудников, преемственность, корректировка работы
-
-## Работа с социологическими и политическими последствиями
-
-* Exponential spread, and the resulting societal, economic and political ramifications
-* slow reactions of politicians and public, donwplaying, a general feeling of "it won't happen to me" I sense in many people
-* exponential growth due to insufficient testing, no social distancing, and medical professional and media censorship
-* ensuring this doesn't reinforce narratives of fear, polarization and "othering"; focusing on government competence and non-governmental initiative
-* getting out the word, and making this a positive change process, not reinforcing fear
-* long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
 
 ## Полезные материалы
 
