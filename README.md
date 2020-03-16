@@ -24,7 +24,7 @@
 
 ## Вовлеченные группы и стратегия
 
-* Бизнесы – [переход на удаленную работу](online-work.md), [координация](upravlenie-pandemiei/regulyacii.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md)
+* Бизнесы – [переход на удаленную работу](online-work.md), [координация](upravlenie-pandemiei/), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md)
 * Медперсонал – [усиление](upravlenie-pandemiei/sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md), [психологическая поддержка](upravlenie-pandemiei/psychological-support.md)
 * Медиа, инфлюенсеры, волонтеры, активисты, военные – [информ кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
 * Образование – [онлайн образование](udalennoe-i-onlain-obrazovanie.md)
@@ -46,7 +46,7 @@
 
 ### Усиление потенциала сообществ и гос структур
 
-* [Эффективная координация и регуляция](upravlenie-pandemiei/regulyacii.md) – Создать эффективную координацию между НГО, правительством и активистами
+* [Эффективная координация и регуляция](upravlenie-pandemiei/) – Создать эффективную координацию между НГО, правительством и активистами
 * [Аналитика и предсказание](upravlenie-pandemiei/analitika-mepping-dannykh.md). Открытие и прозрачность данных по распространению вируса. 
 * Создание фонда для помощи \([глобальный пример](https://www.covid19responsefund.org/)\)
 * [Технологические решения](upravlenie-pandemiei/tekhnologicheskie-resheniya.md)

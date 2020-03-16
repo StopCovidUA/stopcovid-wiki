@@ -2,8 +2,7 @@
 
 * [Координационный центр по остановке коронавируса в Украине](README.md)
 * [О коронавирусе \(SARS-CoV-2\) и диагностика](o-koronaviruse.md)
-* [Управление пандемией](upravlenie-pandemiei/README.md)
-  * [Координация и регуляция](upravlenie-pandemiei/regulyacii.md)
+* [Координация и управление пандемией](upravlenie-pandemiei/README.md)
   * [Информационная кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md)
   * [Усиление медицинских возможностей](upravlenie-pandemiei/sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md)
   * [Разработка руководства "Привет сосед!"](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md)
