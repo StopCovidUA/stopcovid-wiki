@@ -13,8 +13,6 @@
 * Now, more than ever, it’s time to unstick your mind. “To avoid being blindsided by the future, you must develop mental habits of actively challenging what you believe could or could not be different,” writes IFTF’s Jane McGonigal in her essay, [“Counterfactual Thinking Is the Key to Creativity — and a Vaccine against Future Shock.”](https://medium.com/institute-for-the-future/counterfactual-thinking-is-the-key-to-creativity-and-a-vaccine-against-future-shock-9774a111b996) **Key takeaway:** “to invent something new, or make any kind of change in your society, you first have to be able to imagine how things can be different.”
 * [The Coronavirus is the Future Shock of the Decade: Three Things You Need To Know](https://mailchi.mp/iftf/news-from-the-future-issue-1478053?e=76e445d5a7)
 
-{% embed url="https://www.youtube.com/watch?v=6Af6b\_wyiwI" %}
-
 ## Идеи
 
 * Exponential spread, and the resulting societal, economic and political ramifications
