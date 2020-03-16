@@ -14,6 +14,7 @@
 
 ## Бизнесы
 
+* Активация в формате социального предпринимательства
 * Поддерживать этичное поведение \([пример](https://www.facebook.com/100004766651296/posts/1498923230276551/?d=n)\)
 * Осуждаить неэтичное поведение: МАУ, Юрия Фарс \(Декасан\), некачественные тесты
 * [World Economic Forum Convenes Global Business for COVID Action Platform](https://www.weforum.org/press/2020/03/world-economic-forum-convenes-global-business-for-covid-action-platform)
