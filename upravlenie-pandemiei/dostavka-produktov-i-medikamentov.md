@@ -5,11 +5,14 @@
 * Супервнуки
 * [https://www.volonter.org/](https://www.volonter.org/)
 * Люди на карантине \(особенно пожилые\)
+* Рестораны
+* Продуктовые магазины
 
 ## Идеи
 
 * Glovo и Uber - доставка из супермаркетов
-* [liki24.com](https://liki24.com/)
+* [liki24.com](https://liki24.com/) – доставка лекарств
+* [Доставка The Naked Bar Community](https://docs.google.com/forms/d/e/1FAIpQLSflgozJcJly6XOgP6D72yPGzqJR8eMXGn_VxZWdX6l4mZ9PpQ/viewform)
 * Как найти заболевших?
 * Рисерч масштабируемый модели, нужна успешная ячейка
 * Осбб помагать свои с доставкой / Чат осбб, материал для осбб
