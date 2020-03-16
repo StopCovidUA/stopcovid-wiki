@@ -13,7 +13,7 @@
 * [Онлайн образование](udalennoe-i-onlain-obrazovanie.md)
 * [Будучи в другой стране](buduchi-v-drugoi-strane.md)
 * [Работа с социологическими и политическими последствиями](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
-* [Управление движением](upravlenie.md)
+* [Координационный центр](upravlenie.md)
 * [Канал с обновлениями](https://t.me/stopcoviduaupdates)
 * [Помочь / Получить помощь](https://t.me/stopcovidua)
 
