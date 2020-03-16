@@ -13,7 +13,7 @@
   * [Технологические решения](upravlenie-pandemiei/tekhnologicheskie-resheniya.md)
 * [Переход на удаленную работу](online-work.md)
 * [Онлайн образование](udalennoe-i-onlain-obrazovanie.md)
-* [Будучи в другой стране](buduchi-v-drugoi-strane.md)
+* [Если вы в другой стране](buduchi-v-drugoi-strane.md)
 * [Работа с социологическими и политическими последствиями](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
 * [Канал с обновлениями](https://t.me/stopcoviduaupdates)
 * [Помочь / Получить помощь](https://t.me/stopcovidua)
