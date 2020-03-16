@@ -20,12 +20,11 @@
 
 ## Вовлеченные группы и стратегия
 
-* Бизнесы \([есть документ-рекомендация на английском](https://iccwbo.org/publication/coronavirus-guidelines-for-business/)\)
-* Гражданское население
-* Медперсонал
-* Военные
-* Инфлюенсеры
-* Волонтеры / актитвисты
+* Бизнесы – [переход на удаленную работу](online-work.md), [координация](upravlenie-pandemiei/regulyacii.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md)
+* Медперсонал – [усиление](upravlenie-pandemiei/sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md), [психологическая поддержка](upravlenie-pandemiei/psychological-support.md)
+* Медиа, инфлюенсеры, волонтеры, активисты, военные – [информ кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
+* Образование – [онлайн образование](udalennoe-i-onlain-obrazovanie.md)
+* Гражданское население – [информ кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
 
 {% hint style="info" %}
  Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua). Каждый день в 18:00 \(Киев\) созвон в [https://meet.jit.si/covid-ua](https://meet.jit.si/covid-ua) \([добавить в календарь](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXBiazNwbmpoNG1tOHZqZ2MxZTEzMzNpcmhfMjAyMDAzMTVUMTYwMDAwWiBtYXguc2VtZW5jaHVrQG0&tmsrc=max.semenchuk%40gmail.com)\). Если вы уже над чем-то работаете напишите в чате и мы добавил ваш проект к списку.
@@ -43,23 +42,16 @@
 
 ### Усиление потенциала сообществ и гос структур
 
-* Создание эффективных политик
-* Открытие и прозрачность данных по распространению вируса. Есть [вот эти данные](https://public.tableau.com/profile/publicviz?fbclid=IwAR2nTNZDiO-GM-y2940gWCCB19xfN8X1yJMVnx0grp-OHoY6xZAT_wylyUk#!/vizhome/monitor_15841091301660/sheet0), но нужно понимать что далеко не все случаи зафиксированы. На вчера тесты были только в паре областей. Можно сравнить [с европейскими данными](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/a19d5d1f86ee4d99b013eed5f637232d) и [данными Оксфордского университета](https://ourworldindata.org/coronavirus)
-* Аналитика и предсказание
-* Создать эффективную координацию между НГО, правительством и активистами \([координационный центр](organizaciya/upravlenie.md)\)
+* [Эффективная координация и регуляция](upravlenie-pandemiei/regulyacii.md) – Создать эффективную координацию между НГО, правительством и активистами
+* [Аналитика и предсказание](upravlenie-pandemiei/analitika-mepping-dannykh.md). Открытие и прозрачность данных по распространению вируса. 
 * Создание фонда для помощи \([глобальный пример](https://www.covid19responsefund.org/)\)
 * [Технологические решения](upravlenie-pandemiei/tekhnologicheskie-resheniya.md)
 
 ### Помощь уязвимым слоям населения \(пожилые, люди на карантине...\)
 
 * [Усиление медецинских возможностей](upravlenie-pandemiei/sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md). Будет стресс в системе здравоохранения. Увеличение пропускной способности отделений интенсивной терапии и больничных коек. Заинтересован в создании простого проекта прототипа для ремонта пустующих зданий, чтобы быстро и эффективно переориентировать его на занятость в здравоохранении
-* Пожилыми людьми занимаются [Жизнелюб / Супервнуки](https://superonuki.com/)
-* [Доставка продуктов и медикаментов](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md) – наличие достаточных запасов, чтобы смягчить экономическое давление \(аренда/долги\), чтобы людям не приходилось выполнять какую-либо, не крайне необходимую работу. Также нужно улучшить доступность тестов и средств защиты
+* [Сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md) для доставка продуктов и медикаментов – наличие достаточных запасов, чтобы смягчить экономическое давление \(аренда/долги\), чтобы людям не приходилось выполнять какую-либо, не крайне необходимую работу. Также нужно улучшить доступность тестов и средств защиты. Пожилыми людьми занимаются [Жизнелюб / Супервнуки](https://superonuki.com/)
 * [Психологическая поддержка при повышении тревожности](upravlenie-pandemiei/psychological-support.md)
-
-## [Переход на удаленную работу](online-work.md)
-
-Изменения в повседневной жизни. Воздействие на рабочем месте, безопасность сотрудников, благополучие сотрудников, преемственность, корректировка работы
 
 {% hint style="info" %}
 Общая рекомендация: это новая и запутанная ситуация, и существуют много неопределенности и различия во мнениях. Я настоятельно призываю каждого добровольца как можно более конструктивно выражать свои оценки осуществимости различных планов и лично сосредоточиться на любой задаче, которая, по вашему мнению, будет иметь наибольшее значение в наше время. Спасибо, сделайте хорошую работу и будьте в безопасности.

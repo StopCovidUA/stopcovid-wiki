@@ -13,6 +13,7 @@
 * Записать ролик аналогично [https://www.youtube.com/watch?v=wnzjOAfexlE&feature=emb\_title](https://www.youtube.com/watch?v=wnzjOAfexlE&feature=emb_title)
 * [http://uacrisis.org/reg](http://uacrisis.org/reg)
 * Списки локальных медиа
+* Мила Йовович?
 
 
 
