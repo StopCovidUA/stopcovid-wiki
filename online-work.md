@@ -23,6 +23,7 @@
   * Часть 1: [https://youtu.be/ms11fNOZ2Po](https://youtu.be/ms11fNOZ2Po)
   * Часть 2: [https://youtu.be/MJgQkew\_X6M](https://youtu.be/MJgQkew_X6M)
   * Часть 3: [https://youtu.be/8c45T9Q9WNo](https://youtu.be/8c45T9Q9WNo)
+* [Методичка по переводу офиса на удаленную работу: пошаговый рецепт](https://vc.ru/office/112661-metodichka-po-perevodu-ofisa-na-udalennuyu-rabotu-poshagovyy-recept?fbclid=IwAR0xWFGw8zXy8bMypMQ80siR8tpLif04ZLWLnpF3RkORVlEhclAP82e0_lI)
 
 ## **Советы  по удаленной работе**
 
