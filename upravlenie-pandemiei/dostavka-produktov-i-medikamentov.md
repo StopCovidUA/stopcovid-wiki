@@ -11,6 +11,7 @@
 ## Идеи
 
 * Glovo и Uber - доставка из супермаркетов
+* [Сделайте плакаты в своем доме](https://www.facebook.com/permalink.php?story_fbid=2828056760610979&id=100002200475958)
 * [liki24.com](https://liki24.com/) – доставка лекарств
 * [Доставка The Naked Bar Community](https://docs.google.com/forms/d/e/1FAIpQLSflgozJcJly6XOgP6D72yPGzqJR8eMXGn_VxZWdX6l4mZ9PpQ/viewform)
 * Как найти заболевших?
