@@ -85,7 +85,7 @@
 
 * [ProBonoClub Ukraine](https://probono.org.ua/)
 * Активация в формате социального предпринимательства
-* Поддерживать этичное поведение \([Эпицентр](https://epicentrk.ua/articles/epitsentr-dba-pro-svoikh-pokuptsiv.html), Новая почта, [пример](https://www.facebook.com/100004766651296/posts/1498923230276551/?d=n)\)
+* Поддерживать этичное поведение \([Эпицентр](https://epicentrk.ua/articles/epitsentr-dba-pro-svoikh-pokuptsiv.html), Новая почта, [еще](https://www.facebook.com/katherine.nozhevnikova/posts/3949743375096052), [пример](https://www.facebook.com/100004766651296/posts/1498923230276551/?d=n)\)
 * Осуждать неэтичное поведение: МАУ, Юрия Фарс \(Декасан\), некачественные тесты
 * [World Economic Forum Convenes Global Business for COVID Action Platform](https://www.weforum.org/press/2020/03/world-economic-forum-convenes-global-business-for-covid-action-platform)
 
