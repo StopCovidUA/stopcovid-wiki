@@ -1,16 +1,16 @@
 # Координация и управление пандемией
 
-> Внедряйте устойчивость всего общества: переорентируйте правительство, бизнес и общественные услуги
+> Внедряйте устойчивость всего общества, переорентируйте правительство, бизнес и общественные услуги
 
 [WHO \| Мировая организация здоровья](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
 
 ## Задачи и координаторы
 
 1. [Информационная кампания](informacionnaya-kampaniya.md) \(нужен лид\)
-2. [Аналитика / Меппинг данных](analitika-mepping-dannykh.md) \(нужен лид?\)
+2. [Создание большего количество медицинских коек и персонала](sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md) \(Федор Сердюк\)
 3. [Сеть заботы для доставки продуктов и медикаментов](dostavka-produktov-i-medikamentov.md) \(Дим Заражевский\)
 4. [Психологическая поддержка при повышении тревожности](psychological-support.md) \(Сая Жайсанбаева\)
-5. [Создание большего количество медицинских коек и персонала](sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md) \(Федор Сердюк\)
+5. [Аналитика / Меппинг данных](analitika-mepping-dannykh.md) \(нужен лид?\)
 6. [Технологические решения](tekhnologicheskie-resheniya.md) \(Алекс Козлов\)
 
 ## Государство
@@ -18,9 +18,6 @@
 * [Карантинные методы в Китае](https://www.facebook.com/100001226971213/posts/3069131659804370/?d=n)
 * Вырастет роль городов в решении локальных проблем
 * Подключение и финансирование бизнеса для решения задач
-* [WHO Critical preparedness, readiness and response actions for COVID-19](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
-* [Framework for a Public Health Emergency Operations Centre](https://www.who.int/ihr/publications/9789241565134_eng/en/)
-* [Infection Prevention and Control \(IPC\) for Novel Coronavirus \(COVID-19\)](https://openwho.org/courses/COVID-19-IPC-EN)
 
 ### Зеленский предложения 16.03
 
@@ -58,11 +55,21 @@
 * Медицинские
 * Образовательные
 * Профессиональные
-* Локальные 
+* Локальные
+
+## Идеи
+
+* [WHO Critical preparedness, readiness and response actions for COVID-19](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
+* [Framework for a Public Health Emergency Operations Centre](https://www.who.int/ihr/publications/9789241565134_eng/en/)
+* [Infection Prevention and Control \(IPC\) for Novel Coronavirus \(COVID-19\)](https://openwho.org/courses/COVID-19-IPC-EN)
+* Внедрить модель социократии для гибкой работы
+
+
+
+
 
 ## Идеи
 
 * [Разговор группы unDavos по теме коронавируса](https://www.notion.so/4irelabs/Covid-call-15-03-7dd305c3c1534cfc90a4389a3f289740)
 * [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/) \(стоит того\)
-* Модель социократии для гибкой работы
 
