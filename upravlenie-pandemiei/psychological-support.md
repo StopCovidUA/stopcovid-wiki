@@ -72,4 +72,10 @@
 * [Facebook: Message to Community Managers](https://www.facebook.com/community/whats-new/communities-health-information-coronavirus/)
 * [Молитва і короновірус](https://youtu.be/4r73P6IEQhU)
 * Совместные групповые медитации
+* [Anti-Coronavirus Meditation: Paying Attention to Your Hands](https://tricycle.org/trikedaily/coronavirus-meditations/#taylorplimpton) by Taylor Plimpton
+* [Spiritual Advice for Fears of Pandemic](https://tricycle.org/trikedaily/coronavirus-meditations/#gesshinclairegreenwood) by Gesshin Claire Greenwood
+* [Refuge in the Storm](https://tricycle.org/trikedaily/coronavirus-meditations/#radhuleweininger) by Radhule Weininger
+* [Calm, Clarity, Compassion](https://tricycle.org/trikedaily/coronavirus-meditations/#jackkornfield) a talk by Jack Kornfield 
+* [In the Midst of This Swirling World](https://tricycle.org/trikedaily/coronavirus-meditations/#koshinpaleyellison) by Koshin Paley Ellison
+* [Deepening Our Collective Roots](https://tricycle.org/trikedaily/coronavirus-meditations/#thomashubl) by Thomas Hubl, in Israel
 
