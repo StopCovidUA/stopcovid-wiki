@@ -20,5 +20,6 @@
 ## Организация
 
 * [Координационный центр](organizaciya/upravlenie.md)
-* [Координационные группы](organizaciya/koordinacionnye-gruppy.md)
+* [Координационные группы](organizaciya/koordinacionnye-gruppy/README.md)
+  * [Tactical 16.03](organizaciya/koordinacionnye-gruppy/tactical-16.03.md)
 
