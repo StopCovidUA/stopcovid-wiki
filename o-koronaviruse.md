@@ -3,6 +3,7 @@
 * [ТЕРМІНОВО: звернення Міністра охорони здоров’я України Іллі Ємця](https://moz.gov.ua/article/reform-plan/terminovo-zvernennja-ministra-ohoroni-zdorov%e2%80%99ja-ukraini-illi-emcja)
 * [Що треба знати про новий коронавірус? Инфо от кабмина](https://covid19.com.ua/)
 * [Здається, у мене коронавірус. Що робити?](https://www.the-village.com.ua/village/knowledge/health-knowledge/295233-zdaetsya-u-mene-koronavirus-scho-robiti)
+* [Саміт науковців, присвячений коронавірусу](https://bykvu.com/ua/mysli/samit-naukovtsiv-prysviachenyi-koronavirusu-stezhte-z-bukvamy/)
 * [Коронавирус в России и мире: все, что нужно знать об инфекции](https://reminder.media/longread/koronavirus-v-rossii-i-mire-vse-chto-nuzhno-znat-ob-infektsii)
 * [Рекомендации ВОЗ для населения в связи c распространением коронавирусной инфекции \(COVID-19\)](https://www.who.int/ru/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 * [Официальный телеграм канал МОЗ Украина](https://t.me/mozofficial)
