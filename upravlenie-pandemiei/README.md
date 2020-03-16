@@ -13,7 +13,7 @@
 5. [Создание большего количество медицинских коек и персонала](sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md) \(Федор Сердюк\)
 6. [Технологические решения](tekhnologicheskie-resheniya.md) \(Алекс Козлов\)
 7. [Задачи для волонтеров](zadachi-dlya-volonterov.md) \(Виталий Гатаулин\)
-8. Помощь в поиске лекарства 
+8. [Помощь в поиске лекарства](pomosh-v-poiske-lekarstva.md) 
 
 ## Государство
 
