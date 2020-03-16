@@ -26,7 +26,7 @@
 
 ## Общие
 
-* Необходимые изменения и обсуждения можно провести в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua)
+* Необходимые изменения и обсуждения можно провести в [дискорд](https://discord.gg/jrcwfH) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua)
 * Список задач тут [https://trello.com/b/IkonsFAY/main-board](https://trello.com/b/IkonsFAY/main-board)
 
 ## Координационные группы
