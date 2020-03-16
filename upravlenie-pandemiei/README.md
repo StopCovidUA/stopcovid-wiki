@@ -1,17 +1,17 @@
 # Координация и управление пандемией
 
-> Внедряйте устойчивость всего общества, переорентируйте правительство, бизнес и общественные услуги
+> Внедряйте устойчивость всего общества: переорентируйте правительство, бизнес и общественные услуги
 
 [WHO \| Мировая организация здоровья](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
 
-## Задачи
+## Задачи и координаторы
 
-1. [Информационная кампания](informacionnaya-kampaniya.md)
-2. [Создание большего количество медицинских коек и персонала](sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md)
-3. [Доставка продуктов и медикаментов](dostavka-produktov-i-medikamentov.md)
-4. [Психологическая поддержка при повышении тревожности](psychological-support.md)
-5. [Аналитика / Меппинг данных](analitika-mepping-dannykh.md)
-6. [Технологические решения](tekhnologicheskie-resheniya.md)
+1. [Информационная кампания](informacionnaya-kampaniya.md) \(нужен лид\)
+2. [Аналитика / Меппинг данных](analitika-mepping-dannykh.md) \(нужен лид?\)
+3. [Сеть заботы для доставки продуктов и медикаментов](dostavka-produktov-i-medikamentov.md) \(Дим Заражевский\)
+4. [Психологическая поддержка при повышении тревожности](psychological-support.md) \(Сая Жайсанбаева\)
+5. [Создание большего количество медицинских коек и персонала](sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md) \(Федор Сердюк\)
+6. [Технологические решения](tekhnologicheskie-resheniya.md) \(Алекс Козлов\)
 
 ## Государство
 
