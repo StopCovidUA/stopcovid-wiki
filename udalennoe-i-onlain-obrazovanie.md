@@ -1,5 +1,7 @@
 # Онлайн образование
 
+* [Coursera \| Take student learning online in response to coronavirus ](https://www.coursera.org/coronavirus)
+
 **Peeragogy Handbook**
 
 [**www.peeragogy.org**](http://www.peeragogy.org)
