@@ -59,11 +59,48 @@
 
 ## [Переход на удаленную работу](online-work.md)
 
-Изменения в повседневной жизни Воздействие на рабочем месте, безопасность сотрудников, благополучие сотрудников, преемственность, корректировка работы
+Изменения в повседневной жизни. Воздействие на рабочем месте, безопасность сотрудников, благополучие сотрудников, преемственность, корректировка работы
 
 {% hint style="info" %}
 Общая рекомендация: это новая и запутанная ситуация, и существуют много неопределенности и различия во мнениях. Я настоятельно призываю каждого добровольца как можно более конструктивно выражать свои оценки осуществимости различных планов и лично сосредоточиться на любой задаче, которая, по вашему мнению, будет иметь наибольшее значение в наше время. Спасибо, сделайте хорошую работу и будьте в безопасности.
 {% endhint %}
+
+## Actual Online Conferences & Events
+
+### Covid-19 Free Virtual Summit: The State & Future of Pandemics
+
+🔗 [https://www.crowdcast.io/e/covid-19-virtual-summit/register](https://www.crowdcast.io/e/covid-19-virtual-summit/register)
+
+📅 16 Mar at 08:30 – 18 Mar at 18:30 PDT  
+Join us for multiple days of live streamed content from Singularity University's community of global experts on COVID-19, the current challenges and solutions, and future impact on our health, business, government, and communities.
+
+Our goal is to bring you the facts about this global health challenge and to give you practical information and tools to keep you healthy and prepared for what might come. The virtual summit will take place March 16-18, 2020 and will be completely free for anyone to join.
+
+### March 12 Webinar: Successful Remote and Distributed Work in Uncertain Times
+
+🔗[https://www.codeforamerica.org/events/successful-remote-and-distributed-work-in-uncertain-times](https://www.codeforamerica.org/events/successful-remote-and-distributed-work-in-uncertain-times)
+
+Join us for a timely conversation concentrating on getting to a successful and healthy remote working culture from a standing start. Our participants from 18F, U.S. Digital Service, Nava Public Benefit Corporation, and Truss will be covering topics including:
+
+* Productive meeting practices 
+* Recommendations for collaboration software, and advice on how to procure it
+* Advice for managers, matrix organizations
+* Advice for managing vendors
+* What makes a great home working set-up
+* Keeping diversity, equity and inclusion centered
+* Staying healthy, setting boundaries and preventing burnout
+
+We’ll be accepting audience questions during the roundtable and will have a brief discussion afterwards. 
+
+### \*\*\*\*[**March 17: Accelerate Good Global 2020**](https://hopin.to/events/agg)\*\*\*\*
+
+Accelerate Good Global is a sector-defining event, uniting tech nonprofit entrepreneurs, technology leaders, and philanthropists who believe in leveraging tech for good.
+
+Diverse tech nonprofit entrepreneurs around the globe are building tech to solve social issues ranging from education, to healthcare, to human rights. Brought to you by [Fast Forward](http://www.ffwd.org/), Accelerate Good Global: Virtual Edition convenes all players in the tech nonprofit ecosystem to spark meaningful conversations around how we can apply the best technology to our biggest social problems.
+
+### \*\*\*\*[**March 24 Webinar: Negotiating Losses in Times of Crisis** ](https://zoom.us/webinar/register/WN_uYQkCM27T5aYOjLgGEmihQ?utm_campaign=7841610&utm_content=3673899887&utm_medium=email&utm_source=Emailvision)\*\*\*\*
+
+12:00 GMT. Hosted by London Business School, Niro Sivanathan, Associate Professor of Organisational Behaviour
 
 ## Полезные материалы
 
