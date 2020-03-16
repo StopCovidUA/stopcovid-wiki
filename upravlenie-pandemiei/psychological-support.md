@@ -66,10 +66,8 @@
 
 * Совместные игры по сети
 * [Поддерживающие мемы](https://www.facebook.com/groups/coronavirus.memes)
-
-## Read More
-
 * [Manual for PIs: the pandemic](https://docs.google.com/document/d/1X9QS8CCJ_oVxIaX_ChOzlrgfz_CY2xGipwgSFhyVfME/mobilebasic?usp=gmail_thread)
 * [Facebook: Message to Community Managers](https://www.facebook.com/community/whats-new/communities-health-information-coronavirus/)
 * [Молитва і короновірус](https://youtu.be/4r73P6IEQhU)
+* Совместные групповые медитации
 
