@@ -14,6 +14,10 @@
 * [Basecamp book on remote working](https://basecamp.com/books/remote)
 * Nb Basecamp have offered to refund any purchases of this book, as a contribution to the group effort - see [this tweet](https://twitter.com/jasonfried/status/1237773562322259970) for more information and discussion. 
 * Activities to do [150+ Enrichment Activities for Children While Parents are Working Remotely](https://docs.google.com/spreadsheets/d/1KCFnWreu4v7VoO3NbgP-Qcq2LyE1FvliYSoiTLRY7Qg/edit?usp=sharing) with kids while parents work remotely
+* Всё больше компаний прямо сейчас переходит на удалённую работу, поэтому самое время посмотреть видео со страницы Романа Игошина про распределённую команду.
+  * Часть 1: [https://youtu.be/ms11fNOZ2Po](https://youtu.be/ms11fNOZ2Po)
+  * Часть 2: [https://youtu.be/MJgQkew\_X6M](https://youtu.be/MJgQkew_X6M)
+  * Часть 3: [https://youtu.be/8c45T9Q9WNo](https://youtu.be/8c45T9Q9WNo)
 
 ## **Remote work advice**
 
