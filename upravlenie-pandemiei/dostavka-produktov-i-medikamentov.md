@@ -39,12 +39,15 @@ description: >-
 Минимальный флуд, никакой рекламы, нет агрессии
 {% endhint %}
 
-## Идеи
+## Сервисы доставки
 
-* Glovo и Uber - доставка из супермаркетов
-* [Сделайте плакаты в своем доме](https://www.facebook.com/permalink.php?story_fbid=2828056760610979&id=100002200475958)
+* Glovo \(мб Uber\) - доставка из супермаркетов
 * [liki24.com](https://liki24.com/) – доставка лекарств
 * [Доставка The Naked Bar Community](https://docs.google.com/forms/d/e/1FAIpQLSflgozJcJly6XOgP6D72yPGzqJR8eMXGn_VxZWdX6l4mZ9PpQ/viewform)
+
+## Идеи
+
+* [Сделайте плакаты в своем доме](https://www.facebook.com/permalink.php?story_fbid=2828056760610979&id=100002200475958)
 * Как найти заболевших?
 * Рисерч масштабируемый модели, нужна успешная ячейка
 * Осбб помагать свои с доставкой / Чат осбб, материал для осбб
