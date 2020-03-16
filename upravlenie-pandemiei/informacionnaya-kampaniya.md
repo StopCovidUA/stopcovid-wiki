@@ -3,6 +3,7 @@
 ## Идеи
 
 * [Графические материалы](https://drive.google.com/drive/folders/1h4eb990LCqCKfIG7nJ_B-aqWx5A9UjFR)
+* [Графические материалы +](https://www.dropbox.com/sh/6mdbl925k6lslko/AAC5CYbOUVEKlsOdarFM7_bQa?dl=0&fbclid=IwAR3t2KYKxUHqrhJukZ5rXB3MsWtJwgyDA78lG3r5ukwYxpgUi1hmsobnw8Y)
 * [How governments can engage digital resources to manage their Covid-19 response](https://stateup.co/how-governments-can-engage-digital-resources-to-manage-their-covid-19-response/)
 * [https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/](https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/)
 * Подключить влиятельных людей высказаться
