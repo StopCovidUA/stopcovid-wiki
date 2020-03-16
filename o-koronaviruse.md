@@ -12,6 +12,9 @@
 * Не у всех больных есть симптомы
 * Вакцины нет, лечат симптомы [https://nv.ua/health/medicine/koronavirus-kakie-lekarstva-nelzya-prinimat-vo-vremya-epidemii-koronavirusa-50075781.html](https://nv.ua/health/medicine/koronavirus-kakie-lekarstva-nelzya-prinimat-vo-vremya-epidemii-koronavirusa-50075781.html) ибупрофен и другие нестероидные противовоспалительные препараты могут осложнить течение болезни
 * [Википедия по пандемии covid-19](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_COVID-19)
+* [Coronavirus disease \(COVID-19\) advice for the public: Myth busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
+
+> У меня уже первый вопрос - куда обращаться иностранцам при ухудшении самочувствия? Есть какая то инфа?
 
 ![https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](.gitbook/assets/image%20%283%29.png)
 
