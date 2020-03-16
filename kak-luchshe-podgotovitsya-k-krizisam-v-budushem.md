@@ -24,4 +24,5 @@
 * getting out the word, and making this a positive change process, not reinforcing fear
 * long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
 * Переход на e-ID
+* Над экономическими вопросами работает Aspen Institute в тотм числе
 
