@@ -21,7 +21,7 @@
 
 ## НГО
 
-* ...
+* Координация через [Марину Гончаренко](https://www.facebook.com/margonchar) \(Impact Hub Odess\)
 
 ## Идеи
 
