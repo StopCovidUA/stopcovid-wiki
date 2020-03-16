@@ -5,10 +5,6 @@
 * Сбора наиболее актуальной информации о проблеме
 * Координации работы государства, бизнеса, НГО и граждан вокруг ответа на угрозу вируса
 
-{% hint style="info" %}
-У нас самоорганизация. Дайте знать что уже делаете, и какая нужна помощь. Найдите инициативу которой можете помочь –[ подключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md). 
-{% endhint %}
-
 ## Что важно понимать насчет того, что сейчас происходит
 
 Друзья, наша первоочередная задача сейчас  -  остановить распространение вируса и снизить нагрузку на систему здравоохранения. Если мы сможем максимально изолироваться сейчас, то больше людей смогут получить нужную поддержку. В пессимистичном сценарии от 5 до 10% населения могут оказаться в тяжелом состоянии и им нужна будет наша помощь.  Ниже информация о том что происходит и какие действия можно предпринять:  как помочь и где получить помощь. 
@@ -30,8 +26,8 @@
 * Образование – [онлайн образование](udalennoe-i-onlain-obrazovanie.md)
 * Гражданское население – [информ кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
 
-{% hint style="info" %}
- Если вам нужна помощь или вы хотите помочь – подключайтесь в [дискорд](https://discordapp.com/invite/rs8Jyg) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua). Каждый день в 18:00 \(Киев\) созвон в [https://meet.jit.si/covid-ua](https://meet.jit.si/covid-ua) \([добавить в календарь](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXBiazNwbmpoNG1tOHZqZ2MxZTEzMzNpcmhfMjAyMDAzMTVUMTYwMDAwWiBtYXguc2VtZW5jaHVrQG0&tmsrc=max.semenchuk%40gmail.com)\). Если вы уже над чем-то работаете напишите в чате и мы добавил ваш проект к списку.
+{% hint style="warning" %}
+ У нас самоорганизация. Дайте знать что уже делаете, и какая нужна помощь. Найдите инициативу которой можете помочь –[ подключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md). 
 {% endhint %}
 
 ## Управление пандемией
@@ -62,31 +58,6 @@
 {% endhint %}
 
 ## Онлайн конференции и события
-
-### Covid-19 Free Virtual Summit: The State & Future of Pandemics
-
-🔗 [https://www.crowdcast.io/e/covid-19-virtual-summit/register](https://www.crowdcast.io/e/covid-19-virtual-summit/register)
-
-📅 16 Mar at 08:30 – 18 Mar at 18:30 PDT  
-Join us for multiple days of live streamed content from Singularity University's community of global experts on COVID-19, the current challenges and solutions, and future impact on our health, business, government, and communities.
-
-Our goal is to bring you the facts about this global health challenge and to give you practical information and tools to keep you healthy and prepared for what might come. The virtual summit will take place March 16-18, 2020 and will be completely free for anyone to join.
-
-### March 12 Webinar: Successful Remote and Distributed Work in Uncertain Times
-
-🔗[https://www.codeforamerica.org/events/successful-remote-and-distributed-work-in-uncertain-times](https://www.codeforamerica.org/events/successful-remote-and-distributed-work-in-uncertain-times)
-
-Join us for a timely conversation concentrating on getting to a successful and healthy remote working culture from a standing start. Our participants from 18F, U.S. Digital Service, Nava Public Benefit Corporation, and Truss will be covering topics including:
-
-* Productive meeting practices 
-* Recommendations for collaboration software, and advice on how to procure it
-* Advice for managers, matrix organizations
-* Advice for managing vendors
-* What makes a great home working set-up
-* Keeping diversity, equity and inclusion centered
-* Staying healthy, setting boundaries and preventing burnout
-
-We’ll be accepting audience questions during the roundtable and will have a brief discussion afterwards. 
 
 ### \*\*\*\*[**March 17: Accelerate Good Global 2020**](https://hopin.to/events/agg)\*\*\*\*
 
