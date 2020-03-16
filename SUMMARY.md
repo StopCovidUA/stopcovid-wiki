@@ -20,6 +20,6 @@
 
 ## Организация
 
-* [Информация для волонтеров \(onboarding\)](organizaciya/upravlenie.md)
+* [Информация для волонтеров \(onboarding\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [Tactical 16.03](organizaciya/tactical-16.03.md)
 
