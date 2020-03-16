@@ -2,6 +2,10 @@
 
 {% embed url="https://youtu.be/nc5RkE\_nx5E" %}
 
+{% hint style="info" %}
+Нужно записать ролик на доступном языке
+{% endhint %}
+
 ## Ценности
 
 1. Сохранение жизней
