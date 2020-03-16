@@ -20,8 +20,6 @@
 
 ## Организация
 
-* [Координационный центр](organizaciya/upravlenie.md)
-* [Информация для волонтеров \(onboarding\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
-* [Координационные группы](organizaciya/koordinacionnye-gruppy/README.md)
-  * [Tactical 16.03](organizaciya/koordinacionnye-gruppy/tactical-16.03.md)
+* [Информация для волонтеров \(onboarding\)](organizaciya/upravlenie.md)
+* [Tactical 16.03](organizaciya/tactical-16.03.md)
 
