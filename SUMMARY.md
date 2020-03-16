@@ -6,7 +6,7 @@
   * [Координация и регуляция](upravlenie-pandemiei/regulyacii.md)
   * [Информационная кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md)
   * [Усиление медицинских возможностей](upravlenie-pandemiei/sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md)
-  * [Разработка руководства Превет сосед!](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md)
+  * [Разработка руководства "Привет сосед!"](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md)
   * [Психологическая поддержка при повышении тревожности](upravlenie-pandemiei/psychological-support.md)
   * [Аналитика / Меппинг данных](upravlenie-pandemiei/analitika-mepping-dannykh.md)
   * [Технологические решения](upravlenie-pandemiei/tekhnologicheskie-resheniya.md)
