@@ -1,6 +1,6 @@
 # Координационные группы
 
-Созвоны каджый день в 18:00 в [https://meet.jit.si/covidua](https://meet.jit.si/covidua) \(будет еще стрим в youtube\)
+Созвоны каждый день в 20:00 \(Киев\) в [https://meet.jit.si/covidua](https://meet.jit.si/covidua) \(будет еще стрим в youtube\)
 
 ## Формат встречи
 
