@@ -15,7 +15,7 @@
 5. Команда
 6. Прозрачность и открытость
 
-## Команда и задачи
+### Команда и задачи
 
 1. [Информационная кампания](informacionnaya-kampaniya.md) \(нужен лид\)
 2. [Аналитика / Меппинг данных](../upravlenie-pandemiei/analitika-mepping-dannykh.md) \(нужен лид?\)
@@ -24,7 +24,6 @@
 5. [Создание большего количество медицинских коек и персонала](../upravlenie-pandemiei/onlain-kurs-dlya-med-volonterov.md) \(Федор Сердюк\)
 6. [Технологические решения](../upravlenie-pandemiei/tekhnologicheskie-resheniya.md) \(Алекс Козлов\)
 7. [Задачи для волонтеров](zadachi-dlya-volonterov.md) \(Виталий Гатаулин\)
-8. [Помощь в поиске лекарства]() 
 
 * Координация – Макс Семенчук
   * НГО – Марина
@@ -39,7 +38,7 @@
 * Переход на удаленную работу – Алекс Цыглин, Артем
 * Онлайн образование – **нужен лид**
 
-## Карта компетенций
+### Карта компетенций
 
 {% embed url="https://www.loom.com/share/f8f1fbc235f24f48bc4c6ec6b17e100e" %}
 
@@ -49,12 +48,14 @@
 
 ## Координационные группы
 
-* Необходимые изменения и обсуждения можно провести в [дискорд](https://discord.gg/jrcwfH) \(бесплатный слак\) или [телеграм](https://t.me/stopcovidua)
-* Список задач тут [https://trello.com/b/IkonsFAY/main-board](https://trello.com/b/IkonsFAY/main-board)
+* Работа в команде в [дискорд](https://discord.gg/jrcwfH) 
+* Свободные обсуждения в [телеграм](https://t.me/stopcovidua)
+* Список задач тут [трелло](https://trello.com/b/IkonsFAY/main-board)
+* Файлы в [google drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
 
 {% embed url="https://www.youtube.com/watch?v=7BFytSpuAWs" %}
 
-## Формат созвонов
+### Формат созвонов
 
 Созвоны каждый день в 20:00 \(Киев\) в [https://meet.jit.si/covidua](https://meet.jit.si/covidua) \(будет еще стрим в youtube\)
 
@@ -68,6 +69,11 @@
 
 * Постарайтесь не удалять контент, если нужно лучше перенести его в конец страницы с пометкой "на удаление".
 * Права на [редактирование можно получить тут](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT)
+
+## Дизайн и лого
+
+* [Все материалы в figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)
+* Картинки лого
 
 ## Идеи
 
