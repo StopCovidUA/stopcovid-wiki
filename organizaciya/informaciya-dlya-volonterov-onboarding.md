@@ -17,7 +17,16 @@
 5. Команда
 6. Прозрачность и открытость
 
-## Команда
+## Команда и задачи
+
+1. [Информационная кампания](../upravlenie-pandemiei/informacionnaya-kampaniya.md) \(нужен лид\)
+2. [Аналитика / Меппинг данных](../upravlenie-pandemiei/analitika-mepping-dannykh.md) \(нужен лид?\)
+3. [Сеть заботы для доставки продуктов и медикаментов](../upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md) \(Дим Заражевский\)
+4. [Психологическая поддержка при повышении тревожности](../upravlenie-pandemiei/psychological-support.md) \(Сая Жайсанбаева\)
+5. [Создание большего количество медицинских коек и персонала](../upravlenie-pandemiei/sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md) \(Федор Сердюк\)
+6. [Технологические решения](../upravlenie-pandemiei/tekhnologicheskie-resheniya.md) \(Алекс Козлов\)
+7. [Задачи для волонтеров](../upravlenie-pandemiei/zadachi-dlya-volonterov.md) \(Виталий Гатаулин\)
+8. [Помощь в поиске лекарства](../upravlenie-pandemiei/pomosh-v-poiske-lekarstva.md) 
 
 * Координация – Макс Семенчук
   * НГО – Марина
