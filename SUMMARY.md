@@ -24,4 +24,5 @@
 * [Информационная кампания](organizaciya/informacionnaya-kampaniya.md)
 * [Координация волонтеров](organizaciya/zadachi-dlya-volonterov.md)
 * [Tactical 16.03](organizaciya/tactical-16.03.md)
+* [Tactical 17.03](organizaciya/tactical-17.03.md)
 
