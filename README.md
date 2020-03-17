@@ -69,11 +69,11 @@ Diverse tech nonprofit entrepreneurs around the globe are building tech to solve
 
 12:00 GMT. Hosted by London Business School, Niro Sivanathan, Associate Professor of Organisational Behaviour
 
-## Полезные материалы
+## Поддержите проект и оставайтесь на связи
 
-* Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
-* [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
-* [Подпишитесь на канал с обновлениями](https://t.me/stopcoviduaupdates) и помогите распространить этот материал! ❤️
+* Поделитесь этим материлом в соц сетях ❤️
+* [Подпишитесь на telegram-канал с обновлениями](https://t.me/stopcoviduaupdates) 
+* и[ наш инстаграм](https://www.instagram.com/stopcovidua/)
 
 ![&#x41A;&#x430;&#x43A; &#x443; &#x43D;&#x430;&#x441; &#x434;&#x435;&#x43B;&#x430;?](.gitbook/assets/image%20%285%29.png)
 
