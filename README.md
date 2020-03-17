@@ -28,19 +28,21 @@
 * [Система здравоохранения и медперсонал](upravlenie-pandemiei/#sistema-zdravookhraneniya)
 * [Медиа, инфлюенсеры](upravlenie-pandemiei/#media-inflyuensery)
 * [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
-* Школы и ВУЗы – [онлайн образование](udalennoe-i-onlain-obrazovanie.md)
-* Гражданское население – [информ кампания](organizaciya/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
+* [Школы и ВУЗы](upravlenie-pandemiei/#shkoly-i-vuzy)
+* [Гражданское население](upravlenie-pandemiei/#grazhdane)
 
 ## Проекты
 
-* [Всеукраинская стратегия](upravlenie-pandemiei/)
-* [Аналитическая платформа](upravlenie-pandemiei/analitika-mepping-dannykh.md)
-* [Сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов
+* [Всеукраинская стратегия](upravlenie-pandemiei/) \(Макс\)
+* [Аналитическая платформа](upravlenie-pandemiei/analitika-mepping-dannykh.md) \(нужен координатор\)
+* [Сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов \(Дим\)
 * [Психологическая и эмоциональная поддержка](upravlenie-pandemiei/psychological-support.md)
-* [Фонд помощи](upravlenie-pandemiei/fond-pomoshi.md)
+* [Онлайн курс для мед волонтеров](upravlenie-pandemiei/onlain-kurs-dlya-med-volonterov.md) \(нужен координатор\)
+* [Производство ИВЛ аппаратов](upravlenie-pandemiei/proizvodstvo-ivl-apparatov.md) \(Алекс\)
+* [Фонд помощи](upravlenie-pandemiei/fond-pomoshi.md) \(нужен координатор\)
 
 {% hint style="warning" %}
-Уже что-то делаете, помогаете или нужна помощь? [Подключайтесь ту](organizaciya/informaciya-dlya-volonterov-onboarding.md)
+Уже что-то делаете, помогаете или нужна помощь? [Подключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 {% endhint %}
 
 ## Онлайн конференции и события
