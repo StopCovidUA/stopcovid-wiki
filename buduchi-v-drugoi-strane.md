@@ -13,4 +13,5 @@
 * [Канал по оперативной информации для путешествующих Covid-19 ](https://t.me/joinchat/AAAAAEoPRrKGWjWkyHiMJA)
 * [Оперативная карта работы пунктов пропуска на время карантина](http://www.customs.gov.ua/?p=533)
 * [Дипломатичні установи Україні за кордоном](https://mfa.gov.ua/diplomatichni-ustanovi/inozemni-diplomatichni-ustanovi-v-ukrayini)
+* [Бесплатное размещение в отеле Киева, кто не может добраться домой](https://www.facebook.com/100000536869364/posts/3290004491027414/?d=n)
 
