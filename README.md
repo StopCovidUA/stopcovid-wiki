@@ -24,10 +24,29 @@
 ## Решения для групп
 
 * [Бизнесы](upravlenie-pandemiei/#biznesy)
-* Медперсонал – 
-* Медиа, инфлюенсеры, волонтеры, активисты, военные – [информ кампания](organizaciya/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
+* [Органы гос управления](upravlenie-pandemiei/#organy-gos-upravleniya)
+* [Система здравоохранения и медперсонал](upravlenie-pandemiei/#sistema-zdravookhraneniya)
+* Медиа, инфлюенсеры, 
+* [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * Школы и ВУЗы – [онлайн образование](udalennoe-i-onlain-obrazovanie.md)
 * Гражданское население – [информ кампания](organizaciya/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
+
+## Проекты
+
+* [Всеукраинская стратегия](upravlenie-pandemiei/)
+* [Аналитическая платформа](upravlenie-pandemiei/analitika-mepping-dannykh.md)
+* [Сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов
+* [Психологическая и эмоциональная поддержка](upravlenie-pandemiei/psychological-support.md)
+* [Фонд помощи](upravlenie-pandemiei/fond-pomoshi.md)
+* [Технологические решения](upravlenie-pandemiei/tekhnologicheskie-resheniya.md)
+
+{% hint style="warning" %}
+ У нас самоорганизация. Дайте знать что уже делаете, и какая нужна помощь. Найдите инициативу которой можете помочь –[ подключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md). 
+{% endhint %}
+
+{% hint style="info" %}
+Общая рекомендация: это новая и запутанная ситуация, и существуют много неопределенности и различия во мнениях. Я настоятельно призываю каждого добровольца как можно более конструктивно выражать свои оценки осуществимости различных планов и лично сосредоточиться на любой задаче, которая, по вашему мнению, будет иметь наибольшее значение в наше время. Спасибо, сделайте хорошую работу и будьте в безопасности.
+{% endhint %}
 
 ## Онлайн конференции и события
 
