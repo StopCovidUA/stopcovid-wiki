@@ -105,10 +105,8 @@ description: >-
 * [https://www.facebook.com/groups/selfpatching/](https://www.facebook.com/groups/selfpatching/)
 * [https://bemeta.co](https://bemeta.co/)
 * [https://www.treatfield.com/](https://www.treatfield.com/)
-* \*\*\*\*[**Бесплатная психологическая помощь \(Киев\)**](https://kiev.vgorode.ua/news/sobytyia/394370-chto-to-prydumaem-hde-kyevliane-mohut-poluchyt-besplatnuui-psykholohycheskuui-pomosch%20)\*\*\*\*
-* \*\*\*\*[**Психологи и психотерапевты \(группа в фейсбуке\)**](https://www.facebook.com/groups/psychologyst/?ref=share)\*\*\*\*
-
-
+* [Бесплатная психологическая помощь \(Киев\)](https://kiev.vgorode.ua/news/sobytyia/394370-chto-to-prydumaem-hde-kyevliane-mohut-poluchyt-besplatnuui-psykholohycheskuui-pomosch%20)
+* [Психологи и психотерапевты \(группа в фейсбуке\)](https://www.facebook.com/groups/psychologyst/?ref=share)
 
 ### **Видео-материалы** 
 
@@ -120,11 +118,11 @@ description: >-
 
 ### **Материалы и идеи:** 
 
-* \*\*\*\*[**Поддержка психического здоровья самозанятых.**](https://www.leapers.co/resources/little-guides/coronavirus%20)
-* \*\*\*\*[**Коронавирус: 8 способов позаботиться о вашем психическом здоровье**](https://www.mhe-sme.org/covid-19/)\*\*\*\*
-* \*\*\*\*[**Коронавирус : психологические реакции и что делать** ](https://m.facebook.com/story.php?story_fbid=2762005317240828&id=100002941590654)\*\*\*\*
-* \*\*\*\*[**Оставь бабушку дома, как договориться с пожилыми родственниками**](https://m.facebook.com/story.php?story_fbid=1596099023862245&id=100003864879221)\*\*\*\*
-* \*\*\*\*[**Как говорить с детьми о короновирусе**](https://m.facebook.com/story.php?story_fbid=2599132153744572&id=1822346871423108)\*\*\*\*
+* [Поддержка психического здоровья самозанятых.](https://www.leapers.co/resources/little-guides/coronavirus%20)
+* [Коронавирус: 8 способов позаботиться о вашем психическом здоровье](https://www.mhe-sme.org/covid-19/)
+* [Коронавирус : психологические реакции и что делать ](https://m.facebook.com/story.php?story_fbid=2762005317240828&id=100002941590654)
+* [Оставь бабушку дома, как договориться с пожилыми родственниками](https://m.facebook.com/story.php?story_fbid=1596099023862245&id=100003864879221)
+* [Как говорить с детьми о короновирусе](https://m.facebook.com/story.php?story_fbid=2599132153744572&id=1822346871423108)
 * Совместные игры по сети
 * [Поддерживающие мемы](https://www.facebook.com/groups/coronavirus.memes)
 * [Manual for PIs: the pandemic](https://docs.google.com/document/d/1X9QS8CCJ_oVxIaX_ChOzlrgfz_CY2xGipwgSFhyVfME/mobilebasic?usp=gmail_thread)
