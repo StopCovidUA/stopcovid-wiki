@@ -121,6 +121,7 @@ description: >-
 * [Поддержка психического здоровья самозанятых.](https://www.leapers.co/resources/little-guides/coronavirus%20)
 * [Коронавирус: 8 способов позаботиться о вашем психическом здоровье](https://www.mhe-sme.org/covid-19/)
 * [Коронавирус : психологические реакции и что делать ](https://m.facebook.com/story.php?story_fbid=2762005317240828&id=100002941590654)
+* [Не паниковать, сохранить работоспособность, не скупить полмагазина и позаботится о себе и близких. Мы спросили у психотерапевта - КАК?](https://www.liga.net/health/articles/prekratit-panikovat-i-ukrotit-trevojnost-iz-za-koronavirusa-6-sovetov-psihoterapevta)
 * [Оставь бабушку дома, как договориться с пожилыми родственниками](https://m.facebook.com/story.php?story_fbid=1596099023862245&id=100003864879221)
 * [Как говорить с детьми о короновирусе](https://m.facebook.com/story.php?story_fbid=2599132153744572&id=1822346871423108)
 * Совместные игры по сети
