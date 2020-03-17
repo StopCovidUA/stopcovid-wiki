@@ -26,7 +26,7 @@
 * [Бизнесы](upravlenie-pandemiei/#biznesy)
 * [Органы гос управления](upravlenie-pandemiei/#organy-gos-upravleniya)
 * [Система здравоохранения и медперсонал](upravlenie-pandemiei/#sistema-zdravookhraneniya)
-* Медиа, инфлюенсеры, 
+* [Медиа, инфлюенсеры](upravlenie-pandemiei/#media-inflyuensery)
 * [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * Школы и ВУЗы – [онлайн образование](udalennoe-i-onlain-obrazovanie.md)
 * Гражданское население – [информ кампания](organizaciya/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
