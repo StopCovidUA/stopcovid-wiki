@@ -33,6 +33,8 @@
 
 ## Распространение
 
+Открытие и прозрачность данных по распространению вируса. Есть [вот эти данные](https://public.tableau.com/profile/publicviz?fbclid=IwAR2nTNZDiO-GM-y2940gWCCB19xfN8X1yJMVnx0grp-OHoY6xZAT_wylyUk#!/vizhome/monitor_15841091301660/sheet0), но нужно понимать что далеко не все случаи зафиксированы. На вчера тесты были только в паре областей. Можно сравнить [с европейскими данными](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/a19d5d1f86ee4d99b013eed5f637232d) и [данными Оксфордского университета](https://ourworldindata.org/coronavirus)
+
 * Больше моделей и визуализаций в статье [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 * [Объясняющий ролик \(англ\)](https://www.youtube.com/watch?v=Kas0tIxDvrg) по эпидемиологии простыми словами за 9 минут. **Ключевой вывод:** число зарегистрированных случаев коронавируса за пределами материкового Китая увеличивается в 10 раз каждые 16 дней. 
 * Посмотрев вышеупомянутое видео, вы поймете логику статьи Яши Маунка в [The Atlantic, “Cancel Everything.”](https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-cancel-everything/607675/) **Ключевой вывод:** до сих пор против коронавируса была эффективна только одна мера: крайнее социальное дистанцирование \(сидеть дома, не контактировать без крайней необходимости\). 
