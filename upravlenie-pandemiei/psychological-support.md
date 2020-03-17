@@ -5,7 +5,7 @@ description: >-
   поддержать себя и близких. Берегите мир!
 ---
 
-# Психологическая поддержка во время карантина;
+# Психологическая/эмоциональная поддержка во время карантина;
 
 
 
@@ -87,6 +87,27 @@ description: >-
 * [https://www.facebook.com/groups/selfpatching/](https://www.facebook.com/groups/selfpatching/)
 * [https://bemeta.co](https://bemeta.co/)
 * [https://www.treatfield.com/](https://www.treatfield.com/)
+
+## Материалы: 
+
+### **Видео-материалы** 
+
+* **Тема:«Коронавирус».** 
+
+**Первая часть** [**прямого эфира** ](https://www.facebook.com/mindspotodessa/videos/601513777359157/%20) **посвящена практикам и техникам для помощи себе, если вы находитесь в стрессе, волнении, растерянности.** 
+
+* **Тема:** [**Онлайн-марафон**](https://education.oleshko.pro/antipanika%20) **о том, как: не поддаться панике и тревоге, сохранить ресурсное состояние, когда весь мир сходит с ума.**
+
+\*\*\*\*
+
+* \*\*\*\*[**Поддержка психического здоровья самозанятых.**](https://www.leapers.co/resources/little-guides/coronavirus%20)
+* \*\*\*\*[**Коронавирус: 8 способов позаботиться о вашем психическом здоровье**](https://www.mhe-sme.org/covid-19/)\*\*\*\*
+* \*\*\*\*[**Коронавирус : психологические реакции и что делать** ](https://m.facebook.com/story.php?story_fbid=2762005317240828&id=100002941590654)\*\*\*\*
+* \*\*\*\*[**Оставь бабушку дома, как договориться с пожилыми родственниками**](https://m.facebook.com/story.php?story_fbid=1596099023862245&id=100003864879221)\*\*\*\*
+* \*\*\*\*[**Бесплатная психологическая помощь \(Киев\)**](https://kiev.vgorode.ua/news/sobytyia/394370-chto-to-prydumaem-hde-kyevliane-mohut-poluchyt-besplatnuui-psykholohycheskuui-pomosch%20)\*\*\*\*
+* \*\*\*\*[**Психологи и психотерапевты \(группа в фейсбуке\)**](https://www.facebook.com/groups/psychologyst/?ref=share)\*\*\*\*
+* \*\*\*\*[**Как говорить с детьми о короновирусе**](https://m.facebook.com/story.php?story_fbid=2599132153744572&id=1822346871423108)\*\*\*\*
+* \*\*\*\*[**Что делать при панике вируса**](%20https://www.youtube.com/watch?v=Zf3L3NuPeGA&feature=share) ****
 
 ## Идеи
 
