@@ -114,7 +114,7 @@
 
 ## Бизнесы
 
-* [ProBonoClub Ukraine](https://probono.org.ua/)
+* [ProBonoClub Ukraine](https://probono.org.ua/), The Owners, CEO Club
 * Активация в формате социального предпринимательства
 * Поддерживать этичное поведение \([Эпицентр](https://epicentrk.ua/articles/epitsentr-dba-pro-svoikh-pokuptsiv.html), Новая почта, [еще](https://www.facebook.com/katherine.nozhevnikova/posts/3949743375096052), [пример](https://www.facebook.com/100004766651296/posts/1498923230276551/?d=n)\)
 * Осуждать неэтичное поведение: МАУ, Юрия Фарс \(Декасан\), некачественные тесты
@@ -125,7 +125,7 @@
 
 Позаботиться о своей аудитории
 
-* Координация через [Марину Гончаренко](https://www.facebook.com/margonchar) \(Impact Hub Odessa\)
+* [Марина Гончаренко](https://www.facebook.com/margonchar) \(Impact Hub Odessa\)
 * Медицинские
 * Образовательные
 * Профессиональные

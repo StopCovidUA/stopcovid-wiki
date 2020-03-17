@@ -15,43 +15,35 @@
 5. Команда
 6. Прозрачность и открытость
 
-### Команда и задачи
-
-1. [Информационная кампания](informacionnaya-kampaniya.md) \(нужен лид\)
-2. [Аналитика / Меппинг данных](../upravlenie-pandemiei/analitika-mepping-dannykh.md) \(нужен лид?\)
-3. [Сеть заботы для доставки продуктов и медикаментов](../upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md) \(Дим Заражевский\)
-4. [Психологическая поддержка при повышении тревожности](../upravlenie-pandemiei/psychological-support.md) \(Сая Жайсанбаева\)
-5. [Создание большего количество медицинских коек и персонала](../upravlenie-pandemiei/onlain-kurs-dlya-med-volonterov.md) \(Федор Сердюк\)
-6. [Технологические решения](../upravlenie-pandemiei/tekhnologicheskie-resheniya.md) \(Алекс Козлов\)
-7. [Задачи для волонтеров](zadachi-dlya-volonterov.md) \(Виталий Гатаулин\)
-
-* Координация – Макс Семенчук
-  * НГО – Марина
-  * Бизнесы – Мартын, Анастасия
-  * База знаний – Анжела
-  * Государство – **нужен лид**
-* Коммуникация Диана, Карина
-* Работа с волонтерами – Виталик
-* Медицина – Федя Сердюк
-* Аналитика – Алекс Козлов
-* Сеть заботы – Дим Заражевский
-* Переход на удаленную работу – Алекс Цыглин, Артем
-* Онлайн образование – **нужен лид**
-
-### Карта компетенций
-
-{% embed url="https://www.loom.com/share/f8f1fbc235f24f48bc4c6ec6b17e100e" %}
-
-[Список участников и экспертов](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0)
-
-[Карта компетенций ](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
-
-## Координационные группы
+## Организация
 
 * Работа в команде в [дискорд](https://discord.gg/jrcwfH) 
 * Свободные обсуждения в [телеграм](https://t.me/stopcovidua)
 * Список задач тут [трелло](https://trello.com/b/IkonsFAY/main-board)
 * Файлы в [google drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
+
+### Команда и задачи
+
+* Координация – Макс Семенчук
+* НГО – Марина
+* Бизнесы – Мартын, Анастасия
+* База знаний – Анжела
+* Государство – Антон
+* Коммуникация Диана, Карина
+* Работа с волонтерами – Виталик
+
+Эксперты:
+
+* Медицина – Федя Сердюк
+* Аналитика – Алекс Козлов
+* Переход на удаленную работу – Алекс Цыглин, Артем
+* Позаботиться о своей аудитории
+
+### [Карта компетенций](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
+
+{% embed url="https://www.loom.com/share/f8f1fbc235f24f48bc4c6ec6b17e100e" %}
+
+### Дискорд чат
 
 {% embed url="https://www.youtube.com/watch?v=7BFytSpuAWs" %}
 
