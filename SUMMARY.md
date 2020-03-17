@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Координационный центр по остановке коронавируса в Украине](README.md)
-* [Стратегия и координация](upravlenie-pandemiei/README.md)
+* [Список инициатив и запросов](upravlenie-pandemiei/README.md)
   * [Фонд помощи](upravlenie-pandemiei/fond-pomoshi.md)
   * [Онлайн курс для мед волонтеров](upravlenie-pandemiei/onlain-kurs-dlya-med-volonterov.md)
   * [Производство ИВЛ аппаратов](upravlenie-pandemiei/proizvodstvo-ivl-apparatov.md)

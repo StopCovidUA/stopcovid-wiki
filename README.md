@@ -33,7 +33,7 @@
 
 ## Проекты
 
-* [Всеукраинская стратегия](upravlenie-pandemiei/) \(Макс\)
+* [Список инициатив и запросов](upravlenie-pandemiei/) \(Макс\)
 * [Аналитическая платформа](upravlenie-pandemiei/analitika-mepping-dannykh.md) \(нужен координатор\)
 * [Сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов \(Дим\)
 * [Психологическая и эмоциональная поддержка](upravlenie-pandemiei/psychological-support.md)
