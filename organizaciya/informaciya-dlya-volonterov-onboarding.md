@@ -49,7 +49,7 @@
 
 {% embed url="https://www.loom.com/share/f8f1fbc235f24f48bc4c6ec6b17e100e" %}
 
-### [Дискорд чат](https://discordapp.com/invite/jrcwfH)
+### [Дискорд чат](https://discord.gg/AebMHV)
 
 {% embed url="https://www.youtube.com/watch?v=7BFytSpuAWs" %}
 
