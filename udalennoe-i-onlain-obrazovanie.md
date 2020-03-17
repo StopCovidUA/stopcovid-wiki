@@ -1,31 +1,20 @@
 # Онлайн образование
 
 * [Coursera \| Take student learning online in response to coronavirus ](https://www.coursera.org/coronavirus)
-
-**Peeragogy Handbook**
-
-[**www.peeragogy.org**](http://www.peeragogy.org)
-
-**“Peeragogy is a flexible framework of techniques for peer learning and peer knowledge production. The strength of peeragogy is its flexibility and scalability. The learning mind-set and strategies that we are uncovering in the Peeragogy project can be applied in classrooms, hackerspaces, organizations, wikis, and interconnected collaborations across an entire society.”**
-
-**https://www.facebook.com/groups/647445119134164/?ref=share**  
-
-
-**Advice on alternate digital delivery:** 
-
-* [**https://teachremotely.harvard.edu/best-practices**](https://teachremotely.harvard.edu/best-practices) ****
-* [**Advice on setting up classes online and accessibility**](https://docs.google.com/document/d/1vEo1OuEnjizbyCOXBNDM164P6eX_j5bKKCmoq7VywTw/edit?usp=sharing)
-* [**https://docs.microsoft.com/en-us/MicrosoftTeams/remote-learning-edu**](https://docs.microsoft.com/en-us/MicrosoftTeams/remote-learning-edu)
-* [**https://blogs.umass.edu/onlinetools/community-centered-tools/google-hangouts-community-centered-tool/**](https://blogs.umass.edu/onlinetools/community-centered-tools/google-hangouts-community-centered-tool/)
-* [**https://www.cultofpedagogy.com/microsoft-teams/**](https://www.cultofpedagogy.com/microsoft-teams/)
-* [**https://www.tonybates.ca/2020/03/09/advice-to-those-about-to-teach-online-because-of-the-corona-virus/**](https://www.tonybates.ca/2020/03/09/advice-to-those-about-to-teach-online-because-of-the-corona-virus/)
-* [**https://docs.google.com/document/d/1NyrEU7n6IUl5rgGiflx\_dK8CrdoB2bwyyl9XG-H7iw8/edit\#**](https://docs.google.com/document/d/1NyrEU7n6IUl5rgGiflx_dK8CrdoB2bwyyl9XG-H7iw8/edit#) **Resources for Online Meetings, Classes, and Events - By Facilitators for Pandemic Response group and other collaborators**
-* [**http://www.cali.org/corona**](http://www.cali.org/corona) **-Comprehensive set of resources from The Center for Computer-Assisted Legal Instruction**
-* [**https://docs.google.com/document/d/1UBiQ6tJcOro\_rTgTIgW48Wf3xzg-sGR6r-cKUcdSlcc/edit\#heading=h.2nwzjalwrsxr**](https://docs.google.com/document/d/1UBiQ6tJcOro_rTgTIgW48Wf3xzg-sGR6r-cKUcdSlcc/edit#heading=h.2nwzjalwrsxr) **- Tips on choosing tech tools for teaching online**
-* [**https://www.remotestarterkit.com/**](https://www.remotestarterkit.com/) **- Remote Starter Kit: Tools and processes tested by the Hanno team**
-* [**https://nohq.co/tools/**](https://nohq.co/tools/) **- various remote tools collected by** [**NoHQ**](https://nohq.co/)
-* [**https://about.gitlab.com/company/culture/all-remote/**](https://about.gitlab.com/company/culture/all-remote/) **- GitLab’s guide to remote work**
-
+* [Vladyslava Magaletska Ex Rutytska – як організувати навчання дистанційно](http://bit.ly/38SxAj6)
+* [Peeragogy](www.peeragogy.org) is a flexible framework of techniques for peer learning and peer knowledge production. The strength of peeragogy is its flexibility and scalability. The learning mind-set and strategies that we are uncovering in the Peeragogy project can be applied in classrooms, hackerspaces, organizations, wikis, and interconnected collaborations across an entire society.
+* \*\*\*\*[Teaching in the Time of Corona: Resources](https://www.facebook.com/groups/647445119134164/?ref=group_header)
+* [https://teachremotely.harvard.edu/best-practices](https://teachremotely.harvard.edu/best-practices) 
+* [Advice on setting up classes online and accessibility](https://docs.google.com/document/d/1vEo1OuEnjizbyCOXBNDM164P6eX_j5bKKCmoq7VywTw/edit?usp=sharing)
+* [https://docs.microsoft.com/en-us/MicrosoftTeams/remote-learning-edu](https://docs.microsoft.com/en-us/MicrosoftTeams/remote-learning-edu)
+* [https://blogs.umass.edu/onlinetools/community-centered-tools/google-hangouts-community-centered-tool/](https://blogs.umass.edu/onlinetools/community-centered-tools/google-hangouts-community-centered-tool/)
+* [https://www.cultofpedagogy.com/microsoft-teams/](https://www.cultofpedagogy.com/microsoft-teams/)
+* [https://www.tonybates.ca/2020/03/09/advice-to-those-about-to-teach-online-because-of-the-corona-virus/](https://www.tonybates.ca/2020/03/09/advice-to-those-about-to-teach-online-because-of-the-corona-virus/)
+* [https://docs.google.com/document/d/1NyrEU7n6IUl5rgGiflx\_dK8CrdoB2bwyyl9XG-H7iw8/edit\#](https://docs.google.com/document/d/1NyrEU7n6IUl5rgGiflx_dK8CrdoB2bwyyl9XG-H7iw8/edit#) Resources for Online Meetings, Classes, and Events - By Facilitators for Pandemic Response group and other collaborators
+* [http://www.cali.org/corona](http://www.cali.org/corona) -Comprehensive set of resources from The Center for Computer-Assisted Legal Instruction
+* [https://docs.google.com/document/d/1UBiQ6tJcOro\_rTgTIgW48Wf3xzg-sGR6r-cKUcdSlcc/edit\#heading=h.2nwzjalwrsxr](https://docs.google.com/document/d/1UBiQ6tJcOro_rTgTIgW48Wf3xzg-sGR6r-cKUcdSlcc/edit#heading=h.2nwzjalwrsxr) - Tips on choosing tech tools for teaching online
+* [https://www.remotestarterkit.com/](https://www.remotestarterkit.com/) - Remote Starter Kit: Tools and processes tested by the Hanno team
+* 
 **Accessibility and technical limitations**
 
 * [**https://www.mapping-access.com/blog-1/2020/3/10/accessible-teaching-in-the-time-of-covid-19**](https://www.mapping-access.com/blog-1/2020/3/10/accessible-teaching-in-the-time-of-covid-19)
