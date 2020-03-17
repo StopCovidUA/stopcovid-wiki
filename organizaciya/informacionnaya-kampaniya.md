@@ -28,7 +28,7 @@
 
 ## Каналы
 
-* Социальные сети
+* Социальные сети \([Youtube блоггеры](https://docs.google.com/spreadsheets/d/1q-vI1a2ABqyIr9zwJseAI2I_mH9aUA_ksO7SYu1xu7k/edit?usp=sharing)\)
 
 ## Сообщения
 
