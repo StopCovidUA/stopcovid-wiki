@@ -66,7 +66,7 @@
 
   [**https://iportal.rada.gov.ua/news/Novyny/191055.html**](https://iportal.rada.gov.ua/news/Novyny/191055.html?fbclid=IwAR3R9pngmCHJH-7CFwPLr0S3U0C4_53OtsRte9b84czCtwEg7XRRXy8jtCI)  
 
-*   [**https://minfin.com.ua/ua/2020/03/17/42023310/**](https://minfin.com.ua/ua/2020/03/17/42023310/) ****
+* [**https://minfin.com.ua/ua/2020/03/17/42023310/**](https://minfin.com.ua/ua/2020/03/17/42023310/) ****
 
   Позичальників не будуть штрафувати за несвоєчасне обслуговування кредитів під час карантину
 
