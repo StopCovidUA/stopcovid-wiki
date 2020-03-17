@@ -27,6 +27,7 @@
 * [How to work remotely with every personality type](https://www.crystalknows.com/how-to-work-remotely-with-every-personality-type?utm_source=hs_automation&utm_medium=email&utm_content=84813194&_hsenc=p2ANqtz-8a3cDWscMd_i2y7jzSR4qj_rtQqVokSZZyrBVBj9r_hJAsP-Bj1cYw5-j7xA8RZJ5sRFtX14_M93ODKwOLXBYc3WbQ4w&_hsmi=84813194)
 * [https://nohq.co/tools/](https://nohq.co/tools/) - various remote tools collected by [NoHQ](https://nohq.co/)
 * [https://about.gitlab.com/company/culture/all-remote/](https://about.gitlab.com/company/culture/all-remote/) - GitLab’s guide to remote work
+* @DemonKyryloBot - Цей чатбот допоможе вам стати ефективнішим.
 
 ## **Советы  по удаленной работе**
 
