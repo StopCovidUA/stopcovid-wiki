@@ -38,14 +38,9 @@
 * [Сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов
 * [Психологическая и эмоциональная поддержка](upravlenie-pandemiei/psychological-support.md)
 * [Фонд помощи](upravlenie-pandemiei/fond-pomoshi.md)
-* [Технологические решения](upravlenie-pandemiei/tekhnologicheskie-resheniya.md)
 
 {% hint style="warning" %}
- У нас самоорганизация. Дайте знать что уже делаете, и какая нужна помощь. Найдите инициативу которой можете помочь –[ подключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md). 
-{% endhint %}
-
-{% hint style="info" %}
-Общая рекомендация: это новая и запутанная ситуация, и существуют много неопределенности и различия во мнениях. Я настоятельно призываю каждого добровольца как можно более конструктивно выражать свои оценки осуществимости различных планов и лично сосредоточиться на любой задаче, которая, по вашему мнению, будет иметь наибольшее значение в наше время. Спасибо, сделайте хорошую работу и будьте в безопасности.
+Уже что-то делаете, помогаете или нужна помощь? [Подключайтесь ту](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 {% endhint %}
 
 ## Онлайн конференции и события
@@ -70,7 +65,7 @@ Diverse tech nonprofit entrepreneurs around the globe are building tech to solve
 
 ## Полезные материалы
 
-* * [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
+* [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
 * Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
 * \*\*\*\*[**Подпишитесь на канал с обновлениями**](https://t.me/stopcoviduaupdates)\*\*\*\*
 * **Пожалуйста, помогите распространить этот материал!** ❤️
