@@ -6,3 +6,5 @@
 
 Контакт: @juliabenyukh
 
+[глобальный пример](https://www.covid19responsefund.org/)
+

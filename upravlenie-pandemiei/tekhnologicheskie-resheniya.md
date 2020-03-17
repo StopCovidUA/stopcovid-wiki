@@ -2,11 +2,7 @@
 
 ## Ideas
 
-* Supply Chain
-* Monitoring
-* Distributed healthcare
-* Testing
-* Online education
+* * * * Online education
 
 ## Read more
 

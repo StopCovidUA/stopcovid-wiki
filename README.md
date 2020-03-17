@@ -23,15 +23,11 @@
 
 ## Решения для групп
 
-* Бизнесы – [переход на удаленную работу](online-work.md), [координация](upravlenie-pandemiei/), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md)
-* Медперсонал – [усиление](upravlenie-pandemiei/sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md), [психологическая поддержка](upravlenie-pandemiei/psychological-support.md), [онлайн образование](udalennoe-i-onlain-obrazovanie.md)
-* Медиа, инфлюенсеры, волонтеры, активисты, военные – [информ кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
+* [Бизнесы](upravlenie-pandemiei/#biznesy)
+* Медперсонал – 
+* Медиа, инфлюенсеры, волонтеры, активисты, военные – [информ кампания](organizaciya/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
 * Школы и ВУЗы – [онлайн образование](udalennoe-i-onlain-obrazovanie.md)
-* Гражданское население – [информ кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
-
-## Проекты
-
-
+* Гражданское население – [информ кампания](organizaciya/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
 
 ## Онлайн конференции и события
 
@@ -55,8 +51,7 @@ Diverse tech nonprofit entrepreneurs around the globe are building tech to solve
 
 ## Полезные материалы
 
-* [Работа с социологическими и политическими последствиями](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
-* [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
+* * [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
 * Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
 * \*\*\*\*[**Подпишитесь на канал с обновлениями**](https://t.me/stopcoviduaupdates)\*\*\*\*
 * **Пожалуйста, помогите распространить этот материал!** ❤️
