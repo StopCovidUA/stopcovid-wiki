@@ -20,69 +20,65 @@ Accessibility and technical limitations
 * [https://www.mapping-access.com/blog-1/2020/3/10/accessible-teaching-in-the-time-of-covid-19](https://www.mapping-access.com/blog-1/2020/3/10/accessible-teaching-in-the-time-of-covid-19)
 * [Using video conference tools as a classroom on limited bandwidth connections](https://docs.google.com/document/d/1KZhl-s0mxaz7-iCYsZ0ls4UwKYSpO-rZ1eFuykJXFXA/edit?usp=sharing)
 
-**Group video \(Smaller groups / interaction\)**
+Group video \(Smaller groups / interaction\)
 
-* [**https://hangouts.google.com/**](https://hangouts.google.com/) **- Free**
-* [**https://zoom.us/**](https://zoom.us/) **- Free for 40 min, 100 pers limit**
-* [**https://www.microsoft.com/en-us/education/products/teams**](https://www.microsoft.com/en-us/education/products/teams)
-* [**https://www.skype.com/en/**](https://www.skype.com/en/) **- Free**
-* [**https://bigbluebutton.org/**](https://bigbluebutton.org/)
-* [**https://discordapp.com/**](https://discordapp.com/) ****
+* [https://hangouts.google.com/](https://hangouts.google.com/) - Free
+* [https://zoom.us/](https://zoom.us/) - Free for 40 min, 100 pers limit
+* [https://www.microsoft.com/en-us/education/products/teams](https://www.microsoft.com/en-us/education/products/teams)
+* [https://www.skype.com/en/](https://www.skype.com/en/) - Free
+* [https://bigbluebutton.org/](https://bigbluebutton.org/)
+* [https://discordapp.com/](https://discordapp.com/) 
 
-**\(synchronous\) Collaboration/Curation**
+\(synchronous\) Collaboration/Curation
 
-* [**https://drive.google.com/**](https://drive.google.com/)
-* [**https://stormboard.com/**](https://stormboard.com/)
-* [**https://padlet.com/**](https://padlet.com/) ****
-* [**The 11 Best Online Whiteboards in 2019** ](https://zapier.com/blog/best-online-whiteboard/)
-* [**https://www.easyclass.com/about**](https://www.easyclass.com/about) **- Free**
-* [**https://riseup.net/**](https://riseup.net/) **- Free**
+* [https://drive.google.com/](https://drive.google.com/)
+* [https://stormboard.com/](https://stormboard.com/)
+* [https://padlet.com/](https://padlet.com/) 
+* [The 11 Best Online Whiteboards in 2019 ](https://zapier.com/blog/best-online-whiteboard/)
+* [https://www.easyclass.com/about](https://www.easyclass.com/about) - Free
+* [https://riseup.net/](https://riseup.net/) - Free
 
-**Classroom/student response systems**
+Classroom/student response systems
 
-* [**https://nearpod.com/**](https://nearpod.com/)
-* [**https://parlayideas.com/school-closure-support/**](https://parlayideas.com/school-closure-support/)
-* [**https://classflow.com/**](https://classflow.com/)
-* [**https://education.roblox.com/en-us/support/classroom-setup**](https://education.roblox.com/en-us/support/classroom-setup)
-* [**https://pigeonhole.at/**](https://pigeonhole.at/) ****
-* [**http://menti.com/**](http://menti.com/) **- Free for 3 slides/questions**
+* [https://nearpod.com/](https://nearpod.com/)
+* [https://parlayideas.com/school-closure-support/](https://parlayideas.com/school-closure-support/)
+* [https://classflow.com/](https://classflow.com/)
+* [https://education.roblox.com/en-us/support/classroom-setup](https://education.roblox.com/en-us/support/classroom-setup)
+* [https://pigeonhole.at/](https://pigeonhole.at/) 
+* [http://menti.com/](http://menti.com/) - Free for 3 slides/questions
 
-**Online/Virtual Learning Management Systems**
+Online/Virtual Learning Management Systems
 
-* [**https://edu.google.com/products/classroom/?modal\_active=none**](https://edu.google.com/products/classroom/?modal_active=none)
-* [**https://moodle.com/getstarted/**](https://moodle.com/getstarted/) ****
-* [**https://www.microsoft.com/en-us/education/products/teams**](https://www.microsoft.com/en-us/education/products/teams)
-* [**https://www.peerstudio.org/**](https://www.peerstudio.org/)
+* [https://edu.google.com/products/classroom/?modal\_active=none](https://edu.google.com/products/classroom/?modal_active=none)
+* [https://moodle.com/getstarted/](https://moodle.com/getstarted/) 
+* [https://www.microsoft.com/en-us/education/products/teams](https://www.microsoft.com/en-us/education/products/teams)
+* [https://www.peerstudio.org/](https://www.peerstudio.org/)
 
-**\(asynchronous\) Video recording**
+\(asynchronous\) Video recording
 
-* [**https://www.loom.com/blog/coronavirus-response**](https://www.loom.com/blog/coronavirus-response)  **\| Loom Pro is now free for educators permanently**
+* [https://www.loom.com/blog/coronavirus-response](https://www.loom.com/blog/coronavirus-response)  \| Loom Pro is now free for educators permanently
 
-#### **Online educational resources \(educational content\)**
+#### Online educational resources \(educational content\)
 
-* **A list of** [**online educational resources compiled by home educators**](https://www.facebook.com/jean.worsley/posts/10156608078391076)
-* **Twinkle an online hub for teaching resources have made their services free for 1 month** [**https://twitter.com/twinklresources/status/1235923631173230592**](https://twitter.com/twinklresources/status/1235923631173230592) ****
-* **Museums with virtual tours** [**https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours**](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours) ****
-* [**https://toolbox.hyperisland.com/**](https://toolbox.hyperisland.com/) **- methods and tools curated by Hyper Island \(energizers for workshops, creativity/innovation tools, personal development and team building tools\)**
-* [**https://dschool.stanford.edu/resources/**](https://dschool.stanford.edu/resources/) **- The D. School is part of Stanford University, and aims to bring students from different disciplines together to solve complex problems. They curated a collection of resources from their classes and workshops. Activities, tools, and how-tos that can be used as a starting point. They “hope you’ll hack them for whatever challenge you’re working on”.** 
-* [**MOOCs etc.**](https://docs.google.com/spreadsheets/d/1NnzB2e7P1U10Ph0W3FCzqw1go30poPa2eWgNOf8tt2g/) **- 200+ MOOCs and other online training resources.**
-
-#### **Organising and facilitating live online sessions**
+* A list of [online educational resources compiled by home educators](https://www.facebook.com/jean.worsley/posts/10156608078391076)
+* Twinkle an online hub for teaching resources have made their services free for 1 month [https://twitter.com/twinklresources/status/1235923631173230592](https://twitter.com/twinklresources/status/1235923631173230592) 
+* Museums with virtual tours [https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours) 
+* [https://toolbox.hyperisland.com/](https://toolbox.hyperisland.com/) - methods and tools curated by Hyper Island \(energizers for workshops, creativity/innovation tools, personal development and team building tools\)
+* [https://dschool.stanford.edu/resources/](https://dschool.stanford.edu/resources/) - The D. School is part of Stanford University, and aims to bring students from different disciplines together to solve complex problems. They curated a collection of resources from their classes and workshops. Activities, tools, and how-tos that can be used as a starting point. They “hope you’ll hack them for whatever challenge you’re working on”. 
+* [MOOCs etc.](https://docs.google.com/spreadsheets/d/1NnzB2e7P1U10Ph0W3FCzqw1go30poPa2eWgNOf8tt2g/) - 200+ MOOCs and other online training resources.
 
 ## **For students \(guidelines\)**
 
-Before the session:
+#### Before the session:
 
 * Check your connection, software and hardware before the call. Do a test call. Close any heavy bandwidth usage programs \(netflix, youtube\) on your network \(check with housemates\)
 * Share materials you want to present before the call if possible
 
-During the session
+#### During the session
 
 * Mute when you are not speaking
 * Follow the Radio principles: Think - Unmute - Speak - Mute - Listen
 * Use the chat option wisely, for example for numbers, links, interrupting\ \(i.e. ‘raising your hand’\), questions etc.
-
-After the session
 
 ## **For teachers/Facilitators**
 
@@ -102,84 +98,26 @@ After the session
 
 ## **Government and official advice**
 
-* [**https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19**](https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19) **- UK Government advice**
-* [**https://dfemedia.blog.gov.uk/2020/03/12/the-coronavirus-and-school-closures/**](https://dfemedia.blog.gov.uk/2020/03/12/the-coronavirus-and-school-closures/) ****
+* [https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19](https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19) - UK Government advice
+* [https://dfemedia.blog.gov.uk/2020/03/12/the-coronavirus-and-school-closures/](https://dfemedia.blog.gov.uk/2020/03/12/the-coronavirus-and-school-closures/) 
 
-#### **Case Studies**
+#### Case Studies
 
-* [**https://edition.cnn.com/2020/02/28/asia/remote-school-education-intl-hnk/index.html**](https://edition.cnn.com/2020/02/28/asia/remote-school-education-intl-hnk/index.html)
-* **JISC Online Contingency Briefing 16/3:** [**https://www.jisc.ac.uk/training/planning-for-coronavirus**](https://www.jisc.ac.uk/training/planning-for-coronavirus)
-* **Ensuring continuity of learning during enforced absence:** [**https://www.jisc.ac.uk/guides/ensuring-continuity-of-learning-during-enforced-absence**](https://www.jisc.ac.uk/guides/ensuring-continuity-of-learning-during-enforced-absence)
+* [https://edition.cnn.com/2020/02/28/asia/remote-school-education-intl-hnk/index.html](https://edition.cnn.com/2020/02/28/asia/remote-school-education-intl-hnk/index.html)
+* JISC Online Contingency Briefing 16/3: [https://www.jisc.ac.uk/training/planning-for-coronavirus](https://www.jisc.ac.uk/training/planning-for-coronavirus)
+* Ensuring continuity of learning during enforced absence: [https://www.jisc.ac.uk/guides/ensuring-continuity-of-learning-during-enforced-absence](https://www.jisc.ac.uk/guides/ensuring-continuity-of-learning-during-enforced-absence)
 
-\*\*\*\*[**US Colleges and Universities closed for COVID-19**](https://docs.google.com/spreadsheets/u/1/d/19wJZekxpewDQmApULkvZRBpBwcnd5gZlZF2SEU2WQD8/htmlview?sle=true&pru=AAABcO69ORU*XgiOzVqeXe67EeTuIszv3g#gid=0)\*\*\*\*
+[US Colleges and Universities closed for COVID-19](https://docs.google.com/spreadsheets/u/1/d/19wJZekxpewDQmApULkvZRBpBwcnd5gZlZF2SEU2WQD8/htmlview?sle=true&pru=AAABcO69ORU*XgiOzVqeXe67EeTuIszv3g#gid=0)
 
-**Unsorted**
+#### Unsorted
 
-*  ****[**More-Onion.com**](http://more-onion.com)
-* [**https://tutor.id/en/**](https://tutor.id/en/) **- connect tutors and pupils**
-* [**Designandclimate.org**](http://www.designandclimate.org)
-* [**https://www.toolboxtoolbox.com/**](https://www.toolboxtoolbox.com/) **- a curated list of the best business, design, and organisational change toolboxes built by some of the most influential companies, institutions and thinkers**
+*  [More-Onion.com](http://more-onion.com)
+* [https://tutor.id/en/](https://tutor.id/en/) - connect tutors and pupils
+* [Designandclimate.org](http://www.designandclimate.org)
+* [https://www.toolboxtoolbox.com/](https://www.toolboxtoolbox.com/) - a curated list of the best business, design, and organisational change toolboxes built by some of the most influential companies, institutions and thinkers
 
-**Online Exam**
+#### Online Exam
 
-* [**https://web.respondus.com/he/**](https://web.respondus.com/he/)
-* [**https://www.proctoru.com**](https://www.proctoru.com)
-* 
-### **Possible structure for this section**
-
-|  |
-| :--- |
-
-
-**But do add resources above instead! ;\)**   
-
-
-**General considerations**
-
-**- Accessibility**
-
-**- Technical limitations**
-
-**- Supporting staff**  
-
-
-**Government and official advice**  
-  
-
-
-**Approaches for an activity \(includes facilitation tips\)**
-
-**- Large lecture**
-
-**- Case based discussion**
-
-**- Small groups/seminars**
-
-**- Hands on/practicals labs**  
-
-
-**Educational level focussed guidance**
-
-**- School -** 
-
-**- HE**
-
-**- CPD?**   
-
-
-**Discipline focussed** 
-
-**- law**  
-
-
-**Digital tools**
-
-**- VLE**
-
-**- Webinars**
-
-**- Lecture recording**
-
-**- Collaboration**  
-
+* [https://web.respondus.com/he/](https://web.respondus.com/he/)
+* [https://www.proctoru.com](https://www.proctoru.com) 
 
