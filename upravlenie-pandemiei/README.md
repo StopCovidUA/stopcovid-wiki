@@ -26,8 +26,6 @@
 * [Framework for a Public Health Emergency Operations Centre](https://www.who.int/ihr/publications/9789241565134_eng/en/)
 * [Infection Prevention and Control \(IPC\) for Novel Coronavirus \(COVID-19\)](https://openwho.org/courses/COVID-19-IPC-EN)
 
-### 
-
 ## Бизнесы
 
 * [ProBonoClub Ukraine](https://probono.org.ua/)
