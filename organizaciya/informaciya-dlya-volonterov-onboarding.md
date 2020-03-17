@@ -32,6 +32,10 @@
 * Переход на удаленную работу – Алекс Цыглин, Артем
 * Онлайн образование – **нужен лид**
 
+## Карта компетенций
+
+{% embed url="https://www.loom.com/share/f8f1fbc235f24f48bc4c6ec6b17e100e" %}
+
 [Список участников и экспертов](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0)
 
 [Карта компетенций ](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
