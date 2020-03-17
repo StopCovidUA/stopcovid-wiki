@@ -24,6 +24,7 @@
   * Часть 2: [https://youtu.be/MJgQkew\_X6M](https://youtu.be/MJgQkew_X6M)
   * Часть 3: [https://youtu.be/8c45T9Q9WNo](https://youtu.be/8c45T9Q9WNo)
 * [Методичка по переводу офиса на удаленную работу: пошаговый рецепт](https://vc.ru/office/112661-metodichka-po-perevodu-ofisa-na-udalennuyu-rabotu-poshagovyy-recept?fbclid=IwAR0xWFGw8zXy8bMypMQ80siR8tpLif04ZLWLnpF3RkORVlEhclAP82e0_lI)
+* [https://www.crystalknows.com/how-to-work-remotely-with-every-personality-type?utm\_source=hs\_automation&utm\_medium=email&utm\_content=84813194&\_hsenc=p2ANqtz-8a3cDWscMd\_i2y7jzSR4qj\_rtQqVokSZZyrBVBj9r\_hJAsP-Bj1cYw5-j7xA8RZJ5sRFtX14\_M93ODKwOLXBYc3WbQ4w&\_hsmi=84813194](https://www.crystalknows.com/how-to-work-remotely-with-every-personality-type?utm_source=hs_automation&utm_medium=email&utm_content=84813194&_hsenc=p2ANqtz-8a3cDWscMd_i2y7jzSR4qj_rtQqVokSZZyrBVBj9r_hJAsP-Bj1cYw5-j7xA8RZJ5sRFtX14_M93ODKwOLXBYc3WbQ4w&_hsmi=84813194)
 
 ## **Советы  по удаленной работе**
 

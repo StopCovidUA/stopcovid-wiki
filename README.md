@@ -29,6 +29,10 @@
 * Школы и ВУЗы – [онлайн образование](udalennoe-i-onlain-obrazovanie.md)
 * Гражданское население – [информ кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md), [сеть заботы](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md), [поддержка](upravlenie-pandemiei/psychological-support.md)
 
+## Проекты
+
+
+
 ## Онлайн конференции и события
 
 ### [17-21 марта Онлайн хакатон Fix the crisis](https://casers.org/cases/fix-the-crisis)
