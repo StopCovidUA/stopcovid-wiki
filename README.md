@@ -46,6 +46,14 @@
 
 ## Онлайн конференции и события
 
+### [17-21 марта Онлайн хакатон Fix the crisis](https://casers.org/cases/fix-the-crisis)
+
+В Україні сотні й тисячі талановитих людей. Закликаємо студентів, викладачів, маркетологів, програмістів, економістів та всіх небайдужих долучатись до генерації та обговорення ідей. Не час панікувати — час діяти! Беріть участь в онлайн-хакатоні й знайдімо рішення, які допоможуть подолати кризу та її наслідки.
+
+Напрямки: Інструменти допомоги державі та містам, поради бізнесу; інструменти для університетів і шкіл; проєкти для зупинки та/або передбачення розповсюдження коронавірусу; ідеї корисних флешмобів; ідеї для зменшення паніки населення.
+
+[https://casers.org/cases/fix-the-crisis](https://casers.org/cases/fix-the-crisis)
+
 ### \*\*\*\*[**March 17: Accelerate Good Global 2020**](https://hopin.to/events/agg)\*\*\*\*
 
 Accelerate Good Global is a sector-defining event, uniting tech nonprofit entrepreneurs, technology leaders, and philanthropists who believe in leveraging tech for good.
