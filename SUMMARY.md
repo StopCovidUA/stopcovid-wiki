@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Координационный центр по остановке коронавируса в Украине](README.md)
-* [Координация и управление пандемией](upravlenie-pandemiei/README.md)
+* [Стратегия и проекты](upravlenie-pandemiei/README.md)
+  * [Информационная кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md)
   * [Помощь в поиске лекарства](upravlenie-pandemiei/pomosh-v-poiske-lekarstva.md)
   * [Фонд помощи](upravlenie-pandemiei/fond-pomoshi.md)
   * [Координация волонтеров](upravlenie-pandemiei/zadachi-dlya-volonterov.md)
-  * [Информационная кампания](upravlenie-pandemiei/informacionnaya-kampaniya.md)
   * [Усиление медицинских возможностей](upravlenie-pandemiei/sozdanie-bolshego-kolichestvo-medicinskikh-koek-i-personala.md)
   * [Сеть заботы для соседей](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md)
   * [Психологическая/эмоциональная поддержка во время карантина;](upravlenie-pandemiei/psychological-support.md)
