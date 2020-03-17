@@ -30,22 +30,17 @@
 
 ### Команда и задачи
 
-* Координация – [Макс Семенчук](https://t.me/maxsemenchuk)
-* НГО – нужен лид
-* Бизнесы – Анастасия?
+* Координация – [Макс Семенчук](https://t.me/maxsemenchuk), [Алекс Козлов](https://t.me/kozlovone)
+* Связь с НГО – нужен лид
+* Связь с бизнесом – Анастасия?
 * База знаний – [Анжела](https://t.me/angie_bay)
-* Государство – [Антон](https://t.me/antonperov)
+* Связь с государством – [Антон](https://t.me/antonperov)
 * Коммуникация – [Диана](https://t.me/dianatheking), [Юля](https://t.me/juliabenyukh), [Сая](https://t.me/SayaSemenchuk)
 * Работа с волонтерами – [Виталик](https://t.me/VGataulin)
 
-Эксперты:
+### Эксперты и волонтеры
 
-* Медицина – Федя Сердюк
-* Аналитика – Алекс Козлов
-* Переход на удаленную работу – Алекс Цыглин, Артем
-* Позаботиться о своей аудитории
-
-### [Карта компетенций](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
+[Карта компетенций](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
 
 {% embed url="https://www.loom.com/share/f8f1fbc235f24f48bc4c6ec6b17e100e" %}
 
@@ -71,7 +66,7 @@
 ## Дизайн и лого
 
 * [Все материалы в figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)
-* Картинки лого
+* [Картинки лого](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5)
 
 ## Идеи
 
