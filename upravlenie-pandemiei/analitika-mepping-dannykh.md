@@ -6,7 +6,17 @@
 
 Вопрос доступности и процедуры тестов.
 
-Глобальная статистика: [https://epidemic-stats.com](https://epidemic-stats.com/)
+Глобальная статистика:
+
+{% embed url="https://epidemic-stats.com" %}
+
+[Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering \(CSSE\) at Johns Hopkins University \(JHU\)](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR1GfIkkgwCZFKwxsrHZjqYqXkzRIHcDXpH8gr6h31tz_EBZBCMt8ldchs4#/bda7594740fd40299423467b48e9ecf6)
+
+{% embed url="https://worldometers.info" %}
+
+[Мониторить ситуацию в Украине \(официальную\) можно тут](https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9&fbclid=IwAR1-m0J2J-cFPJPubcFLxls8WgScsdsq8nNlYbY-hti5ZUDsShKYhpCTosU)
+
+
 
 ## Идеи
 
@@ -15,4 +25,6 @@
 * [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
 * [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
 * [Еще 1 дешборд](https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9)
+* [Applications welcome from startups and SMEs with innovative solutions to tackle Coronavirus outbreak](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en)
+* [ЄС оголошує конкурс інноваційних рішень для боротьби зі спалахом коронавірусу](https://euprostir.org.ua/opportunities/148570)
 
