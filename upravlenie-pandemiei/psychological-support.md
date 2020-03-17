@@ -141,6 +141,7 @@ description: >-
 * [Facebook: Message to Community Managers](https://www.facebook.com/community/whats-new/communities-health-information-coronavirus/)
 * \*\*\*\*[Супрун рассказала о действиях при карантине: запаситесь водой и лекарствами](https://www.rbc.ua/rus/styler/suprun-rasskazala-vesti-sebya-vremya-karantina-1584020882.html)
 * [Коронавирус. Что делать при панике вируса](https://www.youtube.com/watch?v=Zf3L3NuPeGA&feature=share)
+* [https://www.virusanxiety.com/](https://www.virusanxiety.com/) - Resources for anxiety and your mental health in a global climate of uncertainty
 
 \*\*\*\*
 
