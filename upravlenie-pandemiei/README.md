@@ -30,7 +30,6 @@
 
 * [Поставка ИВЛ аппаратов](proizvodstvo-ivl-apparatov.md)
 * [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
-* [Онлайн курс COVID-19: Заходи з інфекційного контролю](https://accemedin.com/course/preview/82?fbclid=IwAR3UdQf-00JfrlE0vQE6ns24r33orvgaa52iUez94PHbVGmGoXLeWgnjDDo)
 * [Сеть заботы](dostavka-produktov-i-medikamentov.md)
 * Monitoring
 * Distributed healthcare
