@@ -15,6 +15,7 @@
 * [Рекомендации ВОЗ для населения в связи c распространением коронавирусной инфекции \(COVID-19\)](https://www.who.int/ru/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 * [План личных действий от Супрун](https://www.facebook.com/max.semenchuk/posts/10220493542156222?__cft__[0]=AZVzeMSWqj_4hwVO5DysqZHVN3RtkYSYqWJa5jKY6oxEBi81WksCIqQ7y7ohdAgS2B9Pd7fR2O1udM0rrGM4nIyJopLyJHBaWkH3H7DT_rjg8zAlTr_EPZVuxbR0rCJPAqhT2GOQJdNQNXuSa_ekGe0tgWAif5Ph08jXhodrA6ueVMwqGDsEHaGA23WVd0wAjSA&__tn__=%2CO%2CP-R)
 * [Когда и как использовать маски \(eng\)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
+* [ГС «Українська Академія Педіатричних Спеціальностей» Щодо ситуації, яка склалась навколо спалаху захворювання COVID-19, викликаного новим коронавірусом SARS-CoV-2](https://www.uaps.org.ua/covid19?fbclid=IwAR1VlRnoGYQAg07bwlt_KnJIfBGreSv9XlD9gT6KxlbRbSoeoqZi_aP-SPQ)
 
 ## Мифы \(что не работает\)
 
