@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/frame-2-2.png)
 
-> Внедряйте устойчивость всего общества: переорентируйте правительство, бизнес и общественные услуги. [Мировая организация здоровья](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
+> Повышайте устойчивость всего общества: переорентируйте правительство, бизнес и общественные услуги. [Мировая организация здоровья](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
 
 **Наше видение:** Украина без эпидемии, минимальные социально-экономические потери
 
