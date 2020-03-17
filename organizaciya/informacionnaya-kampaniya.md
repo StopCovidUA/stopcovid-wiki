@@ -71,6 +71,10 @@
 * те, кто интересуется вопросами развития вируса;
 * помощь адаптации компаний на удаленную работу \(поиск менторов, информационных статей\).
 
+## Материалы
+
+* Логотип \([картинки](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5), [figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)\)
+
 ## Идеи
 
 * [Графические материалы](https://drive.google.com/drive/folders/1h4eb990LCqCKfIG7nJ_B-aqWx5A9UjFR)
