@@ -73,11 +73,9 @@ Diverse tech nonprofit entrepreneurs around the globe are building tech to solve
 
 ## Полезные материалы
 
-* [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
 * Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
-* \*\*\*\*[**Подпишитесь на канал с обновлениями**](https://t.me/stopcoviduaupdates)\*\*\*\*
-* **Пожалуйста, помогите распространить этот материал!** ❤️
-* И ставьте оценки страницам которые требуют улучшения.
+* [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
+* [Подпишитесь на канал с обновлениями](https://t.me/stopcoviduaupdates) и помогите распространить этот материал! ❤️
 
 ![&#x41A;&#x430;&#x43A; &#x443; &#x43D;&#x430;&#x441; &#x434;&#x435;&#x43B;&#x430;?](.gitbook/assets/image%20%285%29.png)
 
