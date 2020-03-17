@@ -28,6 +28,7 @@
 * [https://nohq.co/tools/](https://nohq.co/tools/) - various remote tools collected by [NoHQ](https://nohq.co/)
 * [https://about.gitlab.com/company/culture/all-remote/](https://about.gitlab.com/company/culture/all-remote/) - GitLab’s guide to remote work
 * @DemonKyryloBot - Цей чатбот допоможе вам стати ефективнішим.
+* [Сергей Петренко о трех проблемах удаленной работы](https://www.youtube.com/watch?v=B_rqAJEC1bI&feature=youtu.be&fbclid=IwAR37tentiqQ-8fyr4TRwCJ0PBzGjK5szo83mEw9vAEcTxw4NhwxMOiULAuM)
 
 ## **Советы  по удаленной работе**
 
