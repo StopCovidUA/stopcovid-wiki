@@ -6,6 +6,7 @@
 * [Репорт з саміту науковців, присвячений коронавірусу](https://bykvu.com/ua/mysli/samit-naukovtsiv-prysviachenyi-koronavirusu-stezhte-z-bukvamy/) \(вижимка\)
 * [Звернення Міністра охорони здоров’я України Іллі Ємця](https://moz.gov.ua/article/reform-plan/terminovo-zvernennja-ministra-ohoroni-zdorov%e2%80%99ja-ukraini-illi-emcja)
 * [Коронавирус в России и мире: все, что нужно знать об инфекции](https://reminder.media/longread/koronavirus-v-rossii-i-mire-vse-chto-nuzhno-znat-ob-infektsii)
+* [17.03.2020 Брифінг заступника Міністра охорони здоров’я України Віктора Ляшко](https://www.youtube.com/watch?v=7yG3KjoAOcE&feature=youtu.be)
 
 ## Что нужно предпринять
 
