@@ -126,6 +126,7 @@
 Позаботиться о своей аудитории
 
 * [Марина Гончаренко](https://www.facebook.com/margonchar) \(Impact Hub Odessa\)
+* Ира Biggggidea
 * Медицинские
 * Образовательные
 * Профессиональные
