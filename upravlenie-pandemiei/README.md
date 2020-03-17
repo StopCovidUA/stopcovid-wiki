@@ -50,13 +50,6 @@
 
 ## Органы гос управления
 
-* [Карантинные методы в Китае](https://www.facebook.com/100001226971213/posts/3069131659804370/?d=n)
-* Вырастет роль городов в решении локальных проблем
-* Подключение и финансирование бизнеса для решения задач
-* [WHO Critical preparedness, readiness and response actions for COVID-19](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
-* [Framework for a Public Health Emergency Operations Centre](https://www.who.int/ihr/publications/9789241565134_eng/en/)
-* [Infection Prevention and Control \(IPC\) for Novel Coronavirus \(COVID-19\)](https://openwho.org/courses/COVID-19-IPC-EN)
-
 ### [Зеленский предложения 16.03](https://www.youtube.com/watch?v=_5VIVI84Be4&feature=emb_title)
 
 1. Ограничить сервисы, рестораны могут продолжить готовить
@@ -109,6 +102,15 @@
 * Еще нужно много исследований и испытаний
 
 Я не знаю сколько это будет стоит. Но это цена будет скромной, по отношению к возможным потерям. мы посчитали что если будет глобальная пандемия гриппа, это принесет суммарный убыток 3 триллиона долларов. И много миллионов погибших. Эти методы сделаю мир не только безопаснее, но и справедливее. Время не на нашей стороне. Если начнем сейчас – будем готовы к следующей эпидемии. \(2015\)
+
+### Другие идеи
+
+* [Карантинные методы в Китае](https://www.facebook.com/100001226971213/posts/3069131659804370/?d=n)
+* Вырастет роль городов в решении локальных проблем
+* Подключение и финансирование бизнеса для решения задач
+* [WHO Critical preparedness, readiness and response actions for COVID-19](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
+* [Framework for a Public Health Emergency Operations Centre](https://www.who.int/ihr/publications/9789241565134_eng/en/)
+* [Infection Prevention and Control \(IPC\) for Novel Coronavirus \(COVID-19\)](https://openwho.org/courses/COVID-19-IPC-EN)
 
 ## Бизнесы
 
