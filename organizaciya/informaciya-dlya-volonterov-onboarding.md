@@ -21,15 +21,16 @@
 * Свободные обсуждения в [телеграм](https://t.me/stopcovidua)
 * Список задач тут [трелло](https://trello.com/b/IkonsFAY/main-board)
 * Файлы в [google drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
+* Модель социократии для гибкой работы
 
 ### Команда и задачи
 
 * Координация – Макс Семенчук
 * НГО – Марина
-* Бизнесы – Мартын, Анастасия
+* Бизнесы – Анастасия
 * База знаний – Анжела
 * Государство – Антон
-* Коммуникация Диана, Карина
+* Коммуникация – Юля
 * Работа с волонтерами – Виталик
 
 Эксперты:
@@ -43,7 +44,7 @@
 
 {% embed url="https://www.loom.com/share/f8f1fbc235f24f48bc4c6ec6b17e100e" %}
 
-### Дискорд чат
+### [Дискорд чат](https://discordapp.com/invite/jrcwfH)
 
 {% embed url="https://www.youtube.com/watch?v=7BFytSpuAWs" %}
 
