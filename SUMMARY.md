@@ -12,6 +12,7 @@
   * [Аналитика / Меппинг данных](upravlenie-pandemiei/analitika-mepping-dannykh.md)
   * [Технологические решения](upravlenie-pandemiei/tekhnologicheskie-resheniya.md)
 * [Все о коронавирусе \(SARS-CoV-2\)](o-koronaviruse/README.md)
+  * [Саммит по коронавирусу. Основная информация](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
   * [Пройти тест](o-koronaviruse/proiti-test.md)
 * [Переход на удаленную работу](online-work.md)
 * [Онлайн образование](udalennoe-i-onlain-obrazovanie.md)

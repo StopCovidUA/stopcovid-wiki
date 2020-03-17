@@ -3,7 +3,7 @@
 ## О вирусе
 
 * [Объснение работы вируса от Яна Топлеса](https://www.youtube.com/watch?v=dukR1VXPR1s)
-* [Репорт з саміту науковців, присвячений коронавірусу](https://bykvu.com/ua/mysli/samit-naukovtsiv-prysviachenyi-koronavirusu-stezhte-z-bukvamy/)
+* [Репорт з саміту науковців, присвячений коронавірусу](https://bykvu.com/ua/mysli/samit-naukovtsiv-prysviachenyi-koronavirusu-stezhte-z-bukvamy/) \(вижимка\)
 * [Звернення Міністра охорони здоров’я України Іллі Ємця](https://moz.gov.ua/article/reform-plan/terminovo-zvernennja-ministra-ohoroni-zdorov%e2%80%99ja-ukraini-illi-emcja)
 * [Коронавирус в России и мире: все, что нужно знать об инфекции](https://reminder.media/longread/koronavirus-v-rossii-i-mire-vse-chto-nuzhno-znat-ob-infektsii)
 
