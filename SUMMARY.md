@@ -21,6 +21,6 @@
 
 ## Организация
 
-* [Информация для волонтеров \(onboarding\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
+* [Начать работу \(онбординг\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [Tactical 16.03](organizaciya/tactical-16.03.md)
 
