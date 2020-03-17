@@ -23,6 +23,7 @@
 
 ## Решения для групп
 
+* [Уязвимые группы](upravlenie-pandemiei/#uyazvimye-gruppy-naseleniya) \(пожилые, беременные, люди без дохода\)
 * [Бизнесы](upravlenie-pandemiei/#biznesy)
 * [Органы гос управления](upravlenie-pandemiei/#organy-gos-upravleniya)
 * [Система здравоохранения и медперсонал](upravlenie-pandemiei/#sistema-zdravookhraneniya)
