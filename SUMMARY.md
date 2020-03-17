@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Координационный центр по остановке коронавируса в Украине](README.md)
-* [Все о коронавирусе \(SARS-CoV-2\)](o-koronaviruse.md)
+* [Все о коронавирусе \(SARS-CoV-2\)](o-koronaviruse/README.md)
+  * [Пройти тест](o-koronaviruse/proiti-test.md)
 * [Координация и управление пандемией](upravlenie-pandemiei/README.md)
   * [Помощь в поиске лекарства](upravlenie-pandemiei/pomosh-v-poiske-lekarstva.md)
   * [Координация волонтеров](upravlenie-pandemiei/zadachi-dlya-volonterov.md)
