@@ -10,7 +10,7 @@
 
 Давайте вместе постараемся уменьшить и в итоге остановить страдания и проблемы, вызванные эпидемией!
 
-## Ценности
+## Наши ценности
 
 1. Сохранение жизней
 2. Поддержание психологического здоровья
@@ -25,7 +25,8 @@
 * Свободные обсуждения в [телеграм](https://t.me/stopcovidua)
 * Список задач тут [трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)
 * Файлы в [google drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
-* Модель социократии для гибкой работы
+* [Контакты команды](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(добавь сюда свои\)
+* Используем модель социократии для гибкой работы
 
 ### Команда и задачи
 
