@@ -125,7 +125,12 @@
       <td
       style="text-align:left"><a href="https://t.me/VGataulin">&#x412;&#x438;&#x442;&#x430;&#x43B;&#x438;&#x43A;</a>
         </td>
-        <td style="text-align:left"></td>
+        <td style="text-align:left">
+          <ul>
+            <li><a href="https://discord.gg/HnX9sw">#volunteers</a>
+            </li>
+          </ul>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">&#x41F;&#x441;&#x438;&#x445;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x430;&#x44F;
@@ -139,6 +144,12 @@
             </li>
           </ul>
         </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x410;&#x43D;&#x430;&#x43B;&#x438;&#x442;&#x438;&#x43A;&#x430;</td>
+      <td
+      style="text-align:left">&#x41D;&#x443;&#x436;&#x435;&#x43D; &#x43B;&#x438;&#x434;</td>
+        <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>### Управление задачами
@@ -160,7 +171,9 @@
 
 ### [Дискорд чат](https://discord.gg/AebMHV)
 
-{% embed url="https://www.youtube.com/watch?v=7BFytSpuAWs" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=W-5-FxL0P7Y" %}
+
+* [Лидерборд](https://mee6.xyz/leaderboard/688064950635462771)
 
 ### Формат созвонов
 
