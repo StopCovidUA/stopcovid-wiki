@@ -2,7 +2,6 @@
 
 * [Координационный центр по остановке коронавируса в Украине](README.md)
 * [Список инициатив и запросов](upravlenie-pandemiei/README.md)
-  * [Сеть заботы для соседей](upravlenie-pandemiei/dostavka-produktov-i-medikamentov.md)
   * [Фонд помощи](upravlenie-pandemiei/fond-pomoshi.md)
   * [Онлайн курс для мед волонтеров](upravlenie-pandemiei/onlain-kurs-dlya-med-volonterov.md)
   * [Поставка ИВЛ аппаратов](upravlenie-pandemiei/proizvodstvo-ivl-apparatov.md)
@@ -11,6 +10,7 @@
   * [Саммит по коронавирусу. Основная информация](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
   * [Пройти тест](o-koronaviruse/proiti-test.md)
 * [Психологическая/эмоциональная поддержка во время карантина](psychological-support.md)
+* [Сеть заботы для соседей](dostavka-produktov-i-medikamentov.md)
 * [Переход на удаленную работу](online-work.md)
 * [Онлайн образование](udalennoe-i-onlain-obrazovanie.md)
 * [Если вы в другой стране](buduchi-v-drugoi-strane.md)

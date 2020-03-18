@@ -18,7 +18,7 @@
 Проекты:
 
 * [Психологическая/эмоциональная поддержка во время карантина](../psychological-support.md)
-* [Сеть заботы для соседей](dostavka-produktov-i-medikamentov.md)
+* [Сеть заботы для соседей](../dostavka-produktov-i-medikamentov.md)
 
 ## Система здравоохранения
 
@@ -30,7 +30,7 @@
 
 * [Поставка ИВЛ аппаратов](proizvodstvo-ivl-apparatov.md)
 * [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
-* [Сеть заботы](dostavka-produktov-i-medikamentov.md)
+* [Сеть заботы](../dostavka-produktov-i-medikamentov.md)
 * Monitoring
 * Distributed healthcare
 
@@ -160,7 +160,7 @@
 Позаботиться о своей аудитории
 
 * [Психологическая/эмоциональная поддержка во время карантина](./)
-* [Сеть заботы для соседей](dostavka-produktov-i-medikamentov.md)
+* [Сеть заботы для соседей](../dostavka-produktov-i-medikamentov.md)
 * [В Одессе предлагают создать творческое онлайн-пространство](https://www.youtube.com/watch?v=YRBPhGujWHc)
 
 ## Граждане
