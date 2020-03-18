@@ -29,10 +29,10 @@
 ## Решения для групп
 
 * [Уязвимые группы](upravlenie-pandemiei/#uyazvimye-gruppy-naseleniya) \(пожилые, беременные, люди без дохода\)
-* [Бизнесы](upravlenie-pandemiei/#biznesy)
-* [Органы гос управления](upravlenie-pandemiei/#organy-gos-upravleniya)
-* [Система здравоохранения и медперсонал](upravlenie-pandemiei/#sistema-zdravookhraneniya)
-* [Медиа, инфлюенсеры](upravlenie-pandemiei/#media-inflyuensery)
+* [Бизнесы](upravlenie-pandemiei/biznesy.md)
+* [Органы гос управления](upravlenie-pandemiei/organy-gos-upravleniya.md)
+* [Система здравоохранения и медперсонал](upravlenie-pandemiei/sistema-zdravookhraneniya.md)
+* [Медиа, инфлюенсеры, креаторы](upravlenie-pandemiei/media-inflyuensery-kreatory.md)
 * [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [Школы и ВУЗы](upravlenie-pandemiei/#shkoly-i-vuzy)
 * [Гражданское население](upravlenie-pandemiei/#grazhdane)
