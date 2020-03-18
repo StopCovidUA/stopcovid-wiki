@@ -1,6 +1,6 @@
 # Comms 18.03
 
-{% embed url="https://youtu.be/jxn5KiRi7e8" %}
+{% embed url="https://youtu.be/nms49sj-\_Z4" %}
 
 ## Цель и апдейты
 
