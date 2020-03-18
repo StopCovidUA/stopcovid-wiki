@@ -28,7 +28,7 @@
 * [Контакты команды](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(добавь сюда свои\)
 * Используем модель социократии для гибкой работы
 
-### Команда и задачи
+### Команда и направления
 
 * Координация – [Макс Семенчук](https://t.me/maxsemenchuk), [Алекс Козлов](https://t.me/kozlovone)
 * Связь с НГО – нужен лид
@@ -37,6 +37,13 @@
 * Связь с государством – [Антон](https://t.me/antonperov)
 * Коммуникация – [Диана](https://t.me/dianatheking), [Юля](https://t.me/juliabenyukh), [Сая](https://t.me/SayaSemenchuk)
 * Работа с волонтерами – [Виталик](https://t.me/VGataulin)
+
+### Управление задачами
+
+[Подключайтесь тут](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)
+
+* [Доска задач Основнная](https://trello.com/b/IkonsFAY/main-board)
+* [Доска задач по коммуникациям](https://trello.com/b/xjcCv4vB/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
 
 ### Эксперты и волонтеры
 
