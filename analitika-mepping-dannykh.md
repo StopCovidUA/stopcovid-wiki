@@ -25,7 +25,7 @@
 ## Идеи
 
 * Можно сделать саморепортинг \(анонимный\) о симптомах болезни
-* Testing
+* Мобильные лабы для тестирования
 * [https://www.facebook.com/100001627693171/posts/2903039876426907/](https://www.facebook.com/100001627693171/posts/2903039876426907/)
 * [https://github.com/HospitalRun](https://github.com/HospitalRun)
 * [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
