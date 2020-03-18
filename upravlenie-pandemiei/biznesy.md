@@ -6,7 +6,10 @@
 
 * [Переход на удаленную работу](../online-work.md)
 * [Аналитическая платформа](../analitika-mepping-dannykh.md)
-* Поддерживать этичное поведение \([Эпицентр](https://epicentrk.ua/articles/epitsentr-dba-pro-svoikh-pokuptsiv.html), Новая почта, [еще](https://www.facebook.com/katherine.nozhevnikova/posts/3949743375096052), [пример](https://www.facebook.com/100004766651296/posts/1498923230276551/?d=n)\)
+
+## Социальная ответственность
+
+* Поддерживать этичное поведение \([Эпицентр](https://epicentrk.ua/articles/epitsentr-dba-pro-svoikh-pokuptsiv.html), Новая почта, [Монобанк](https://vctr.media/predprinimateli-kupili-ivl-37995/), [еще](https://www.facebook.com/katherine.nozhevnikova/posts/3949743375096052), [пример](https://www.facebook.com/100004766651296/posts/1498923230276551/?d=n)\)
 * Осуждать неэтичное поведение: МАУ, Юрия Фарс \(Декасан\), некачественные тесты
 
 ## Регуляционные изменения
