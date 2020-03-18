@@ -92,7 +92,12 @@
       <td style="text-align:left">&#x421;&#x432;&#x44F;&#x437;&#x44C; &#x441; &#x41D;&#x413;&#x41E;</td>
       <td
       style="text-align:left">&#x41D;&#x443;&#x436;&#x435;&#x43D; &#x43B;&#x438;&#x434;</td>
-        <td style="text-align:left"></td>
+        <td style="text-align:left">
+          <ul>
+            <li><a href="https://discord.gg/SDyFFp">#ngo</a>
+            </li>
+          </ul>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">&#x421;&#x432;&#x44F;&#x437;&#x44C; &#x441; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x43E;&#x43C;</td>
