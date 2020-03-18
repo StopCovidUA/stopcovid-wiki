@@ -43,6 +43,7 @@
 [Подключайтесь тут](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)
 
 * [Доска задач Основнная](https://trello.com/b/IkonsFAY/main-board)
+* [Доска по маркетингу](https://trello.com/b/6DCyBJA1/marketing-pr)
 * [Доска задач по коммуникациям](https://trello.com/b/xjcCv4vB/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
 
 ### Эксперты и волонтеры
