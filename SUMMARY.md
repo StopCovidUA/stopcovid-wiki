@@ -2,8 +2,11 @@
 
 * [Координационный центр по остановке коронавируса в Украине](README.md)
 * [Список инициатив и проектов](upravlenie-pandemiei/README.md)
+  * [Органы гос управления](upravlenie-pandemiei/organy-gos-upravleniya.md)
+  * [Система здравоохранения](upravlenie-pandemiei/sistema-zdravookhraneniya.md)
   * [NGO / Общественный сектор](upravlenie-pandemiei/ngo-obshestvennyi-sektor.md)
   * [Координация Бизнеса](upravlenie-pandemiei/biznesy.md)
+  * [Медиа, инфлюенсеры, креаторы](upravlenie-pandemiei/media-inflyuensery-kreatory.md)
 * [Все о коронавирусе \(SARS-CoV-2\)](o-koronaviruse/README.md)
   * [Саммит по коронавирусу. Основная информация](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
   * [Пройти тест](o-koronaviruse/proiti-test.md)
