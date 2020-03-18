@@ -30,16 +30,114 @@
 
 ### Команда и направления
 
-* Координация – [Макс Семенчук](https://t.me/maxsemenchuk), [Алекс Козлов](https://t.me/kozlovone)
-* Связь с НГО – нужен лид
-* Связь с бизнесом – Анастасия?
-* Підтримка бізнесу [Andrii](https://discord.gg/BMq6F3)
-* База знаний – [Анжела](https://t.me/angie_bay)
-* Связь с государством – [Антон](https://t.me/antonperov)
-* Коммуникация – [Диана](https://t.me/dianatheking), [Юля](https://t.me/juliabenyukh), [Сая](https://t.me/SayaSemenchuk)
-* Работа с волонтерами – [Виталик](https://t.me/VGataulin)
-
-### Управление задачами
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x41D;&#x430;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435;</th>
+      <th
+      style="text-align:left">&#x41B;&#x438;&#x434;&#x435;&#x440;&#x44B;</th>
+        <th style="text-align:left">&#x41C;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43B;&#x44B; &#x438;
+          &#x41A;&#x430;&#x43D;&#x430;&#x43B;&#x44B;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x41A;&#x43E;&#x43E;&#x440;&#x434;&#x438;&#x43D;&#x430;&#x446;&#x438;&#x44F;</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li><a href="https://t.me/maxsemenchuk">&#x41C;&#x430;&#x43A;&#x441; &#x421;&#x435;&#x43C;&#x435;&#x43D;&#x447;&#x443;&#x43A;</a> (&#x43E;&#x43D;&#x431;&#x43E;&#x440;&#x434;&#x438;&#x442;)</li>
+          <li><a href="https://t.me/kozlovone">&#x410;&#x43B;&#x435;&#x43A;&#x441; &#x41A;&#x43E;&#x437;&#x43B;&#x43E;&#x432;</a>
+          </li>
+          <li><a href="https://t.me/angie_bay">&#x410;&#x43D;&#x436;&#x435;&#x43B;&#x430;</a>
+          </li>
+        </ul>
+        </td>
+        <td style="text-align:left">
+          <ul>
+            <li><a href="../upravlenie-pandemiei/">&#x421;&#x43F;&#x438;&#x441;&#x43E;&#x43A; &#x438;&#x43D;&#x438;&#x446;&#x438;&#x430;&#x442;&#x438;&#x432; &#x438; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x43E;&#x432;</a>
+            </li>
+            <li><a href="https://discord.gg/BwaaJV">#&#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x43E;&#x439;</a> &#x43A;&#x430;&#x43D;&#x430;&#x43B;</li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x41A;&#x43E;&#x43C;&#x43C;&#x443;&#x43D;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x438;
+        &#x438; &#x43C;&#x430;&#x440;&#x43A;&#x435;&#x442;&#x438;&#x43D;&#x433;</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li><a href="https://t.me/dianatheking">&#x414;&#x438;&#x430;&#x43D;&#x430; &#x41A;&#x438;&#x43D;&#x433;</a>
+          </li>
+          <li><a href="https://t.me/juliabenyukh">&#x42E;&#x43B;&#x44F;</a>
+          </li>
+          <li><a href="https://t.me/SayaSemenchuk">&#x421;&#x430;&#x44F;</a>
+          </li>
+        </ul>
+        </td>
+        <td style="text-align:left">
+          <ul>
+            <li><a href="informacionnaya-kampaniya.md">&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x43F;&#x430;&#x43D;&#x438;&#x44F;</a>
+            </li>
+            <li><a href="https://discord.gg/bK7e78">#marketing-and-pr</a>
+            </li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x421;&#x432;&#x44F;&#x437;&#x44C; &#x441; &#x41D;&#x413;&#x41E;</td>
+      <td
+      style="text-align:left">&#x41D;&#x443;&#x436;&#x435;&#x43D; &#x43B;&#x438;&#x434;</td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x421;&#x432;&#x44F;&#x437;&#x44C; &#x441; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x43E;&#x43C;</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li>&#x410;&#x43D;&#x430;&#x441;&#x442;&#x430;&#x441;&#x438;&#x44F; (Probono)</li>
+          <li><a href="https://discord.gg/BMq6F3">Andrii</a>
+          </li>
+        </ul>
+        </td>
+        <td style="text-align:left">
+          <ul>
+            <li><a href="../online-work.md">&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434; &#x43D;&#x430; &#x443;&#x434;&#x430;&#x43B;&#x435;&#x43D;&#x43D;&#x443;&#x44E; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x443;</a>
+            </li>
+            <li><a href="https://discord.gg/2j9zKP">#&#x431;&#x456;&#x437;&#x43D;&#x435;&#x441;-&#x43F;&#x456;&#x434;&#x442;&#x440;&#x438;&#x43C;&#x43A;&#x430;</a>
+            </li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x421;&#x432;&#x44F;&#x437;&#x44C; &#x441; &#x433;&#x43E;&#x441;&#x443;&#x434;&#x430;&#x440;&#x441;&#x442;&#x432;&#x43E;&#x43C;</td>
+      <td
+      style="text-align:left"><a href="https://t.me/antonperov">&#x410;&#x43D;&#x442;&#x43E;&#x43D;</a>
+        </td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x420;&#x430;&#x431;&#x43E;&#x442;&#x430; &#x441; &#x432;&#x43E;&#x43B;&#x43E;&#x43D;&#x442;&#x435;&#x440;&#x430;&#x43C;&#x438;</td>
+      <td
+      style="text-align:left"><a href="https://t.me/VGataulin">&#x412;&#x438;&#x442;&#x430;&#x43B;&#x438;&#x43A;</a>
+        </td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x41F;&#x441;&#x438;&#x445;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x430;&#x44F;
+        &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x430;</td>
+      <td
+      style="text-align:left"><a href="https://t.me/SayaSemenchuk">&#x421;&#x430;&#x44F;</a>
+        </td>
+        <td style="text-align:left">
+          <ul>
+            <li><a href="https://t.me/keepcalmanddontpanic">&#x43A;&#x430;&#x43D;&#x430;&#x43B; &#x432; &#x442;&#x435;&#x43B;&#x435;&#x433;&#x440;&#x430;&#x43C;&#x435;</a>
+            </li>
+          </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>### Управление задачами
 
 [Подключайтесь тут](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)
 
