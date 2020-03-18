@@ -27,4 +27,5 @@
 * [https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/](https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/)
 * [Open Source ventilator hackathon](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/?fbclid=IwAR21A0LNDOajH30Shd0f7hPemwYIncr-g5dqVlqqHOWjStVO-jUaDo9TrOQ)
 * [https://www.facebook.com/groups/670932227050506/](https://www.facebook.com/groups/670932227050506/)
+* [https://www.forbes.com/sites/alexandrasternlicht/2020/03/18/theres-a-shortage-of-ventilators-for-coronavirus-patients-so-this-international-group-invented-an-open-source-alternative-thats-being-tested-next-week/](https://www.forbes.com/sites/alexandrasternlicht/2020/03/18/theres-a-shortage-of-ventilators-for-coronavirus-patients-so-this-international-group-invented-an-open-source-alternative-thats-being-tested-next-week/)
 
