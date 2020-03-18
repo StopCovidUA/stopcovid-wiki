@@ -8,5 +8,8 @@
 
 Контакт: @juliabenyukh
 
-[глобальный пример](https://www.covid19responsefund.org/)
+## Идеи
+
+* [глобальный пример](https://www.covid19responsefund.org/)
+* Криптофонд
 

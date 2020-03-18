@@ -18,8 +18,8 @@
 
 Проекты:
 
-* [Психологическая/эмоциональная поддержка во время карантина](../psychological-support.md)
-* [Сеть заботы для соседей](../dostavka-produktov-i-medikamentov.md)
+* [Психологическая/эмоциональная поддержка во время карантина](psychological-support.md)
+* [Сеть заботы для соседей](dostavka-produktov-i-medikamentov.md)
 
 ## Система здравоохранения
 
@@ -31,7 +31,7 @@
 
 * [Поставка ИВЛ аппаратов](proizvodstvo-ivl-apparatov.md)
 * [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
-* [Сеть заботы](../dostavka-produktov-i-medikamentov.md)
+* [Сеть заботы](dostavka-produktov-i-medikamentov.md)
 * Monitoring
 * Distributed healthcare
 
@@ -131,7 +131,7 @@
 
 Проекты:
 
-* [Переход на удаленную работу](../online-work.md)
+* [Переход на удаленную работу](online-work.md)
 * [Аналитическая платформа](analitika-mepping-dannykh.md)
 * Поддерживать этичное поведение \([Эпицентр](https://epicentrk.ua/articles/epitsentr-dba-pro-svoikh-pokuptsiv.html), Новая почта, [еще](https://www.facebook.com/katherine.nozhevnikova/posts/3949743375096052), [пример](https://www.facebook.com/100004766651296/posts/1498923230276551/?d=n)\)
 * Осуждать неэтичное поведение: МАУ, Юрия Фарс \(Декасан\), некачественные тесты
@@ -161,8 +161,8 @@
 
 Позаботиться о своей аудитории
 
-* [Психологическая/эмоциональная поддержка во время карантина](./)
-* [Сеть заботы для соседей](../dostavka-produktov-i-medikamentov.md)
+* [Психологическая/эмоциональная поддержка во время карантина](upravlenie-pandemiei.md)
+* [Сеть заботы для соседей](dostavka-produktov-i-medikamentov.md)
 * [В Одессе предлагают создать творческое онлайн-пространство](https://www.youtube.com/watch?v=YRBPhGujWHc)
 
 ## Граждане
@@ -171,7 +171,7 @@
 
 ## Школы и ВУЗы
 
-[Инфо по онлайн образованию](../udalennoe-i-onlain-obrazovanie.md)
+[Инфо по онлайн образованию](udalennoe-i-onlain-obrazovanie.md)
 
 ## Глобальное движение
 
@@ -181,6 +181,6 @@
 ## Идеи
 
 * [Разговор группы unDavos по теме коронавируса](https://www.notion.so/4irelabs/Covid-call-15-03-7dd305c3c1534cfc90a4389a3f289740)
-* [Работа с социологическими и политическими последствиями](../kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
+* [Работа с социологическими и политическими последствиями](kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
 * [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/) \(стоит того\)
 

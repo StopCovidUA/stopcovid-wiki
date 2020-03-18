@@ -28,24 +28,24 @@
 
 ## Решения для групп
 
-* [Уязвимые группы](upravlenie-pandemiei/#uyazvimye-gruppy-naseleniya) \(пожилые, беременные, люди без дохода\)
-* [Бизнесы](upravlenie-pandemiei/#biznesy)
-* [Органы гос управления](upravlenie-pandemiei/#organy-gos-upravleniya)
-* [Система здравоохранения и медперсонал](upravlenie-pandemiei/#sistema-zdravookhraneniya)
-* [Медиа, инфлюенсеры](upravlenie-pandemiei/#media-inflyuensery)
+* [Уязвимые группы](upravlenie-pandemiei.md#uyazvimye-gruppy-naseleniya) \(пожилые, беременные, люди без дохода\)
+* [Бизнесы](upravlenie-pandemiei.md#biznesy)
+* [Органы гос управления](upravlenie-pandemiei.md#organy-gos-upravleniya)
+* [Система здравоохранения и медперсонал](upravlenie-pandemiei.md#sistema-zdravookhraneniya)
+* [Медиа, инфлюенсеры](upravlenie-pandemiei.md#media-inflyuensery)
 * [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
-* [Школы и ВУЗы](upravlenie-pandemiei/#shkoly-i-vuzy)
-* [Гражданское население](upravlenie-pandemiei/#grazhdane)
+* [Школы и ВУЗы](upravlenie-pandemiei.md#shkoly-i-vuzy)
+* [Гражданское население](upravlenie-pandemiei.md#grazhdane)
 
 ## Проекты
 
-* [Список инициатив и запросов](upravlenie-pandemiei/) \(Макс\)
-* [Аналитическая платформа](upravlenie-pandemiei/analitika-mepping-dannykh.md) \(нужен координатор\)
+* [Список инициатив и запросов](upravlenie-pandemiei.md) \(Макс\)
+* [Аналитическая платформа](analitika-mepping-dannykh.md) \(нужен координатор\)
 * [Сеть заботы](dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов \(Дим\)
 * [Психологическая и эмоциональная поддержка](psychological-support.md) \(Сая\)
-* [Онлайн курс для мед волонтеров](upravlenie-pandemiei/onlain-kurs-dlya-med-volonterov.md) \(нужен координатор\)
-* [Производство ИВЛ аппаратов](upravlenie-pandemiei/proizvodstvo-ivl-apparatov.md) \(Алекс\)
-* [Фонд помощи](upravlenie-pandemiei/fond-pomoshi.md) \(нужен координатор\)
+* [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md) \(нужен координатор\)
+* [Производство ИВЛ аппаратов](proizvodstvo-ivl-apparatov.md) \(Алекс\)
+* [Фонд помощи](fond-pomoshi.md) \(нужен координатор\)
 
 {% hint style="warning" %}
 Уже что-то делаете, помогаете или нужна помощь? [Подключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md)
