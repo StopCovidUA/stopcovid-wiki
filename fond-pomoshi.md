@@ -12,4 +12,5 @@
 
 * [глобальный пример](https://www.covid19responsefund.org/)
 * Криптофонд
+* [https://biggggidea.com/](https://biggggidea.com/)
 
