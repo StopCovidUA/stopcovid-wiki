@@ -12,6 +12,10 @@
 
 Больше про оценку соответствия и импорт можно почитать тут: [https://cratia.ua/uk/ocinka-vidpovidnosti-medichnih-virobiv-ta-medichnoyi-tehniki.html?gclid=Cj0KCQjw6sHzBRCbARIsAF8FMpUX1K1r5-m\_bG1ZGkqo1-Cxr5hvZnFhqJw7xdZPPPG70L7BhjkCj7EaAhtcEALw\_wcB](https://cratia.ua/uk/ocinka-vidpovidnosti-medichnih-virobiv-ta-medichnoyi-tehniki.html?gclid=Cj0KCQjw6sHzBRCbARIsAF8FMpUX1K1r5-m_bG1ZGkqo1-Cxr5hvZnFhqJw7xdZPPPG70L7BhjkCj7EaAhtcEALw_wcB).
 
+## Модификация существующих ИВЛ
+* Как использовать один аппарат ИВЛ для нескольких пациентов [How to Use One Ventilator to Save Multiple Lives](https://www.youtube.com/watch?v=uClq978oohY&feature=youtu.be)
+
+
 ## Сборка
 
 по hardware технологиям, вещи которые можно делать в кустарных условиях - медицинские маски - маски N95 - костюмы химзащиты это 100% понадобиться медикам, которые будут в самой гуще
