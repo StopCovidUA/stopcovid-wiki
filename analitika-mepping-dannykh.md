@@ -18,6 +18,10 @@
 
 [Мониторить ситуацию в Украине \(официальную\) можно тут](https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9&fbclid=IwAR1-m0J2J-cFPJPubcFLxls8WgScsdsq8nNlYbY-hti5ZUDsShKYhpCTosU)
 
+## Ожидаемый результат
+
+* Открытая база инструментов взаимодействия соседей на уровне парадного/ЖК/микрорайона \(тесты, каналы коммуникации\)
+
 ## Идеи
 
 * Можно сделать саморепортинг \(анонимный\) о симптомах болезни
