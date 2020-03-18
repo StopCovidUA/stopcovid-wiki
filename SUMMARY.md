@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Координационный центр по остановке коронавируса в Украине](README.md)
-* [Список инициатив и запросов](upravlenie-pandemiei/README.md)
+* [Список инициатив и проектов](upravlenie-pandemiei/README.md)
   * [NGO / Общественный сектор](upravlenie-pandemiei/ngo-obshestvennyi-sektor.md)
+  * [Бизнесы](upravlenie-pandemiei/biznesy.md)
 * [Все о коронавирусе \(SARS-CoV-2\)](o-koronaviruse/README.md)
   * [Саммит по коронавирусу. Основная информация](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
   * [Пройти тест](o-koronaviruse/proiti-test.md)
