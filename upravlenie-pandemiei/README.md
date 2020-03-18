@@ -45,6 +45,7 @@
 * [Экономическая политика в условиях эпидемии](http://bit.ly/33eXY5f%20)
 * [Limiting the Economic Fallout of the Coronavirus with Large Targeted Policies](http://bit.ly/3cWsy8o)
 * [Фискальная политика в условиях эпидемии](https://blogs.imf.org/2020/03/05/fiscal-policies-to-protect-people-during-the-coronavirus-outbreak/)
+* [Мир на развилке выбора пути борьбы с COVID-19](https://www.facebook.com/sergey.karelov.5/posts/2789965497705789?__cft__[0]=AZXf_NV75tNyO7ObqhhScQOmMxOr9xBDmWZ3ABfm196wPYxNC75zLJee8AYroStuAcnEdpUcOyYs6aesqIn0FMvyUuvUnga4EnMi9j-0zSGDVk3PbubXl3pclqY8anNiQN4&__tn__=%2CO%2CP-R)
 
 ### [Зеленский предложения 16.03](https://www.youtube.com/watch?v=_5VIVI84Be4&feature=emb_title)
 
