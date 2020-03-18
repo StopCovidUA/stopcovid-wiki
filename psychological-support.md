@@ -56,8 +56,6 @@ description: >-
 
 * [The Workers Who Face the Greatest Coronavirus Risk](https://www.nytimes.com/interactive/2020/03/15/business/economy/coronavirus-worker-risk.html) \(медперсонал, кассиры, уборщики...\)
 
-
-
 ### Люди, находящиеся на карантине в связи с выявлением симптомов короновируса \(родственники и близкие друзья\).
 
 Люди, находящиеся на карантине с положительным результатом COVID-19,  могут остро нуждаться в поддержке. 
@@ -110,6 +108,7 @@ description: >-
 
 * [Чат "без паники"](https://t.me/bezpaniky) \([пост](https://www.instagram.com/p/B92FhK3nAq2/?igshid=67go2p15b0g3)\)
 * Проект коучинг в семье от Анастасии
+* [Вирус страха \| Прекратить паниковать и укротить тревожность из-за коронавируса: 6 советов психотерапевта](https://www.liga.net/health/articles/prekratit-panikovat-i-ukrotit-trevojnost-iz-za-koronavirusa-6-sovetov-psihoterapevta)
 * [Поддержка психического здоровья самозанятых.](https://www.leapers.co/resources/little-guides/coronavirus%20)
 * [Коронавирус: 8 способов позаботиться о вашем психическом здоровье](https://www.mhe-sme.org/covid-19/)
 * [Коронавирус : психологические реакции и что делать ](https://m.facebook.com/story.php?story_fbid=2762005317240828&id=100002941590654)
