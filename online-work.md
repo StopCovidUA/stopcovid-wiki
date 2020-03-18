@@ -40,31 +40,15 @@
 
 **Рекомендации по проведению виртуальных встреч**
 
-Примечание. Там, где это возможно, используйте только голосовую связь для конференц-связи \(с изображением профиля\), так как это улучшит качество вызова за счет уменьшения пропускной способности, необходимой для вызова.  
-****
+Примечание. Там, где это возможно, используйте только голосовую связь для конференц-связи \(с изображением профиля\), так как это улучшит качество вызова за счет уменьшения пропускной способности, необходимой для вызова.
 
-* [**https://docs.google.com/document/d/11EEmovZLlILjm0j2V3MGTVvwB\_3L39I-63xB9wpvSiE/edit\#**](https://docs.google.com/document/d/11EEmovZLlILjm0j2V3MGTVvwB_3L39I-63xB9wpvSiE/edit#)
-* [**Abby Cabunoc Mayes on Twitter: "Online meeting tips 💻 With more meetings moving online to prepare for \#COVID19, I thought I'd share lessons we've learned running @MozOpenLeaders \(online cohort-based training & mentorship\) over the years. A thread 👇"**](https://twitter.com/abbycabs/status/1237001927734542341)
-* [**90 minute interactive workshop on remote teams**](https://www.daoleadership.com/managingremoteworkforce/) **–  Бесплатный 90-минутный интерактивный мастер-класс по управлению удаленными командами во время пандемии коронавируса.**
+* [https://docs.google.com/document/d/11EEmovZLlILjm0j2V3MGTVvwB\_3L39I-63xB9wpvSiE/edit\#](https://docs.google.com/document/d/11EEmovZLlILjm0j2V3MGTVvwB_3L39I-63xB9wpvSiE/edit#)
+* [Abby Cabunoc Mayes on Twitter: "Online meeting tips 💻 With more meetings moving online to prepare for \#COVID19, I thought I'd share lessons we've learned running @MozOpenLeaders \(online cohort-based training & mentorship\) over the years. A thread 👇"](https://twitter.com/abbycabs/status/1237001927734542341)
+* [90 minute interactive workshop on remote teams](https://www.daoleadership.com/managingremoteworkforce/) –  Бесплатный 90-минутный интерактивный мастер-класс по управлению удаленными командами во время пандемии коронавируса.
 
+### **Инструменты  для удаленной работы**
 
-
-  
-  
-
-
-**Инструменты  для удаленной работы**
-
-[Producthunt Library of Remote Work Apps](https://www.producthunt.com/e/remote-apps)
-
-
-
-[**Producthunt Library of Remote Work Apps**](https://www.producthunt.com/e/remote-apps)  
-****
-
-Совещания / Инструменты для видеоконференций: поощряйте встречи с помощью видеоконференций. Инвестируйте в правильную веб-камеру / колонки / микрофон.  
-****
-
+* [Producthunt Library of Remote Work Apps](https://www.producthunt.com/e/remote-apps) – Совещания / Инструменты для видеоконференций: поощряйте встречи с помощью видеоконференций. Инвестируйте в правильную веб-камеру / колонки / микрофон.
 * [Tico Powercall](https://tico.chat/powercall) - это удивительный инструмент, который позволяет вам установить видеоконференцию в 2 клика за 3 секунды. Без регистрации или скачивания. Абсолютно бесплатно до 65 минут и 20 участников в данный момент.
 * [Skype](https://www.skype.com/en/) - проведение видео-конференций 
 * [Loom.com](https://www.loom.com/) - инструмент для того, чтобы мгновенно поделиться видео через браузер. Экран без полей, микрофон и камера для записи Chrome. Уменьшает потребность в совещаниях. Бесплатно для учителей и студентов.
@@ -89,12 +73,9 @@
 * Discord - платформа для совместной работы, похожая на Slack для небольших команд \(до 50 человек\), предоставила своим подписчикам бесплатный доступ к инструментам потокового вещания / разделения экрана / телеконференций. Чтобы узнать больше об их функции Go Live, вы найдете информацию на странице поддержки: [https://dis.gd/golivescreenshare](https://dis.gd/golivescreenshare?fbclid=IwAR2uzxF9YtJ2sZz3iTF6crUruShtNv2vQTijkxPvrMXemmmS7gxgbRCwHTs)
 * Некоммерческий фонд Citizens Foundation теперь предлагает бесплатный хостинг и поддержку для любой некоммерческой организации, которая хочет вовлекать граждан онлайн или выполнять работу по генерации внутренних идей удаленно вместе с видеоконференцсвязью. Ознакомьтесь с руководством для начала работы. [https://citizens.is/getting-started/](https://citizens.is/getting-started/)
 
-**Психическое здоровье во время коронавируса**
+### **Психическое здоровье во время коронавируса**
 
-
-
-Здесь собраны некоторые советы для поддержания вашего психического здоровья при адаптации к этой новой жизни.  
-
+Здесь собраны некоторые советы для поддержания вашего психического здоровья при адаптации к этой новой жизни.
 
 * [https://blog.alicegoldfuss.com/work-in-the-time-of-corona/](https://blog.alicegoldfuss.com/work-in-the-time-of-corona/)
 * [https://twitter.com/alicegoldfuss](https://twitter.com/alicegoldfuss)
@@ -105,34 +86,20 @@
 * [https://about.gitlab.com/company/culture/all-remote/mental-health/](https://about.gitlab.com/company/culture/all-remote/mental-health/)
 * [https://www.mhe-sme.org/covid-19/](https://www.mhe-sme.org/covid-19/)
 
-**Дистанционное обучение /фасилитация / вебинары / и т.д.**
+### **Дистанционное обучение /фасилитация / вебинары / и т.д.**
 
-[  
-Open Source Guide to Running Conferences Online](https://www.taxjustice.net/2020/03/05/lessons-learned-from-organising-our-first-virtual-conference/)
-
-[Guide for Online Facilitation from Acumen](https://docs.google.com/document/d/17aRkZbsQtojvitvhVjFxNeByJyS9Ht0UDUbIVv4FMLY/edit#heading=h.kn2blnv7nhky)
-
-[Unlocking the power of virtual convening](https://access.conveners.org/best-practice-series-3-unlocking-the-power-of-virtual-convening/)
-
-[https://access.conveners.org/best-practice-series-3-unlocking-the-power-of-virtual-convening/](https://access.conveners.org/best-practice-series-3-unlocking-the-power-of-virtual-convening/)
-
-[In the Ether](https://intheether.xyz/) -   Ether предоставляет доступ  к полностью удаленным встречам, встречам, конференциям и событиям. Это первый дистанционный подход, объединяющий единомышленников со всего мира, чтобы обсуждать, делиться и узнавать темы, которые их волнуют.
-
-[Crowdcast.io](https://www.crowdcast.io/) - живые видео вопросы и ответы, интервью, саммиты, вебинары и многое другое.
-
-[https://hopin.to/home](https://hopin.to/home) - Платформа онлайн-мероприятий
-
-[Employer's guide to switching from offline to online events](https://empower.agency/offline-event-into-online-virtual-conference/)
-
-Run The World
-
-Онлайн платформы для проведения мероприятий 
-
-[Virtual Summits](https://digileaders.com/its-time-for-a-virtual-summit/)
-
-[Virtual Rooms](https://hubs.mozilla.com/)
-
-## 
+* [Open Source Guide to Running Conferences Online](https://www.taxjustice.net/2020/03/05/lessons-learned-from-organising-our-first-virtual-conference/)
+* [Guide for Online Facilitation from Acumen](https://docs.google.com/document/d/17aRkZbsQtojvitvhVjFxNeByJyS9Ht0UDUbIVv4FMLY/edit#heading=h.kn2blnv7nhky)
+* [Unlocking the power of virtual convening](https://access.conveners.org/best-practice-series-3-unlocking-the-power-of-virtual-convening/)
+* [https://access.conveners.org/best-practice-series-3-unlocking-the-power-of-virtual-convening/](https://access.conveners.org/best-practice-series-3-unlocking-the-power-of-virtual-convening/)
+* [In the Ether](https://intheether.xyz/) -   Ether предоставляет доступ  к полностью удаленным встречам, встречам, конференциям и событиям. Это первый дистанционный подход, объединяющий единомышленников со всего мира, чтобы обсуждать, делиться и узнавать темы, которые их волнуют.
+* [Crowdcast.io](https://www.crowdcast.io/) - живые видео вопросы и ответы, интервью, саммиты, вебинары и многое другое.
+* [https://hopin.to/home](https://hopin.to/home) - Платформа онлайн-мероприятий
+* [Employer's guide to switching from offline to online events](https://empower.agency/offline-event-into-online-virtual-conference/)
+* Run The World
+* Онлайн платформы для проведения мероприятий 
+* [Virtual Summits](https://digileaders.com/its-time-for-a-virtual-summit/)
+* [Virtual Rooms](https://hubs.mozilla.com/)
 
 ## Идеи
 
