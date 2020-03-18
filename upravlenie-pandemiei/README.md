@@ -33,7 +33,7 @@
 
 ## Школы и ВУЗы
 
-[Инфо по онлайн образованию](../udalennoe-i-onlain-obrazovanie.md)
+* [Инфо по онлайн образованию](../udalennoe-i-onlain-obrazovanie.md)
 
 ## Глобальное движение
 
@@ -44,5 +44,4 @@
 
 * [Разговор группы unDavos по теме коронавируса](https://www.notion.so/4irelabs/Covid-call-15-03-7dd305c3c1534cfc90a4389a3f289740)
 * [Работа с социологическими и политическими последствиями](../kak-luchshe-podgotovitsya-k-krizisam-v-budushem.md)
-* [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/) \(стоит того\)
 
