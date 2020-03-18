@@ -44,8 +44,6 @@
 
 ![](../.gitbook/assets/89655588_3027786720607212_3993775460168237056_n.jpg)
 
-
-
 ## Вакцина и лечение
 
 * [Коронавирус SARS-CoV-2 или COVID-19: клиническая диагностика и лечение ](https://proautism.info/sars-cov-2/#Kliniceskaa_harakteristika_i_diagnostika)
