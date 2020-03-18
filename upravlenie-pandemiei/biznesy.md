@@ -4,6 +4,7 @@
 
 ## Проекты
 
+* [Група фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) – запросы что нужно сообществам
 * [Переход на удаленную работу](../online-work.md)
 * [Аналитическая платформа](../analitika-mepping-dannykh.md)
 
@@ -38,5 +39,4 @@
 * Каналы: [ProBonoClub Ukraine](https://probono.org.ua/), The Owners, CEO Club
 * Активация в формате социального предпринимательства
 * [World Economic Forum Convenes Global Business for COVID Action Platform](https://www.weforum.org/press/2020/03/world-economic-forum-convenes-global-business-for-covid-action-platform)
-* [Група фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) – запросы что нужно сообществам
 
