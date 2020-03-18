@@ -40,7 +40,7 @@
 * Нужно рассказывать про социальное дистанцирование и потребность в расширении медицинского потенциала 
 * Ознакомьтесь [с информацией о вирусе](../o-koronaviruse/), примите личные меры, передайте дальше
 
-## Партнеры
+## Профильные организации
 
 * Життєлюб: [https://www.facebook.com/projectgiznelub/?ref=br\_rs](https://www.facebook.com/projectgiznelub/?ref=br_rs) ?
 * Супервнуки: [https://www.facebook.com/groups/SuperOnuki/](https://www.facebook.com/groups/SuperOnuki/) +
