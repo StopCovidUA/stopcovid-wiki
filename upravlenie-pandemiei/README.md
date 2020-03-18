@@ -125,11 +125,10 @@
 
 Посилання на закони👇
 
-{% embed url="https://iportal.rada.gov.ua/news/Novyny/191075.html%0Ahttps://iportal.rada.gov.ua/news/Novyny/191055.html" %}
+* [Прийнято Закон "Про внесення змін до деяких законодавчих актів України, спрямованих на запобігання виникнення і поширення коронавірусної хвороби \(COVID-19\)"](https://iportal.rada.gov.ua/news/Novyny/191055.html)
+* [Підтримка платників податку під час карантину: огляд закону \#3220](https://brdo.com.ua/top/pidtrymka-platnykiv-podatku-pid-chas-karantynu-oglyad-zakonu-3220/?fbclid=IwAR2Sm7iRAZ1jiMxoqbxETPj2HxzLDD9xvp7OL86u9B8RefJq2BUR2uppfmk)
 
-## [Підтримка платників податку під час карантину: огляд закону \#3220](https://brdo.com.ua/top/pidtrymka-platnykiv-podatku-pid-chas-karantynu-oglyad-zakonu-3220/?fbclid=IwAR2Sm7iRAZ1jiMxoqbxETPj2HxzLDD9xvp7OL86u9B8RefJq2BUR2uppfmk)
-
-## \*\*\*\*
+Проекты:
 
 * [Переход на удаленную работу](../online-work.md)
 * [Аналитическая платформа](analitika-mepping-dannykh.md)
