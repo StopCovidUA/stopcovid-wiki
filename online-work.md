@@ -30,6 +30,7 @@
 * @DemonKyryloBot - Цей чатбот допоможе вам стати ефективнішим.
 * [Сергей Петренко о трех проблемах удаленной работы](https://www.youtube.com/watch?v=B_rqAJEC1bI&feature=youtu.be&fbclid=IwAR37tentiqQ-8fyr4TRwCJ0PBzGjK5szo83mEw9vAEcTxw4NhwxMOiULAuM)
 * [https://vc.ru/office/112661-metodichka-po-perevodu-ofisa-na-udalennuyu-rabotu-poshagovyy-recept](https://vc.ru/office/112661-metodichka-po-perevodu-ofisa-na-udalennuyu-rabotu-poshagovyy-recept)
+* [Tips From Experts—Our Co-Workers in Asia—About Working From Home](https://www.bloomberg.com/news/articles/2020-03-15/how-to-work-from-home-tips-on-staying-healthy-sane-productive)
 
 ## **Советы  по удаленной работе**
 
