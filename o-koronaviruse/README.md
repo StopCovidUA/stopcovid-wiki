@@ -23,6 +23,8 @@
 
 [Coronavirus disease \(COVID-19\) advice for the public: Myth busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
 
+[В Швеції не лікують...](https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/covid-19/)
+
 ## Самодиагностика
 
 [Здається, у мене коронавірус. Що робити?](https://www.the-village.com.ua/village/knowledge/health-knowledge/295233-zdaetsya-u-mene-koronavirus-scho-robiti) Не у всех больных есть симптомы
