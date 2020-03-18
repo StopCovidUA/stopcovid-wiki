@@ -1,4 +1,4 @@
-# Работа с социологическими и политическими последствиями
+# Работа с долгосрочнми последствиями
 
 ## **Какие будут последствия пандемии COVID-19?** 
 
@@ -22,5 +22,6 @@
 * getting out the word, and making this a positive change process, not reinforcing fear
 * long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
 * Переход на e-ID
-* Над экономическими вопросами работает Aspen Institute в тотм числе
+* Над экономическими вопросами работает Aspen Institute в том числе
+* Работа с незанятыми
 
