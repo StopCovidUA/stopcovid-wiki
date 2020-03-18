@@ -28,18 +28,18 @@
 
 ## Решения для групп
 
-* [Уязвимые группы](upravlenie-pandemiei.md#uyazvimye-gruppy-naseleniya) \(пожилые, беременные, люди без дохода\)
-* [Бизнесы](upravlenie-pandemiei.md#biznesy)
-* [Органы гос управления](upravlenie-pandemiei.md#organy-gos-upravleniya)
-* [Система здравоохранения и медперсонал](upravlenie-pandemiei.md#sistema-zdravookhraneniya)
-* [Медиа, инфлюенсеры](upravlenie-pandemiei.md#media-inflyuensery)
+* [Уязвимые группы](upravlenie-pandemiei/#uyazvimye-gruppy-naseleniya) \(пожилые, беременные, люди без дохода\)
+* [Бизнесы](upravlenie-pandemiei/#biznesy)
+* [Органы гос управления](upravlenie-pandemiei/#organy-gos-upravleniya)
+* [Система здравоохранения и медперсонал](upravlenie-pandemiei/#sistema-zdravookhraneniya)
+* [Медиа, инфлюенсеры](upravlenie-pandemiei/#media-inflyuensery)
 * [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
-* [Школы и ВУЗы](upravlenie-pandemiei.md#shkoly-i-vuzy)
-* [Гражданское население](upravlenie-pandemiei.md#grazhdane)
+* [Школы и ВУЗы](upravlenie-pandemiei/#shkoly-i-vuzy)
+* [Гражданское население](upravlenie-pandemiei/#grazhdane)
 
 ## Проекты
 
-* [Список инициатив и запросов](upravlenie-pandemiei.md) \(Макс\)
+* [Список инициатив и запросов](upravlenie-pandemiei/) \(Макс\)
 * [Аналитическая платформа](analitika-mepping-dannykh.md) \(нужен координатор\)
 * [Сеть заботы](dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов \(Дим\)
 * [Психологическая и эмоциональная поддержка](psychological-support.md) \(Сая\)
