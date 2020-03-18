@@ -65,6 +65,8 @@
             <li><a href="../upravlenie-pandemiei/">&#x421;&#x43F;&#x438;&#x441;&#x43E;&#x43A; &#x438;&#x43D;&#x438;&#x446;&#x438;&#x430;&#x442;&#x438;&#x432; &#x438; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x43E;&#x432;</a>
             </li>
             <li><a href="https://discord.gg/BwaaJV">#&#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x43E;&#x439;</a> &#x43A;&#x430;&#x43D;&#x430;&#x43B;</li>
+            <li><a href="https://discord.gg/48wYFF">#coordination</a>
+            </li>
             <li><a href="https://trello.com/b/IkonsFAY/main-board">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x437;&#x430;&#x434;&#x430;&#x447; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x430;&#x44F;</a>
             </li>
           </ul>
@@ -88,7 +90,7 @@
           <ul>
             <li><a href="informacionnaya-kampaniya.md">&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x43F;&#x430;&#x43D;&#x438;&#x44F;</a>
             </li>
-            <li><a href="https://discord.gg/bK7e78">#marketing-and-pr</a>
+            <li><a href="https://discord.gg/bK7e78">#marketing-pr</a>
             </li>
             <li><a href="https://trello.com/b/6DCyBJA1/marketing-pr">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x43F;&#x43E; &#x43C;&#x430;&#x440;&#x43A;&#x435;&#x442;&#x438;&#x43D;&#x433;&#x443;</a>
             </li>
