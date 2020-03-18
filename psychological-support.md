@@ -133,8 +133,5 @@ description: >-
 * [Коронавирус. Что делать при панике вируса](https://www.youtube.com/watch?v=Zf3L3NuPeGA&feature=share)
 * [https://www.virusanxiety.com/](https://www.virusanxiety.com/) - Resources for anxiety and your mental health in a global climate of uncertainty
 * Обучение майндфулнес
-
-\*\*\*\*
-
-
+* [ВЕСЕННЕЕ ОБОСТРЕНИЕ: ГДЕ КИЕВЛЯНЕ МОГУТ ПОЛУЧИТЬ БЕСПЛАТНУЮ ПСИХОЛОГИЧЕСКУЮ ПОМОЩЬ](https://kiev.vgorode.ua/news/sobytyia/394370-chto-to-prydumaem-hde-kyevliane-mohut-poluchyt-besplatnuui-psykholohycheskuui-pomosch)
 
