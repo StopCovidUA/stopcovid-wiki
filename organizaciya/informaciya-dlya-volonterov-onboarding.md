@@ -33,6 +33,7 @@
 * Координация – [Макс Семенчук](https://t.me/maxsemenchuk), [Алекс Козлов](https://t.me/kozlovone)
 * Связь с НГО – нужен лид
 * Связь с бизнесом – Анастасия?
+* Підтримка бізнесу [Andrii](https://discord.gg/BMq6F3)
 * База знаний – [Анжела](https://t.me/angie_bay)
 * Связь с государством – [Антон](https://t.me/antonperov)
 * Коммуникация – [Диана](https://t.me/dianatheking), [Юля](https://t.me/juliabenyukh), [Сая](https://t.me/SayaSemenchuk)
