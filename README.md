@@ -70,6 +70,7 @@
 * Поделитесь этим материлом в соц сетях ❤️
 * [Подпишитесь на telegram-канал с обновлениями](https://t.me/stopcoviduaupdates) 
 * и[ наш инстаграм](https://www.instagram.com/stopcovidua/)
+* Почта: [stopcoviduanow@gmail.com](mailto:stopcoviduanow@gmail.com)
 
 ![&#x41A;&#x430;&#x43A; &#x443; &#x43D;&#x430;&#x441; &#x434;&#x435;&#x43B;&#x430;?](.gitbook/assets/image%20%285%29.png)
 
