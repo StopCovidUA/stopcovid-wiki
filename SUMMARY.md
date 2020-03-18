@@ -6,7 +6,7 @@
 * [Все о коронавирусе \(SARS-CoV-2\)](o-koronaviruse/README.md)
   * [Саммит по коронавирусу. Основная информация](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
   * [Пройти тест](o-koronaviruse/proiti-test.md)
-* [Психологическая/эмоциональная поддержка во время карантина](psychological-support.md)
+* [Психологическая и эмоциональная поддержка](psychological-support.md)
 * [Фонд помощи](fond-pomoshi.md)
 * [Аналитическая платформа](analitika-mepping-dannykh.md)
 * [Поставка ИВЛ аппаратов](proizvodstvo-ivl-apparatov.md)
