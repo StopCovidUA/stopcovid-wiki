@@ -27,12 +27,15 @@
 
 * Работа в команде в [дискорд](https://discord.gg/AebMHV) 
 * Свободные обсуждения в [телеграм](https://t.me/stopcovidua)
-* Список задач тут [трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board) и [телеграм](https://t.me/scutasks)
+* Список задач тут [трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board) \(инвайт в ссылке\)
+* Еще [телеграм-канал](https://t.me/scutasks) с задачами
 * Файлы в [google drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
 * [Контакты команды](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(добавь сюда свои\)
 * Используем модель социократии для гибкой работы
 
 ### Команда и направления
+
+Выбирайте к каким направлениям присоединиться. Посмотрите материалы и дерните вашего лида по поводу задач
 
 <table>
   <thead>
@@ -62,6 +65,8 @@
             <li><a href="../upravlenie-pandemiei/">&#x421;&#x43F;&#x438;&#x441;&#x43E;&#x43A; &#x438;&#x43D;&#x438;&#x446;&#x438;&#x430;&#x442;&#x438;&#x432; &#x438; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x43E;&#x432;</a>
             </li>
             <li><a href="https://discord.gg/BwaaJV">#&#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x43E;&#x439;</a> &#x43A;&#x430;&#x43D;&#x430;&#x43B;</li>
+            <li><a href="https://trello.com/b/IkonsFAY/main-board">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x437;&#x430;&#x434;&#x430;&#x447; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x430;&#x44F;</a>
+            </li>
           </ul>
         </td>
     </tr>
@@ -85,13 +90,22 @@
             </li>
             <li><a href="https://discord.gg/bK7e78">#marketing-and-pr</a>
             </li>
+            <li><a href="https://trello.com/b/6DCyBJA1/marketing-pr">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x43F;&#x43E; &#x43C;&#x430;&#x440;&#x43A;&#x435;&#x442;&#x438;&#x43D;&#x433;&#x443;</a>
+            </li>
+            <li><a href="https://trello.com/b/xjcCv4vB/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x437;&#x430;&#x434;&#x430;&#x447; &#x43F;&#x43E; &#x43A;&#x43E;&#x43C;&#x43C;&#x443;&#x43D;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x44F;&#x43C;</a>
+            </li>
           </ul>
         </td>
     </tr>
     <tr>
       <td style="text-align:left">&#x421;&#x432;&#x44F;&#x437;&#x44C; &#x441; &#x41D;&#x413;&#x41E;</td>
       <td
-      style="text-align:left">&#x41D;&#x443;&#x436;&#x435;&#x43D; &#x43B;&#x438;&#x434;</td>
+      style="text-align:left">
+        <ul>
+          <li><a href="https://t.me/Greenochre">&#x414;&#x430;&#x440;&#x44C;&#x44F;</a>
+          </li>
+        </ul>
+        </td>
         <td style="text-align:left">
           <ul>
             <li><a href="https://discord.gg/SDyFFp">#ngo</a>
@@ -104,7 +118,8 @@
       <td
       style="text-align:left">
         <ul>
-          <li>&#x410;&#x43D;&#x430;&#x441;&#x442;&#x430;&#x441;&#x438;&#x44F;</li>
+          <li><a href="https://t.me/slavianskaia">&#x410;&#x43D;&#x430;&#x441;&#x442;&#x430;&#x441;&#x438;&#x44F;</a>
+          </li>
           <li><a href="https://discord.gg/BMq6F3">Andrii</a>
           </li>
         </ul>
@@ -157,19 +172,11 @@
     <tr>
       <td style="text-align:left">&#x410;&#x43D;&#x430;&#x43B;&#x438;&#x442;&#x438;&#x43A;&#x430;</td>
       <td
-      style="text-align:left">&#x41D;&#x443;&#x436;&#x435;&#x43D; &#x43B;&#x438;&#x434;</td>
+      style="text-align:left"></td>
         <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Управление задачами
-
-[Подключайтесь тут](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)
-
-* [Доска задач основнная](https://trello.com/b/IkonsFAY/main-board)
-* [Доска по маркетингу](https://trello.com/b/6DCyBJA1/marketing-pr)
-* [Доска задач по коммуникациям](https://trello.com/b/xjcCv4vB/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
-
-### [Карта экспертиз](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
+</table>### [Карта экспертиз](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
 
 {% embed url="https://www.loom.com/share/f8f1fbc235f24f48bc4c6ec6b17e100e" caption="" %}
 
