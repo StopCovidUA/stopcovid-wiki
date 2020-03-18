@@ -129,6 +129,8 @@
           <ul>
             <li><a href="https://discord.gg/HnX9sw">#volunteers</a>
             </li>
+            <li><a href="https://t.me/scutasks">StopCovidUA Tasks &#x432; &#x442;&#x435;&#x43B;&#x435;&#x433;&#x440;&#x430;&#x43C;&#x435;</a>
+            </li>
           </ul>
         </td>
     </tr>
