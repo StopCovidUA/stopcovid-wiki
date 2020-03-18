@@ -30,7 +30,7 @@
 
 ## Каналы
 
-* Социальные сети \([Youtube блоггеры](https://docs.google.com/spreadsheets/d/1q-vI1a2ABqyIr9zwJseAI2I_mH9aUA_ksO7SYu1xu7k/edit?usp=sharing)\)
+* Социальные сети \([Youtube блоггеры](https://docs.google.com/spreadsheets/d/1q-vI1a2ABqyIr9zwJseAI2I_mH9aUA_ksO7SYu1xu7k/edit?usp=sharing), [Instagram](https://docs.google.com/spreadsheets/d/1h6vMe4X3sE18q8ScF07AKZKjoZHVG_Q3jDYYro0Pa5o/edit?usp=gmail_thread)\)
 
 ## Сообщения
 
