@@ -88,7 +88,7 @@
         </td>
         <td style="text-align:left">
           <ul>
-            <li><a href="informacionnaya-kampaniya.md">&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x43F;&#x430;&#x43D;&#x438;&#x44F;</a>
+            <li><a href="informacionnaya-kampaniya/">&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x43F;&#x430;&#x43D;&#x438;&#x44F;</a>
             </li>
             <li><a href="https://discord.gg/bK7e78">#marketing-pr</a>
             </li>
