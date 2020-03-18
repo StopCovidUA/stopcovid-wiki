@@ -61,12 +61,6 @@
 
 [https://casers.org/cases/fix-the-crisis](https://casers.org/cases/fix-the-crisis)
 
-### \*\*\*\*[**17 марта: Accelerate Good Global 2020**](https://hopin.to/events/agg)\*\*\*\*
-
-Accelerate Good Global is a sector-defining event, uniting tech nonprofit entrepreneurs, technology leaders, and philanthropists who believe in leveraging tech for good.
-
-Diverse tech nonprofit entrepreneurs around the globe are building tech to solve social issues ranging from education, to healthcare, to human rights. Brought to you by [Fast Forward](http://www.ffwd.org/), Accelerate Good Global: Virtual Edition convenes all players in the tech nonprofit ecosystem to spark meaningful conversations around how we can apply the best technology to our biggest social problems.
-
 ### \*\*\*\*[**24 марта Webinar: Negotiating Losses in Times of Crisis** ](https://zoom.us/webinar/register/WN_uYQkCM27T5aYOjLgGEmihQ?utm_campaign=7841610&utm_content=3673899887&utm_medium=email&utm_source=Emailvision)\*\*\*\*
 
 12:00 GMT. Hosted by London Business School, Niro Sivanathan, Associate Professor of Organisational Behaviour
