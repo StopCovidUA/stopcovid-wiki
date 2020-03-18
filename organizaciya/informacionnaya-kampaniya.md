@@ -80,6 +80,7 @@
 * [Графические материалы](https://drive.google.com/drive/folders/1h4eb990LCqCKfIG7nJ_B-aqWx5A9UjFR)
 * [Графические материалы +](https://www.dropbox.com/sh/6mdbl925k6lslko/AAC5CYbOUVEKlsOdarFM7_bQa?dl=0&fbclid=IwAR3t2KYKxUHqrhJukZ5rXB3MsWtJwgyDA78lG3r5ukwYxpgUi1hmsobnw8Y)
 * [Графические материалы + +](https://cloud.phc.org.ua/index.php/s/6BrQDQbAZbzSQxt?path=/%D0%86%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D1%96%D0%B9%D0%BD%D1%96%20%D0%B7%D0%B0%D1%85%D0%B2%D0%BE%D1%80%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81%D0%BD%D0%B0%20%D1%96%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D1%96%D1%8F%20COVID-19%20%28SARS-CoV-2,%202019-nCoV,%20%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9%20%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81%202019%20%D1%80%D0%BE%D0%BA%D1%83%29&fbclid=IwAR1ez_W30ISdDBUSabtNqT_JcYZlDzpwa5bCaX_ewMx2Tyv0yswix6uAiWA)
+* [И еще](https://drive.google.com/drive/folders/1_zhh97mtj2Y7I7238fQim0Uc4p1Kx_KN)
 * [How governments can engage digital resources to manage their Covid-19 response](https://stateup.co/how-governments-can-engage-digital-resources-to-manage-their-covid-19-response/)
 * [https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/](https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/)
 * Подключить влиятельных людей высказаться
