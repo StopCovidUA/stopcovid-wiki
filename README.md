@@ -25,7 +25,7 @@
 * [Школам та вишам ](udalennoe-i-onlain-obrazovanie.md)
 * [Бізнесу](biznesy.md)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
-* [Активісти та волонтери](organizaciya/informaciya-dlya-volonterov-onboarding.md)
+* [Активістам та волонтерам](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [Уряду та держорганам](organy-gos-upravleniya.md)
 
 ## Проєкти
