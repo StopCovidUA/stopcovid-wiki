@@ -19,6 +19,7 @@
   * [Саміт по коронавірусу. Базова інформація](proekti/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/README.md)
   * [Comms 18.03](proekti/informacionnaya-kampaniya/comms-18.03.md)
+  * [Comms 19.03](proekti/informacionnaya-kampaniya/comms-19.03.md)
 * [Психологічна та емоційна підтримка](proekti/psychological-support/README.md)
   * [Psychology 17.03](proekti/psychological-support/psychology-17.03.md)
 * [Постачання продуктів, медикаментів та засобів безпеки](proekti/dostavka-produktov-i-medikamentov/README.md)

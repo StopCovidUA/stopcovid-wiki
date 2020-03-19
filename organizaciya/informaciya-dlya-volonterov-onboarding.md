@@ -142,8 +142,6 @@
         </td>
         <td style="text-align:left">
           <ul>
-            <li><a href>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434; &#x43D;&#x430; &#x443;&#x434;&#x430;&#x43B;&#x435;&#x43D;&#x43D;&#x443;&#x44E; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x443;</a>
-            </li>
             <li><a href="https://discord.gg/cYpXFu">#business-coordination</a>
             </li>
             <li><a href="https://discord.gg/2j9zKP">#&#x431;&#x456;&#x437;&#x43D;&#x435;&#x441;-&#x43F;&#x456;&#x434;&#x442;&#x440;&#x438;&#x43C;&#x43A;&#x430;</a>
