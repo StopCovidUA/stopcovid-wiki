@@ -83,6 +83,7 @@ description: Твоему вниманию план разработки рук�
 * [Сделайте плакаты в своем доме](https://www.facebook.com/permalink.php?story_fbid=2828056760610979&id=100002200475958)
 * Как найти заболевших?
 * Supply Chain
+* [https://business.diia.gov.ua/cases/iniciativi/bezkostovni-produkti-ta-poslugi-dla-pidpriemciv-pid-cas-karantinu-cerez-koronavirus](https://business.diia.gov.ua/cases/iniciativi/bezkostovni-produkti-ta-poslugi-dla-pidpriemciv-pid-cas-karantinu-cerez-koronavirus)
 * Инстаграм отзывы
 * Рисерч масштабируемый модели, нужна успешная ячейка
 * Осбб помагать свои с доставкой / Чат осбб, материал для осбб
