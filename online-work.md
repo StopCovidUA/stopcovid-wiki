@@ -107,4 +107,5 @@
 * \*\*\*\*[Coronavirus — The Black Swan of 2020](https://angel.co/re/story/13514)
 * [https://www.theguardian.com/technology/2020/mar/13/covid-19-could-cause-permanent-shift-towards-home-working](https://www.theguardian.com/technology/2020/mar/13/covid-19-could-cause-permanent-shift-towards-home-working)
 * [https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
+* Обучение программированию от Beetroot
 
