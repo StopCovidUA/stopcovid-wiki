@@ -13,5 +13,5 @@
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
 * [Онлайн-курс для медволонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
 * [Збірка та модифікація ШВЛ](proekti/sborka-i-modifikaciya-ivl.md)
-* [Фонди допомоги](proekti/fond-pomoshi.md)
+* [Фонди допомоги](fond-pomoshi.md)
 

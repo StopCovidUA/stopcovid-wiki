@@ -25,6 +25,7 @@
 * [Школам та вишам ](udalennoe-i-onlain-obrazovanie.md)
 * [Бізнесу](biznesy.md)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
+* [Донорам](fond-pomoshi.md)
 * [Активістам та волонтерам](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [Уряду та держорганам](organy-gos-upravleniya.md)
 
@@ -37,7 +38,6 @@
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
 * [Онлайн-курс для медволонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
 * [Збірка та модифікація ШВЛ](proekti/sborka-i-modifikaciya-ivl.md)
-* [Фонди допомоги](proekti/fond-pomoshi.md)
 
 {% hint style="warning" %}
 Уже щось робите або потребуєте допомоги? [Підключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md)

@@ -8,6 +8,7 @@
 * [Школам та вишам](udalennoe-i-onlain-obrazovanie.md)
 * [Бізнесу](biznesy.md)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
+* [Донорам](fond-pomoshi.md)
 * [Уряду та держорганам](organy-gos-upravleniya.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
@@ -24,7 +25,6 @@
   * [Поставка масок, ИВЛ апаратів та антисептиків](proekti/dostavka-produktov-i-medikamentov/proizvodstvo-ivl-apparatov.md)
 * [Сборка и модификация ИВЛ](proekti/sborka-i-modifikaciya-ivl.md)
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
-* [Фонди допомоги](proekti/fond-pomoshi.md)
 * [Онлайн курс для мед волонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
 
 ## Організація
