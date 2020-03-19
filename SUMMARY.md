@@ -16,6 +16,7 @@
 * [Поставка ИВЛ аппаратов](proizvodstvo-ivl-apparatov.md)
 * [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
 * [Жизнелюб: Сиди Дома](dostavka-produktov-i-medikamentov.md)
+* [Бот для координации Волонтеров](bot-dlya-koordinacii-volonterov.md)
 * [Переход на удаленную работу](online-work.md)
 * [Онлайн образование](udalennoe-i-onlain-obrazovanie.md)
 * [Если вы в другой стране](buduchi-v-drugoi-strane.md)
