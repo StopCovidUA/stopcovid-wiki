@@ -12,7 +12,7 @@ description: >-
 Координатор: [Сая Жайсанбаева](https://t.me/SayaSemenchuk)
 
 * [канал для психологов в телеграме](https://t.me/keepcalmanddontpanic)
-* [\#psychology](https://discord.gg/HqSr3w)
+* [\#psychology](https://discord.gg/gm2eXRw)
 * [канал "без паніки" кому нужна помощь](https://t.me/bezpaniky)
 
 ## Этап 1: помощь себе
