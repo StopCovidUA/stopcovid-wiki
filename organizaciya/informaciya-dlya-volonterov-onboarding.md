@@ -175,7 +175,12 @@
       <td style="text-align:left">&#x410;&#x43D;&#x430;&#x43B;&#x438;&#x442;&#x438;&#x43A;&#x430;</td>
       <td
       style="text-align:left"></td>
-        <td style="text-align:left"></td>
+        <td style="text-align:left">
+          <ul>
+            <li><a href="https://discord.gg/uy2nW7">#analytics</a>
+            </li>
+          </ul>
+        </td>
     </tr>
   </tbody>
 </table>### [Карта экспертиз](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)

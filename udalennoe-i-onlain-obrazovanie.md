@@ -1,4 +1,4 @@
-# Онлайн образование
+# Онлайн освіта
 
 * [Coursera \| Take student learning online in response to coronavirus ](https://www.coursera.org/coronavirus)
 * [Vladyslava Magaletska Ex Rutytska – як організувати навчання дистанційно](http://bit.ly/38SxAj6)

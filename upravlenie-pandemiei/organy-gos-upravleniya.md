@@ -1,4 +1,4 @@
-# Органы гос управления
+# Уряд
 
 ## [Зеленский предложения 16.03](https://www.youtube.com/watch?v=_5VIVI84Be4&feature=emb_title)
 
