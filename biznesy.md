@@ -1,26 +1,26 @@
 # Бізнесу
 
-## Видение
+## Бачення
 
-* Бизнес знает о запросах и знает, куда адекватно вложить \(контекстуально по типу помощи и регионам\)
-* Правильное поведение повышает репутацию бизнеса, неправильное понижает 
+* Бізнес знає, які є потреби на ринку, та куди інвестувати ресурси \(контекстно по типу допомоги і регіонах\).
+* Відповідна до ситуації поведінка покращує репутацію бізнесу,  невідповідна - погіршує. 
 
-Координатор: [Анастасия Славянская](https://t.me/slavianskaia) \(ProBonoClub Ukraine\).
+Координатор: [Анастасія Слав\`янська](https://t.me/slavianskaia) \(ProBonoClub Ukraine\).
 
-## Проекты
+## Проекти
 
-* [Група фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) – запросы, что нужно сообществам
-* [Аналитическая платформа](proekti/analitika-mepping-dannykh.md)
+* [Група фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) – запити, "що потрібно громадам".
+* [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
 
-## Социальная ответственность
+## Соціальна відповідальність
 
-Поддерживать этичное поведение :
+Підтримувати гуманні цінності:
 
-* [Эпицентр](https://epicentrk.ua/articles/epitsentr-dba-pro-svoikh-pokuptsiv.html)
+* [Епіцентр](https://epicentrk.ua/articles/epitsentr-dba-pro-svoikh-pokuptsiv.html)
 * [SoftServe](https://www.facebook.com/notes/softserve/softserve-%D1%81%D0%BA%D0%B5%D1%80%D1%83%D1%94-10-%D0%BC%D0%BB%D0%BD-%D0%B3%D1%80%D0%B8%D0%B2%D0%B5%D0%BD%D1%8C-%D0%BD%D0%B0-%D0%BC%D0%B5%D0%B4%D0%B8%D1%87%D0%BD%D1%96-%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8-%D1%83-%D0%B1%D0%BE%D1%80%D0%BE%D1%82%D1%8C%D0%B1%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81%D0%BE%D0%BC/3425740250786535/)
-* [Новая почта](https://biz.liga.net/all/all/article/po-primeru-djeka-ma-bolshoy-biznes-pomogaet-v-hvatke-s-koronavirusom-chego-ne-hvataet)
+* [Нова пошта](https://biz.liga.net/all/all/article/po-primeru-djeka-ma-bolshoy-biznes-pomogaet-v-hvatke-s-koronavirusom-chego-ne-hvataet)
 * [Монобанк](https://vctr.media/predprinimateli-kupili-ivl-37995/)
-* [еще](https://www.facebook.com/katherine.nozhevnikova/posts/3949743375096052)
+* [Ще](https://www.facebook.com/katherine.nozhevnikova/posts/3949743375096052)
 * [Джек Ма $80 млн](https://biz.liga.net/all/all/article/po-primeru-djeka-ma-bolshoy-biznes-pomogaet-v-hvatke-s-koronavirusom-chego-ne-hvataet)
 
 🔶 [Нова Пошта](https://www.facebook.com/nova.poshta.official/?__tn__=K-R&eid=ARA3DWPjVHe0rZ1IZNcgqSnPor1qWLCZbU4721WI15AnAWvi6VSInD04zLWcVucMhJHu-7JxQWhz0AyH&fref=mentions&__xts__%5B0%5D=68.ARCwJqIFrwjfpWfb8PL1HlrcgIx9pu270nWes7Puou_YsG3OqwqPNcdRu3O1ECqGsabPzJmzpeegqVMFALk55fcLlU_ghTPiXFTZ6t42XckGACvw8SXVvLwEb2N6akKyCfAYj9Ddn6p7r5Gs07PnayivR1Mep62CEAECpmJiW97k9nt3xFrJHleb1wvdYKs02ENZCn_3l5xCQZxepVBlSfz80-KNffIbZkAk1lIDJ3qwmc1xUMop8ppbQ-5h7XXwfFl8XqXnXCTXT6LV6BMVpmcjDk-ccfkNdz7Aq7AR1L5zuFP2pOiwVaPgccSuQHVwar76Q-B_jzLo-beTveJkScQ3CSIW) виділила 25 млн гривень на обладнання і додаткові матеріали для лікарень, щоби підсилити їх у боротьбі з вірусом. Також власники Нової Пошти закликали український та іноземний бізнес, який працює в Україні, долучитися та підтримати медичні заклади країни. [http://bit.ly/2TUcRqC](https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2TUcRqC%3Ffbclid%3DIwAR0dovGr5vSXabvWSQkdJimz8j8QFI9MCpCpxbgMRpN46GW23Yg1cTLl2Mo&h=AT3KaIb2GMEd0L6EDP8JkXiGZ0mKpoeYTdW-NQEODA1Oqk8sGiQNLSuMFGfuCp7MS7TC0PkHHZUb7K7CS5HkjmCXItuSJRxPXtRE6vG6QvEUIeezSIgbgOy3_YEwYdwwwfQ38lCTFGbGlzIUswDDryTDynNODexu03kP0vIN25-Ei9CxOtgRZCiPeVYxBKiBqrB-p9jHsC7-JFJyRrRotXCytuZ4aRPq-B80Rixj2l1VjkfsJJqL1ukWxYqABdUH3_8keISPcDqXaldg3BUyuqyrZ4A1IiHKIElCMFrXHuaIbG_aipeFD_owJWkiMYnkuFG1hNbhQPRZnspUJsnP3m84EBUHyw8MDJNFGV9iF3RGKaPPL5O5gfYjLVVTmn94IleOzzfktTSxSPQrfUZcCWHdL1Bm_gM9c93F2AvHWfiY88FtS05dSd9fmJ9VfGMTIdu4WGwMzB7JbKKIMML16yRPrzQZw52AnDAF2qe0XaQjqdXfWI3W4mw6g6GQSiTrJUJoxUrE9GEUXBJ-spLI5z0dGUlSNWpNV00Lv4ZwxhqNasH_bneeAdSZDepM9K-RjPffnHnBq1GLw67ccSg5DcpymoRbvul-v24po4L229OVNEPklL4JaMnbXdAg-N5MozsIC68tgs8)
@@ -37,19 +37,19 @@
 
 🔶Готель "Централь Магнат" у Чернівцях пропонує нічліг людям, котрі опинилися в тяжкій ситуації через заходи, пов’язані з карантином. [http://bit.ly/2TWLUCR](https://bit.ly/2TWLUCR?fbclid=IwAR3HXUKSgZZlrlA_EEM7u-ugBOf8Of887Dr3GEGYsGte7NhD66p8dmjo1_8)
 
-[Больше тут](https://www.facebook.com/1763001290651097/posts/2603158239968727/?d=n)
+[Більше тут](https://www.facebook.com/1763001290651097/posts/2603158239968727/?d=n)
 
 {% embed url="https://www.facebook.com/stavnitser/posts/10157604392962572" %}
 
 [https://business.diia.gov.ua/cases/iniciativi/bezkostovni-produkti-ta-poslugi-dla-pidpriemciv-pid-cas-karantinu-cerez-koronavirus](https://business.diia.gov.ua/cases/iniciativi/bezkostovni-produkti-ta-poslugi-dla-pidpriemciv-pid-cas-karantinu-cerez-koronavirus)
 
-Осуждать неэтичное поведение:
+Засуджувати відсутність гуманних цінностей:
 
 * МАУ
 * Юрия Фарс \(Декасан\)
-* некачественные тесты и маски
+* Неякісні тести і маски
 
-## Регуляционные изменения
+## Зміни регуляторів
 
 [Офіс розвитку малого та середнього підприємництва/SME.DO](https://www.facebook.com/SME.GOV.UA/?__tn__=K-R&eid=ARCwPobwkGvv15AFni4VbPVFYgAYi305Euoa0r0orjSr5OkyztyeF77097Nr7f6pj1dZ33oD_aK5qnX-&fref=mentions&__xts__%5B0%5D=68.ARDbeOxWdfzx5kxVqj-sVU28aktjNRmPjn9efuL33vdM09o7YmN8cnookJezSsfaSqPdA5c2iSkZgUNgikn-muZ3T9wj1-RkLyOyx-hnKea0vmuggoORF_Rgr3l4VUUIspieH1_bslU5nLwicw0PO-invMeAiMunwisrufLKyE9rLutIg1iosj_fouHaYXBbmGJxgqAGpK69k1S7ERSn5_6i5tmsvjyN-4XP2CDBKlQ4HW7FTu36r3Eyse3-XSHlre3XVp7SWiJA1ZQwi8cjWGpkHDj-iEVZh5T4zzj8EFOouP0746-n-rdUTlhWxKJ51Avx194CXMi2oG3Ja9MVAjGqO2i6Ao0Hq4cIdhnn0qO7pEgXvgRxug) інформує🎯 про новий законопроєкт, який був ухвалений Верховною Радою щодо підтримки платників податків на час карантину через [\#Covid19](https://www.facebook.com/hashtag/covid19?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARDbeOxWdfzx5kxVqj-sVU28aktjNRmPjn9efuL33vdM09o7YmN8cnookJezSsfaSqPdA5c2iSkZgUNgikn-muZ3T9wj1-RkLyOyx-hnKea0vmuggoORF_Rgr3l4VUUIspieH1_bslU5nLwicw0PO-invMeAiMunwisrufLKyE9rLutIg1iosj_fouHaYXBbmGJxgqAGpK69k1S7ERSn5_6i5tmsvjyN-4XP2CDBKlQ4HW7FTu36r3Eyse3-XSHlre3XVp7SWiJA1ZQwi8cjWGpkHDj-iEVZh5T4zzj8EFOouP0746-n-rdUTlhWxKJ51Avx194CXMi2oG3Ja9MVAjGqO2i6Ao0Hq4cIdhnn0qO7pEgXvgRxug&__tn__=%2ANK-R).
 
@@ -70,15 +70,15 @@
 * [Прийнято Закон "Про внесення змін до деяких законодавчих актів України, спрямованих на запобігання виникнення і поширення коронавірусної хвороби \(COVID-19\)"](https://iportal.rada.gov.ua/news/Novyny/191055.html)
 * [Підтримка платників податку під час карантину: огляд закону \#3220](https://brdo.com.ua/top/pidtrymka-platnykiv-podatku-pid-chas-karantynu-oglyad-zakonu-3220/?fbclid=IwAR2Sm7iRAZ1jiMxoqbxETPj2HxzLDD9xvp7OL86u9B8RefJq2BUR2uppfmk)
 
-## 
+## Зміни в побуті
 
-Изменения в повседневной жизни. Воздействие на рабочем месте, безопасность сотрудников, благополучие сотрудников, преемственность, корректировка работы
+Вплив на робочому месці, безпека працівників, їх достаток,  наступництво, коректування роботи.
 
-[Есть документ-рекомендация на английском](https://iccwbo.org/publication/coronavirus-guidelines-for-business/).
+[Документ-рекомендація англійською](https://iccwbo.org/publication/coronavirus-guidelines-for-business/).
 
-Краудсорсинг-гайд для организаций и частных лиц, которые впервые нуждаются в реализации процессов «работы на дому».
+Краудсорсинг-гайд для організацій і приватних осіб, які вперше мають потребу в реализації процесів «работи з дому».
 
-* [Що почитати про віддалену роботу?](https://www.notion.so/8aae91ba856c492b863dc07a87ac1a0d)
+* [Що почитати про дистанційну роботу?](https://www.notion.so/8aae91ba856c492b863dc07a87ac1a0d)
 * [http://remoteworksurvivalkit.co.uk](http://remoteworksurvivakit.co.uk)\*\*\*\*
 * [OMG I’m working remotely, now what?!](http://omgwfh.com)\*\*\*\*
 * [Distributed / Remote Working Manual](https://edgeryders.eu/t/distributed-collaboration-manual/11263)\*\*\*\*
@@ -90,23 +90,23 @@
 * [Basecamp book on remote working](https://basecamp.com/books/remote)
 * Nb Basecamp have offered to refund any purchases of this book, as a contribution to the group effort - see [this tweet](https://twitter.com/jasonfried/status/1237773562322259970) for more information and discussion. 
 * Activities to do [150+ Enrichment Activities for Children While Parents are Working Remotely](https://docs.google.com/spreadsheets/d/1KCFnWreu4v7VoO3NbgP-Qcq2LyE1FvliYSoiTLRY7Qg/edit?usp=sharing) with kids while parents work remotely
-* Люди будут делать больше ошибок
-* Всё больше компаний прямо сейчас переходит на удалённую работу, поэтому самое время посмотреть видео со страницы Романа Игошина про распределённую команду.
-  * Часть 1: [https://youtu.be/ms11fNOZ2Po](https://youtu.be/ms11fNOZ2Po)
-  * Часть 2: [https://youtu.be/MJgQkew\_X6M](https://youtu.be/MJgQkew_X6M)
-  * Часть 3: [https://youtu.be/8c45T9Q9WNo](https://youtu.be/8c45T9Q9WNo)
-* [Методичка по переводу офиса на удаленную работу: пошаговый рецепт](https://vc.ru/office/112661-metodichka-po-perevodu-ofisa-na-udalennuyu-rabotu-poshagovyy-recept?fbclid=IwAR0xWFGw8zXy8bMypMQ80siR8tpLif04ZLWLnpF3RkORVlEhclAP82e0_lI)
+* Люди робитимуть більше помилок
+* Все більше компаній просто зараз переходять на дистанційну роботу. Відео зі сторінки Романа Ігошина про розподілену команду.
+  * Частина 1: [https://youtu.be/ms11fNOZ2Po](https://youtu.be/ms11fNOZ2Po)
+  * Частина 2: [https://youtu.be/MJgQkew\_X6M](https://youtu.be/MJgQkew_X6M)
+  * Частина 3: [https://youtu.be/8c45T9Q9WNo](https://youtu.be/8c45T9Q9WNo)
+* [Методичка з переходу офису на дистанційну роботу: покрокова інструкція](https://vc.ru/office/112661-metodichka-po-perevodu-ofisa-na-udalennuyu-rabotu-poshagovyy-recept?fbclid=IwAR0xWFGw8zXy8bMypMQ80siR8tpLif04ZLWLnpF3RkORVlEhclAP82e0_lI)
 * [How to work remotely with every personality type](https://www.crystalknows.com/how-to-work-remotely-with-every-personality-type?utm_source=hs_automation&utm_medium=email&utm_content=84813194&_hsenc=p2ANqtz-8a3cDWscMd_i2y7jzSR4qj_rtQqVokSZZyrBVBj9r_hJAsP-Bj1cYw5-j7xA8RZJ5sRFtX14_M93ODKwOLXBYc3WbQ4w&_hsmi=84813194)
 * [https://nohq.co/tools/](https://nohq.co/tools/) - various remote tools collected by [NoHQ](https://nohq.co/)
 * [https://about.gitlab.com/company/culture/all-remote/](https://about.gitlab.com/company/culture/all-remote/) - GitLab’s guide to remote work
 * @DemonKyryloBot - Цей чатбот допоможе вам стати ефективнішим.
-* [Сергей Петренко о трех проблемах удаленной работы](https://www.youtube.com/watch?v=B_rqAJEC1bI&feature=youtu.be&fbclid=IwAR37tentiqQ-8fyr4TRwCJ0PBzGjK5szo83mEw9vAEcTxw4NhwxMOiULAuM)
+* [Сергій Петренко про три проблеми дистанційної роботи](https://www.youtube.com/watch?v=B_rqAJEC1bI&feature=youtu.be&fbclid=IwAR37tentiqQ-8fyr4TRwCJ0PBzGjK5szo83mEw9vAEcTxw4NhwxMOiULAuM)
 * [https://vc.ru/office/112661-metodichka-po-perevodu-ofisa-na-udalennuyu-rabotu-poshagovyy-recept](https://vc.ru/office/112661-metodichka-po-perevodu-ofisa-na-udalennuyu-rabotu-poshagovyy-recept)
 * [Tips From Experts—Our Co-Workers in Asia—About Working From Home](https://www.bloomberg.com/news/articles/2020-03-15/how-to-work-from-home-tips-on-staying-healthy-sane-productive)
 
-## **Советы  по удаленной работе**
+## **Поради щодо дистанційної роботи**
 
-1. Если вы ездите на работу, откладывайте процент от  стоимости ваших поездок на «приятные вещи» на работе - будь то отличная лампа для вашего стола, изображение, которое вы любите в рамке, растения или набор из 20 маркеров разных цветов. Откладывайте оставшиеся деньги на свои сбережения, если вам не нужно использовать их для других важных расходов.
+1. Якщо ви їздите на роботу, відкладайте відсоток від вартості ваших поїздок на «приємні речі» на роботі - чи то класна лампа для вашого столу, зображення, яке вам до вподоби, в рамці, вазон чи набір з 20 маркерів різного кольору. Откладывайте оставшиеся деньги на свои сбережения, если вам не нужно использовать их для других важных расходов.
 2. Ведущие на радио Европа Плюс \(или на вашей любимой станции\) - конечно, большая часть вашей жизни, но на самом деле они не ваши настоящие друзья. Говорите с реальными людьми каждый день, а также с радио / кошкой / собакой.
 3. Режим! Вставай, умой лицо, потянись. Обязательно установите время, чтобы потянуться, сделать небольшое упражнение, выпить воды, съесть питательную пищу и когда выключить все гаджеты. «Я работаю только с 8-4, час на обед и 4 мини-перерыва на растяжку и воду».
 
