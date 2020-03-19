@@ -91,6 +91,7 @@
 
 ## Идеи
 
+* [Маніпуляції, фейки, конспірологія, особисті дані людей — як українські медіа повідомляють про коронавірус. І як потрібно робити](https://texty.org.ua/articles/100492/manipulyaciyi-fejky-konspirolohiya-osobysti-dani-lyudej-yak-ukrayinski-media-povidomlyayut-pro-koronavirus-i-yak-potribno-robyty/?fbclid=IwAR1uiw284kptmSqLdgO7O5bbKVLsdNkMtAuZAwhf2cy0FIVTTO-GWFik65Q)
 * [Флешмоб "Балкондер"](https://docs.google.com/document/d/1R6Pwt01xvFUNLfWxNZZ7Lw0VbKHVIIPzEpY_mBibJjg/edit)
 * [Графические материалы](https://drive.google.com/drive/folders/1h4eb990LCqCKfIG7nJ_B-aqWx5A9UjFR)
 * [Графические материалы +](https://www.dropbox.com/sh/6mdbl925k6lslko/AAC5CYbOUVEKlsOdarFM7_bQa?dl=0&fbclid=IwAR3t2KYKxUHqrhJukZ5rXB3MsWtJwgyDA78lG3r5ukwYxpgUi1hmsobnw8Y)
