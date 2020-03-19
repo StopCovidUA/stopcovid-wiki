@@ -1,6 +1,8 @@
 # Школам та ВНЗ
 
-[Избранные платформы поддерживающие дистанционное обучение](https://docs.google.com/spreadsheets/d/1wfkWux5GpIROXsvbgI_I4-nXHiAjYYdk_RPNIsP62HY/htmlview?fbclid=IwAR3HiS-R27Jg4Q1VB5_QopalDkr9Hk8VFHXkCfdSwUmCauge7MaIqMLsZW8&usp=gmail_thread#gid=0)
+Крутой ресурс: [Избранные платформы поддерживающие дистанционное обучение](https://docs.google.com/spreadsheets/d/1wfkWux5GpIROXsvbgI_I4-nXHiAjYYdk_RPNIsP62HY/htmlview?fbclid=IwAR3HiS-R27Jg4Q1VB5_QopalDkr9Hk8VFHXkCfdSwUmCauge7MaIqMLsZW8&usp=gmail_thread#gid=0)
+
+{% embed url="https://docs.google.com/spreadsheets/d/1wfkWux5GpIROXsvbgI\_I4-nXHiAjYYdk\_RPNIsP62HY/htmlview?fbclid=IwAR3HiS-R27Jg4Q1VB5\_QopalDkr9Hk8VFHXkCfdSwUmCauge7MaIqMLsZW8&usp=gmail\_thread\#gid=0" %}
 
 * [Coursera \| Take student learning online in response to coronavirus ](https://www.coursera.org/coronavirus)
 * [Vladyslava Magaletska Ex Rutytska – як організувати навчання дистанційно](http://bit.ly/38SxAj6)
