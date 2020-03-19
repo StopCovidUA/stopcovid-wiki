@@ -1,4 +1,4 @@
-# Координаційний центр по припиненню розповсюдження коронавірусу в Україні
+# Координаційний центр по зупиненню епідемії коронавірусу в Україні
 
 ![](.gitbook/assets/frame-2-2.png)
 
@@ -22,14 +22,13 @@
 * [Психологам, психотерапевтам, психиатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
 * [Уряду та держ органам](organy-gos-upravleniya.md)
 * [Неприбутковим і громадськім організаціям](ngo-obshestvennyi-sektor.md)
-* [Система охорони здоров'я](sistema-zdravookhraneniya.md)
-* [Бізнес](biznesy.md)
-* [Медія, інфлюенсери, творчі люди](media-inflyuensery-kreatory.md)
-* [Органы гос управления](organy-gos-upravleniya.md)
+* [Системі охорони здоров'я](sistema-zdravookhraneniya.md)
+* [Бізнесу](biznesy.md)
+* [Медіа, інфлюенсерам, творчім людям](media-inflyuensery-kreatory.md)
 * [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
-* [Школи и ВНЗ](udalennoe-i-onlain-obrazovanie.md)
+* [Школам та ВНЗ](udalennoe-i-onlain-obrazovanie.md)
 
-## Проєкти
+## Проекти
 
 * [Информационная кампания](proekti/informacionnaya-kampaniya/)
 * [Аналитическая платформа](proekti/analitika-mepping-dannykh.md) \(нужен координатор\)

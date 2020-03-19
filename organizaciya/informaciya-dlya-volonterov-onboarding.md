@@ -100,6 +100,18 @@
         </td>
     </tr>
     <tr>
+      <td style="text-align:left">&#x414;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x43A;&#x438;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>&#x41A;&#x430;&#x43D;&#x430;&#x43B; <a href="https://discord.gg/3vC9eE">#automotohelp</a>
+          </li>
+          <li><a href="https://invite.viber.com/?g2=AQBHheXMx8WdIUs7enKGTuTImM%2BfvzM1OqLOmk6z3P%2FZIJgZ0nCx55Ef70tDNmR1">&#x413;&#x440;&#x443;&#x43F;&#x43F;&#x430; Viber &#x434;&#x43B;&#x44F; &#x43F;&#x43E;&#x43C;&#x43E;&#x449;&#x438; &#x43C;&#x435;&#x434;&#x438;&#x43A;&#x430;&#x43C;</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">&#x421;&#x432;&#x44F;&#x437;&#x44C; &#x441; &#x41D;&#x413;&#x41E;</td>
       <td
       style="text-align:left">

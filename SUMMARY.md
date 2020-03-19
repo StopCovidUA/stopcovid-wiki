@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Координаційний центр по припиненню розповсюдження коронавірусу в Україні](README.md)
+* [Координаційний центр по зупиненню епідемії коронавірусу в Україні](README.md)
 * [Все про коронавірус \(SARS-CoV-2\)](o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
   * [Пройти тест](o-koronaviruse/proiti-test.md)
@@ -19,7 +19,7 @@
 
 ## Проекти
 
-* [Информационная кампания](proekti/informacionnaya-kampaniya/README.md)
+* [Інформаційна кампанія](proekti/informacionnaya-kampaniya/README.md)
   * [Comms 18.03](proekti/informacionnaya-kampaniya/comms-18.03.md)
 * [Психологічна та емоційна підтримка](proekti/psychological-support.md)
 * [Життєлюб: Сиди Вдома](proekti/dostavka-produktov-i-medikamentov.md)
