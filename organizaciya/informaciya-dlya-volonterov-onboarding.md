@@ -168,6 +168,8 @@
           <ul>
             <li><a href="https://t.me/keepcalmanddontpanic">&#x43A;&#x430;&#x43D;&#x430;&#x43B; &#x432; &#x442;&#x435;&#x43B;&#x435;&#x433;&#x440;&#x430;&#x43C;&#x435;</a>
             </li>
+            <li><a href="https://discord.gg/HqSr3w">#psychology</a>
+            </li>
           </ul>
         </td>
     </tr>

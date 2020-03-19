@@ -3,6 +3,7 @@
 * [Координаційний центр по припиненню розповсюдження коронавірусу в Україні](README.md)
 * [Список ініціатив та проєктів](upravlenie-pandemiei/README.md)
   * [Громадяни](upravlenie-pandemiei/gromadyani.md)
+  * [Психологам, психотерапевтам, психиатрам](upravlenie-pandemiei/psikhologam-psikhoterapevtam-psikhiatram.md)
   * [Уряд](upravlenie-pandemiei/organy-gos-upravleniya.md)
   * [Система охорони здоров'я](upravlenie-pandemiei/sistema-zdravookhraneniya.md)
   * [Неприбуткові і громадські організації](upravlenie-pandemiei/ngo-obshestvennyi-sektor.md)
