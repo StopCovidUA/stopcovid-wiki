@@ -5,7 +5,7 @@
 * [Психологам, психотерапевтам, психиатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
 * [Неприбутковим і громадськім організаціям](ngo-obshestvennyi-sektor.md)
 * [Школам та ВНЗ](udalennoe-i-onlain-obrazovanie.md)
-* [Системі охорони здоров'я](sistema-zdravookhraneniya.md)
+* [Медікам](sistema-zdravookhraneniya.md)
 * [Бізнесу](biznesy.md)
 * [Медіа, інфлюенсерам, творчім людям](media-inflyuensery-kreatory.md)
 * [Уряду та держ органам](organy-gos-upravleniya.md)

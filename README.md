@@ -22,7 +22,7 @@
 * [Психологам, психотерапевтам, психиатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
 * [Уряду та держ органам](organy-gos-upravleniya.md)
 * [Неприбутковим і громадськім організаціям](ngo-obshestvennyi-sektor.md)
-* [Системі охорони здоров'я](sistema-zdravookhraneniya.md)
+* [Медікам](sistema-zdravookhraneniya.md)
 * [Бізнесу](biznesy.md)
 * [Медіа, інфлюенсерам, творчім людям](media-inflyuensery-kreatory.md)
 * [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
