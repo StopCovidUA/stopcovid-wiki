@@ -12,6 +12,7 @@
 
 ## Идеи
 
+* [Як правильно допомагати лікарням, або Чи треба в кожну районну апарати ШВЛ](https://life.pravda.com.ua/columns/2020/03/19/240279/)
 * [глобальный пример](https://www.covid19responsefund.org/)
 * Криптофонд
 * [https://biggggidea.com/](https://biggggidea.com/)
