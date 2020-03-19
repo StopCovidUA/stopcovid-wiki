@@ -18,7 +18,6 @@
 * [Все про коронавірус \(SARS-CoV-2\)](proekti/o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](proekti/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/README.md)
-  * [Мемы](proekti/informacionnaya-kampaniya/memy.md)
   * [Comms 18.03](proekti/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](proekti/informacionnaya-kampaniya/comms-19.03.md)
 * [Психологічна та емоційна підтримка](proekti/psychological-support/README.md)
