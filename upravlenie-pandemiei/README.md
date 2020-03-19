@@ -18,11 +18,6 @@
 
 * [Инфо по онлайн образованию](../udalennoe-i-onlain-obrazovanie.md)
 
-## Глобальное движение
-
-* Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
-* [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
-
 ## Идеи
 
 * [Разговор группы unDavos по теме коронавируса](https://www.notion.so/4irelabs/Covid-call-15-03-7dd305c3c1534cfc90a4389a3f289740)
