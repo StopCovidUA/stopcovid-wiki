@@ -15,8 +15,7 @@
 * [Українська Волонтерська Служба](https://volunteer.country/)
 * [Global Shapers Kyiv Hub](https://www.globalshapers.kyiv.ua/)
 * [Wtech](https://www.facebook.com/wtechukraine/)
-* Biggggidea
-* Impact Hub Odessa
+* [Biggggidea](https://biggggidea.com/)
 
 Другие инициативы:
 
