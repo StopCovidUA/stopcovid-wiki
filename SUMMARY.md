@@ -36,5 +36,4 @@
 * [Tactical 17.03](organizaciya/tactical-17.03.md)
 * [Tactical 18.03](organizaciya/tactical-18.03.md)
 * [Tactical 19.04](organizaciya/tactical-19.04.md)
-* [Координация волонтеров](organizaciya/zadachi-dlya-volonterov.md)
 
