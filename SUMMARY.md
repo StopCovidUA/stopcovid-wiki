@@ -7,6 +7,7 @@
   * [Неприбуткові і громадські організації](upravlenie-pandemiei/ngo-obshestvennyi-sektor.md)
   * [Бізнес](upravlenie-pandemiei/biznesy.md)
   * [Медія, інфлюенсери, творчі люди](upravlenie-pandemiei/media-inflyuensery-kreatory.md)
+  * [Громадяни](upravlenie-pandemiei/gromadyani.md)
 * [Все про коронавірус \(SARS-CoV-2\)](o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
   * [Пройти тест](o-koronaviruse/proiti-test.md)
