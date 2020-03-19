@@ -98,6 +98,11 @@
 * Законна ли изоляция?
 * Когда закончится карантин?
 
+## Краща работа
+
+* [https://shatyrko.com/forpeople](https://shatyrko.com/forpeople)
+* Федоров: Папа Бренда
+
 ## Идеи
 
 * [Як допомогти під час епідемії коронавірусу?](https://volunteer.country/covid_diy)
