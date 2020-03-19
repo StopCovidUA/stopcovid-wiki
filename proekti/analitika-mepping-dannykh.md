@@ -43,6 +43,7 @@
 * [Applications welcome from startups and SMEs with innovative solutions to tackle Coronavirus outbreak](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en)
 * [ЄС оголошує конкурс інноваційних рішень для боротьби зі спалахом коронавірусу](https://euprostir.org.ua/opportunities/148570)
 * science shapers
+* [ http://v2020.org.ua](%20http://v2020.org.ua)
 
 [Sanju 'Amorn' Sachamuneewongse](https://www.facebook.com/awesomesanju?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTE0MjQ2MDQyMDk0MDU%3D) In Thailand they have created a Thailand Digital Covid Group to bring in all working in programming and tech to create the easiest way to track cases within Thailand and find out which stores have masks and hand sanitizers available and how many.
 

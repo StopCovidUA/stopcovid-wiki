@@ -27,15 +27,9 @@
 * [Школи и ВНЗ](udalennoe-i-onlain-obrazovanie.md)
 * [Громадяни](gromadyani.md) \(включая уязвимые группы: пожилые, беременные, люди без дохода\)
 
-
-
-* [Органы гос управления](organy-gos-upravleniya.md)
-* [Система здравоохранения](sistema-zdravookhraneniya.md)
-* * [Бизнес](biznesy.md)
-* [Медиа, инфлюенсеры, креаторы](media-inflyuensery-kreatory.md)
-
 ## Проєкти
 
+* [Информационная кампания](proekti/informacionnaya-kampaniya/)
 * [Список инициатив и запросов](upravlenie-pandemiei.md) \(Макс\)
 * [Аналитическая платформа](proekti/analitika-mepping-dannykh.md) \(нужен координатор\)
 * [Сеть заботы](proekti/dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов \(Дим\)

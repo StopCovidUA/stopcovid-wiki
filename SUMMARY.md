@@ -20,6 +20,8 @@
 
 ## Проекти
 
+* [Информационная кампания](proekti/informacionnaya-kampaniya/README.md)
+  * [Comms 18.03](proekti/informacionnaya-kampaniya/comms-18.03.md)
 * [Психологічна та емоційна підтримка](proekti/psychological-support.md)
 * [Життєлюб: Сиди Вдома](proekti/dostavka-produktov-i-medikamentov.md)
 * [Поставка масок, ІВЛ апаратів та антисептиків](proekti/proizvodstvo-ivl-apparatov.md)
@@ -35,7 +37,5 @@
 * [Tactical 17.03](organizaciya/tactical-17.03.md)
 * [Tactical 18.03](organizaciya/tactical-18.03.md)
 * [Tactical 19.04](organizaciya/tactical-19.04.md)
-* [Информационная кампания](organizaciya/informacionnaya-kampaniya/README.md)
-  * [Comms 18.03](organizaciya/informacionnaya-kampaniya/comms-18.03.md)
 * [Координация волонтеров](organizaciya/zadachi-dlya-volonterov.md)
 
