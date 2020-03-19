@@ -29,7 +29,6 @@
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
 * [Фонди допомоги](proekti/fond-pomoshi.md)
 * [Онлайн курс для мед волонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
-* [Перехід на віддалену роботу](proekti/online-work.md)
 
 ## Организация
 
