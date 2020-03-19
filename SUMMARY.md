@@ -29,7 +29,7 @@
 * [Фонди допомоги](proekti/fond-pomoshi.md)
 * [Онлайн курс для мед волонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
 
-## Организация
+## Організація
 
 * [🚀 Начать работу \(онбординг\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [Tactical 16.03](organizaciya/tactical-16.03.md)
