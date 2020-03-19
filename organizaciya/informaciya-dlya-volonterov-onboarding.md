@@ -62,8 +62,6 @@
         </td>
         <td style="text-align:left">
           <ul>
-            <li><a href>&#x421;&#x43F;&#x438;&#x441;&#x43E;&#x43A; &#x438;&#x43D;&#x438;&#x446;&#x438;&#x430;&#x442;&#x438;&#x432; &#x438; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x43E;&#x432;</a>
-            </li>
             <li><a href="https://discord.gg/BwaaJV">#&#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x43E;&#x439;</a> &#x43A;&#x430;&#x43D;&#x430;&#x43B;</li>
             <li><a href="https://discord.gg/48wYFF">#coordination</a>
             </li>
