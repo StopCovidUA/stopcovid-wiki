@@ -29,4 +29,5 @@
 * [https://www.facebook.com/groups/670932227050506/](https://www.facebook.com/groups/670932227050506/)
 * [https://www.forbes.com/sites/alexandrasternlicht/2020/03/18/theres-a-shortage-of-ventilators-for-coronavirus-patients-so-this-international-group-invented-an-open-source-alternative-thats-being-tested-next-week/](https://www.forbes.com/sites/alexandrasternlicht/2020/03/18/theres-a-shortage-of-ventilators-for-coronavirus-patients-so-this-international-group-invented-an-open-source-alternative-thats-being-tested-next-week/)
 * [https://www.facebook.com/Fabricator.me/posts/3415059838521130](https://www.facebook.com/Fabricator.me/posts/3415059838521130)
+* [https://ark-ukraine.com.ua/product/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80-%D0%B4%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D1%81%D0%BF%D0%B8/](https://ark-ukraine.com.ua/product/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80-%D0%B4%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D1%81%D0%BF%D0%B8/)
 
