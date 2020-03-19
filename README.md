@@ -69,6 +69,7 @@
 ## Поддержите проект и оставайтесь на связи
 
 * Поделитесь этим материлом в соц сетях ❤️
+* Сайт обновляется много раз за день – следите за обновлениями
 * [Подпишитесь на telegram-канал с обновлениями](https://t.me/stopcoviduaupdates) 
 * и[ наш инстаграм](https://www.instagram.com/stopcovidua/)
 * Почта: [stopcoviduanow@gmail.com](mailto:stopcoviduanow@gmail.com)
