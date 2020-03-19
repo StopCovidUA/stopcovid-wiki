@@ -1,8 +1,17 @@
 # Медіа, інфлюенсерам, творчим людям
 
-Позаботиться о своей аудитории
+Задача: Позаботиться о своей аудитории.
 
-* [Психологическая/эмоциональная поддержка во время карантина](proekti/psychological-support/)
-* [Сеть заботы для соседей](proekti/dostavka-produktov-i-medikamentov/)
-* [В Одессе предлагают создать творческое онлайн-пространство](https://www.youtube.com/watch?v=YRBPhGujWHc)
+## Проекти
+
+Помогите осветить или подключитесь в проекты, пожалуйста.
+
+* [Все про коронавірус \(SARS-CoV-2\)](proekti/o-koronaviruse/)
+* [Інформаційна кампанія](proekti/informacionnaya-kampaniya/)
+* [Психологічна та емоційна підтримка](proekti/psychological-support/)
+* [Система постачання](proekti/dostavka-produktov-i-medikamentov/)
+* [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
+* [Онлайн-курс для медволонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
+* [Збірка та модифікація ШВЛ](proekti/sborka-i-modifikaciya-ivl.md)
+* [Фонди допомоги](proekti/fond-pomoshi.md)
 
