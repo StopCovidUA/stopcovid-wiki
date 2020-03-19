@@ -12,8 +12,8 @@
 * [Система охорони здоров'я](sistema-zdravookhraneniya.md)
 * [Бізнес](biznesy.md)
 * [Автомотобилисты](avtomotobilisty.md)
-* [Медія, інфлюенсери, творчі люди](media-inflyuensery-kreatory.md)
-* [Школи та ВНЗ](udalennoe-i-onlain-obrazovanie.md)
+* [Медіа, інфлюенсерам, творчім людям](media-inflyuensery-kreatory.md)
+* [Школам та ВНЗ](udalennoe-i-onlain-obrazovanie.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
 
