@@ -31,7 +31,7 @@
 ## Проекти
 
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/)
-* [Психологическая и эмоциональная поддержка](proekti/psychological-support/) 
+* [Психологічна та емоційна підтримка](proekti/psychological-support/)
 * [Аналитическая платформа](proekti/analitika-mepping-dannykh.md) \(нужен координатор\)
 * [Сеть заботы](proekti/dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов \(Дим\)
 * * [Онлайн курс для мед волонтеров](proekti/onlain-kurs-dlya-med-volonterov.md) \(нужен координатор\)

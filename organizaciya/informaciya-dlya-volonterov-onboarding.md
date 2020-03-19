@@ -71,33 +71,31 @@
         </td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x41A;&#x43E;&#x43C;&#x43C;&#x443;&#x43D;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x438;
-        &#x438; &#x43C;&#x430;&#x440;&#x43A;&#x435;&#x442;&#x438;&#x43D;&#x433;</td>
-      <td
-      style="text-align:left">
+      <td style="text-align:left">&#x406;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x456;&#x439;&#x43D;&#x430;
+        &#x43A;&#x430;&#x43C;&#x43F;&#x430;&#x43D;&#x456;&#x44F;</td>
+      <td style="text-align:left">
         <ul>
-          <li><a href="https://t.me/dianatheking">&#x414;&#x438;&#x430;&#x43D;&#x430; &#x41A;&#x438;&#x43D;&#x433;</a>
-          </li>
+          <li><a href="https://t.me/dianatheking">&#x414;&#x438;&#x430;&#x43D;&#x430; &#x41A;&#x438;&#x43D;&#x433;</a> (&#x43E;&#x43D;&#x431;&#x43E;&#x440;&#x434;&#x438;&#x442;)</li>
           <li><a href="https://t.me/juliabenyukh">&#x42E;&#x43B;&#x44F;</a>
           </li>
           <li><a href="https://t.me/SayaSemenchuk">&#x421;&#x430;&#x44F;</a>
           </li>
         </ul>
-        </td>
-        <td style="text-align:left">
-          <ul>
-            <li><a href="../proekti/informacionnaya-kampaniya/">&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x43F;&#x430;&#x43D;&#x438;&#x44F;</a>
-            </li>
-            <li><a href="https://discord.gg/bK7e78">#marketing-pr</a>
-            </li>
-            <li><a href="https://trello.com/b/6DCyBJA1/marketing-pr">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x43F;&#x43E; &#x43C;&#x430;&#x440;&#x43A;&#x435;&#x442;&#x438;&#x43D;&#x433;&#x443;</a>
-            </li>
-            <li><a href="https://trello.com/b/xjcCv4vB/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x437;&#x430;&#x434;&#x430;&#x447; &#x43F;&#x43E; &#x43A;&#x43E;&#x43C;&#x43C;&#x443;&#x43D;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x44F;&#x43C;</a>
-            </li>
-            <li><a href="https://t.me/StopCovidYouTube">StopCovid Youtube</a>
-            </li>
-          </ul>
-        </td>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li><a href="../proekti/informacionnaya-kampaniya/">&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x43F;&#x430;&#x43D;&#x438;&#x44F;</a>
+          </li>
+          <li><a href="https://discord.gg/bK7e78">#marketing-pr</a>
+          </li>
+          <li><a href="https://trello.com/b/6DCyBJA1/marketing-pr">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x43F;&#x43E; &#x43C;&#x430;&#x440;&#x43A;&#x435;&#x442;&#x438;&#x43D;&#x433;&#x443;</a>
+          </li>
+          <li><a href="https://trello.com/b/xjcCv4vB/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x437;&#x430;&#x434;&#x430;&#x447; &#x43F;&#x43E; &#x43A;&#x43E;&#x43C;&#x43C;&#x443;&#x43D;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x44F;&#x43C;</a>
+          </li>
+          <li><a href="https://t.me/StopCovidYouTube">StopCovid Youtube</a>
+          </li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">&#x414;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x43A;&#x438;</td>
