@@ -6,9 +6,9 @@
 
 Проекты:
 
-* [Поставка ИВЛ аппаратов](../proizvodstvo-ivl-apparatov.md)
-* [Онлайн курс для мед волонтеров](../onlain-kurs-dlya-med-volonterov.md)
-* [Сеть заботы](../dostavka-produktov-i-medikamentov.md)
+* [Поставка ИВЛ аппаратов](proekti/proizvodstvo-ivl-apparatov.md)
+* [Онлайн курс для мед волонтеров](proekti/onlain-kurs-dlya-med-volonterov.md)
+* [Сеть заботы](proekti/dostavka-produktov-i-medikamentov.md)
 * Monitoring
 * Distributed healthcare
 

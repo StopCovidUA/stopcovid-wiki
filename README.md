@@ -18,29 +18,52 @@
 
 ## Решения для групп
 
-* [Уязвимые группы](upravlenie-pandemiei/#uyazvimye-gruppy-naseleniya) \(пожилые, беременные, люди без дохода\)
-* [Бизнесы](upravlenie-pandemiei/biznesy.md)
-* [Органы гос управления](upravlenie-pandemiei/organy-gos-upravleniya.md)
-* [Система здравоохранения и медперсонал](upravlenie-pandemiei/sistema-zdravookhraneniya.md)
-* [Медиа, инфлюенсеры, креаторы](upravlenie-pandemiei/media-inflyuensery-kreatory.md)
+* [Бізнес](biznesy.md)
+* [Органы гос управления](organy-gos-upravleniya.md)
+* [NGO / Общественный сектор](ngo-obshestvennyi-sektor.md)
+* [Система здравоохранения и медперсонал](sistema-zdravookhraneniya.md)
+* [Медиа, инфлюенсеры, креаторы](media-inflyuensery-kreatory.md)
 * [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
-* [Школы и ВУЗы](upravlenie-pandemiei/#shkoly-i-vuzy)
-* [Гражданское население](upravlenie-pandemiei/#grazhdane)
+* [Школи и ВНЗ](udalennoe-i-onlain-obrazovanie.md)
+* [Громадяни](gromadyani.md) \(включая уязвимые группы: пожилые, беременные, люди без дохода\)
+
+
+
+* [Органы гос управления](organy-gos-upravleniya.md)
+* [Система здравоохранения](sistema-zdravookhraneniya.md)
+* * [Бизнес](biznesy.md)
+* [Медиа, инфлюенсеры, креаторы](media-inflyuensery-kreatory.md)
 
 ## Проєкти
 
-* [Список инициатив и запросов](upravlenie-pandemiei/) \(Макс\)
-* [Аналитическая платформа](analitika-mepping-dannykh.md) \(нужен координатор\)
-* [Сеть заботы](dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов \(Дим\)
-* [Психологическая и эмоциональная поддержка](psychological-support.md) \(Сая\)
-* [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md) \(нужен координатор\)
-* [Производство ИВЛ аппаратов](proizvodstvo-ivl-apparatov.md) \(Алекс\)
-* [Фонд помощи](fond-pomoshi.md) \(нужен координатор\)
-* [Маски](https://github.com/StopCovidUA/stopcovid/tree/79a4db4e9fc0bf68847b1d7e13778590969be4a5/maski.md) \(потрібен координатор\)
+* [Список инициатив и запросов](upravlenie-pandemiei.md) \(Макс\)
+* [Аналитическая платформа](proekti/analitika-mepping-dannykh.md) \(нужен координатор\)
+* [Сеть заботы](proekti/dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов \(Дим\)
+* [Психологическая и эмоциональная поддержка](proekti/psychological-support.md) \(Сая\)
+* [Онлайн курс для мед волонтеров](proekti/onlain-kurs-dlya-med-volonterov.md) \(нужен координатор\)
+* [Производство ИВЛ аппаратов](proekti/proizvodstvo-ivl-apparatov.md) \(Алекс\)
+* [Фонд помощи](proekti/fond-pomoshi.md) \(нужен координатор\)
 
 {% hint style="warning" %}
 Уже что-то делаете, помогаете или нужна помощь? [Подключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 {% endhint %}
+
+## Существующие центры:
+
+* [Одесса vs COVID. Антикризисный штаб в Одесской области](https://www.facebook.com/Odessa.vs.COVID/posts/102525188057335)
+
+{% hint style="info" %}
+Общая рекомендация: это новая и запутанная ситуация, и существуют много неопределенности и различия во мнениях. Я настоятельно призываю каждого добровольца как можно более конструктивно выражать свои оценки осуществимости различных планов и лично сосредоточиться на любой задаче, которая, по вашему мнению, будет иметь наибольшее значение в наше время. Спасибо, сделайте хорошую работу и будьте в безопасности.
+{% endhint %}
+
+## Школы и ВУЗы
+
+* [Инфо по онлайн образованию](udalennoe-i-onlain-obrazovanie.md)
+
+## Глобальное движение
+
+* Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
+* [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
 
 ## Онлайн конференции и события
 

@@ -1,4 +1,4 @@
-# Поставка ІВЛ апаратів
+# Поставка масок, ІВЛ апаратів та антисептиків
 
 ## Поставки
 
@@ -30,4 +30,28 @@
 * [https://www.forbes.com/sites/alexandrasternlicht/2020/03/18/theres-a-shortage-of-ventilators-for-coronavirus-patients-so-this-international-group-invented-an-open-source-alternative-thats-being-tested-next-week/](https://www.forbes.com/sites/alexandrasternlicht/2020/03/18/theres-a-shortage-of-ventilators-for-coronavirus-patients-so-this-international-group-invented-an-open-source-alternative-thats-being-tested-next-week/)
 * [https://www.facebook.com/Fabricator.me/posts/3415059838521130](https://www.facebook.com/Fabricator.me/posts/3415059838521130)
 * [https://ark-ukraine.com.ua/product/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80-%D0%B4%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D1%81%D0%BF%D0%B8/](https://ark-ukraine.com.ua/product/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80-%D0%B4%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D1%81%D0%BF%D0%B8/)
+
+## Маски
+
+ну в общем маски возможны, с тканью тяжело, она выросла в цене,сейчас согласовывают цену,жду ответа по цене, но их можно будет шить только без верхних фиксаторов
+
+на носу пластикового фиксатора не будет
+
+с фиксатором они вообще золотые выходят и времени безумно много займет, у нас нет тех производительных мощностей,чтобы делать эту работу автоматически, а вручную это долго и дорого
+
+и цена может быть ниже если не заморачиваться на красоту, резинку берем не эту круглую, а обычную
+
+5 грн,мин партия 2 тысячи шт
+
+{% embed url="https://www.facebook.com/Aleksamydream/" %}
+
+* [Маски](https://github.com/StopCovidUA/stopcovid/tree/79a4db4e9fc0bf68847b1d7e13778590969be4a5/maski.md) \(потрібен координатор\)
+
+## Антисептик
+
+* ...
+
+## Аппараты ИВЛ 
+
+Поставщик ИВЛ аппаратов и другого медицинского оборудования. Попал к вам на канал и увидел пустые разделы. Если интересно - можем обсудить детали
 

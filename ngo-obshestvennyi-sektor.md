@@ -13,7 +13,7 @@
 
 ## Продукты
 
-* [Аналитическая платформа](../analitika-mepping-dannykh.md)
+* [Аналитическая платформа](proekti/analitika-mepping-dannykh.md)
 
 ## Идеи
 

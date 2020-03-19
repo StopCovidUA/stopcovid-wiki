@@ -10,8 +10,8 @@
 ## Проекты
 
 * [Група фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) – запросы что нужно сообществам
-* [Переход на удаленную работу](../online-work.md)
-* [Аналитическая платформа](../analitika-mepping-dannykh.md)
+* [Переход на удаленную работу](proekti/online-work.md)
+* [Аналитическая платформа](proekti/analitika-mepping-dannykh.md)
 
 ## Социальная ответственность
 
