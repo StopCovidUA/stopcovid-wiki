@@ -20,13 +20,13 @@
 
 * [Громадянам](gromadyani.md) \(включая уязвимые группы: пожилые, беременные, люди без дохода\)
 * [Психологам, психотерапевтам, психиатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
-* [Уряду та держ органам](organy-gos-upravleniya.md)
 * [Неприбутковим і громадськім організаціям](ngo-obshestvennyi-sektor.md)
 * [Медікам](sistema-zdravookhraneniya.md)
+* [Школам та ВНЗ](udalennoe-i-onlain-obrazovanie.md)
 * [Бізнесу](biznesy.md)
 * [Медіа, інфлюенсерам, творчім людям](media-inflyuensery-kreatory.md)
 * [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
-* [Школам та ВНЗ](udalennoe-i-onlain-obrazovanie.md)
+* [Уряду та держ органам](organy-gos-upravleniya.md)
 
 ## Проекти
 
