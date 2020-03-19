@@ -37,7 +37,7 @@
 * [Школы и ВУЗы](upravlenie-pandemiei/#shkoly-i-vuzy)
 * [Гражданское население](upravlenie-pandemiei/#grazhdane)
 
-## Проекты
+## Проєкти
 
 * [Список инициатив и запросов](upravlenie-pandemiei/) \(Макс\)
 * [Аналитическая платформа](analitika-mepping-dannykh.md) \(нужен координатор\)
@@ -46,6 +46,7 @@
 * [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md) \(нужен координатор\)
 * [Производство ИВЛ аппаратов](proizvodstvo-ivl-apparatov.md) \(Алекс\)
 * [Фонд помощи](fond-pomoshi.md) \(нужен координатор\)
+* [Маски](maski.md) \(потрібен координатор\)
 
 {% hint style="warning" %}
 Уже что-то делаете, помогаете или нужна помощь? [Подключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md)
