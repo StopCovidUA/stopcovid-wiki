@@ -166,9 +166,11 @@
         </td>
         <td style="text-align:left">
           <ul>
-            <li><a href="https://t.me/keepcalmanddontpanic">&#x43A;&#x430;&#x43D;&#x430;&#x43B; &#x432; &#x442;&#x435;&#x43B;&#x435;&#x433;&#x440;&#x430;&#x43C;&#x435;</a>
+            <li><a href="https://t.me/keepcalmanddontpanic">&#x43A;&#x430;&#x43D;&#x430;&#x43B; &#x434;&#x43B;&#x44F; &#x43F;&#x441;&#x438;&#x445;&#x43E;&#x43B;&#x43E;&#x433;&#x43E;&#x432; &#x432; &#x442;&#x435;&#x43B;&#x435;&#x433;&#x440;&#x430;&#x43C;&#x435;</a>
             </li>
             <li><a href="https://discord.gg/HqSr3w">#psychology</a>
+            </li>
+            <li><a href="https://t.me/bezpaniky">&#x43A;&#x430;&#x43D;&#x430;&#x43B; &quot;&#x431;&#x435;&#x437; &#x43F;&#x430;&#x43D;&#x456;&#x43A;&#x438;&quot; &#x43A;&#x43E;&#x43C;&#x443; &#x43D;&#x443;&#x436;&#x43D;&#x430; &#x43F;&#x43E;&#x43C;&#x43E;&#x449;&#x44C;</a>
             </li>
           </ul>
         </td>
