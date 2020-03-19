@@ -9,13 +9,13 @@
 * [Бізнесу](biznesy.md)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
 * [Уряду та держорганам](organy-gos-upravleniya.md)
-* [Все про коронавірус \(SARS-CoV-2\)](o-koronaviruse/README.md)
-  * [Саміт по коронавірусу. Базова інформація](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
 
 ## Проекти
 
+* [Все про коронавірус \(SARS-CoV-2\)](proekti/o-koronaviruse/README.md)
+  * [Саміт по коронавірусу. Базова інформація](proekti/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/README.md)
   * [Comms 18.03](proekti/informacionnaya-kampaniya/comms-18.03.md)
 * [Психологічна та емоційна підтримка](proekti/psychological-support/README.md)

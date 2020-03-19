@@ -16,7 +16,7 @@
 
 * [Психологическая/эмоциональная поддержка во время карантина](proekti/psychological-support/)
 * [Сеть заботы для соседей](proekti/dostavka-produktov-i-medikamentov/)
-* [Все про коронавірус \(SARS-CoV-2\)](o-koronaviruse/)
+* [Все про коронавірус \(SARS-CoV-2\)](proekti/o-koronaviruse/)
 * [Переход на удаленную работу](biznesy.md#sovety-po-udalennoi-rabote)
 * [Folding@home](https://github.com/FoldingAtHome/coronavirus) – Компания NVIDIA, занимающаяся производством видеокарт, призывает всех геймеров поучаствовать в проекте  — это глобальная сеть компьютеров для вычислений, которая будет использовать вашу видеокарту. Проект существует с 2000 года, и в данный момент занимается поиском вакцины от коронавируса с помощью сложных вычислений.
 * [Медичний центр "Педіатрія з любов'ю"](https://www.facebook.com/pediatrics.with.love/?__tn__=K-R&eid=ARBRztkN4cfwcxYglNyW0h_ncS9CYdNZ7ZDOKkR6OG5NeYe4GqynGdQDoGFEqk9wR612wFiUNUHL_QBV&fref=mentions&__xts__%5B0%5D=68.ARCwJqIFrwjfpWfb8PL1HlrcgIx9pu270nWes7Puou_YsG3OqwqPNcdRu3O1ECqGsabPzJmzpeegqVMFALk55fcLlU_ghTPiXFTZ6t42XckGACvw8SXVvLwEb2N6akKyCfAYj9Ddn6p7r5Gs07PnayivR1Mep62CEAECpmJiW97k9nt3xFrJHleb1wvdYKs02ENZCn_3l5xCQZxepVBlSfz80-KNffIbZkAk1lIDJ3qwmc1xUMop8ppbQ-5h7XXwfFl8XqXnXCTXT6LV6BMVpmcjDk-ccfkNdz7Aq7AR1L5zuFP2pOiwVaPgccSuQHVwar76Q-B_jzLo-beTveJkScQ3CSIW) переглянули процеси роботи, щоби пацієнти не переривали планові візити до лікарів. А у випадку тривожних симптомів — не боялися їхати до лікаря. Там тепер здорові діти приходять на планові огляди в одну половину дня. Діти, які захворіли — в іншу половину дня. Час на кожен прийом збільшено, щоби гарно провітрювати кабінети. У центрі закликають не відмовлятися від планової вакцинації, адже після завершення пандемії коронавірусу, можуть початися спалахи інших інфекційних хвороб. За умови симптомів коронавірусу, в огляді може бути відмовлено. Але центр пропонує послуги онлайн-консультацій. [http://bit.ly/2TUlEc6](https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2TUlEc6%3Ffbclid%3DIwAR09tdoaQBmZ1lOXlTlB7hY3MVsQsb9lTAXnTFWVuXpbhqmhN5VjnY370OY&h=AT0OyPuVAShHgmE8vbtYuEEwBbPVAHhDugGNlNHMPISdRN53HhyK9Nrev0yj1TUPUfQAkGf5NkI3yZDTwiqc2W0trhNofFeLjA6j2A_PNa8SvDRMbtrh4uWTIWAfyqrne-w55Fvo3YhSEKJYbvzBOgAFxrASnHogDwTb-awjKJhdMK-yzJ4UBx0PxEvqbbGuAfgdBnCRIx3grAj3Po3yCmAfkiskmcwC7DptWosH26XO31Kyf9Tc9VMExTMHc4nRiFNUyMu6BpMNzBF71ftLCndbbTaHD_xoMfagew01HiHoEHp8H-g2AbKdS-MKZEUqXIKZSg2kPzVon1cP9VFL4JBCPlPxTyujcsUqNZgQsJApF3ZUnPuMi2rOh86DjiTo-TTDfOnTf0qQAl2j7etIPAEMIBnuxtaPk9MceoGeynAkvRk6STNjBzgAfvPcISl93OV04OLMN8_qkLzYmUyS9RjBzOUKjaj-ydjza-T2voqmpxASSepraOxd1NN7buYvlp-2ahhfISKqIH1Ty1OXakhA3RYcDARkoQ6hKWy3ok2NR56Km4Z3ycD8sWoOD9KYR8kDZUx1T7gS5ETmW23U6AoAAnEY9CH0jcpNXdHPRjlT1QwXLDAlXmPwCqA7Iosh0msZw4GhIxk)
@@ -41,7 +41,7 @@
 
 ## Зробити експрес-тест на коронавірус
 
-[Больше про вирус и симптомы на странице про вирус ](o-koronaviruse/)
+[Больше про вирус и симптомы на странице про вирус ](proekti/o-koronaviruse/)
 
 У столиці перевіритися на наявність COVID-19 можна в двох медзакладах: Київській національній референс-лабораторії \(вул. Ярославська, 41\) та Київській обласній інфекційній лабораторії \(вул. Багговутівська, 1\).
 
