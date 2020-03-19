@@ -1,10 +1,6 @@
 # Table of contents
 
 * [Координаційний центр по зупиненню епідемії коронавірусу в Україні](README.md)
-* [Все про коронавірус \(SARS-CoV-2\)](o-koronaviruse/README.md)
-  * [Саміт по коронавірусу. Базова інформація](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
-  * [Пройти тест](o-koronaviruse/proiti-test.md)
-  * [Якщо ви в іншій країні](o-koronaviruse/buduchi-v-drugoi-strane.md)
 * [Громадянам](gromadyani.md)
 * [Психологам, психотерапевтам, психиатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
 * [Уряду та держ органам](organy-gos-upravleniya.md)
@@ -13,6 +9,10 @@
 * [Бізнесу](biznesy.md)
 * [Медіа, інфлюенсерам, творчім людям](media-inflyuensery-kreatory.md)
 * [Школам та ВНЗ](udalennoe-i-onlain-obrazovanie.md)
+* [Все про коронавірус \(SARS-CoV-2\)](o-koronaviruse/README.md)
+  * [Саміт по коронавірусу. Базова інформація](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
+  * [Пройти тест](o-koronaviruse/proiti-test.md)
+  * [Якщо ви в іншій країні](o-koronaviruse/buduchi-v-drugoi-strane.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
 
