@@ -70,5 +70,5 @@
 * и[ наш инстаграм](https://www.instagram.com/stopcovidua/)
 * Почта: [stopcoviduanow@gmail.com](mailto:stopcoviduanow@gmail.com)
 
-![&#x41A;&#x430;&#x43A; &#x443; &#x43D;&#x430;&#x441; &#x434;&#x435;&#x43B;&#x430;?](.gitbook/assets/image%20%285%29.png)
+![&#x42F;&#x43A; &#x432; &#x43D;&#x430;&#x441; &#x441;&#x43F;&#x440;&#x430;&#x432;&#x438;?](.gitbook/assets/image%20%285%29.png)
 
