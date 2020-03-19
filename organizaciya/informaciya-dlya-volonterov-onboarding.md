@@ -29,7 +29,7 @@
 
 ## Организация
 
-* Работа в команде в [дискорд](https://discord.gg/AebMHV) 
+* Работа в команде в [дискорд](https://discord.gg/Ua4nnXZ)
 * Свободные обсуждения в [телеграм](https://t.me/stopcovidua)
 * Список задач тут [трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board) \(инвайт в ссылке\)
 * Еще [телеграм-канал](https://t.me/scutasks) с задачами
@@ -66,9 +66,7 @@
         </td>
         <td style="text-align:left">
           <ul>
-            <li><a href="https://discord.gg/BwaaJV">#&#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x43E;&#x439;</a> &#x43A;&#x430;&#x43D;&#x430;&#x43B;</li>
-            <li><a href="https://discord.gg/48wYFF">#coordination</a>
-            </li>
+            <li><a href="https://discord.gg/MxT4axM">#&#x433;&#x43E;&#x43B;&#x43E;&#x432;&#x43D;&#x438;&#x439;</a> &#x43A;&#x430;&#x43D;&#x430;&#x43B;</li>
             <li><a href="https://trello.com/b/IkonsFAY/main-board">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x437;&#x430;&#x434;&#x430;&#x447; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x430;&#x44F;</a>
             </li>
           </ul>
@@ -90,7 +88,7 @@
         <ul>
           <li><a href="../proekti/informacionnaya-kampaniya/">&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x430;&#x44F; &#x43A;&#x430;&#x43C;&#x43F;&#x430;&#x43D;&#x438;&#x44F;</a>
           </li>
-          <li><a href="https://discord.gg/bK7e78">#marketing-pr</a>
+          <li><a href="https://discord.gg/5t6zMtv">#marketing-pr</a>
           </li>
           <li><a href="https://trello.com/b/6DCyBJA1/marketing-pr">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x43F;&#x43E; &#x43C;&#x430;&#x440;&#x43A;&#x435;&#x442;&#x438;&#x43D;&#x433;&#x443;</a>
           </li>
@@ -106,7 +104,7 @@
       <td style="text-align:left"></td>
       <td style="text-align:left">
         <ul>
-          <li>&#x41A;&#x430;&#x43D;&#x430;&#x43B; <a href="https://discord.gg/3vC9eE">#automotohelp</a>
+          <li>&#x41A;&#x430;&#x43D;&#x430;&#x43B; <a href="https://discord.gg/Ua4nnXZ">#automotohelp</a>
           </li>
           <li><a href="https://invite.viber.com/?g2=AQBHheXMx8WdIUs7enKGTuTImM%2BfvzM1OqLOmk6z3P%2FZIJgZ0nCx55Ef70tDNmR1">&#x413;&#x440;&#x443;&#x43F;&#x43F;&#x430; Viber &#x434;&#x43B;&#x44F; &#x43F;&#x43E;&#x43C;&#x43E;&#x449;&#x438; &#x43C;&#x435;&#x434;&#x438;&#x43A;&#x430;&#x43C;</a>
           </li>
@@ -124,7 +122,7 @@
         </td>
         <td style="text-align:left">
           <ul>
-            <li><a href="https://discord.gg/SDyFFp">#ngo</a>
+            <li><a href="https://discord.gg/CnrNBFy">#ngo</a>
             </li>
           </ul>
         </td>
@@ -142,9 +140,9 @@
         </td>
         <td style="text-align:left">
           <ul>
-            <li><a href="https://discord.gg/cYpXFu">#business-coordination</a>
+            <li><a href="https://discord.gg/dAxktjE">#business-coordination</a>
             </li>
-            <li><a href="https://discord.gg/2j9zKP">#&#x431;&#x456;&#x437;&#x43D;&#x435;&#x441;-&#x43F;&#x456;&#x434;&#x442;&#x440;&#x438;&#x43C;&#x43A;&#x430;</a>
+            <li><a href="https://discord.gg/dPWBQeN">#&#x431;&#x456;&#x437;&#x43D;&#x435;&#x441;-&#x43F;&#x456;&#x434;&#x442;&#x440;&#x438;&#x43C;&#x43A;&#x430;</a>
             </li>
           </ul>
         </td>
@@ -163,7 +161,7 @@
         </td>
         <td style="text-align:left">
           <ul>
-            <li><a href="https://discord.gg/HnX9sw">#volunteers</a>
+            <li><a href="https://discord.gg/DX883hY">#volunteers</a>
             </li>
             <li><a href="https://t.me/scutasks">StopCovidUA Tasks &#x432; &#x442;&#x435;&#x43B;&#x435;&#x433;&#x440;&#x430;&#x43C;&#x435;</a>
             </li>
@@ -180,7 +178,7 @@
           <ul>
             <li><a href="https://t.me/keepcalmanddontpanic">&#x43A;&#x430;&#x43D;&#x430;&#x43B; &#x434;&#x43B;&#x44F; &#x43F;&#x441;&#x438;&#x445;&#x43E;&#x43B;&#x43E;&#x433;&#x43E;&#x432; &#x432; &#x442;&#x435;&#x43B;&#x435;&#x433;&#x440;&#x430;&#x43C;&#x435;</a>
             </li>
-            <li><a href="https://discord.gg/HqSr3w">#psychology</a>
+            <li><a href="https://discord.gg/gm2eXRw">#psychology</a>
             </li>
             <li><a href="https://t.me/bezpaniky">&#x43A;&#x430;&#x43D;&#x430;&#x43B; &quot;&#x431;&#x435;&#x437; &#x43F;&#x430;&#x43D;&#x456;&#x43A;&#x438;&quot; &#x43A;&#x43E;&#x43C;&#x443; &#x43D;&#x443;&#x436;&#x43D;&#x430; &#x43F;&#x43E;&#x43C;&#x43E;&#x449;&#x44C;</a>
             </li>
@@ -193,7 +191,7 @@
       style="text-align:left"></td>
         <td style="text-align:left">
           <ul>
-            <li><a href="https://discord.gg/uy2nW7">#analytics</a>
+            <li><a href="https://discord.gg/adksBXd">#analytics</a>
             </li>
           </ul>
         </td>
