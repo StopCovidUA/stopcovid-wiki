@@ -22,7 +22,7 @@
   * [Comms 18.03](proekti/informacionnaya-kampaniya/comms-18.03.md)
 * [Психологічна та емоційна підтримка](proekti/psychological-support/README.md)
   * [Psychology 17.03](proekti/psychological-support/psychology-17.03.md)
-* [Система постачання](proekti/dostavka-produktov-i-medikamentov/README.md)
+* [Постачання продуктів, медикаментів та засобів безпеки](proekti/dostavka-produktov-i-medikamentov/README.md)
   * [Поставка масок, ИВЛ апаратів та антисептиків](proekti/dostavka-produktov-i-medikamentov/proizvodstvo-ivl-apparatov.md)
 * [Сборка и модификация ИВЛ](proekti/sborka-i-modifikaciya-ivl.md)
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
