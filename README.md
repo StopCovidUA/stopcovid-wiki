@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/frame-2-2.png)
 
-> Збільшуйте стійкість суспільства: переорієнтуйте уряди, бізнес та суспільні послуги. [Світова Організація Здоров'я](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10
+> Збільшуйте стійкість суспільства: переорієнтуйте уряди, бізнес та суспільні послуги. [Світова Організація Здоров'я](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
 
 **Наша візія:** Україна без епідемії, мінімальні соціально-економічні втрати
 
