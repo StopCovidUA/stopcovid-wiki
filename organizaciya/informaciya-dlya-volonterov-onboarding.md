@@ -96,6 +96,8 @@
             </li>
             <li><a href="https://trello.com/b/xjcCv4vB/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8">&#x414;&#x43E;&#x441;&#x43A;&#x430; &#x437;&#x430;&#x434;&#x430;&#x447; &#x43F;&#x43E; &#x43A;&#x43E;&#x43C;&#x43C;&#x443;&#x43D;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x44F;&#x43C;</a>
             </li>
+            <li><a href="https://t.me/StopCovidYouTube">StopCovid Youtube</a>
+            </li>
           </ul>
         </td>
     </tr>
