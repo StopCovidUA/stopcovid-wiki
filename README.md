@@ -31,10 +31,10 @@
 ## Проекти
 
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/)
+* [Психологическая и эмоциональная поддержка](proekti/psychological-support/) 
 * [Аналитическая платформа](proekti/analitika-mepping-dannykh.md) \(нужен координатор\)
 * [Сеть заботы](proekti/dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов \(Дим\)
-* [Психологическая и эмоциональная поддержка](proekti/psychological-support.md) \(Сая\)
-* [Онлайн курс для мед волонтеров](proekti/onlain-kurs-dlya-med-volonterov.md) \(нужен координатор\)
+* * [Онлайн курс для мед волонтеров](proekti/onlain-kurs-dlya-med-volonterov.md) \(нужен координатор\)
 * [Производство ИВЛ аппаратов](proekti/proizvodstvo-ivl-apparatov.md) \(Алекс\)
 * [Фонд помощи](proekti/fond-pomoshi.md) \(нужен координатор\)
 

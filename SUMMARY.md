@@ -21,7 +21,8 @@
 
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/README.md)
   * [Comms 18.03](proekti/informacionnaya-kampaniya/comms-18.03.md)
-* [Психологічна та емоційна підтримка](proekti/psychological-support.md)
+* [Психологічна та емоційна підтримка](proekti/psychological-support/README.md)
+  * [Psychology 17.03](proekti/psychological-support/psychology-17.03.md)
 * [Система доставки](proekti/dostavka-produktov-i-medikamentov.md)
 * [Поставка масок, ІВЛ апаратів та антисептиків](proekti/proizvodstvo-ivl-apparatov.md)
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
