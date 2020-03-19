@@ -40,6 +40,8 @@
 
 [Больше тут](https://www.facebook.com/1763001290651097/posts/2603158239968727/?d=n)
 
+[https://www.facebook.com/stavnitser/posts/10157604392962572](https://www.facebook.com/stavnitser/posts/10157604392962572)
+
 Осуждать неэтичное поведение:
 
 * МАУ

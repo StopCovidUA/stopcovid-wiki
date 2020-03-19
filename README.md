@@ -62,14 +62,9 @@
 
 [https://casers.org/cases/fix-the-crisis](https://casers.org/cases/fix-the-crisis)
 
-### [**24 марта Webinar: Negotiating Losses in Times of Crisis**](https://zoom.us/webinar/register/WN_uYQkCM27T5aYOjLgGEmihQ?utm_campaign=7841610&utm_content=3673899887&utm_medium=email&utm_source=Emailvision)
+### \*\*\*\*[**24 марта Webinar: Negotiating Losses in Times of Crisis** ](https://zoom.us/webinar/register/WN_uYQkCM27T5aYOjLgGEmihQ?utm_campaign=7841610&utm_content=3673899887&utm_medium=email&utm_source=Emailvision)\*\*\*\*
 
 12:00 GMT. Hosted by London Business School, Niro Sivanathan, Associate Professor of Organisational Behaviour
-
-## Глобальное движение
-
-* Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
-* [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
 
 ## Поддержите проект и оставайтесь на связи
 
