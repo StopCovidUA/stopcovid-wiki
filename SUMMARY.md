@@ -11,8 +11,6 @@
 * [Уряду та держ органам](organy-gos-upravleniya.md)
 * [Все про коронавірус \(SARS-CoV-2\)](o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
-  * [Пройти тест](o-koronaviruse/proiti-test.md)
-  * [Якщо ви в іншій країні](o-koronaviruse/buduchi-v-drugoi-strane.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
 
