@@ -1,6 +1,7 @@
 # Донорам
 
 * [Приватбанк: Дихай! Разом проти коронавірусу](https://blago.privatbank.ua/view/1009?fbclid=IwAR2hFpj71YsagnYNae_Yxknf-ipJHZKwo7BwJwR3ieUdkslCDVwANzuhciY)
+* [CEO Club](https://ceoclub.com.ua/covid-19-fundraising)
 * Также @juliabenyukh, @drop\_table\_password
 
 ## Идеи
