@@ -14,7 +14,6 @@
 * [Автомотобилисты](avtomotobilisty.md)
 * [Медія, інфлюенсери, творчі люди](media-inflyuensery-kreatory.md)
 * [Школи та ВНЗ](udalennoe-i-onlain-obrazovanie.md)
-* [Список ініціатив та проєктів](upravlenie-pandemiei.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
 

@@ -18,19 +18,20 @@
 
 ## Решения для групп
 
+* [Громадянам](gromadyani.md) \(включая уязвимые группы: пожилые, беременные, люди без дохода\)
+* [Психологам, психотерапевтам, психиатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
+* [Уряду та держ органам](organy-gos-upravleniya.md)
+* [Неприбутковим і громадськім організаціям](ngo-obshestvennyi-sektor.md)
+* [Система охорони здоров'я](sistema-zdravookhraneniya.md)
 * [Бізнес](biznesy.md)
+* [Медія, інфлюенсери, творчі люди](media-inflyuensery-kreatory.md)
 * [Органы гос управления](organy-gos-upravleniya.md)
-* [NGO / Общественный сектор](ngo-obshestvennyi-sektor.md)
-* [Система здравоохранения и медперсонал](sistema-zdravookhraneniya.md)
-* [Медиа, инфлюенсеры, креаторы](media-inflyuensery-kreatory.md)
 * [Активисты и волонтеры](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [Школи и ВНЗ](udalennoe-i-onlain-obrazovanie.md)
-* [Громадяни](gromadyani.md) \(включая уязвимые группы: пожилые, беременные, люди без дохода\)
 
 ## Проєкти
 
 * [Информационная кампания](proekti/informacionnaya-kampaniya/)
-* [Список инициатив и запросов](upravlenie-pandemiei.md) \(Макс\)
 * [Аналитическая платформа](proekti/analitika-mepping-dannykh.md) \(нужен координатор\)
 * [Сеть заботы](proekti/dostavka-produktov-i-medikamentov.md) для доставки продуктов и медикаментов \(Дим\)
 * [Психологическая и эмоциональная поддержка](proekti/psychological-support.md) \(Сая\)
