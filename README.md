@@ -62,7 +62,7 @@
 
 [https://casers.org/cases/fix-the-crisis](https://casers.org/cases/fix-the-crisis)
 
-### \*\*\*\*[**24 марта Webinar: Negotiating Losses in Times of Crisis** ](https://zoom.us/webinar/register/WN_uYQkCM27T5aYOjLgGEmihQ?utm_campaign=7841610&utm_content=3673899887&utm_medium=email&utm_source=Emailvision)\*\*\*\*
+### [**24 марта Webinar: Negotiating Losses in Times of Crisis**](https://zoom.us/webinar/register/WN_uYQkCM27T5aYOjLgGEmihQ?utm_campaign=7841610&utm_content=3673899887&utm_medium=email&utm_source=Emailvision)
 
 12:00 GMT. Hosted by London Business School, Niro Sivanathan, Associate Professor of Organisational Behaviour
 
