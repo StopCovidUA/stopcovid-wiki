@@ -12,7 +12,7 @@ description: >-
 Координатор: [Сая Жайсанбаева](https://t.me/SayaSemenchuk)
 
 * [канал для психологов в телеграме](https://t.me/keepcalmanddontpanic)
-* [\#psychology](https://discord.gg/gm2eXRw)
+* [\#psychology в дискорде](https://discord.gg/gm2eXRw)
 * [канал "без паніки" кому нужна помощь](https://t.me/bezpaniky)
 
 ## Этап 1: помощь себе
@@ -111,10 +111,13 @@ description: >-
 
 * Тема: [Онлайн-марафон](https://education.oleshko.pro/antipanika%20) о том, как: не поддаться панике и тревоге, сохранить ресурсное состояние, когда весь мир сходит с ума.
 
-### **Материалы и идеи:** 
+### **Идеи**
 
-* [Чат "без паники"](https://t.me/bezpaniky) \([пост](https://www.instagram.com/p/B92FhK3nAq2/?igshid=67go2p15b0g3)\)
-* Проект коучинг в семье от Анастасии
+{% embed url="https://www.youtube.com/watch?v=Qd7L5MIQfzk" %}
+
+\*\*\*\*
+
+* * Проект коучинг в семье от Анастасии
 * [Вирус страха \| Прекратить паниковать и укротить тревожность из-за коронавируса: 6 советов психотерапевта](https://www.liga.net/health/articles/prekratit-panikovat-i-ukrotit-trevojnost-iz-za-koronavirusa-6-sovetov-psihoterapevta)
 * [Поддержка психического здоровья самозанятых.](https://www.leapers.co/resources/little-guides/coronavirus%20)
 * [Коронавирус: 8 способов позаботиться о вашем психическом здоровье](https://www.mhe-sme.org/covid-19/)
