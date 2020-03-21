@@ -74,7 +74,7 @@
 
 ## Идеи
 
-* * [Карантинные методы в Китае](https://www.facebook.com/100001226971213/posts/3069131659804370/?d=n)
+* [Карантинные методы в Китае](https://www.facebook.com/100001226971213/posts/3069131659804370/?d=n)
 * Вырастет роль городов в решении локальных проблем
 * Подключение и финансирование бизнеса для решения задач
 * [WHO Critical preparedness, readiness and response actions for COVID-19](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
