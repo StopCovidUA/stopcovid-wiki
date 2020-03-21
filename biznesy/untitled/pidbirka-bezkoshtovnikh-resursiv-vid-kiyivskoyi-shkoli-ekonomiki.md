@@ -12,5 +12,7 @@ description: >-
 
 [Курс “Економічна поведінка споживача: уподобання та бюджетні обмеження”](http://bit.ly/2IYD6pB) від [Ольги Купець, Ph.D., професорки KSE](https://kse.ua/ua/people/olga-kupets/)
 
+[Курс “Аналіз попиту: еластичність та продажі”](http://bit.ly/2J366fO) від [Олесі Верченко, Ph.D., академічної директорки KSE](https://kse.ua/ua/people/olesia-verchenko/)
 
+[Курс "Картина світу очима макроекономіста або де в світі краще жити"](http://bit.ly/33tOUcS) від [Олесі Верченко, Ph.D., академічної директорки KSE](https://kse.ua/ua/people/olesia-verchenko/)
 
