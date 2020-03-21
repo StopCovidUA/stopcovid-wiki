@@ -18,7 +18,7 @@
 
 ## Рішення
 
-* [Громадянам](gromadyani.md) \(в тому числі вразливі групи: літні люди, вагітні, люди без доходу\)
+* [Громадянам](gromadyani.md) \(в тому числі вразливим групам: літні люди, вагітні, люди без доходу\)
 * [Психологам, психотерапевтам, психіатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
 * [Неприбутковим і громадським організаціям](ngo-obshestvennyi-sektor.md)
 * [Медикам](sistema-zdravookhraneniya.md)
@@ -26,8 +26,8 @@
 * [Бізнесу](biznesy/)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
 * [Донорам](fond-pomoshi.md)
-* [Активістам та волонтерам](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [Уряду та держорганам](organy-gos-upravleniya.md)
+* \*\*\*\*[**Активістам та волонтерам**](organizaciya/informaciya-dlya-volonterov-onboarding.md)\*\*\*\*
 
 ## Проекти
 
