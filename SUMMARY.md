@@ -9,7 +9,7 @@
 * [Школам та вишам](udalennoe-i-onlain-obrazovanie.md)
 * [Бізнесу](biznesy/README.md)
   * [Допомога у веденні бізнесу](biznesy/dopomoga-u-vedenni-biznesu.md)
-  * [Онлайн-курси і вебінари та інші корисні матеріали для малого та середнього бізнесу](biznesy/untitled/README.md)
+  * [Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу](biznesy/untitled/README.md)
     * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
 * [Уряду та держорганам](organy-gos-upravleniya.md)
