@@ -6,6 +6,8 @@ description: >-
 
 # Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу
 
+[Вебінар із HR-школи](https://www.youtube.com/watch?v=jAlm8-fofzs&feature=youtu.be&fbclid=IwAR2l_dcJYNsmIeQZxKaRFkdxq9QMsbktzDAY0AoYw-7fjgJWSVWajZzEwvY) з [Юлією Константиновською](https://www.facebook.com/julia.konstantinovskaya), засновником [Lifehack Academy](https://lifehack.academy/) та співзасновник [M.art agency](https://www.facebook.com/martspace/)
+
 [Вебінар "Економічні сценарії майбутнього: нові правила чи нові гравці?"](https://www.facebook.com/events/151966996026909) від [Києво-Могилянської бізнес школи](https://kmbs.ua/) _\(дата проведення: 23.03.2020, з 19:00 до 20:00\)_
 
 [Гарвард, Стенфорд й інші університети поділилися матеріалами для дистанційного навчання](https://cutt.ly/RemoteTeachingResourcesforBusinessContinuity). _Для вибору необхідного університету та / або програми, необхідно перейти за відповідним посиланням у_ [_google-таблиці_](https://cutt.ly/RemoteTeachingResourcesforBusinessContinuity)\_\_
