@@ -24,3 +24,5 @@ description: >-
 
 [Як писати про економіку без помилок, у чому зміст та сенс основних макроекономічних показників та як українські політики маніпулюють статистикою](http://bit.ly/2J1s9Ud) від [**Centre for Excellence in Economic Journalism at Kyiv School of Economics**](https://www.facebook.com/CEiEJ/?__cft__[0]=AZW-3rjHjImWqrzKekI1nL5B8CgwC0g9Dd7lHvtqh2fwxbFzg_aVZnEmJeduN4V5pIBO_zIK9NZ-wdbX72yFuLNNY0hFp8b56M5PK-gFRI7m-h0JXQ8lghCUN2JVlFqNIHia_jQtnzL9vpbV-edcFww5ybzuv9MGo5c5E66Q1FdC1HR8qzPz01rponRxzBUPbcs&__tn__=kK-y-R)
 
+[Курс "Фактчек: довіряй-перевіряй" або про те, як відрізняти правду від брехні](http://bit.ly/3a6kIHl) від [**VoxCheck**](https://www.facebook.com/VoxCheck/?__cft__[0]=AZW-3rjHjImWqrzKekI1nL5B8CgwC0g9Dd7lHvtqh2fwxbFzg_aVZnEmJeduN4V5pIBO_zIK9NZ-wdbX72yFuLNNY0hFp8b56M5PK-gFRI7m-h0JXQ8lghCUN2JVlFqNIHia_jQtnzL9vpbV-edcFww5ybzuv9MGo5c5E66Q1FdC1HR8qzPz01rponRxzBUPbcs&__tn__=kK-y-R) та [**EdEra**](https://www.facebook.com/EdEraUa/?__cft__[0]=AZW-3rjHjImWqrzKekI1nL5B8CgwC0g9Dd7lHvtqh2fwxbFzg_aVZnEmJeduN4V5pIBO_zIK9NZ-wdbX72yFuLNNY0hFp8b56M5PK-gFRI7m-h0JXQ8lghCUN2JVlFqNIHia_jQtnzL9vpbV-edcFww5ybzuv9MGo5c5E66Q1FdC1HR8qzPz01rponRxzBUPbcs&__tn__=kK-y-R)
+
