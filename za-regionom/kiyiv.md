@@ -1,6 +1,10 @@
 # Київ
 
-[Помочь людям 60+](https://docs.google.com/forms/d/1nsW2nqInxC-7Uv2vo0zqxkze4trMAXduwpKY3-vEwXQ/viewform?fbclid=IwAR0M3B4yzUkSXfylinTrZExp2Z-hDtYxzRs4EqGBDAe2gJE2zTrWM-PAswQ&edit_requested=true) \(Жизнелюб\)
+## Задачи
+
+* [Помочь людям 60+](https://docs.google.com/forms/d/1nsW2nqInxC-7Uv2vo0zqxkze4trMAXduwpKY3-vEwXQ/viewform?fbclid=IwAR0M3B4yzUkSXfylinTrZExp2Z-hDtYxzRs4EqGBDAe2gJE2zTrWM-PAswQ&edit_requested=true) \(Жизнелюб\)
+
+{% embed url="https://www.facebook.com/photo.php?fbid=3065622196828322&set=a.371805159543386&type=3" %}
 
 ## Стратегия
 
