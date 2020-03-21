@@ -45,10 +45,10 @@
 
 ## Координаційні центри за регіонамі
 
-* [Президент створив Координаційну раду з протидії поширенню COVID-19](https://jurliga.ligazakon.net/ua/news/193761_prezident-stvoriv-koordinatsynu-radu-z-protid-poshirennyu-covid-19)
-* [\#StopCovid Київ](za-regionom/kiyiv.md)
-* [Одесса vs COVID. Антикризисный штаб в Одесской области](https://www.facebook.com/Odessa.vs.COVID/posts/102525188057335)
-* Львов: Львовская бизнес школа создала координационный центр по потребностям больниц \([Мартын Ковалко](http://t.me/martynkovalko)\)
+* [Рада президента](https://jurliga.ligazakon.net/ua/news/193761_prezident-stvoriv-koordinatsynu-radu-z-protid-poshirennyu-covid-19)
+* [Київ](za-regionom/kiyiv.md)
+* [Одеса](za-regionom/odesa.md)
+* [Львів](za-regionom/lviv.md)
 * Винница
 * Луцк
 * Днепр
