@@ -27,6 +27,7 @@
   * [Comms 19.03](proekti/informacionnaya-kampaniya/comms-19.03.md)
   * [Comms 20.03](proekti/informacionnaya-kampaniya/comms-20.03.md)
 * [Психологічна та емоційна підтримка](proekti/psychological-support/README.md)
+  * [Reducing Stigma](proekti/psychological-support/reducing-stigma.md)
   * [Psychology 17.03](proekti/psychological-support/psychology-17.03.md)
 * [Постачання продуктів, медикаментів та засобів безпеки](proekti/dostavka-produktov-i-medikamentov/README.md)
   * [Поставка масок, ИВЛ апаратів та антисептиків](proekti/dostavka-produktov-i-medikamentov/proizvodstvo-ivl-apparatov.md)
