@@ -6,7 +6,7 @@ description: >-
 
 # Онлайн-курси і вебінари та інші корисні матеріали для малого та середнього бізнесу
 
-[Авторський онлайн курс по роботі з Excel від студента програми KSE MBAI Tимура Коритного](https://www.facebook.com/XL4Selected/)
+[Авторський он-лайн курс по роботі з Excel від студента програми KSE MBAI Tимура Коритного](https://www.facebook.com/XL4Selected/)
 
 [Сучасне Ораторське Мистецтво \(безкоштовний он-лайн курс від Андрія Степури\)](https://orator.co.ua/free-public-speaking/?fbclid=IwAR0Z_PvhPz3aNi4GdQQE5dqLOCC9-bJzHSuHsiEcMLkpUq4NUpCkkgbJn1s)
 
