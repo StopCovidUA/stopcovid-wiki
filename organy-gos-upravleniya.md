@@ -57,8 +57,6 @@
 
 Я не знаю сколько это будет стоит. Но это цена будет скромной, по отношению к возможным потерям. мы посчитали что если будет глобальная пандемия гриппа, это принесет суммарный убыток 3 триллиона долларов. И много миллионов погибших. Эти методы сделаю мир не только безопаснее, но и справедливее. Время не на нашей стороне. Если начнем сейчас – будем готовы к следующей эпидемии. \(2015\)
 
-
-
 ## **Какие будут последствия пандемии COVID-19?** 
 
 * [Венчурный капиталист Азим Азхар обсуждает шесть способов, которыми коронавирус изменит наш мир](https://www.exponentialview.co/p/-six-ways-coronavirus-will-change). Его список включает в себя: открытые источники ранее запатентованной информации о глобальных угрозах, а также рост онлайн-обучения, работы и собраний. **Ключевые выводы:** подготовьтесь к переходу от хрупких глобальных цепочек поставок к «сетевым, децентрализованным и устойчивым» моделям. 
@@ -67,10 +65,9 @@
 
 ## Как лучше подготовиться к кризисам в будущем?
 
-* [Ending Pandemics](https://endingpandemics.org/) is an organization dedicated to the early discovery of infectious disease outbreaks so they can be halted before they become pandemics. **Key takeaway:** “If we prioritize our efforts to find outbreaks faster in animals, it is possible to prevent human infection altogether.”
-* In a world of uncertainty, only one thing is certain: shocks, disruptions, and other unsettling events will occur, and they will be novel and surprising. IFTF executive director Marina Gorbis argues in her essay [“The Future as a Way of Life,”](https://medium.com/@mgorbis/the-future-as-a-way-of-life-4bc314ec97de) that the only way to effectively deal with black swan events is through a “massively public endeavor” to envision and make the future. **Key takeaway:** “futures thinking is an essential 21st century skill: we need to cultivate it widely in everything we do.”
-* Now, more than ever, it’s time to unstick your mind. “To avoid being blindsided by the future, you must develop mental habits of actively challenging what you believe could or could not be different,” writes IFTF’s Jane McGonigal in her essay, [“Counterfactual Thinking Is the Key to Creativity — and a Vaccine against Future Shock.”](https://medium.com/institute-for-the-future/counterfactual-thinking-is-the-key-to-creativity-and-a-vaccine-against-future-shock-9774a111b996) **Key takeaway:** “to invent something new, or make any kind of change in your society, you first have to be able to imagine how things can be different.”
-* [The Coronavirus is the Future Shock of the Decade: Three Things You Need To Know](https://mailchi.mp/iftf/news-from-the-future-issue-1478053?e=76e445d5a7)
+* [Ending Pandemics](https://endingpandemics.org/) – организация, занимающаяся ранним обнаружением вспышек инфекционных заболеваний, чтобы их можно было остановить до того, как они станут пандемиями. **Основной вывод:** «Если мы отдадим приоритет нашим усилиям по более быстрому обнаружению вспышек среди животных, можно полностью предотвратить заражение людей».
+* В мире неопределенности определенно только одно: потрясения, разрушения и другие тревожные события произойдут, и они будут новыми и неожиданными. Исполнительный директор IFTF Марина Горбис в своей статье [«Будущее как образ жизни»](https://medium.com/@mgorbis/the-future-as-a-way-of-life-4bc314ec97de) утверждает, что единственный способ эффективно бороться с событиями, связанными с черным лебедем, – это «массовое публичное стремление» предвидеть и делать будущее. **Основные выводы:** «футурология \(future thinking\) – это важный навык 21-го века: нам нужно широко его развивать во всем, что мы делаем».
+* Теперь, более чем когда-либо, пришло время освободить ваш разум. «Чтобы избежать ослепления будущим, вы должны развить умственные привычки активно бросать вызов тому, что, по вашему мнению, может или не может быть другим», - пишет Джейн МакГонигал из IFTF в своем эссе [«Контрфактичное мышление - ключ к креативности – и вакцина против будущего»](https://medium.com/institute-for-the-future/counterfactual-thinking-is-the-key-to-creativity-and-a-vaccine-against-future-shock-9774a111b996). Shock «. Ключ к выводу: «чтобы изобрести что-то новое или внести какие-либо изменения в ваше общество, вы должны сначала представить, как все может быть иначе».
 
 ## Идеи
 
