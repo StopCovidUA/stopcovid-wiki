@@ -10,7 +10,7 @@ description: >-
 
 [Гарвард, Стенфорд й інші університети поділилися матеріалами для дистанційного навчання](https://cutt.ly/RemoteTeachingResourcesforBusinessContinuity). _Для вибору необхідного університету та / або програми, необхідно перейти за відповідним посиланням у_ [_google-таблиці_](https://cutt.ly/RemoteTeachingResourcesforBusinessContinuity)\_\_
 
-[Авторський онлайн курс по роботі з Excel від студента програми KSE MBAI Tимура Коритного](https://www.facebook.com/XL4Selected/)
+[Авторський онлайн курс по роботі з Excel від студента програми KSE MBAI Tимура Коритного](https://www.facebook.com/XL4Selected/) _\(старт 20.03.2020, онлайн\)_
 
 [Сучасне ораторське мистецтво \(безкоштовний онлайн курс від Андрія Степури\)](https://orator.co.ua/free-public-speaking/?fbclid=IwAR0Z_PvhPz3aNi4GdQQE5dqLOCC9-bJzHSuHsiEcMLkpUq4NUpCkkgbJn1s)
 
