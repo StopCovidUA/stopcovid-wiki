@@ -3,7 +3,7 @@
 * [Фонд "Таблеточки"](https://tabletochki.org/) вже роками співпрацює з лікарнями та їхніми потребами.
 * [Maryna Saprykina](https://www.facebook.com/maryna.saprykina) – собирает и координирует запросы от биольниц, в том числе через [групу фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) 
 * [\#підвезимедиканароботу: українці гуртуються, щоб довозити персонал у лікарні](https://life.pravda.com.ua/society/2020/03/19/240277/)
-* Telegram: @MedHelpKyiv1, @Medikoronavirus
+* Группы подвези медика:  [https://t.me/helpdoctorsCoronavlrus](https://t.me/helpdoctorsCoronavlrus), @MedHelpKyiv1, @Medikoronavirus
 
 ## Проекты
 
