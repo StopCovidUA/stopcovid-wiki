@@ -21,6 +21,7 @@
 
 * [Київ](za-regionom/kiyiv.md)
 * [Харьків](za-regionom/kharkiv.md)
+* [Львів](za-regionom/lviv.md)
 
 ## Проекти
 
