@@ -8,7 +8,7 @@
 * [Донорам](fond-pomoshi.md)
 * [Школам та вишам](udalennoe-i-onlain-obrazovanie.md)
 * [Бізнесу](biznesy/README.md)
-  * [Онлайн-курси і вебінари та інші корисні матеріали для малого та середньго бізнесу](biznesy/untitled.md)
+  * [Онлайн-курси і вебінари та інші корисні матеріали для малого та середнього бізнесу](biznesy/untitled.md)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
 * [Уряду та держорганам](organy-gos-upravleniya.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
