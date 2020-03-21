@@ -43,7 +43,7 @@
 Уже щось робите або потребуєте допомоги? [Підключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 {% endhint %}
 
-## Коорінаційні центри за регіонамі
+## Координаційні центри за регіонамі
 
 * [Президент створив Координаційну раду з протидії поширенню COVID-19](https://jurliga.ligazakon.net/ua/news/193761_prezident-stvoriv-koordinatsynu-radu-z-protid-poshirennyu-covid-19)
 * [\#StopCovid Київ](za-regionom/kiyiv.md)
