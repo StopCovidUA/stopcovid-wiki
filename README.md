@@ -71,7 +71,7 @@
 * Поділіться матеріалом в соцмережах ❤️
 * Сайт оновлюється раз в день - слідкуйте за оновленнями
 * [Підпишіться на telegram-канал з оновленнями ](https://t.me/stopcoviduaupdates)
-* І[ наш інстаграм](https://www.instagram.com/stopcovidua/)
+* І[ наш інстаграм](https://www.instagram.com/stopcovidua/) та [фейсбук](https://www.facebook.com/StopCovidUa)
 * Пошта: [stopcoviduanow@gmail.com](mailto:stopcoviduanow@gmail.com)
 
 ![&#x42F;&#x43A; &#x432; &#x43D;&#x430;&#x441; &#x441;&#x43F;&#x440;&#x430;&#x432;&#x438;?](.gitbook/assets/image%20%286%29.png)
