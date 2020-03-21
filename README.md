@@ -43,16 +43,21 @@
 Уже щось робите або потребуєте допомоги? [Підключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 {% endhint %}
 
-## Інші центри і глобальні рухи
+## Коорінаційні центри за регіонамі
 
+* [Президент створив Координаційну раду з протидії поширенню COVID-19](https://jurliga.ligazakon.net/ua/news/193761_prezident-stvoriv-koordinatsynu-radu-z-protid-poshirennyu-covid-19)
+* [\#StopCovid Київ](za-regionom/kiyiv.md)
 * [Одесса vs COVID. Антикризисный штаб в Одесской области](https://www.facebook.com/Odessa.vs.COVID/posts/102525188057335)
-* Львовская бизнес школа создала координационный центр по потребностям больниц \(Мартын Ковалко\)
+* Львов: Львовская бизнес школа создала координационный центр по потребностям больниц \([Мартын Ковалко](http://t.me/martynkovalko)\)
+
+### Інші центри і глобальні рухи
+
 * Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
 * [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
 * [COVID-19 Slack / Discord workspaces \(+ hackathons\) – International list](https://docs.google.com/document/d/e/2PACX-1vS2p8BPJ5d0WcHxRAB0BWCv6fY2lgZPVanfZNqOX4z2e00cOEwPIWhlO5ZNlPb5Fe2Pva_c74leKrR2/pub)
 * [https://ucansave.org.ua/](https://ucansave.org.ua/)
 
-### Онлайн-конференції та події
+## Онлайн-конференції та події
 
 #### [17-21 березня онлайн-хакатон Fix the crisis](https://casers.org/cases/fix-the-crisis)
 
