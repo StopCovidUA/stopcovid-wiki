@@ -3,6 +3,7 @@
 * [Запросы которые поступаю к нам](https://trello.com/b/VDZlXyLV/%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8)
 * [Приватбанк: Дихай! Разом проти коронавірусу](https://blago.privatbank.ua/view/1009?fbclid=IwAR2hFpj71YsagnYNae_Yxknf-ipJHZKwo7BwJwR3ieUdkslCDVwANzuhciY)
 * [CEO Club](https://ceoclub.com.ua/covid-19-fundraising)
+* Корпорация Монстров в Одессе
 
 ## Идеи
 
