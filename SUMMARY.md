@@ -20,6 +20,7 @@
 ## За регіоном
 
 * [Київ](za-regionom/kiyiv.md)
+* [Харьків](za-regionom/kharkiv.md)
 
 ## Проекти
 
