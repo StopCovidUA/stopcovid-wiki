@@ -16,6 +16,10 @@
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
 
+## За регіоном
+
+* [Київ](za-regionom/kiyiv.md)
+
 ## Проекти
 
 * [Все про коронавірус \(SARS-CoV-2\)](proekti/o-koronaviruse/README.md)
