@@ -28,3 +28,5 @@ description: >-
 
 [**Підбірка виступів** ](https://bit.ly/2QxfPPE)на [TEDxKSE](https://www.facebook.com/tedxkse/?__cft__[0]=AZW-3rjHjImWqrzKekI1nL5B8CgwC0g9Dd7lHvtqh2fwxbFzg_aVZnEmJeduN4V5pIBO_zIK9NZ-wdbX72yFuLNNY0hFp8b56M5PK-gFRI7m-h0JXQ8lghCUN2JVlFqNIHia_jQtnzL9vpbV-edcFww5ybzuv9MGo5c5E66Q1FdC1HR8qzPz01rponRxzBUPbcs&__tn__=kK-y-R): ****спікери діляться невидимою силою унікальних ідей та інсайтами про те, як вони змінюють світ навколо
 
+[Безкоштовний онлайн модуль **“Аналіз закупівельних даних”** ](https://bit.ly/2U6aNfp)від  [старшого дата-аналітика Центру вдосконалення закупівель KSE Артура Ковальчука](https://kse.ua/ua/people/artur-kovalchuk/)
+
