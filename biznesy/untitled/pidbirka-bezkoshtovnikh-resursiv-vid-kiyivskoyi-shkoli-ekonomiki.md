@@ -8,7 +8,7 @@ description: >-
 
 [Курс «Чому «трампи» перемагають або проблема медіанного виборця»](http://bit.ly/3a5avLc%20) від [Максима Обрізана, Ph.D., професора KS](https://kse.ua/ua/people/maksym-obrizan/)
 
-[Курс "Економіка в дії: аналіз ринків та споживачів"](http://bit.ly/3be4xYN) від [Олени Бєсєдіної, Ph.D, професорки KSE](https://kse.ua/ua/people/elena-besedina/)
+[Курс "Як працюють ринки: попит, пропозиція, аналіз конкуренції."](http://bit.ly/3be4xYN) від [Олени Бєсєдіної, Ph.D, професорки KSE](https://kse.ua/ua/people/elena-besedina/)
 
 [Курс “Економічна поведінка споживача: уподобання та бюджетні обмеження”](http://bit.ly/2IYD6pB) від [Ольги Купець, Ph.D., професорки KSE](https://kse.ua/ua/people/olga-kupets/)
 
