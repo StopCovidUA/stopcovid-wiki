@@ -12,7 +12,7 @@
 
 * Збираємо перевірену інформацію про стан в країні та по проєктах, що відбуваються \([чат в Discord робочої групи](https://discordapp.com/invite/Ua4nnXZ)\)
 * [Об'єднуємо людей](organizaciya/informaciya-dlya-volonterov-onboarding.md) для підсилення ефекту синергії
-* Ініціюємо [потрібні проєкти](./#proyekti)
+* Ініціюємо [потрібні проeкти](./#proyekti)
 
 Здійснюється дуже велика колективна діяльність стосовно викликів навколо COVID-19. Нам потрібна хороша координація та збір сигналів по ситуації для пошуку ефективних рішень. 
 
@@ -23,7 +23,7 @@
 * [Неприбутковим і громадським організаціям](ngo-obshestvennyi-sektor.md)
 * [Медикам](sistema-zdravookhraneniya.md)
 * [Школам та вишам ](udalennoe-i-onlain-obrazovanie.md)
-* [Бізнесу](biznesy.md)
+* [Бізнесу](biznesy/)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
 * [Донорам](fond-pomoshi.md)
 * [Активістам та волонтерам](organizaciya/informaciya-dlya-volonterov-onboarding.md)
@@ -46,8 +46,11 @@
 ## Інші центри і глобальні рухи
 
 * [Одесса vs COVID. Антикризисный штаб в Одесской области](https://www.facebook.com/Odessa.vs.COVID/posts/102525188057335)
+* Львовская бизнес школа создала координационный центр по потребностям больниц \(Мартын Ковалко\)
 * Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
 * [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
+* [COVID-19 Slack / Discord workspaces \(+ hackathons\) – International list](https://docs.google.com/document/d/e/2PACX-1vS2p8BPJ5d0WcHxRAB0BWCv6fY2lgZPVanfZNqOX4z2e00cOEwPIWhlO5ZNlPb5Fe2Pva_c74leKrR2/pub)
+* [https://ucansave.org.ua/](https://ucansave.org.ua/)
 
 ### Онлайн-конференції та події
 
@@ -71,5 +74,5 @@
 * І[ наш інстаграм](https://www.instagram.com/stopcovidua/)
 * Пошта: [stopcoviduanow@gmail.com](mailto:stopcoviduanow@gmail.com)
 
-![&#x42F;&#x43A; &#x432; &#x43D;&#x430;&#x441; &#x441;&#x43F;&#x440;&#x430;&#x432;&#x438;?](.gitbook/assets/image%20%285%29.png)
+![&#x42F;&#x43A; &#x432; &#x43D;&#x430;&#x441; &#x441;&#x43F;&#x440;&#x430;&#x432;&#x438;?](.gitbook/assets/image%20%286%29.png)
 

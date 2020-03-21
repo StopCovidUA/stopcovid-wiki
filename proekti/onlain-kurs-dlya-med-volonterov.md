@@ -9,12 +9,11 @@
 * Онлайн курс ****[COVID-19: Заходи з інфекційного контролю](https://accemedin.com/course/preview/82?fbclid=IwAR3UdQf-00JfrlE0vQE6ns24r33orvgaa52iUez94PHbVGmGoXLeWgnjDDo) 
 * [Відеоінструкція: як правильно обирати та використовувати засоби індивідуального захисту лікарям](https://www.facebook.com/phc.org.ua/videos/493399444708954/)
 * Курс [Профилактика и контроль новой коронавирусной инфекции \(COVID-19\)](https://openwho.org/courses/COVID-19-IPC-RU)
-
-\*\*\*\*
-
-## 
-
-## Идеи
-
 * [По заболеванию был такой прогноз от доктора из Швеции](https://www.linkedin.com/pulse/generalized-prediction-model-multi-site-disease-dr-martin-lockstrom/), он пока аккуратно предсказывает
+
+{% file src="../.gitbook/assets/covid-19nastanova\_200309.pdf" %}
+
+{% file src="../.gitbook/assets/speavotsnik.tolgitud.docx" %}
+
+[Рекомендованные ВОЗ рецептуры антисептиков для рук: Руководство по организации производства на местах](https://www.who.int/gpsc/5may/tools/guide_local_production_ru.pdf?ua=1)
 

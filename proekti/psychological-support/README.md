@@ -115,9 +115,7 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=Qd7L5MIQfzk" %}
 
-\*\*\*\*
-
-* * Проект коучинг в семье от Анастасии
+* Проект коучинг в семье от Анастасии
 * [Вирус страха \| Прекратить паниковать и укротить тревожность из-за коронавируса: 6 советов психотерапевта](https://www.liga.net/health/articles/prekratit-panikovat-i-ukrotit-trevojnost-iz-za-koronavirusa-6-sovetov-psihoterapevta)
 * [Поддержка психического здоровья самозанятых.](https://www.leapers.co/resources/little-guides/coronavirus%20)
 * [Коронавирус: 8 способов позаботиться о вашем психическом здоровье](https://www.mhe-sme.org/covid-19/)

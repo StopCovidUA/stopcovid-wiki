@@ -2,6 +2,8 @@
 
 Координатор: [Макс Семенчук](https://t.me/maxsemenchuk) \(ищу нового координатора!\)
 
+Видение: все НГО видят кто что делают, в курсе лучший практик и где что происходит.
+
 ## Предложение о партнерстве
 
 * Обмен информацией о ходе дел
@@ -18,12 +20,13 @@
 * [Global Shapers Kyiv Hub](https://www.globalshapers.kyiv.ua/)
 * [Wtech](https://www.facebook.com/wtechukraine/)
 * [Biggggidea](https://biggggidea.com/)
+* Красный Крест – хотим партнерство
 
-Другие инициативы:
+### Другие инициативы
 
 {% embed url="https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI\_EGrQ/edit\#gid=0" %}
 
-Эту таблицу [CoVid - Инициативы и помогающие организации в Украине](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0) – обновляет [Дарья](https://t.me/Greenochre)
+Эту таблицу [CoVid - Инициативы и помогающие организации в Украине](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0) – обновляет Дарья
 
 ## Проекти
 
@@ -40,4 +43,6 @@
 * Пометить Медицинские, Образовательные, Профессиональные и Локальные организации
 * Вступить в закрытый чат НГО \(напишите [Максу](https://t.me/maxsemenchuk)\)
 * [Пару месяцев назад собирали реестр ГО и БФ. основном по Одесской области. На жизнеспособность не проверяли, но вдруг будет полезно](https://docs.google.com/spreadsheets/d/1hnP36LdccOxd93r5-VzP4tsO54PycMQjzJ-MomHsrYY/edit?usp=sharing)
+* Daily рассылка - аналитика по НГО
+* Текстовый мастермайнд с НГО
 

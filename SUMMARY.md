@@ -6,7 +6,8 @@
 * [Неприбутковим і громадським організаціям](ngo-obshestvennyi-sektor.md)
 * [Медикам](sistema-zdravookhraneniya.md)
 * [Школам та вишам](udalennoe-i-onlain-obrazovanie.md)
-* [Бізнесу](biznesy.md)
+* [Бізнесу](biznesy/README.md)
+  * [Онлайн-курси і вебінари та інші корисні матеріали для малого та середньго бізнесу](biznesy/untitled.md)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
 * [Донорам](fond-pomoshi.md)
 * [Уряду та держорганам](organy-gos-upravleniya.md)
@@ -18,9 +19,11 @@
 * [Все про коронавірус \(SARS-CoV-2\)](proekti/o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](proekti/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/README.md)
-  * [Мемы](proekti/informacionnaya-kampaniya/memy.md)
+  * [Ты нужен миру дома](proekti/informacionnaya-kampaniya/ty-nuzhen-miru-doma.md)
+  * [Врачи – герои](proekti/informacionnaya-kampaniya/vrachi.md)
   * [Comms 18.03](proekti/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](proekti/informacionnaya-kampaniya/comms-19.03.md)
+  * [Comms 20.03](proekti/informacionnaya-kampaniya/comms-20.03.md)
 * [Психологічна та емоційна підтримка](proekti/psychological-support/README.md)
   * [Psychology 17.03](proekti/psychological-support/psychology-17.03.md)
 * [Постачання продуктів, медикаментів та засобів безпеки](proekti/dostavka-produktov-i-medikamentov/README.md)
@@ -31,9 +34,11 @@
 
 ## Організація
 
-* [🚀 Начать работу \(онбординг\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
+* [🚀 Почати работу \(онбордінг\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
+* [Меми](organizaciya/memy.md)
 * [Tactical 16.03](organizaciya/tactical-16.03.md)
 * [Tactical 17.03](organizaciya/tactical-17.03.md)
 * [Tactical 18.03](organizaciya/tactical-18.03.md)
 * [Tactical 19.04](organizaciya/tactical-19.04.md)
+* [Tactical 20.04](organizaciya/tactical-20.04.md)
 

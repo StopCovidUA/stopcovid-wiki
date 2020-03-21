@@ -1,6 +1,6 @@
 # Психологам, психотерапевтам, психіатрам
 
-* [канал для психологов в телеграме](https://t.me/keepcalmanddontpanic)
+* [Канал для психологів в телеграмі](https://t.me/keepcalmanddontpanic).
 * [\#psychology](https://discord.gg/HqSr3w)
-* [канал "без паніки" кому нужна помощь](https://t.me/bezpaniky)
+* [Канал "без паніки", тим, кому потрібна допомога](https://t.me/bezpaniky).
 

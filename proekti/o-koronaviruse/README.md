@@ -17,6 +17,7 @@
 * [План личных действий от Супрун](https://www.facebook.com/max.semenchuk/posts/10220493542156222?__cft__[0]=AZVzeMSWqj_4hwVO5DysqZHVN3RtkYSYqWJa5jKY6oxEBi81WksCIqQ7y7ohdAgS2B9Pd7fR2O1udM0rrGM4nIyJopLyJHBaWkH3H7DT_rjg8zAlTr_EPZVuxbR0rCJPAqhT2GOQJdNQNXuSa_ekGe0tgWAif5Ph08jXhodrA6ueVMwqGDsEHaGA23WVd0wAjSA&__tn__=%2CO%2CP-R)
 * [Когда и как использовать маски \(eng\)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
 * [ГС «Українська Академія Педіатричних Спеціальностей» Щодо ситуації, яка склалась навколо спалаху захворювання COVID-19, викликаного новим коронавірусом SARS-CoV-2](https://www.uaps.org.ua/covid19?fbclid=IwAR1VlRnoGYQAg07bwlt_KnJIfBGreSv9XlD9gT6KxlbRbSoeoqZi_aP-SPQ)
+* [Почему такие вспышки, как коронавирус, распространяются по нарастающей, и как ослабить их рост](https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/?fbclid=IwAR1gSx6jdLwxJIIamJvFU-C8YmupNcpGs9fqvfKoqu9KGMVYKsJAAchKy8U)
 
 ## Мифы \(что не работает\)
 
@@ -30,7 +31,7 @@
 
 [Здається, у мене коронавірус. Що робити?](https://www.the-village.com.ua/village/knowledge/health-knowledge/295233-zdaetsya-u-mene-koronavirus-scho-robiti) Не у всех больных есть симптомы
 
-![https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](../../.gitbook/assets/image%20%283%29.png)
+![https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](../../.gitbook/assets/image%20%284%29.png)
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
@@ -46,6 +47,8 @@
 ![](../../.gitbook/assets/89655588_3027786720607212_3993775460168237056_n.jpg)
 
 ## Вакцина и лечение
+
+Ваш иммунитет будет сам бороться. Предотвратить заражение можно приняв вакцину. По оценкам вакцина будет в 1-2 квартале 2021
 
 * [Коронавирус SARS-CoV-2 или COVID-19: клиническая диагностика и лечение ](https://proautism.info/sars-cov-2/#Kliniceskaa_harakteristika_i_diagnostika)
 * [«В мире нет лекарств от коронавируса», — Минздрав предостерегает от мошенников](https://nashkiev.ua/novosti/v-mire-net-lekarstv-ot-koronavirousa-minzdrav-predosteregaet-ot-moshenikov.html)
