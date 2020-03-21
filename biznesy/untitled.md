@@ -8,7 +8,7 @@ description: >-
 
 [Авторський он-лайн курс по роботі з Excel від студента програми KSE MBAI Tимура Коритного](https://www.facebook.com/XL4Selected/)
 
-[Сучасне Ораторське Мистецтво \(безкоштовний он-лайн курс від Андрія Степури\)](https://orator.co.ua/free-public-speaking/?fbclid=IwAR0Z_PvhPz3aNi4GdQQE5dqLOCC9-bJzHSuHsiEcMLkpUq4NUpCkkgbJn1s)
+[Сучасне ораторське мистецтво \(безкоштовний он-лайн курс від Андрія Степури\)](https://orator.co.ua/free-public-speaking/?fbclid=IwAR0Z_PvhPz3aNi4GdQQE5dqLOCC9-bJzHSuHsiEcMLkpUq4NUpCkkgbJn1s)
 
 [Керуючий партнер 4Е Consulting Олександр Киценко відкрив доступ до навчального курсу «Системний відділ продажів», що надає всю необхідну інформацію для побудови відділу продажів, у тому числі дистанційного](https://www.4e.school/course/systemniy-otdel-prodaz)
 
