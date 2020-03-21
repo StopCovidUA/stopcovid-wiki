@@ -26,8 +26,6 @@ description: >-
 
 [CREATIVE EXPORT UKRAINE: START Це освітній курс для українських креативних підприємців, що бажають почати експортувати і мають на меті створити успішний та впізнаваний бренд](https://epo.org.ua/education/creative-start/)
 
-[Київська Школа Економіки також відкрила доступ до курсів. Як працюють ринки: попит, пропозиція, аналіз конкуренції. Як встановлюються ціни та чому на це впливають споживачі - від Олени Бєсєдіної, Ph.D, професорки KSE](https://www.youtube.com/playlist?list=PLOkdIVs1rV7FYvui_rwu-udIboGWBghXF&fbclid=IwAR0Rdj7SDhHKwsZuzocRH2PisgXk8gwshJty5uz1BVBxY_4-BqUYjZZB8bk)
-
 [IAMPM відкрив доступ до 30 годин вебінарів для нетехнічних IT-фахівців! Для підприємців тут знайдеться багато корисного мтеріала. Доступи до контенту діють до 30.03.2020](https://events.iampm.club/first-aid-kit-covid-19?utm_source=fb&utm_medium=social&fbclid=IwAR1tgvsIfEAuLjGuc4AIYVrKbN-_mFgpm16EB3z5ld331750EMpGEzMObSs)
 
 [МініКурси від Нетологія. Доступ до мінікурсам Нетологія по промокодом STAYHOME. Більше оглядові, але дають розуміння підприємцям які навички їм слід покращувати](https://netology.ru/courses)
