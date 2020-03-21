@@ -11,7 +11,6 @@
   * [Онлайн-курси і вебінари та інші корисні матеріали для малого та середнього бізнесу](biznesy/untitled/README.md)
     * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki/README.md)
       * [Курси та лекції](biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki/kursi-ta-lekciyi.md)
-      * [Тексти](biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki/texty.md)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
 * [Уряду та держорганам](organy-gos-upravleniya.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
