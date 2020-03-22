@@ -53,13 +53,13 @@
 * [Київ](za-regionom/kiyiv.md)
 * [Одеса](za-regionom/odesa.md)
 * [Львів](za-regionom/lviv.md)
+* [Запоріжжя](za-regionom/zaporizhzhya.md)
 * Винница
 * Луцк
 * Днепр
 * Донецк
 * Житомир\*
 * Ужгород
-* Запорожье\*
 * Ивано-Франковск
 * Кропивницкий
 * Луганск
