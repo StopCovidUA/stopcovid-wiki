@@ -23,6 +23,7 @@
 * [Харьків](za-regionom/kharkiv.md)
 * [Львів](za-regionom/lviv.md)
 * [Одеса](za-regionom/odesa.md)
+* [Запоріжжя](za-regionom/zaporizhzhya.md)
 
 ## Проекти
 
