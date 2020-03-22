@@ -111,10 +111,9 @@ description: >-
 
 * Тема: [Онлайн-марафон](https://education.oleshko.pro/antipanika%20) о том, как: не поддаться панике и тревоге, сохранить ресурсное состояние, когда весь мир сходит с ума.
 
-### **Идеи**
+## **Идеи**
 
-{% embed url="https://www.youtube.com/watch?v=Qd7L5MIQfzk" %}
-
+* [Философия стоицизма \[Ted Ed\]](https://www.youtube.com/watch?v=Qd7L5MIQfzk)
 * Проект коучинг в семье от Анастасии
 * [Вирус страха \| Прекратить паниковать и укротить тревожность из-за коронавируса: 6 советов психотерапевта](https://www.liga.net/health/articles/prekratit-panikovat-i-ukrotit-trevojnost-iz-za-koronavirusa-6-sovetov-psihoterapevta)
 * [Поддержка психического здоровья самозанятых.](https://www.leapers.co/resources/little-guides/coronavirus%20)
