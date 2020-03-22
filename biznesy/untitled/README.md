@@ -6,7 +6,7 @@ description: >-
 
 # Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу
 
-Безкоштовний онлайн-марофон від школі [Projector](https://prjctr.com.ua/). [**Адаптуйся і дій. Бізнес у непрості у непрості часи**](https://prjctr.online/events/adaptujsya-i-dij-biznes-u-neprosti-chasi.html)**.** 
+Безкоштовний онлайн-марофон від школі [Projector](https://prjctr.com.ua/). [**Адаптуйся і дій. Бізнес у непрості часи**](https://prjctr.online/events/adaptujsya-i-dij-biznes-u-neprosti-chasi.html)\*\*\*\*
 
 \*\*\*\*[**Бізнес-вебінари по підприємництву**](https://www.nadiiaageyeva.com/biznes-vebinary-po-predprinimatelstvu-besplatno/?fbclid=IwAR2PQ7uLg4PYb8cq2qXir9HCS8N0sTCcKrXbbnjL-qDKvmgL70rZISJLNz0) ****від  [Надії Агієвої,](https://www.nadiiaageyeva.com/) засновниці платформи  ["Бутик курсів Наді Агієвої"](https://www.nadiiaageyeva.com/)
 
