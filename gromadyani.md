@@ -64,13 +64,14 @@
 
 ## Можливості допомоги / роботи
 
+* [Волонтерство \#stopcovid ua](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [http://need.zakaz.ua/](http://need.zakaz.ua/)
 * [https://shatyrko.com/forpeople](https://shatyrko.com/forpeople)
-* Федоров: "Папа Бренда"
 
 ## Ідеї
 
 * [Як допомогти під час епідемії коронавірусу?](https://volunteer.country/covid_diy)
 * [Колективний імунітет](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%82%D0%B5%D1%82).
 * Протирайте телефон.
+* \*\*\*\*[Супрун рассказала о действиях при карантине: запаситесь водой и лекарствами](https://www.rbc.ua/rus/styler/suprun-rasskazala-vesti-sebya-vremya-karantina-1584020882.html)
 

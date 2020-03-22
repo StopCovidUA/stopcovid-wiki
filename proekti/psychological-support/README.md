@@ -136,7 +136,6 @@ description: >-
 * [Deepening Our Collective Roots](https://tricycle.org/trikedaily/coronavirus-meditations/#thomashubl) by Thomas Hubl, in Israel
 * [Manual for PIs: the pandemic](https://docs.google.com/document/d/1X9QS8CCJ_oVxIaX_ChOzlrgfz_CY2xGipwgSFhyVfME/mobilebasic?usp=gmail_thread)
 * [Facebook: Message to Community Managers](https://www.facebook.com/community/whats-new/communities-health-information-coronavirus/)
-* \*\*\*\*[Супрун рассказала о действиях при карантине: запаситесь водой и лекарствами](https://www.rbc.ua/rus/styler/suprun-rasskazala-vesti-sebya-vremya-karantina-1584020882.html)
 * [Коронавирус. Что делать при панике вируса](https://www.youtube.com/watch?v=Zf3L3NuPeGA&feature=share)
 * [https://www.virusanxiety.com/](https://www.virusanxiety.com/) - Resources for anxiety and your mental health in a global climate of uncertainty
 * Обучение майндфулнес
