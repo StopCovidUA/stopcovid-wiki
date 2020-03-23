@@ -27,3 +27,7 @@
 
 До курсу: ✅ [https://accemedin.com/course/preview/82](https://accemedin.com/course/preview/82)
 
+
+
+[https://drive.google.com/file/d/1pb1laMDh918PSz65vNMketlZyybjQ-\_k/view](https://drive.google.com/file/d/1pb1laMDh918PSz65vNMketlZyybjQ-_k/view)
+
