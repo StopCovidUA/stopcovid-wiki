@@ -38,7 +38,7 @@
 
 [Більше про вірус і симптоми на сторінці про вірус. ](proekti/o-koronaviruse/)
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 ## Якщо ви в іншій країні
 
