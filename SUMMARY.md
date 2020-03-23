@@ -40,6 +40,7 @@
   * [Comms 24.03](proekti/informacionnaya-kampaniya/comms-23.03.md)
 * [Психологічна та емоційна підтримка](proekti/psychological-support/README.md)
   * [Reducing Stigma](proekti/psychological-support/reducing-stigma.md)
+  * [Медики](proekti/psychological-support/mediki.md)
   * [Psychology 17.03](proekti/psychological-support/psychology-17.03.md)
 * [Переводы](proekti/perevody.md)
 * [Система логистики](proekti/sistema-logistiki.md)
