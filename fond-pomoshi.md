@@ -1,9 +1,10 @@
 # Донорам
 
-* [Запити, які нам надходять.](https://trello.com/b/VDZlXyLV/%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8)
+* [Супервнуки: Оперативная помощь взрослым людям](https://superonuki.com/project/operativna-dopomoga-doroslim-lyudyam/)
 * [Приватбанк: Дихай! Разом проти коронавірусу](https://blago.privatbank.ua/view/1009?fbclid=IwAR2hFpj71YsagnYNae_Yxknf-ipJHZKwo7BwJwR3ieUdkslCDVwANzuhciY).
-* [CEO Club](https://ceoclub.com.ua/covid-19-fundraising).
-* Корпорація Монстрів в Одесі.
+* [CEO Club](https://ceoclub.com.ua/covid-19-fundraising)
+* [УББ](https://ubb.org.ua/uk/project/5941/)
+* Корпорація Монстрів в Одесі
 
 ## Ідеї
 
