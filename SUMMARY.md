@@ -9,6 +9,7 @@
 * [Донорам](fond-pomoshi.md)
 * [Школам та вишам](udalennoe-i-onlain-obrazovanie.md)
 * [Бізнесу](biznesy/README.md)
+  * [Список компаний которые поддержали борьбу с covid-19](biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
   * [Допомога у веденні бізнесу](biznesy/dopomoga-u-vedenni-biznesu.md)
   * [Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу](biznesy/untitled/README.md)
     * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
