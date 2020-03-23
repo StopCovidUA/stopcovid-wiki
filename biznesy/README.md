@@ -10,7 +10,7 @@
 ## Проекти
 
 * [Група фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) – запити, "що потрібно громадам".
-* [Аналітична платформа](../proekti/analitika-mepping-dannykh/)
+* [Аналітична платформа](../proekti/analitika-mepping-dannykh.md)
 * [Список компаний которые поддержали борьбу с covid-19](spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
 * [Список фондов для поддержки больниц, пожилых людей и тд](../fond-pomoshi.md)
 

@@ -33,6 +33,11 @@
 * [Maryna Saprykina](https://www.facebook.com/maryna.saprykina)
 * донор.юа
 
+## Трекинг зараженных зон
+
+* Щодо протокулу поведінки людям в разі захворювання, пропонують таке: «Я тобі раджу зайти на сайт Міністерства охорони здоров'я Ізраїлю. Там все розписано. В А ще там ти побачиш звіти які контактори мають надсилати»
+* Инфицированные люди могут щерить своё местоположение
+
 ## Идеи
 
 * Можно сделать саморепортинг \(анонимный\) о симптомах болезни
@@ -51,6 +56,7 @@
 * в Корее есть апка, которая сообщает о зараженности в регионе и дает точный маршрут к центру госпитализации
 * [https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/](https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/)
 * Vlad Govorukha
+* Аппка с анализами которые трекают где ты и какие к тебя хронические проблемы
 
 [Sanju 'Amorn' Sachamuneewongse](https://www.facebook.com/awesomesanju?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTE0MjQ2MDQyMDk0MDU%3D) In Thailand they have created a Thailand Digital Covid Group to bring in all working in programming and tech to create the easiest way to track cases within Thailand and find out which stores have masks and hand sanitizers available and how many.
 
