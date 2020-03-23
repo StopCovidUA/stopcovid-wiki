@@ -33,6 +33,7 @@
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/README.md)
   * [Ты нужен миру дома](proekti/informacionnaya-kampaniya/ty-nuzhen-miru-doma.md)
   * [Врачи – герои](proekti/informacionnaya-kampaniya/vrachi.md)
+  * [Общее дело](proekti/informacionnaya-kampaniya/obshee-delo.md)
   * [Comms 18.03](proekti/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](proekti/informacionnaya-kampaniya/comms-19.03.md)
   * [Comms 20.03](proekti/informacionnaya-kampaniya/comms-20.03.md)
