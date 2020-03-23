@@ -40,4 +40,5 @@
 * [https://osventilator.slack.com/](https://osventilator.slack.com/)
 * [https://www.youtube.com/watch?v=uClq978oohY&feature=emb\_title](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
 * Виктор Шкурба и дрон юа
+* IJS, PRISTOP & GZS have initiated a respirator project Mr.Sekulic and his group have initiated a group to hack Covid-19 through developing test kits, respirators based on MITs open source plans MIT have initiated several projects with regards to Covid-19. LABENA has been helping with their lab, network, and by donating equipment since early february.
 
