@@ -38,4 +38,5 @@
 * Из реально сложных вещей - кустарные аппараты ИВЛ
 * [https://korrespondent.net/world/4207134-v-chekhyy-budut-pechatat-respyratory-na-3D-pryntere](https://korrespondent.net/world/4207134-v-chekhyy-budut-pechatat-respyratory-na-3D-pryntere)
 * [https://osventilator.slack.com/](https://osventilator.slack.com/)
+* [https://www.youtube.com/watch?v=uClq978oohY&feature=emb\_title](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
 
