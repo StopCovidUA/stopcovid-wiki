@@ -84,6 +84,11 @@ description: Твоему вниманию план разработки рук�
 * Муниципалитет
 * KyivsmartCity
 
+## Stopcovid Bot
+
+* [http://t.me/StopCovidUABot](http://t.me/StopCovidUABot)
+* [https://www.viber.com/stopcoviduabot](https://www.viber.com/stopcoviduabot)
+
 ## Идеи
 
 * Чаты не работают – нужны быть каналы read only
