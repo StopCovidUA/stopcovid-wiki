@@ -141,4 +141,5 @@ description: >-
 * Обучение майндфулнес
 * [ВЕСЕННЕЕ ОБОСТРЕНИЕ: ГДЕ КИЕВЛЯНЕ МОГУТ ПОЛУЧИТЬ БЕСПЛАТНУЮ ПСИХОЛОГИЧЕСКУЮ ПОМОЩЬ](https://kiev.vgorode.ua/news/sobytyia/394370-chto-to-prydumaem-hde-kyevliane-mohut-poluchyt-besplatnuui-psykholohycheskuui-pomosch)
 * [A Guide to Running Through the Apocalypse](https://elemental.medium.com/a-guide-to-running-through-the-apocalypse-4301731087c)
+* Материал: как делать виртуальные бары и игры с друзьями
 
