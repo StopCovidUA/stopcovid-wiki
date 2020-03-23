@@ -1,3 +1,7 @@
+---
+description: '[Потребує перекладу]'
+---
+
 # Школам та вишам
 
 Крутой ресурс: [Избранные платформы поддерживающие дистанционное обучение](https://docs.google.com/spreadsheets/d/1wfkWux5GpIROXsvbgI_I4-nXHiAjYYdk_RPNIsP62HY/htmlview?fbclid=IwAR3HiS-R27Jg4Q1VB5_QopalDkr9Hk8VFHXkCfdSwUmCauge7MaIqMLsZW8&usp=gmail_thread#gid=0)
