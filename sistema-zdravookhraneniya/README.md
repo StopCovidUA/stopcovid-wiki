@@ -11,9 +11,9 @@ description: '[Потребує перекладу]'
 
 ## Проекты
 
-* [Поставка ИВЛ аппаратов](proekti/dostavka-produktov-i-medikamentov/proizvodstvo-ivl-apparatov.md)
-* [Онлайн курс для мед волонтеров](proekti/onlain-kurs-dlya-med-volonterov.md)
-* [Сеть заботы](proekti/dostavka-produktov-i-medikamentov/)
+* [Поставка ИВЛ аппаратов](../proekti/dostavka-produktov-i-medikamentov/proizvodstvo-ivl-apparatov.md)
+* [Онлайн курс для мед волонтеров](../proekti/onlain-kurs-dlya-med-volonterov.md)
+* [Сеть заботы](../proekti/dostavka-produktov-i-medikamentov/)
 * Monitoring
 * Distributed healthcare
 
