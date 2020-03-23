@@ -36,7 +36,6 @@ description: '[Потребує перекладу]'
 * [Бізнесу](biznesy/)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
 * [Донорам](fond-pomoshi.md)
-* [Уряду та держорганам](organy-gos-upravleniya.md)
 * \*\*\*\*[**Активістам та волонтерам**](organizaciya/informaciya-dlya-volonterov-onboarding.md)\*\*\*\*
 
 ##  Стратегія та проекти

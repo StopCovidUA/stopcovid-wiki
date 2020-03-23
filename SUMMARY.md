@@ -14,7 +14,6 @@
     * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
     * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznesy/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
-* [Уряду та держорганам](organy-gos-upravleniya.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
 
@@ -50,6 +49,7 @@
 ## Організація
 
 * [🚀 Почати работу \(онбордінг\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
+* [Стратегия](organizaciya/strategiya.md)
 * [Меми](organizaciya/memy.md)
 * [Tactical 16.03](organizaciya/tactical-16.03.md)
 * [Tactical 17.03](organizaciya/tactical-17.03.md)
