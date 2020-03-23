@@ -34,11 +34,13 @@
 
 [Здається, у мене коронавірус. Що робити?](https://www.the-village.com.ua/village/knowledge/health-knowledge/295233-zdaetsya-u-mene-koronavirus-scho-robiti) Не у всіх хворих є симптоми. 
 
-## Зробити експрес-тест на коронавірус
+## Зробити тест на коронавірус
 
 [Більше про вірус і симптоми на сторінці про вірус. ](proekti/o-koronaviruse/)
 
 ![](.gitbook/assets/image%20%2811%29.png)
+
+[Коронавірус: що не так з тестуванням](https://www.slidstvo.info/texts/koronavirus-shho-ne-tak-z-testuvannyam/?fbclid=IwAR3CbF5i8RJRnPMuuao8VgEg9Xsq2n1dqKBsVfJXAEpVg97xDCby-D0NSjc)
 
 ## Якщо ви в іншій країні
 
