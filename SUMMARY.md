@@ -19,7 +19,6 @@
 
 ## За регіоном
 
-* [Київ](za-regionom/kiyiv.md)
 * [Харьків](za-regionom/kharkiv.md)
 * [Львів](za-regionom/lviv.md)
 * [Одеса](za-regionom/odesa.md)
@@ -55,4 +54,5 @@
 * [Tactical 19.04](organizaciya/tactical-19.04.md)
 * [Tactical 20.04](organizaciya/tactical-20.04.md)
 * [Tactical 21.04](organizaciya/tactical-21.04.md)
+* [Київ](http://kyiv.stopcovid.org.ua/)
 

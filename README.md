@@ -56,7 +56,7 @@ description: '[Потребує перекладу]'
 ## Координаційні центри за регіонамі
 
 * [Рада президента](https://jurliga.ligazakon.net/ua/news/193761_prezident-stvoriv-koordinatsynu-radu-z-protid-poshirennyu-covid-19)
-* [Київ](za-regionom/kiyiv.md)
+* [Київ](http://kyiv.stopcovid.org.ua/)
 * [Одеса](za-regionom/odesa.md)
 * [Львів](za-regionom/lviv.md)
 * [Запоріжжя](za-regionom/zaporizhzhya.md)
