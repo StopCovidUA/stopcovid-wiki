@@ -37,6 +37,7 @@
 * [Психологічна та емоційна підтримка](proekti/psychological-support/README.md)
   * [Reducing Stigma](proekti/psychological-support/reducing-stigma.md)
   * [Psychology 17.03](proekti/psychological-support/psychology-17.03.md)
+* [Переводы](proekti/perevody.md)
 * [Система логистики](proekti/sistema-logistiki.md)
 * [Постачання продуктів, медикаментів та засобів безпеки](proekti/dostavka-produktov-i-medikamentov/README.md)
   * [Поставка масок, ИВЛ апаратів та антисептиків](proekti/dostavka-produktov-i-medikamentov/proizvodstvo-ivl-apparatov.md)
