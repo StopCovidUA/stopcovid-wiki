@@ -254,4 +254,5 @@ First, as a strategy to protect the most vulnerable in our communities, it is a 
 * Помощь и забота о команде и волонтерах. Начать создавать роли
 * [Матричная структура](https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf)
 * Волонтер Сервис могут проконсультировать
+* Сделать HR-агентство: находить ресурсы для проектов
 
