@@ -74,4 +74,5 @@
 * [Колективний імунітет](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%82%D0%B5%D1%82).
 * Протирайте телефон.
 * \*\*\*\*[Супрун рассказала о действиях при карантине: запаситесь водой и лекарствами](https://www.rbc.ua/rus/styler/suprun-rasskazala-vesti-sebya-vremya-karantina-1584020882.html)
+* [https://www.the-village.com.ua/village/knowledge/health-knowledge/295391-htos-iz-moyih-blizkih-zahvoriv-na-koronavirus-scho-robiti](https://www.the-village.com.ua/village/knowledge/health-knowledge/295391-htos-iz-moyih-blizkih-zahvoriv-na-koronavirus-scho-robiti)
 
