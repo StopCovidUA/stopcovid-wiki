@@ -23,6 +23,7 @@
 ## Идеи
 
 * Coreteka
+* [Наташа Kolisar разрабатывает бота](https://kolisar.com/)
 * [Ideasoft](https://m.facebook.com/?_rdr#!/profile.php?id=100002505365167)
 * Таски менеджмент через кабанчиком
 * [Tomka Koliada](http://t.me/Tomkamk) работает над системой сбора потребностей от больниц, будет нужно внедрение в регионах
