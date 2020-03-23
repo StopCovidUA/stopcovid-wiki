@@ -38,7 +38,7 @@
 
 [Більше про вірус і симптоми на сторінці про вірус. ](proekti/o-koronaviruse/)
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 [Коронавірус: що не так з тестуванням](https://www.slidstvo.info/texts/koronavirus-shho-ne-tak-z-testuvannyam/?fbclid=IwAR3CbF5i8RJRnPMuuao8VgEg9Xsq2n1dqKBsVfJXAEpVg97xDCby-D0NSjc)
 
