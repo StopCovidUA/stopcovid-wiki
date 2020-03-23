@@ -2,7 +2,7 @@
 description: '[Потребує перекладу]'
 ---
 
-# Стратегия
+# Стратегія
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
@@ -106,4 +106,5 @@ description: '[Потребує перекладу]'
 * Think tank шо дальше?
 * Коронавірус: Молот і Танок \(переклад статті Tomas Pueyo\) - частина 1
 * Страховая для таких случаев
+* [https://download.joinfightback.com/FightbackCorona.pdf](https://download.joinfightback.com/FightbackCorona.pdf)
 
