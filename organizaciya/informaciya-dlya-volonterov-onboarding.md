@@ -220,6 +220,8 @@ First, as a strategy to protect the most vulnerable in our communities, it is a 
 
 ### Формат созвонов
 
+[Каледарь созвонов](https://calendar.google.com/calendar?cid=dWFjYmxrMG80MGx0amRidGFpb2M0aGVoZmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) – подписывайся чтобы не пропустить.
+
 Созвоны каждый день в 20:00 \(Киев\) в [зуме](https://zoom.us/j/919563955?pwd=VlIrTjZXUHpuQTQrVHlpa09WUnpJUT09) \(добавляем записи youtube\)
 
 1. Каждый называет цель над которой он работает и апдейты. _Например: начать производство аппаратов для вентиляции легких. Обновления: нашел схему и производителя, нужна консультация._ 
