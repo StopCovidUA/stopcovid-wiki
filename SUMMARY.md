@@ -37,7 +37,7 @@
   * [Comms 18.03](proekti/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](proekti/informacionnaya-kampaniya/comms-19.03.md)
   * [Comms 20.03](proekti/informacionnaya-kampaniya/comms-20.03.md)
-  * [Comms 23.03](proekti/informacionnaya-kampaniya/comms-23.03.md)
+  * [Comms 24.03](proekti/informacionnaya-kampaniya/comms-23.03.md)
 * [Психологічна та емоційна підтримка](proekti/psychological-support/README.md)
   * [Reducing Stigma](proekti/psychological-support/reducing-stigma.md)
   * [Psychology 17.03](proekti/psychological-support/psychology-17.03.md)
