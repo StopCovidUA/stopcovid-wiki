@@ -44,6 +44,7 @@
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
 * [Онлайн курс для мед волонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
 * [Система логистики](proekti/sistema-logistiki.md)
+* [Шаблон оперативного центра](proekti/shablon-operativnogo-centra.md)
 * [Новые идеи](proekti/novye-idei.md)
 
 ## Організація
