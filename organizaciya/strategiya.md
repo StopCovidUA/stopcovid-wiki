@@ -4,6 +4,8 @@ description: '[Потребує перекладу]'
 
 # Стратегія
 
+Нужен лид
+
 ![](../.gitbook/assets/image%20%287%29.png)
 
 ## Задачи
@@ -107,4 +109,5 @@ description: '[Потребує перекладу]'
 * Коронавірус: Молот і Танок \(переклад статті Tomas Pueyo\) - частина 1
 * Страховая для таких случаев
 * [https://download.joinfightback.com/FightbackCorona.pdf](https://download.joinfightback.com/FightbackCorona.pdf)
+* Делать выжимку инсайтов глобального движения
 
