@@ -38,11 +38,7 @@ description: '[Потребує перекладу]'
 * [Донорам](fond-pomoshi.md)
 * \*\*\*\*[**Активістам та волонтерам**](organizaciya/informaciya-dlya-volonterov-onboarding.md)\*\*\*\*
 
-##  Стратегія та проекти
-
-Ключові напрямки:
-
-![](.gitbook/assets/image%20%286%29.png)
+##  Проекти
 
 * [Все про коронавірус \(SARS-CoV-2\)](proekti/o-koronaviruse/)
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/)
