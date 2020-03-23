@@ -20,3 +20,8 @@
 
 Предпочтение – open source
 
+## Идеи
+
+* Coreteka
+* Ideasoft
+
