@@ -44,7 +44,7 @@ description: '[Потребує перекладу]'
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/)
 * [Психологічна та емоційна підтримка](proekti/psychological-support/)
 * [Система постачання](proekti/dostavka-produktov-i-medikamentov/)
-* [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
+* [Аналітична платформа](proekti/analitika-mepping-dannykh/)
 * [Онлайн-курс для медволонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
 * [Збірка та модифікація ШВЛ](proekti/sborka-i-modifikaciya-ivl.md)
 

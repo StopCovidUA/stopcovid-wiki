@@ -10,7 +10,7 @@
 ## Проекти
 
 * [Група фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) – запити, "що потрібно громадам".
-* [Аналітична платформа](../proekti/analitika-mepping-dannykh.md)
+* [Аналітична платформа](../proekti/analitika-mepping-dannykh/)
 
 ## Соціальна відповідальність
 
