@@ -58,5 +58,6 @@
 * [Tactical 19.04](organizaciya/tactical-19.04.md)
 * [Tactical 20.04](organizaciya/tactical-20.04.md)
 * [Tactical 21.04](organizaciya/tactical-21.04.md)
+* [Tactical 23.04](organizaciya/tactical-23.04.md)
 * [Київ](http://kyiv.stopcovid.org.ua/)
 
