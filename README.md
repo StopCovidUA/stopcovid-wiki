@@ -56,13 +56,13 @@
 * [Львів](za-regionom/lviv.md)
 * [Запоріжжя](za-regionom/zaporizhzhya.md)
 * [Тернопіль](za-regionom/ternopil.md)
+* [Івано-франківськ](za-regionom/ivano-frankivsk.md)
 * Винница
 * Луцк
 * Днепр
 * Донецк
 * Житомир\*
 * Ужгород
-* Ивано-Франковск
 * Кропивницкий
 * Луганск
 * Николаев
