@@ -40,6 +40,9 @@
 * Использовать частично обезличенные данные
 * Какой формат запросов?
 * [https://uniorder.com.ua/](https://uniorder.com.ua/)
+* [https://openlmis.org/](https://openlmis.org/)
+* [https://www.linbis.com/](https://www.linbis.com/)
+* [https://openboxes.com/](https://openboxes.com/)
 
 
 
