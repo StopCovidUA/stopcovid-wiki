@@ -82,19 +82,11 @@
 
 
 
-
-
-
-
-* [The Workers Who Face the Greatest Coronavirus Risk](https://www.nytimes.com/interactive/2020/03/15/business/economy/coronavirus-worker-risk.html) \(медперсонал, кассиры, уборщики...\)
-
 ### **Видео-материалы** 
 
-* Тема:«Коронавирус». 
+* Тема: «Коронавирус». 
 
-Первая часть [прямого эфира ](https://www.facebook.com/mindspotodessa/videos/601513777359157/%20) посвящена практикам и техникам для помощи себе, если вы находитесь в стрессе, волнении, растерянности. 
-
-* Тема: [Онлайн-марафон](https://education.oleshko.pro/antipanika%20) о том, как: не поддаться панике и тревоге, сохранить ресурсное состояние, когда весь мир сходит с ума.
+Первая часть [прямого эфира ](https://www.facebook.com/mindspotodessa/videos/601513777359157/%20) посвящена практикам и техникам для помощи себе, если вы находитесь в стрессе, волнении, растерянности. Тема: [Онлайн-марафон](https://education.oleshko.pro/antipanika%20) о том, как: не поддаться панике и тревоге, сохранить ресурсное состояние, когда весь мир сходит с ума.
 
 ## **Идеи**
 
@@ -123,9 +115,12 @@
 * [Facebook: Message to Community Managers](https://www.facebook.com/community/whats-new/communities-health-information-coronavirus/)
 * [Коронавирус. Что делать при панике вируса](https://www.youtube.com/watch?v=Zf3L3NuPeGA&feature=share)
 * [https://www.virusanxiety.com/](https://www.virusanxiety.com/) - Resources for anxiety and your mental health in a global climate of uncertainty
+* [The Workers Who Face the Greatest Coronavirus Risk](https://www.nytimes.com/interactive/2020/03/15/business/economy/coronavirus-worker-risk.html) \(медперсонал, кассиры, уборщики...\)
 * Обучение майндфулнес
 * [ВЕСЕННЕЕ ОБОСТРЕНИЕ: ГДЕ КИЕВЛЯНЕ МОГУТ ПОЛУЧИТЬ БЕСПЛАТНУЮ ПСИХОЛОГИЧЕСКУЮ ПОМОЩЬ](https://kiev.vgorode.ua/news/sobytyia/394370-chto-to-prydumaem-hde-kyevliane-mohut-poluchyt-besplatnuui-psykholohycheskuui-pomosch)
 * [A Guide to Running Through the Apocalypse](https://elemental.medium.com/a-guide-to-running-through-the-apocalypse-4301731087c)
 * Материал: как делать виртуальные бары и игры с друзьями
 * Озвучить телеграм канал коронавируса
+
+
 
