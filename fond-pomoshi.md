@@ -1,6 +1,6 @@
 # Донорам
 
-* [Супервнуки: Оперативная помощь взрослым людям](https://superonuki.com/project/operativna-dopomoga-doroslim-lyudyam/)
+* [Супервнуки: Оперативна допомога літнім людям](https://superonuki.com/project/operativna-dopomoga-doroslim-lyudyam/)
 * [Приватбанк: Дихай! Разом проти коронавірусу](https://blago.privatbank.ua/view/1009?fbclid=IwAR2hFpj71YsagnYNae_Yxknf-ipJHZKwo7BwJwR3ieUdkslCDVwANzuhciY).
 * [CEO Club](https://ceoclub.com.ua/covid-19-fundraising)
 * [УББ](https://ubb.org.ua/uk/project/5941/)
