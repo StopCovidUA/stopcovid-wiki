@@ -111,4 +111,5 @@ description: '[Потребує перекладу]'
 * [https://itukraine.org.ua/spilna-zayava-biznes-spilnoti-shhodo-nadzvichajnogo-stanu.html](https://itukraine.org.ua/spilna-zayava-biznes-spilnoti-shhodo-nadzvichajnogo-stanu.html)
 * Есть миллиардеры которые хотят инвестировать в систем чендж
 * переквалификация с makemebetter
+* Как смягчить политику карантина безопасно?
 
