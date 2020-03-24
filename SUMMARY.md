@@ -53,7 +53,7 @@
 * [Сборка и модификация ИВЛ](proekti/sborka-i-modifikaciya-ivl.md)
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
 * [Онлайн курс для мед волонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
-* [Шаблон оперативного центра](proekti/shablon-operativnogo-centra.md)
+* [Координация](proekti/shablon-operativnogo-centra.md)
 * [Стратегія](proekti/strategiya.md)
 * [Новые идеи](proekti/novye-idei.md)
 
