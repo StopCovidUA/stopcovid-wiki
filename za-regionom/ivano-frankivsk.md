@@ -1,4 +1,4 @@
-# Івано-франківськ
+# Івано-Франківськ
 
 * [\#франік](https://discord.gg/esWTyeZ)
 * [https://www.facebook.com/groups/1530428180455351/](https://www.facebook.com/groups/1530428180455351/) 

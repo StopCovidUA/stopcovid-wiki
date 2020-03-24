@@ -26,7 +26,8 @@
 * [Одеса](za-regionom/odesa.md)
 * [Запоріжжя](za-regionom/zaporizhzhya.md)
 * [Тернопіль](za-regionom/ternopil.md)
-* [Івано-франківськ](za-regionom/ivano-frankivsk.md)
+* [Івано-Франківськ](za-regionom/ivano-frankivsk.md)
+* [Черкаси](za-regionom/cherkasi.md)
 
 ## Проекти
 
