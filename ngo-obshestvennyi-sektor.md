@@ -49,4 +49,5 @@ description: '[Потребує перекладу]'
 * [Пару месяцев назад собирали реестр ГО и БФ. основном по Одесской области. На жизнеспособность не проверяли, но вдруг будет полезно](https://docs.google.com/spreadsheets/d/1hnP36LdccOxd93r5-VzP4tsO54PycMQjzJ-MomHsrYY/edit?usp=sharing)
 * Daily рассылка - аналитика по НГО
 * Текстовый мастермайнд с НГО
+* [https://m.facebook.com/obo.tarilka/](https://m.facebook.com/obo.tarilka/)
 
