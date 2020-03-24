@@ -164,3 +164,11 @@
 
 Назначение: новые волонтеры знают как помочь
 
+## Идеи
+
+* Дать коучей Лидам
+* People obligate to volunteer and cant fulfil \(for other reasons\)
+* People say but not qualified \(unable to use collaboration practices, don't have the technical expertise
+* Local office collab / different mindsets – workshop \(senior who people can trust\)
+* 27 regions
+
