@@ -50,12 +50,12 @@
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
 * [Онлайн курс для мед волонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
 * [Шаблон оперативного центра](proekti/shablon-operativnogo-centra.md)
+* [Стратегія](proekti/strategiya.md)
 * [Новые идеи](proekti/novye-idei.md)
 
 ## Організація
 
 * [🚀 Почати работу \(онбордінг\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
-* [Стратегія](organizaciya/strategiya.md)
 * [Меми](organizaciya/memy.md)
 * [Tactical 16.03](organizaciya/tactical-16.03.md)
 * [Tactical 17.03](organizaciya/tactical-17.03.md)

@@ -113,4 +113,5 @@ description: '[Потребує перекладу]'
 * [https://download.joinfightback.com/FightbackCorona.pdf](https://download.joinfightback.com/FightbackCorona.pdf)
 * Делать выжимку инсайтов глобального движения
 * [https://itukraine.org.ua/spilna-zayava-biznes-spilnoti-shhodo-nadzvichajnogo-stanu.html](https://itukraine.org.ua/spilna-zayava-biznes-spilnoti-shhodo-nadzvichajnogo-stanu.html)
+* Есть миллиардеры которые хотят инвестировать в систем чендж
 
