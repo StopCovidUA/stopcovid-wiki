@@ -113,5 +113,5 @@
 * [ютюб](https://www.youtube.com/channel/UC2wd337MNQZCrJ0NST544OA/videos)
 * Пошта: [stopcoviduanow@gmail.com](mailto:stopcoviduanow@gmail.com)
 
-![&#x42F;&#x43A; &#x432; &#x43D;&#x430;&#x441; &#x441;&#x43F;&#x440;&#x430;&#x432;&#x438;?](.gitbook/assets/image%20%2812%29.png)
+![&#x42F;&#x43A; &#x432; &#x43D;&#x430;&#x441; &#x441;&#x43F;&#x440;&#x430;&#x432;&#x438;?](.gitbook/assets/image%20%2813%29.png)
 
