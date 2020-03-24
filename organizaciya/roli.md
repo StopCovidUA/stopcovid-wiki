@@ -194,4 +194,5 @@
 * Молодежные медицинские организации Украины и Европы \(UMSA\) – Андрей
 * Юрист
 * Сделать чеклист онбординга
+* [https://medlabboulder.gitlab.io/communityrule/templates/](https://medlabboulder.gitlab.io/communityrule/templates/)
 
