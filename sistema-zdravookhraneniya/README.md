@@ -5,12 +5,12 @@ description: '[Потребує перекладу]'
 # Медикам
 
 * [Фонд "Таблеточки"](https://tabletochki.org/) вже роками співпрацює з лікарнями та їхніми потребами.
-* [Maryna Saprykina](https://www.facebook.com/maryna.saprykina) – собирает и координирует запросы от биольниц, в том числе через [групу фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) 
+* [Maryna Saprykina](https://www.facebook.com/maryna.saprykina) – збирає і координиє запити від лікарень, також через [групу "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) 
 * [\#підвезимедиканароботу: українці гуртуються, щоб довозити персонал у лікарні](https://life.pravda.com.ua/society/2020/03/19/240277/)
-* Группы подвези медика:  [https://t.me/helpdoctorsCoronavlrus](https://t.me/helpdoctorsCoronavlrus), @MedHelpKyiv1, @Medikoronavirus
+* Групи підвези медика:  [https://t.me/helpdoctorsCoronavlrus](https://t.me/helpdoctorsCoronavlrus), @MedHelpKyiv1, @Medikoronavirus
 * Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
 
-## Проекты
+## Проекти
 
 * [Поставка ИВЛ аппаратов](../proekti/dostavka-produktov-i-medikamentov/proizvodstvo-ivl-apparatov.md)
 * [Онлайн курс для мед волонтеров](../proekti/onlain-kurs-dlya-med-volonterov.md)
