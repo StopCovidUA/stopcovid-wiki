@@ -4,9 +4,9 @@ description: '[Потребує перекладу]'
 
 # Стратегія
 
-Нужен лид
+## Приоритеты
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ## Задачи
 
@@ -25,6 +25,8 @@ description: '[Потребує перекладу]'
 7. Отменить массовые события 10+ человек, включая обряды и церемонии. Лидеров церквей просим с понимаем отнестись к ситуации.
 8. Ограничить экспорт продуктов по определенному списку.
 9. Министерствам, главам ОДА, местного самоуправления, руководителям предприятий обеспечить бесперебойную работу продуктовых магазинов, бытовых товаров, аптек и АЗС, банковских учреждений, страховых компаний. А также всех предприятий критической инфраструктуры, государственной и коммунальной собственности и грузового транспорта. Бесперебойную работу должны вести все без исключения органы управления, медицинские и правоохранительные органы.
+
+![https://itukraine.org.ua/spilna-zayava-biznes-spilnoti-shhodo-nadzvichajnogo-stanu.html](../.gitbook/assets/image%20%287%29.png)
 
 ## [Билл Гейтс: следующая эпидемия? мы не готовы](https://www.youtube.com/watch?v=6Af6b_wyiwI)
 
@@ -110,4 +112,5 @@ description: '[Потребує перекладу]'
 * Страховая для таких случаев
 * [https://download.joinfightback.com/FightbackCorona.pdf](https://download.joinfightback.com/FightbackCorona.pdf)
 * Делать выжимку инсайтов глобального движения
+* [https://itukraine.org.ua/spilna-zayava-biznes-spilnoti-shhodo-nadzvichajnogo-stanu.html](https://itukraine.org.ua/spilna-zayava-biznes-spilnoti-shhodo-nadzvichajnogo-stanu.html)
 
