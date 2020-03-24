@@ -59,7 +59,7 @@
 ## Організація
 
 * [🚀 Почати работу \(онбордінг\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
-* [Роли](organizaciya/roli.md)
+* [Роли и координация](organizaciya/roli.md)
 * [Меми](organizaciya/memy.md)
 * [Tactical 16.03](organizaciya/tactical-16.03.md)
 * [Tactical 17.03](organizaciya/tactical-17.03.md)
