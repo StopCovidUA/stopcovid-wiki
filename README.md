@@ -83,6 +83,7 @@
 
 ### Інші центри і глобальні рухи
 
+* [УВС Волонтерський центр допомоги під час епідемії коронавірусу](https://volunteer.country/covid19)
 * Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
 * [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
 * [COVID-19 Slack / Discord workspaces \(+ hackathons\) – International list](https://docs.google.com/document/d/e/2PACX-1vS2p8BPJ5d0WcHxRAB0BWCv6fY2lgZPVanfZNqOX4z2e00cOEwPIWhlO5ZNlPb5Fe2Pva_c74leKrR2/pub)
