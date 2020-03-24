@@ -157,6 +157,7 @@
 * [Волонтерство \#stopcovid ua](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [http://need.zakaz.ua/](http://need.zakaz.ua/)
 * [https://shatyrko.com/forpeople](https://shatyrko.com/forpeople)
+* [https://happymonday.ua/c/nakarantyni/](https://happymonday.ua/c/nakarantyni/) - тут собираем все по работе и карьере в текущих условиях. там сейчас только новые статьи, до завтра подтянем все актуальное по удаленке, подработке, фрилансу и онлайн профессиям, что у нас есть
 
 ## Ідеї
 
