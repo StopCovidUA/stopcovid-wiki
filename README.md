@@ -57,35 +57,35 @@
 * [Запоріжжя](za-regionom/zaporizhzhya.md)
 * [Тернопіль](za-regionom/ternopil.md)
 * [Івано-франківськ](za-regionom/ivano-frankivsk.md)
-* Винница
-* Луцк
-* Днепр
-* Донецк
+* Вінниця
+* Луцьк
+* Дніпро
+* Донецьк
 * Житомир\*
 * Ужгород
-* Кропивницкий
-* Луганск
-* Николаев
+* Кропивницький
+* Луганськ
+* Миколаїв
 * Полтава
-* Ровно
-* Сумы
-* Харьков\*
+* Рівне
+* Суми
+* Харьків\*
 * Херсон
-* Хмельницкий\*
-* Черкассы
-* Чернигов
-* Черновцы
-* Крым
+* Хмельницький\*
+* Черкаси
+* Чернігів
+* Чернівці
+* Крим
 
 {% hint style="info" %}
-Добавьте центр или создайте свой \(пишите [Максу](https://t.me/maxsemenchuk)\)
+Додайте центр чи створіть свій \(пишіть [Максу](https://t.me/maxsemenchuk)\)
 {% endhint %}
 
 ### Інші центри і глобальні рухи
 
 * [УВС Волонтерський центр допомоги під час епідемії коронавірусу](https://volunteer.country/covid19)
-* Глобальное движение и статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
-* [Библиотека со ссылками на все движения и материалы \(англ\)](https://coronavirustechhandbook.com/communities)
+* Глобальний рух і статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
+* [Бібліотека з посиланнями на всі рухи і матеріали \(англ\)](https://coronavirustechhandbook.com/communities)
 * [COVID-19 Slack / Discord workspaces \(+ hackathons\) – International list](https://docs.google.com/document/d/e/2PACX-1vS2p8BPJ5d0WcHxRAB0BWCv6fY2lgZPVanfZNqOX4z2e00cOEwPIWhlO5ZNlPb5Fe2Pva_c74leKrR2/pub)
 * [https://ucansave.org.ua/](https://ucansave.org.ua/)
 
