@@ -25,6 +25,7 @@
 * [Львів](za-regionom/lviv.md)
 * [Одеса](za-regionom/odesa.md)
 * [Запоріжжя](za-regionom/zaporizhzhya.md)
+* [Тернопіль](za-regionom/ternopil.md)
 
 ## Проекти
 

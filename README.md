@@ -55,6 +55,7 @@
 * [Одеса](za-regionom/odesa.md)
 * [Львів](za-regionom/lviv.md)
 * [Запоріжжя](za-regionom/zaporizhzhya.md)
+* [Тернопіль](za-regionom/ternopil.md)
 * Винница
 * Луцк
 * Днепр
@@ -68,7 +69,6 @@
 * Полтава
 * Ровно
 * Сумы
-* Тернополь
 * Харьков\*
 * Херсон
 * Хмельницкий\*
