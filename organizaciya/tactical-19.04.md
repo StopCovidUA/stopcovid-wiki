@@ -53,7 +53,7 @@
 
 Юля: могу помочь с переводом.
 
-Макс: есть много ссылок в [онбординге](informaciya-dlya-volonterov-onboarding.md)
+Макс: есть много ссылок в [онбординге](../informaciya-dlya-volonterov-onboarding.md)
 
 ### Юля / Обязанности - кого нет/или нужно передать
 

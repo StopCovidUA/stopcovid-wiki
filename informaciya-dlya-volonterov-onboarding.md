@@ -40,7 +40,7 @@ First, as a strategy to protect the most vulnerable in our communities, it is a 
 * Файлы в [google drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
 * [Контакты команды](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(добавь сюда свои\)
 * Используем модель социократии для гибкой работы
-* [Роли тут](roli.md)  – выбирайте к каким направлениям присоединиться. Посмотрите материалы и дерните вашего лида по поводу задач
+* [Роли тут](organizaciya/roli.md)  – выбирайте к каким направлениям присоединиться. Посмотрите материалы и дерните вашего лида по поводу задач
 
 ### [Карта экспертиз](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
 
@@ -69,7 +69,7 @@ First, as a strategy to protect the most vulnerable in our communities, it is a 
 2. Каждый может вынести вопрос который продвинет его к достижению цели _Например: как понять куда нужны аппараты в первую очередь?_ 
 3. Группа выбирает порядок рассмотрения \(от наиболее важных\) и обсуждаем/предлагаем решения на запрос \(5-10 мин на вопрос\)
 
-Заметки и запись со встречи будет приложена к базе знаний \([пример](tactical-16.03.md)\).
+Заметки и запись со встречи будет приложена к базе знаний \([пример](organizaciya/tactical-16.03.md)\).
 
 ## База знаний
 
@@ -80,6 +80,15 @@ First, as a strategy to protect the most vulnerable in our communities, it is a 
 
 * [Все материалы в figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)
 * [Картинки лого](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5)
+
+## Підтримайте проєкт та залишайтесь на зв'язку 
+
+* Сайт оновлюється кілька разів на день
+* [Підпишіться на telegram-канал з оновленнями ](https://t.me/stopcoviduaupdates)
+* [Наш інстаграм](https://www.instagram.com/stopcovidua/) та
+* [фейсбук](https://www.facebook.com/StopCovidUa) й
+* [ютюб](https://www.youtube.com/channel/UC2wd337MNQZCrJ0NST544OA/videos)
+* Пошта: [stopcoviduanow@gmail.com](mailto:stopcoviduanow@gmail.com)
 
 
 

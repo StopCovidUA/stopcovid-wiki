@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Волонтерам координаційного центру по зупинці епідемії коронавірусу в Україні](README.md)
+* [🚀 Почати работу \(онбордінг\)](informaciya-dlya-volonterov-onboarding.md)
 * [Громадянам](gromadyani.md)
 * [Психологам, психотерапевтам, психіатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
 * [Неприбутковим і громадським організаціям](ngo-obshestvennyi-sektor.md)
@@ -48,7 +49,6 @@
 
 ## Організація
 
-* [🚀 Почати работу \(онбордінг\)](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 * [Роли и координация](organizaciya/roli.md)
 * [Меми](organizaciya/memy.md)
 * [Tactical 16.03](organizaciya/tactical-16.03.md)

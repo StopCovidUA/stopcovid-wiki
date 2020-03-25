@@ -28,9 +28,11 @@ description: '[Потребує перекладу]'
 
 ### Другие инициативы
 
-{% embed url="https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI\_EGrQ/edit\#gid=0" %}
+{% hint style="info" %}
+[Усі НГО що допомагають за регіоном та напрямками](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0)
+{% endhint %}
 
-Эту таблицу [CoVid - Инициативы и помогающие организации в Украине](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0) – обновляет Дарья
+{% embed url="https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI\_EGrQ/edit\#gid=0" %}
 
 ## Проекти
 
