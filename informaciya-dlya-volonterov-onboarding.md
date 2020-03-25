@@ -11,10 +11,6 @@
 
 Инвестируем время и принимаем решения на основе этих приоритетов.
 
-{% hint style="info" %}
-Вам нужен эксперт или член команды? Добавляйте на [доску в трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)
-{% endhint %}
-
 ## Структура роботи
 
 ![](.gitbook/assets/stopcovid-ua-2.jpg)
@@ -26,6 +22,10 @@
 * [Психологам, психотерапевтам, психіатрам](psychological-support/)
 * [Перекладачам](perekladacham.md)
 * [Медикам](sistema-zdravookhraneniya/)
+
+{% hint style="info" %}
+Вам нужен эксперт или член команды? Добавляйте на [доску в трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)
+{% endhint %}
 
 ## Инструменты
 
