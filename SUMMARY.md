@@ -5,7 +5,7 @@
 * [Психологам, психотерапевтам, психіатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
 * [Неприбутковим і громадським організаціям](ngo-obshestvennyi-sektor.md)
 * [Медикам](sistema-zdravookhraneniya/README.md)
-  * [Важливі документи для анестезіологів і реаніматологів та інших мед. співробітників по COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+  * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Донорам](fond-pomoshi.md)
 * [Школам та вишам](udalennoe-i-onlain-obrazovanie.md)
 * [Бізнесу](biznesy/README.md)
