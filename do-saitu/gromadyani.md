@@ -14,9 +14,9 @@
 
 ## Проекти
 
-* [Психологічна/емоційна підтримка під час карантину](proekti/psychological-support/).
-* [Мережа "турботи про сусідів"](proekti/dostavka-produktov-i-medikamentov/).
-* [Все про коронавірус \(SARS-CoV-2\)](proekti/o-koronaviruse/).
+* [Психологічна/емоційна підтримка під час карантину](../proekti/psychological-support/).
+* [Мережа "турботи про сусідів"](../proekti/dostavka-produktov-i-medikamentov/).
+* [Все про коронавірус \(SARS-CoV-2\)](o-koronaviruse/).
 * [Перехід на дситанійну роботу](biznesy/#poradi-shodo-distanciinoyi-roboti).
 * [Folding@home](https://github.com/FoldingAtHome/coronavirus) – Компанія NVIDIA, яка займається виробництвом відеокарт, закликає всіх геймерів взяти участь в проекті — це глобальна мережа комп'ютерів для обчислень, яка буде використовувати вашу відеокарту. Проект існує з 2000 року, і на даний момент займається пошуком вакцини від коронавірусу з допомогою складних обчислень.
 * [Медичний центр "Педіатрія з любов'ю"](https://www.facebook.com/pediatrics.with.love/?__tn__=K-R&eid=ARBRztkN4cfwcxYglNyW0h_ncS9CYdNZ7ZDOKkR6OG5NeYe4GqynGdQDoGFEqk9wR612wFiUNUHL_QBV&fref=mentions&__xts__%5B0%5D=68.ARCwJqIFrwjfpWfb8PL1HlrcgIx9pu270nWes7Puou_YsG3OqwqPNcdRu3O1ECqGsabPzJmzpeegqVMFALk55fcLlU_ghTPiXFTZ6t42XckGACvw8SXVvLwEb2N6akKyCfAYj9Ddn6p7r5Gs07PnayivR1Mep62CEAECpmJiW97k9nt3xFrJHleb1wvdYKs02ENZCn_3l5xCQZxepVBlSfz80-KNffIbZkAk1lIDJ3qwmc1xUMop8ppbQ-5h7XXwfFl8XqXnXCTXT6LV6BMVpmcjDk-ccfkNdz7Aq7AR1L5zuFP2pOiwVaPgccSuQHVwar76Q-B_jzLo-beTveJkScQ3CSIW) переглянули процеси роботи, щоби пацієнти не переривали планові візити до лікарів. А у випадку тривожних симптомів — не боялися їхати до лікаря. Там тепер здорові діти приходять на планові огляди в одну половину дня. Діти, які захворіли — в іншу половину дня. Час на кожен прийом збільшено, щоби гарно провітрювати кабінети. У центрі закликають не відмовлятися від планової вакцинації, адже після завершення пандемії коронавірусу, можуть початися спалахи інших інфекційних хвороб. За умови симптомів коронавірусу, в огляді може бути відмовлено. Але центр пропонує послуги онлайн-консультацій. [http://bit.ly/2TUlEc6](https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2TUlEc6%3Ffbclid%3DIwAR09tdoaQBmZ1lOXlTlB7hY3MVsQsb9lTAXnTFWVuXpbhqmhN5VjnY370OY&h=AT0OyPuVAShHgmE8vbtYuEEwBbPVAHhDugGNlNHMPISdRN53HhyK9Nrev0yj1TUPUfQAkGf5NkI3yZDTwiqc2W0trhNofFeLjA6j2A_PNa8SvDRMbtrh4uWTIWAfyqrne-w55Fvo3YhSEKJYbvzBOgAFxrASnHogDwTb-awjKJhdMK-yzJ4UBx0PxEvqbbGuAfgdBnCRIx3grAj3Po3yCmAfkiskmcwC7DptWosH26XO31Kyf9Tc9VMExTMHc4nRiFNUyMu6BpMNzBF71ftLCndbbTaHD_xoMfagew01HiHoEHp8H-g2AbKdS-MKZEUqXIKZSg2kPzVon1cP9VFL4JBCPlPxTyujcsUqNZgQsJApF3ZUnPuMi2rOh86DjiTo-TTDfOnTf0qQAl2j7etIPAEMIBnuxtaPk9MceoGeynAkvRk6STNjBzgAfvPcISl93OV04OLMN8_qkLzYmUyS9RjBzOUKjaj-ydjza-T2voqmpxASSepraOxd1NN7buYvlp-2ahhfISKqIH1Ty1OXakhA3RYcDARkoQ6hKWy3ok2NR56Km4Z3ycD8sWoOD9KYR8kDZUx1T7gS5ETmW23U6AoAAnEY9CH0jcpNXdHPRjlT1QwXLDAlXmPwCqA7Iosh0msZw4GhIxk)
@@ -124,9 +124,9 @@
 
 ## Зробити тест на коронавірус
 
-[Більше про вірус і симптоми на сторінці про вірус. ](proekti/o-koronaviruse/)
+[Більше про вірус і симптоми на сторінці про вірус. ](o-koronaviruse/)
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 [Коронавірус: що не так з тестуванням](https://www.slidstvo.info/texts/koronavirus-shho-ne-tak-z-testuvannyam/?fbclid=IwAR3CbF5i8RJRnPMuuao8VgEg9Xsq2n1dqKBsVfJXAEpVg97xDCby-D0NSjc)
 
@@ -154,7 +154,7 @@
 
 ## Можливості допомоги / роботи
 
-* [Волонтерство \#stopcovid ua](informaciya-dlya-volonterov-onboarding.md)
+* [Волонтерство \#stopcovid ua](../informaciya-dlya-volonterov-onboarding.md)
 * [http://need.zakaz.ua/](http://need.zakaz.ua/)
 * [https://shatyrko.com/forpeople](https://shatyrko.com/forpeople)
 * [https://happymonday.ua/c/nakarantyni/](https://happymonday.ua/c/nakarantyni/) - тут собираем все по работе и карьере в текущих условиях. там сейчас только новые статьи, до завтра подтянем все актуальное по удаленке, подработке, фрилансу и онлайн профессиям, что у нас есть

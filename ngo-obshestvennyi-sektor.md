@@ -42,7 +42,7 @@ description: '[Потребує перекладу]'
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
 * [Онлайн курс для мед волонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
 * [Сборка и модификация ИВЛ](proekti/sborka-i-modifikaciya-ivl.md)
-* [Фонди допомоги](fond-pomoshi.md)
+* [Фонди допомоги]()
 
 ## Идеи
 

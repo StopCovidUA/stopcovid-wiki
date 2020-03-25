@@ -1,29 +1,20 @@
 # Table of contents
 
-* [Волонтерам координаційного центру по зупинці епідемії коронавірусу в Україні](README.md)
-* [🚀 Почати работу \(онбордінг\)](informaciya-dlya-volonterov-onboarding.md)
-* [Громадянам](gromadyani.md)
+* [Вітаю! Го допомагати 🚀](README.md)
+* [Організація](informaciya-dlya-volonterov-onboarding.md)
 * [Психологам, психотерапевтам, психіатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
 * [Неприбутковим і громадським організаціям](ngo-obshestvennyi-sektor.md)
-* [Медикам](sistema-zdravookhraneniya/README.md)
-  * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
-* [Донорам](fond-pomoshi.md)
-* [Школам та вишам](udalennoe-i-onlain-obrazovanie.md)
-* [Бізнесу](biznesy/README.md)
-  * [Список компаний которые поддержали борьбу с covid-19](biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
-  * [Допомога у веденні бізнесу](biznesy/dopomoga-u-vedenni-biznesu.md)
-  * [Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу](biznesy/untitled/README.md)
-    * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
-    * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznesy/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
-* [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
-* [Глобальний рух](globalnii-rukh.md)
+* [Перекладачам](perekladacham.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
 
+## Медикам
+
+* [Все для медиків](medikam/sistema-zdravookhraneniya.md)
+* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+
 ## Проекти
 
-* [Все про коронавірус \(SARS-CoV-2\)](proekti/o-koronaviruse/README.md)
-  * [Саміт по коронавірусу. Базова інформація](proekti/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Інформаційна кампанія](proekti/informacionnaya-kampaniya/README.md)
   * [Ты нужен миру дома](proekti/informacionnaya-kampaniya/ty-nuzhen-miru-doma.md)
   * [Врачи – герои](proekti/informacionnaya-kampaniya/vrachi.md)
@@ -44,11 +35,11 @@
 * [Сборка и модификация ИВЛ](proekti/sborka-i-modifikaciya-ivl.md)
 * [Аналітична платформа](proekti/analitika-mepping-dannykh.md)
 * [Онлайн курс для мед волонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
-* [Стратегія](proekti/strategiya.md)
 * [Новые идеи](proekti/novye-idei.md)
 
 ## Організація
 
+* [Стратегія](organizaciya/strategiya.md)
 * [Роли и координация](organizaciya/roli.md)
 * [Меми](organizaciya/memy.md)
 * [Tactical 16.03](organizaciya/tactical-16.03.md)
@@ -59,4 +50,17 @@
 * [Tactical 21.04](organizaciya/tactical-21.04.md)
 * [Tactical 23.04](organizaciya/tactical-23.04.md)
 * [Tactical 24.03](organizaciya/tactical-24.03.md)
+
+## До сайту
+
+* [Громадянам](do-saitu/gromadyani.md)
+* [Школам та вишам](do-saitu/udalennoe-i-onlain-obrazovanie.md)
+* [Бізнесу](do-saitu/biznesy/README.md)
+  * [Список компаний которые поддержали борьбу с covid-19](do-saitu/biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
+  * [Допомога у веденні бізнесу](do-saitu/biznesy/dopomoga-u-vedenni-biznesu.md)
+  * [Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу](do-saitu/biznesy/untitled/README.md)
+    * [Підбірка безкоштовних ресурсів від Київської школи економіки](do-saitu/biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
+    * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](do-saitu/biznesy/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
+* [Все про коронавірус \(SARS-CoV-2\)](do-saitu/o-koronaviruse/README.md)
+  * [Саміт по коронавірусу. Базова інформація](do-saitu/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 
