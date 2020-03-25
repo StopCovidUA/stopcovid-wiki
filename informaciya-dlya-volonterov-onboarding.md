@@ -1,4 +1,4 @@
-# Організація - як все працює?
+# Організація – як все працює?
 
 ## Наши ценности
 
@@ -10,6 +10,10 @@
 6. Прозрачность и открытость
 
 Инвестируем время и принимаем решения на основе этих приоритетов.
+
+{% hint style="info" %}
+Вам нужен эксперт или член команды? Добавляйте на [доску в трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)
+{% endhint %}
 
 ## Структура роботи
 
@@ -32,7 +36,6 @@
 * Файлы в [google drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
 * [Контакты команды](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(добавь сюда свои\)
 * Используем модель социократии для гибкой работы
-* [Роли тут]()  – выбирайте к каким направлениям присоединиться. Посмотрите материалы и дерните вашего лида по поводу задач
 
 ### [Карта экспертиз](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
 
