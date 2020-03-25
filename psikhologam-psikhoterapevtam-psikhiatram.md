@@ -18,9 +18,9 @@ description: >-
 
 1\) Ознакомтесь с этим[ документом](https://wiki.stopcovid.org.ua/organizaciya/informaciya-dlya-volonterov-onboarding); 
 
-2\) Заполните эту [форму](https://docs.google.com/spreadsheets/d/1TJtvt8ezKGul1dUbZvLUFw0CyDjGT0PUvNE_h19JYso/edit#gid=0); 
+2\) Заполните [форму](https://docs.google.com/spreadsheets/d/1TJtvt8ezKGul1dUbZvLUFw0CyDjGT0PUvNE_h19JYso/edit#gid=0) для волонтеров по психологическому направлению; 
 
-3\) Добавляйтесь в наш координационный [канал](https://t.me/keepcalmanddontpanic) в телеграмме. 
+3\) Добавляйтесь в наш координационный [чат в телеграмме](https://t.me/keepcalmanddontpanic). 
 
 **Наши каналы коммуникаций:**
 
