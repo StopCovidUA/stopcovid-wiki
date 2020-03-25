@@ -42,6 +42,8 @@ description: >-
 
 ## Волонтеры/активисты НГО: 
 
+Помощь центра сбора крови.
+
 ![](../.gitbook/assets/image%20%2817%29.png)
 
 {% hint style="warning" %}
