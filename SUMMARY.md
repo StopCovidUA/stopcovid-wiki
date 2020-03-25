@@ -26,8 +26,7 @@
 
 * [Стратегія](proekti/strategiya.md)
 * [Система логистики](proekti/sistema-logistiki.md)
-* [Постачання продуктів, медикаментів та засобів безпеки](proekti/dostavka-produktov-i-medikamentov/README.md)
-  * [Поставка масок, ИВЛ апаратів та антисептиків](proekti/dostavka-produktov-i-medikamentov/proizvodstvo-ivl-apparatov.md)
+* [Постачання продуктів, медикаментів та засобів безпеки](proekti/dostavka-produktov-i-medikamentov.md)
 * [Сборка и модификация ИВЛ](proekti/sborka-i-modifikaciya-ivl.md)
 * [Онлайн курс для мед волонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
 * [Новые идеи](proekti/novye-idei.md)

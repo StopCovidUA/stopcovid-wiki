@@ -11,7 +11,7 @@
 
 * [Фонд "Таблеточки"](https://tabletochki.org/) вже роками співпрацює з лікарнями та їхніми потребами.
 * [Maryna Saprykina](https://www.facebook.com/maryna.saprykina) – збирає і координиє запити від лікарень, також через [групу "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) 
-* [Поставка ИВЛ аппаратов](../proekti/dostavka-produktov-i-medikamentov/proizvodstvo-ivl-apparatov.md)
+* [Поставка ИВЛ аппаратов]()
 
 ## Корисні сервіси
 
