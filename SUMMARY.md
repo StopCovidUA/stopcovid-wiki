@@ -16,6 +16,7 @@
   * [Медики](psychological-support/mediki.md)
   * [Psychology 17.03](psychological-support/psychology-17.03.md)
   * [Psychology 24.03](psychological-support/psychology-24.03.md)
+  * [Psychology 25.03](psychological-support/psychology-25.03.md)
 * [Медикам](sistema-zdravookhraneniya/README.md)
   * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Перекладачам](perekladacham.md)
