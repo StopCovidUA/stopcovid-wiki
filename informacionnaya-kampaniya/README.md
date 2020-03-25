@@ -20,7 +20,6 @@ Tone of voice: Есть такая идея чтобы наша коммуник
 ## Каналы
 
 * Блоггеры [Youtube](https://docs.google.com/spreadsheets/d/1q-vI1a2ABqyIr9zwJseAI2I_mH9aUA_ksO7SYu1xu7k/edit?usp=sharing), [Instagram](https://docs.google.com/spreadsheets/d/1h6vMe4X3sE18q8ScF07AKZKjoZHVG_Q3jDYYro0Pa5o/edit?usp=gmail_thread)
-* [НГО]()
 
 ## Материалы
 
@@ -31,7 +30,6 @@ Tone of voice: Есть такая идея чтобы наша коммуник
 * [shieldmaiden.info](https://shieldmaiden.info)
 * [followers.com.ua](https://followers.com.ua/)
 * Телебачення Торонто – хотим установить партнерство
-* Супрун – хотим установить партнерство
 * [https://shotam.info/](https://shotam.info/) – хотим установить партнерство
 
 Попросить всевозможные организации об информационной онлайн-поддержке:
@@ -61,7 +59,6 @@ Tone of voice: Есть такая идея чтобы наша коммуник
 * Рамки для аватарки
 * Мила Йовович?
 * Как сделать так, чтобы сообщить о своем заболевании было безопасно и почетно? Нужно платить тем, кто сдал тест на короновирус! И пребывание в карантине должно быть оплачено! Люди должны чувствовать героями, спасшими мир
-* [https://ucansave.org.ua/](https://ucansave.org.ua/)
 * SEO вопрос
 * Пригласить медиа штормить с нами
 * Открыть статистику наших медиа
