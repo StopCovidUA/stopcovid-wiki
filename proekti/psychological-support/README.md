@@ -14,9 +14,7 @@ description: >-
 * **Волонтеры/Активисты/НГО** 
 * **Люди, находящиеся на карантине в связи с выявлением симптомов короновируса \(родственники и близкие друзья\).** 
 
-**\(**Данная категория групп не яв-ся полным или конечным. Если у вас есть идея, как вы можете нам помочь: заполните [форму](https://docs.google.com/spreadsheets/d/1TJtvt8ezKGul1dUbZvLUFw0CyDjGT0PUvNE_h19JYso/edit#gid=0) и присоединяйтесь в наш [координационный чат](https://t.me/keepcalmanddontpanic) \)  
-
- 
+**\(**Данная категория групп не яв-ся полным или конечным. Если у вас есть идея, как вы можете нам помочь: заполните [форму](https://docs.google.com/spreadsheets/d/1TJtvt8ezKGul1dUbZvLUFw0CyDjGT0PUvNE_h19JYso/edit#gid=0) и присоединяйтесь в наш [координационный чат](https://t.me/keepcalmanddontpanic)\)  
 
 ![](../../.gitbook/assets/image%20%2811%29.png)
 
@@ -97,6 +95,7 @@ description: >-
 * [A Guide to Running Through the Apocalypse](https://elemental.medium.com/a-guide-to-running-through-the-apocalypse-4301731087c)
 * Материал: как делать виртуальные бары и игры с друзьями
 * Озвучить телеграм канал коронавируса
+* Спорт [https://moveu.com/](https://moveu.com/)
 
 
 
