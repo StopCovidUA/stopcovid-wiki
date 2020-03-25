@@ -20,11 +20,7 @@ description: >-
 
 ## **Если вы хотите нам помочь:** 
 
-Пожалуйста, заполните [форму](https://docs.google.com/spreadsheets/d/1TJtvt8ezKGul1dUbZvLUFw0CyDjGT0PUvNE_h19JYso/edit#gid=0).
-
-Прочитайте эту [информацию](https://wiki.stopcovid.org.ua/organizaciya/informaciya-dlya-volonterov-onboarding). 
-
-Присоединяйтесь в наш [координационный чат](https://t.me/keepcalmanddontpanic) по психологической поддержке.
+Пожалуйста переходите на [эту страницу.](https://wiki.stopcovid.org.ua/psikhologam-psikhoterapevtam-psikhiatram)
 
 ### Если вы хотели получить психологическую поддержку: 
 
@@ -46,7 +42,9 @@ description: >-
 
 
 
-## Где найти психолога \(онлайн\)
+## Материалы, идеи, контакты для проекта: 
+
+Где найти психолога \(онлайн\)
 
 * [https://www.facebook.com/groups/selfpatching/](https://www.facebook.com/groups/selfpatching/)
 * [https://bemeta.co](https://bemeta.co/)
@@ -54,15 +52,13 @@ description: >-
 * [Бесплатная психологическая помощь \(Киев\)](https://kiev.vgorode.ua/news/sobytyia/394370-chto-to-prydumaem-hde-kyevliane-mohut-poluchyt-besplatnuui-psykholohycheskuui-pomosch%20)
 * [Психологи и психотерапевты \(группа в фейсбуке](https://www.facebook.com/groups/psychologyst/?ref=share)
 
-
-
-### **Видео-материалы** 
+**Видео-материалы** 
 
 * Тема: «Коронавирус». 
 
 Первая часть [прямого эфира ](https://www.facebook.com/mindspotodessa/videos/601513777359157/%20) посвящена практикам и техникам для помощи себе, если вы находитесь в стрессе, волнении, растерянности. Тема: [Онлайн-марафон](https://education.oleshko.pro/antipanika%20) о том, как: не поддаться панике и тревоге, сохранить ресурсное состояние, когда весь мир сходит с ума.
 
-## **Идеи**
+**Идеи**
 
 * [Философия стоицизма \[Ted Ed\]](https://www.youtube.com/watch?v=Qd7L5MIQfzk)
 * Проект коучинг в семье от Анастасии
