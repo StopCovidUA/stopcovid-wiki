@@ -24,7 +24,7 @@ description: >-
 
 **Наши каналы коммуникаций:**
 
-* Discord [\#psychology](https://discord.gg/HqSr3w)
+* Discord [\#psychology](https://discord.gg/gm2eXRw)
 * [Канал "без паніки", тим, кому потрібна допомога](https://t.me/bezpaniky).
 * [Координационный чат в телеграмм.](https://t.me/keepcalmanddontpanic) 
 
