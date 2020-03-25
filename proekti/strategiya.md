@@ -6,8 +6,6 @@ description: '[Потребує перекладу]'
 
 ## Задачи
 
-* Сбор данных что делают зарубежом
-
 {% embed url="https://www.youtube.com/watch?time\_continue=3&v=3iBiCU8A8iQ" %}
 
 ## [Зеленский предложения 16.03](https://www.youtube.com/watch?v=_5VIVI84Be4&feature=emb_title)
