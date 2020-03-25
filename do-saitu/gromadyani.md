@@ -14,7 +14,7 @@
 
 ## Проекти
 
-* [Психологічна/емоційна підтримка під час карантину](../proekti/psychological-support/).
+* [Психологічна/емоційна підтримка під час карантину](../psychological-support/).
 * [Мережа "турботи про сусідів"](../proekti/dostavka-produktov-i-medikamentov/).
 * [Все про коронавірус \(SARS-CoV-2\)](o-koronaviruse/).
 * [Перехід на дситанійну роботу](biznesy/#poradi-shodo-distanciinoyi-roboti).
