@@ -20,6 +20,7 @@
 
 ## За регіоном
 
+* [Глобальний рух](za-regionom/globalnii-rukh.md)
 * [Київ](http://kyiv.stopcovid.org.ua/)
 * [Харьків](za-regionom/kharkiv.md)
 * [Львів](za-regionom/lviv.md)
