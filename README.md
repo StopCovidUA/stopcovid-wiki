@@ -4,26 +4,6 @@
 Публичный сайт тут: [https://stopcovid.org.ua/](https://stopcovid.org.ua/)
 {% endhint %}
 
-## Текущие приоритеты
-
-* Мы предоставляем квалифицированных волонтеров в айти, медиа, переводах и тд.
-* Также запускаем информационную кампанию "врачи – герои",
-* Повышаем уровень координации по проблеме covid между НГО в региона
-
-Хотите помочь? См [инструкцию для волонтеров](organizaciya/informaciya-dlya-volonterov-onboarding.md)
-
-## Рішення
-
-* [Громадянам](gromadyani.md) \(в тому числі вразливим групам: літні люди, вагітні, люди без доходу\)
-* [Психологам, психотерапевтам, психіатрам](psikhologam-psikhoterapevtam-psikhiatram.md)
-* [Неприбутковим і громадським організаціям](ngo-obshestvennyi-sektor.md)
-* [Медикам](sistema-zdravookhraneniya/)
-* [Школам та вишам ](udalennoe-i-onlain-obrazovanie.md)
-* [Бізнесу](biznesy/)
-* [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
-* [Донорам](fond-pomoshi.md)
-* \*\*\*\*[**Активістам та волонтерам**](organizaciya/informaciya-dlya-volonterov-onboarding.md)\*\*\*\*
-
 ##  Проекти
 
 * [Все про коронавірус \(SARS-CoV-2\)](proekti/o-koronaviruse/)
@@ -38,37 +18,8 @@
 Уже щось робите або потребуєте допомоги? [Підключайтесь тут](organizaciya/informaciya-dlya-volonterov-onboarding.md)
 {% endhint %}
 
-## Координаційні центри за регіонамі
-
-* [Рада президента](https://jurliga.ligazakon.net/ua/news/193761_prezident-stvoriv-koordinatsynu-radu-z-protid-poshirennyu-covid-19)
-* [Київ](http://kyiv.stopcovid.org.ua/)
-* [Одеса](za-regionom/odesa.md)
-* [Львів](za-regionom/lviv.md)
-* [Запоріжжя](za-regionom/zaporizhzhya.md)
-* [Тернопіль](za-regionom/ternopil.md)
-* [Івано-франківськ](za-regionom/ivano-frankivsk.md)
-* Вінниця
-* Луцьк
-* Дніпро
-* Донецьк
-* Житомир\*
-* Ужгород
-* Кропивницький
-* Луганськ
-* Миколаїв
-* Полтава
-* Рівне
-* Суми
-* Харьків\*
-* Херсон
-* Хмельницький\*
-* Черкаси
-* Чернігів
-* Чернівці
-* Крим
-
 {% hint style="info" %}
-Додайте центр чи створіть свій \(пишіть [Максу](https://t.me/maxsemenchuk)\)
+[Усі НГО що допомагають за регіоном та напрямками](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0)
 {% endhint %}
 
 ### Інші центри і глобальні рухи
@@ -93,8 +44,7 @@
 
 ## Підтримайте проєкт та залишайтесь на зв'язку 
 
-* Поділіться матеріалом в соцмережах ❤️
-* Сайт оновлюється раз в день - слідкуйте за оновленнями
+* Сайт оновлюється кілька разів на день – слідкуйте за оновленнями
 * [Підпишіться на telegram-канал з оновленнями ](https://t.me/stopcoviduaupdates)
 * [Наш інстаграм](https://www.instagram.com/stopcovidua/) та
 * [фейсбук](https://www.facebook.com/StopCovidUa) й

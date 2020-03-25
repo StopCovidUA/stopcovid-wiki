@@ -15,20 +15,9 @@
     * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
     * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznesy/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
 * [Медіа, інфлюенсерам, творчим людям](media-inflyuensery-kreatory.md)
+* [Глобальний рух](globalnii-rukh.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
-
-## За регіоном
-
-* [Глобальний рух](za-regionom/globalnii-rukh.md)
-* [Київ](http://kyiv.stopcovid.org.ua/)
-* [Харьків](za-regionom/kharkiv.md)
-* [Львів](za-regionom/lviv.md)
-* [Одеса](za-regionom/odesa.md)
-* [Запоріжжя](za-regionom/zaporizhzhya.md)
-* [Тернопіль](za-regionom/ternopil.md)
-* [Івано-Франківськ](za-regionom/ivano-frankivsk.md)
-* [Черкаси](za-regionom/cherkasi.md)
 
 ## Проекти
 
