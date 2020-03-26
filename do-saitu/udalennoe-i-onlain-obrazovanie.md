@@ -127,5 +127,9 @@ Online/Virtual Learning Management Systems
 #### Online Exam
 
 * [https://web.respondus.com/he/](https://web.respondus.com/he/)
-* [https://www.proctoru.com](https://www.proctoru.com) 
+* [https://www.proctoru.com](https://www.proctoru.com)
+
+## Идеи
+
+* [https://ceit.ucu.edu.ua/news/distance-learning/](https://ceit.ucu.edu.ua/news/distance-learning/) 
 
