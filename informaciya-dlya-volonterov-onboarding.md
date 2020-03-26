@@ -20,7 +20,7 @@
 * [Координаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh.md)
 * [ЗМІ, комунікаторам, дизайнерам та креаторам](informacionnaya-kampaniya/)
 * [Психологам, психотерапевтам, психіатрам](psychological-support/)
-* [Перекладачам](perekladacham.md)
+* [Перекладачам](perekladacham/)
 * [Медикам](sistema-zdravookhraneniya/)
 * [IT та інженерам](it-ta-inzheneram.md)
 * [HR'ам](hram.md)
