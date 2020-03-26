@@ -15,7 +15,7 @@
 
 ![](.gitbook/assets/stopcovid-ua-2.jpg)
 
-Выбирайте к каким направлениям присоединиться. Посмотрите материалы и дерните вашего лида по поводу задач
+Выбирайте к каким направлениям присоединиться. Посмотрите материалы и дерните вашего лида по поводу задач.
 
 * [Координаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh.md)
 * [ЗМІ, комунікаторам та креаторам](informacionnaya-kampaniya/)
@@ -26,7 +26,8 @@
 * [HR'ам](hram.md)
 
 {% hint style="info" %}
-Вам нужен эксперт или член команды? Добавляйте на [доску в трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)
+Вам нужен эксперт или член команды? Добавляйте на [доску в трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)  
+Вот [список организаций](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0) которые работают на проблемой
 {% endhint %}
 
 ## Инструменты
