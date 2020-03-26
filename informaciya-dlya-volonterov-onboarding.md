@@ -17,11 +17,13 @@
 
 Выбирайте к каким направлениям присоединиться. Посмотрите материалы и дерните вашего лида по поводу задач
 
-* [Координаторам та аналітикам](analitika-mepping-dannykh.md)
+* [Координаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh.md)
 * [ЗМІ, комунікаторам та креаторам](informacionnaya-kampaniya/)
 * [Психологам, психотерапевтам, психіатрам](psychological-support/)
 * [Перекладачам](perekladacham.md)
 * [Медикам](sistema-zdravookhraneniya/)
+* [IT та інженерам](it-ta-inzheneram.md)
+* [HR'ам](hram.md)
 
 {% hint style="info" %}
 Вам нужен эксперт или член команды? Добавляйте на [доску в трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)

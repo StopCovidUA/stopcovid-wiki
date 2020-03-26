@@ -2,7 +2,7 @@
 
 * [Вітаю! Го допомагати 🚀](README.md)
 * [Організація – як все працює?](informaciya-dlya-volonterov-onboarding.md)
-* [Координаторам та аналітикам](analitika-mepping-dannykh.md)
+* [Координаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh.md)
 * [ЗМІ, комунікаторам та креаторам](informacionnaya-kampaniya/README.md)
   * [Ты нужен миру дома](informacionnaya-kampaniya/ty-nuzhen-miru-doma.md)
   * [Врачи – герои](informacionnaya-kampaniya/vrachi.md)
@@ -19,7 +19,9 @@
   * [Psychology 25.03](psychological-support/psychology-25.03.md)
 * [Медикам](sistema-zdravookhraneniya/README.md)
   * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+* [IT та інженерам](it-ta-inzheneram.md)
 * [Перекладачам](perekladacham.md)
+* [HR'ам](hram.md)
 * [Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [Потрібна допомога?](https://t.me/stopcovidua)
 
