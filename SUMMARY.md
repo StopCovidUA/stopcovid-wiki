@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Вітаю! Го допомагати 🚀](README.md)
-* [Організація – як все працює?](informaciya-dlya-volonterov-onboarding.md)
+* [🖐 Вітаю, го допомагати](README.md)
+* [🚀 Організація – як все працює?](informaciya-dlya-volonterov-onboarding.md)
 * [Координаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh.md)
 * [ЗМІ, комунікаторам, дизайнерам та креаторам](informacionnaya-kampaniya/README.md)
   * [Ты нужен миру дома](informacionnaya-kampaniya/ty-nuzhen-miru-doma.md)
