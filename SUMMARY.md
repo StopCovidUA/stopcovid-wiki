@@ -22,8 +22,8 @@
 * [IT та інженерам](it-ta-inzheneram.md)
 * [Перекладачам](perekladacham.md)
 * [HR'ам](hram.md)
-* [Канал з оновленнями](https://t.me/stopcoviduaupdates)
-* [Потрібна допомога?](https://t.me/stopcovidua)
+* [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
+* [🐝 Доєднатись до роботи](https://discord.gg/VqWKqbh)
 
 ## Проекти
 
