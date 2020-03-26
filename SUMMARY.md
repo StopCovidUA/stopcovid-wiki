@@ -3,7 +3,7 @@
 * [Вітаю! Го допомагати 🚀](README.md)
 * [Організація – як все працює?](informaciya-dlya-volonterov-onboarding.md)
 * [Координаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh.md)
-* [ЗМІ, комунікаторам та креаторам](informacionnaya-kampaniya/README.md)
+* [ЗМІ, комунікаторам, дизайнерам та креаторам](informacionnaya-kampaniya/README.md)
   * [Ты нужен миру дома](informacionnaya-kampaniya/ty-nuzhen-miru-doma.md)
   * [Врачи – герои](informacionnaya-kampaniya/vrachi.md)
   * [Общее дело](informacionnaya-kampaniya/obshee-delo.md)

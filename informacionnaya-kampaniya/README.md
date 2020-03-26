@@ -1,4 +1,4 @@
-# ЗМІ, комунікаторам та креаторам
+# ЗМІ, комунікаторам, дизайнерам та креаторам
 
 Координатор: [Диана Кинг](https://t.me/dianatheking)
 
@@ -8,6 +8,7 @@
 * [Доска задач по коммуникациям](https://trello.com/b/xjcCv4vB/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
 * Канал [StopCovid Youtube](https://t.me/StopCovidYouTube)
 * [Контент план](https://docs.google.com/spreadsheets/d/1vRUnJNAk7FgvdbDWydn429hRSV1j65q1VUCCLpXQTAQ/edit#gid=1872245614)
+* Звонки в приложенных страницах
 
 ## Сообщения
 
