@@ -1,5 +1,7 @@
 # Медикам
 
+* [\#medics](https://discord.gg/JARdyyZ)
+
 ## Матеріали
 
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
