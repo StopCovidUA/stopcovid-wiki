@@ -18,14 +18,6 @@
 
 Tone of voice: Есть такая идея чтобы наша коммуникация была максимально теплая и позитивная в своей форме и по содержанию. Говорим о хорошем: кому помогли, какие достижения. Это и элемент психологической поддержки и более располагающая форма
 
-## Каналы
-
-* Блоггеры [Youtube](https://docs.google.com/spreadsheets/d/1q-vI1a2ABqyIr9zwJseAI2I_mH9aUA_ksO7SYu1xu7k/edit?usp=sharing), [Instagram](https://docs.google.com/spreadsheets/d/1h6vMe4X3sE18q8ScF07AKZKjoZHVG_Q3jDYYro0Pa5o/edit?usp=gmail_thread)
-
-## Материалы
-
-* Логотип \([картинки](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5), [figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)\)
-
 ## Медиапартнеры
 
 * [shieldmaiden.info](https://shieldmaiden.info)
