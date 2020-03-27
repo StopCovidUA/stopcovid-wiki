@@ -172,4 +172,6 @@ description: '[Потребує перекладу]'
 * [https://pages.semanticscholar.org/coronavirus-research](https://pages.semanticscholar.org/coronavirus-research)
 * [https://docs.google.com/document/d/1W\_m\_0A5wl4s5okN74TQvCI40IbHm8NZP5uBlQVrtmgo/edit?fbclid=IwAR3nDV0MYfTKJ3SeI5mB9qXAPR62ZMRNhkJ3OKX\_aeFmqLfjFrpebvIa5Qs](https://docs.google.com/document/d/1W_m_0A5wl4s5okN74TQvCI40IbHm8NZP5uBlQVrtmgo/edit?fbclid=IwAR3nDV0MYfTKJ3SeI5mB9qXAPR62ZMRNhkJ3OKX_aeFmqLfjFrpebvIa5Qs)
 * [https://helpwithcovid.com/](https://helpwithcovid.com/)
+* Наш источник сообщает, что в Офисе Президента продолжают обсуждать тему с созданием всеукраинского волонтерского движения по борьбе с коронавирусом. Ходят также слухи, что именно президенту предлагают возглавить волонтерское движение. Пока обдумывают сам этот формат, но уже по городам и регионам люди сами начали объединяться в группы и помогать всем нуждающимся. Источник поясняет, что всё это сейчас очень хорошо можно централизовано объединить на основе общественной платформы. И получить контакты тысячи инициативных и активных людей. Одна большая проблема есть, сейчас в ОП, нет кадров, кто может это всё организовать.
+* Оксана UNDP
 
