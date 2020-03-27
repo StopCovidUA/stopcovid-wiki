@@ -35,15 +35,6 @@
 
 [Мониторить ситуацию в Украине \(официальную\) можно тут](https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9&fbclid=IwAR1-m0J2J-cFPJPubcFLxls8WgScsdsq8nNlYbY-hti5ZUDsShKYhpCTosU)
 
-## Люди и организации
-
-* [Maryna Saprykina](https://www.facebook.com/maryna.saprykina)
-* донор.юа
-
-## Предложение о партнерстве
-
-[Усі НГО що допомагають за регіоном та напрямками](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0)
-
 ## Идеи
 
 * Пометить Медицинские, Образовательные, Профессиональные и Локальные организации
