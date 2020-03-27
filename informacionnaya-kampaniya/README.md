@@ -1,6 +1,6 @@
 # ЗМІ, комунікаторам, дизайнерам та креаторам
 
-Координатор: [Діана Кінг](https://t.me/dianatheking)
+Координация коммуникаий: [Діана Кінг](https://t.me/dianatheking)
 
 * Канал для волонтерів [\#marketing-pr](https://discord.gg/5t6zMtv)
 * [Медіакіт](https://docs.google.com/document/d/1uyl3wf2cpi6yJFPKybJtQD9_LL5jKfdENCccA6LO10c/edit?usp=sharing)

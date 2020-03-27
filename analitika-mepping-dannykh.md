@@ -1,8 +1,9 @@
 # Координаторам, аналітикам та проект-менеджерам
 
-* Координатор движения – [Макс Семенчук](https://t.me/maxsemenchuk)
-  * Связь с волонтерами – [Vitaliy Gataulin](https://t.me/VGataulin)
-  * Связь с глобальным движением – [Oksana Pashchenko](https://t.me/Oksana_Paschenko)
+Координация движения: [Макс Семенчук](https://t.me/maxsemenchuk)
+
+* Связь с волонтерами: [Vitaliy Gataulin](https://t.me/VGataulin)
+* Связь с глобальным движением: [Oksana Pashchenko](https://t.me/Oksana_Paschenko)
 * Канал [\#pm-analytics-mgmt](https://discord.gg/DX883hY%20)
 * [Доска задач-вакансий](https://trello.com/b/IkonsFAY/main-board)
 
