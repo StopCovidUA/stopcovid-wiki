@@ -33,8 +33,6 @@ description: >-
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-## 
-
 ## Психологическая поддержка через сайт
 
 ![](../.gitbook/assets/image%20%2812%29.png)
@@ -164,9 +162,9 @@ description: >-
 
 {% hint style="info" %}
 **НПА ЗАПУСКАЄ МЕРЕЖУ ПСИХОЛОГІЧНОЇ ДОПОМОГИ** 
-{% endhint %}
 
 Найтемніші часи легше переживаються разом. Ми, Національна психологічна асоціація, віримо, що сила в єднанні. Ми вирішили об’єднати зусилля та активізувати нашу мережу психологічної допомоги задля допомоги нашим громадянам в умовах пандемії covid-2019.
+{% endhint %}
 
 Наразі ми пропонуємо вам безкоштовні психологічні консультації з нашими спеціалістами у телефонному форматі чи через відео зв’язок. Для того, щоб скористатися цією можливістю вам потрібно написати нам на електронну пошту help.me.npa@gmail.com. Наші координатори зконтактують вас із спеціалістами у порядку живої черги.
 
@@ -195,13 +193,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSd4zZhgqBW6T4jR4j5XeY8xdbRWllxoqk4gmpu8
 
 ## Материалы, идеи, контакты для проекта: 
 
-Где найти психолога \(онлайн\)
+\*\*\*\*[**Контакты центров псих.поддержки и телефонов доверия**](https://docs.google.com/spreadsheets/d/1Tiz3PZtqXY4q34sdXC9balK1s8yA5-WBlnXXrCgTa54/edit#gid=0) ****\(если у вас есть контакты, которых нет в списке, вы можете их добавить.  
 
-* [https://www.facebook.com/groups/selfpatching/](https://www.facebook.com/groups/selfpatching/)
-* [https://bemeta.co](https://bemeta.co/)
-* [https://www.treatfield.com/](https://www.treatfield.com/)
-* [Бесплатная психологическая помощь \(Киев\)](https://kiev.vgorode.ua/news/sobytyia/394370-chto-to-prydumaem-hde-kyevliane-mohut-poluchyt-besplatnuui-psykholohycheskuui-pomosch%20)
-* [Психологи и психотерапевты \(группа в фейсбуке](https://www.facebook.com/groups/psychologyst/?ref=share)
+{% hint style="info" %}
+Мы не являемся верифицированным экспертным центром по психологической поддержке! 
+{% endhint %}
+
+
 
 **Видео-материалы** 
 
