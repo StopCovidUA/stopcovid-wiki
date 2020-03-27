@@ -29,8 +29,7 @@
 
 {% hint style="info" %}
 [Список открытых ваканский для волонтеров](https://trello.com/b/IkonsFAY/stopcovid-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80)  
-Вам нужен эксперт или член команды? Добавляйте на [доску в трелло](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)  
-Вот [список организаций](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0) которые работают на проблемой \(пополняется\)
+Вам нужен эксперт или член команды? Добавляйте вакансию туда же
 {% endhint %}
 
 ## Инструменты
