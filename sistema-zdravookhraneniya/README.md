@@ -20,6 +20,7 @@
 * Групи підвези медика:  [https://t.me/helpdoctorsCoronavlrus](https://t.me/helpdoctorsCoronavlrus), @MedHelpKyiv1, @Medikoronavirus
 * [https://poputi.club/](https://poputi.club/) – є маршрути безкоштовні для лікарів
 * Є коди на uber та уклон
+* [https://www.airbnb.com/openhomes/covid19relief](https://www.airbnb.com/openhomes/covid19relief) AirBnB помогает предоставлять жильё медикам и другим людям на передовой \(first resposders\) бесплатно.
 
 ### Психологічна підтримка
 
