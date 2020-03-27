@@ -47,6 +47,7 @@
 * [Bazzilla](https://bazzilla.com.ua/) - маркетплейс b2b товаров для онлайн ритейла.
 * [Sovtes](https://sovtes.ua/w/) - онлайн решения для эффективного управления грузовыми перевозками. Уменьшают расходы на магистральных перевозках и контролируют весь процесс с момента публикации заявки к обмену документами.
 * [https://ant-logistics.com/main.html](https://ant-logistics.com/main.html)
+* [https://docs.google.com/document/d/12URVoCTmuvQn5mOk\_VCrtM9SCj7wxKVEsic1HyVJm0U/edit](https://docs.google.com/document/d/12URVoCTmuvQn5mOk_VCrtM9SCj7wxKVEsic1HyVJm0U/edit)
 
 
 
