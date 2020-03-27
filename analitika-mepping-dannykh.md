@@ -1,9 +1,9 @@
 # Координаторам, аналітикам та проект-менеджерам
 
-* Канал [\#analytics](https://discord.gg/adksBXd)
-* Координатор – Макс Семенчук
-* Связь с глобальным движением – Oksana Pashchenko
-* [\#головний](https://discord.gg/MxT4axM) канал
+* Координатор – [Макс Семенчук](https://t.me/maxsemenchuk)
+  *  Связь с глобальным движением – Oksana Pashchenko
+* Канал [\#pm-analytics-mgmt](https://discord.gg/DX883hY%20)
+* * канал
 * [Доска задач основна](https://trello.com/b/IkonsFAY/main-board)
 
 ## Задачи
