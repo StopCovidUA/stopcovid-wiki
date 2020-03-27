@@ -15,4 +15,5 @@
 ## Хакатоны
 
 * [https://www.coronawhy.org/](https://www.coronawhy.org/)
+* [https://garage48.org/hackthecrisis](https://garage48.org/hackthecrisis)
 

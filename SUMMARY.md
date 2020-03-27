@@ -4,6 +4,7 @@
 * [🚀 Організація – як все працює?](informaciya-dlya-volonterov-onboarding.md)
 * [Організаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh/README.md)
   * [Стратегія](analitika-mepping-dannykh/strategiya.md)
+  * [NGO sync](analitika-mepping-dannykh/ngo-sync.md)
 * [ЗМІ, комунікаторам, дизайнерам та креаторам](informacionnaya-kampaniya/README.md)
   * [Врачи – герои](informacionnaya-kampaniya/vrachi.md)
   * [Общее дело](informacionnaya-kampaniya/obshee-delo.md)

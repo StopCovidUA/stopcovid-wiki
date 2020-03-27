@@ -167,5 +167,8 @@ description: '[Потребує перекладу]'
 * уйти с координации подпроектов
 * Найти денег на движение
 * Брать лучшие компании в своих сферах консультировать Лидов
+* [https://80000hours.org/covid-19/](https://80000hours.org/covid-19/)
 * [https://www.youtube.com/watch?v=vPNXZIbs128](https://www.youtube.com/watch?v=vPNXZIbs128)
+* [https://pages.semanticscholar.org/coronavirus-research](https://pages.semanticscholar.org/coronavirus-research)
+* [https://docs.google.com/document/d/1W\_m\_0A5wl4s5okN74TQvCI40IbHm8NZP5uBlQVrtmgo/edit?fbclid=IwAR3nDV0MYfTKJ3SeI5mB9qXAPR62ZMRNhkJ3OKX\_aeFmqLfjFrpebvIa5Qs](https://docs.google.com/document/d/1W_m_0A5wl4s5okN74TQvCI40IbHm8NZP5uBlQVrtmgo/edit?fbclid=IwAR3nDV0MYfTKJ3SeI5mB9qXAPR62ZMRNhkJ3OKX_aeFmqLfjFrpebvIa5Qs)
 
