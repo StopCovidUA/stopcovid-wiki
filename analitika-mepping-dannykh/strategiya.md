@@ -171,4 +171,5 @@ description: '[Потребує перекладу]'
 * [https://www.youtube.com/watch?v=vPNXZIbs128](https://www.youtube.com/watch?v=vPNXZIbs128)
 * [https://pages.semanticscholar.org/coronavirus-research](https://pages.semanticscholar.org/coronavirus-research)
 * [https://docs.google.com/document/d/1W\_m\_0A5wl4s5okN74TQvCI40IbHm8NZP5uBlQVrtmgo/edit?fbclid=IwAR3nDV0MYfTKJ3SeI5mB9qXAPR62ZMRNhkJ3OKX\_aeFmqLfjFrpebvIa5Qs](https://docs.google.com/document/d/1W_m_0A5wl4s5okN74TQvCI40IbHm8NZP5uBlQVrtmgo/edit?fbclid=IwAR3nDV0MYfTKJ3SeI5mB9qXAPR62ZMRNhkJ3OKX_aeFmqLfjFrpebvIa5Qs)
+* [https://helpwithcovid.com/](https://helpwithcovid.com/)
 
