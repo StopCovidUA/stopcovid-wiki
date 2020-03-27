@@ -47,6 +47,7 @@
 * [Tactical 24.03](organizaciya/tactical-24.03.md)
 * [Tactical 25.03](organizaciya/tactical-25.03.md)
 * [Tactical 26.03](organizaciya/tactical-26.03.md)
+* [Tactical 27.03](organizaciya/tactical-27.03.md)
 
 ## Контент для сайту <a id="do-saitu"></a>
 
