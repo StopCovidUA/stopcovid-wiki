@@ -17,12 +17,12 @@
 
 Выбирайте к каким направлениям присоединиться. Посмотрите материалы и дерните вашего лида по поводу задач.
 
-* [Координаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh.md)
+* [Координаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh/)
 * [ЗМІ, комунікаторам, дизайнерам та креаторам](informacionnaya-kampaniya/)
 * [Психологам, психотерапевтам, психіатрам](psychological-support/)
 * [Перекладачам](perekladacham/)
 * [Медикам](sistema-zdravookhraneniya/)
-* [IT та інженерам](it-ta-inzheneram.md)
+* [IT та інженерам](it-ta-inzheneram/)
 * [HR'ам](hram.md)
 * [Юристам](yuristam.md)
 * [Фінансистам](finansistam.md)

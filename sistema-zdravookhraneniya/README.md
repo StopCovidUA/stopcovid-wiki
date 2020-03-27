@@ -9,7 +9,7 @@
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Важливі матеріали для медиків про COVID-19 \(переклади\)](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
 * Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
-* [Онлайн курс для мед волонтеров](../proekti/onlain-kurs-dlya-med-volonterov.md)
+* [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
 
 ## Запити на постачання
 

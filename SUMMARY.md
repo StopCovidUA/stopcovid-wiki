@@ -2,7 +2,8 @@
 
 * [🖐 Вітаю, го допомагати](README.md)
 * [🚀 Організація – як все працює?](informaciya-dlya-volonterov-onboarding.md)
-* [Організаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh.md)
+* [Організаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh/README.md)
+  * [Стратегія](analitika-mepping-dannykh/strategiya.md)
 * [ЗМІ, комунікаторам, дизайнерам та креаторам](informacionnaya-kampaniya/README.md)
   * [Врачи – герои](informacionnaya-kampaniya/vrachi.md)
   * [Общее дело](informacionnaya-kampaniya/obshee-delo.md)
@@ -19,8 +20,12 @@
   * [Psychology 24.03](psychological-support/psychology-24.03.md)
   * [Psychology 25.03](psychological-support/psychology-25.03.md)
 * [Медикам](sistema-zdravookhraneniya/README.md)
+  * [Онлайн курс для мед волонтерів](sistema-zdravookhraneniya/onlain-kurs-dlya-med-volonterov.md)
   * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
-* [IT та інженерам](it-ta-inzheneram.md)
+* [IT та інженерам](it-ta-inzheneram/README.md)
+  * [Постачання продуктів, медикаментів та засобів безпеки](it-ta-inzheneram/dostavka-produktov-i-medikamentov.md)
+  * [Сборка и модификация ИВЛ](it-ta-inzheneram/sborka-i-modifikaciya-ivl.md)
+  * [Система логистики](it-ta-inzheneram/sistema-logistiki.md)
 * [Перекладачам](perekladacham/README.md)
   * [Цілі, способи та тактика роботи з матеріалами](perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
 * [HR'ам](hram.md)
@@ -28,16 +33,6 @@
 * [Фінансистам](finansistam.md)
 * [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [🐝 Доєднатись до роботи](https://discord.gg/VqWKqbh)
-
-## Проекти
-
-* [Стратегія](proekti/strategiya.md)
-* [Система логистики](proekti/sistema-logistiki.md)
-* [Постачання продуктів, медикаментів та засобів безпеки](proekti/dostavka-produktov-i-medikamentov.md)
-* [Сборка и модификация ИВЛ](proekti/sborka-i-modifikaciya-ivl.md)
-* [Онлайн курс для мед волонтерів](proekti/onlain-kurs-dlya-med-volonterov.md)
-* [Новые идеи](proekti/novye-idei.md)
-* [Меми](proekti/memy.md)
 
 ## Зустрічі <a id="organizaciya"></a>
 
