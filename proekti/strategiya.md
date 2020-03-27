@@ -147,4 +147,5 @@ description: '[Потребує перекладу]'
 * уйти с координации подпроектов
 * Найти денег на движение
 * Брать лучшие компании в своих сферах консультировать Лидов
+* [https://www.youtube.com/watch?v=vPNXZIbs128](https://www.youtube.com/watch?v=vPNXZIbs128)
 
