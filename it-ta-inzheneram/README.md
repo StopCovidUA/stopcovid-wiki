@@ -21,6 +21,7 @@
 
 * [https://www.coronawhy.org/](https://www.coronawhy.org/)
 * [https://garage48.org/hackthecrisis](https://garage48.org/hackthecrisis)
+* [https://medium.com/daia/the-covidathon-decentralised-ai-against-covid-19-a27d5a25e199](https://medium.com/daia/the-covidathon-decentralised-ai-against-covid-19-a27d5a25e199)
 
 Эпидемия для всех разная: кому-то не хватает общения в карантине, у кого-то болеет знакомый, кто-то успел лишиться работы, у некоторых трещит по швам бизнес.
 
