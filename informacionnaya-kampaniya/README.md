@@ -46,6 +46,7 @@ Tone of voice: Есть такая идея чтобы наша коммуник
 * SEO вопрос
 * Пригласить медиа штормить с нами
 * Открыть статистику наших медиа
+* [https://www.facebook.com/groups/POfinddesigner](https://www.facebook.com/groups/POfinddesigner)
 
 
 
