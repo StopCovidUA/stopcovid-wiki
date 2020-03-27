@@ -9,6 +9,8 @@
 
 ## Задачи
 
+Цель: все видят кто что делают, в курсе лучший практик и где что происходит.
+
 * открытие и прозрачность данных по распространению вируса.
 * для волонтёров и доноров знание куда нужно вкладывать
 * Открытая база инструментов взаимодействия соседей на уровне парадного/ЖК/микрорайона \(тесты, каналы коммуникации\)
@@ -38,42 +40,9 @@
 * [Maryna Saprykina](https://www.facebook.com/maryna.saprykina)
 * донор.юа
 
-## Трекинг зараженных зон
-
-* Щодо протокулу поведінки людям в разі захворювання, пропонують таке: «Я тобі раджу зайти на сайт Міністерства охорони здоров'я Ізраїлю. Там все розписано. В А ще там ти побачиш звіти які контактори мають надсилати»
-* Инфицированные люди могут щерить своё местоположение
-
-
-
-Координатор: [Макс Семенчук](https://t.me/maxsemenchuk) \(ищу нового координатора!\)
-
-Видение: все НГО видят кто что делают, в курсе лучший практик и где что происходит.
-
 ## Предложение о партнерстве
 
-* Обмен информацией о ходе дел
-* Предоставление и обмен волонтерами, экспертами и запросами
-
-Текущие партнеры:
-
-* [ProBono Club](https://probono.org.ua/)
-* [Стоп Covid19 в Україні](https://www.facebook.com/stopcovid19ua/)
-* [Sillicon Drinkabout](https://silicondrinkabout.com/kiev)
-* [Жизнелюб](https://www.facebook.com/projectgiznelub/?ref=br_rs) та [Супервнуки](https://www.facebook.com/groups/SuperOnuki/%20)
-* [Волонтерська платформа](https://www.volonter.org/)
-* [Українська Волонтерська Служба](https://volunteer.country/)
-* [Global Shapers Kyiv Hub](https://www.globalshapers.kyiv.ua/)
-* [Wtech](https://www.facebook.com/wtechukraine/)
-* [Biggggidea](https://biggggidea.com/)
-* Красный Крест – хотим партнерство
-
-### Другие инициативы
-
-{% hint style="info" %}
 [Усі НГО що допомагають за регіоном та напрямками](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0)
-{% endhint %}
-
-{% embed url="https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI\_EGrQ/edit\#gid=0" %}
 
 ## Идеи
 
