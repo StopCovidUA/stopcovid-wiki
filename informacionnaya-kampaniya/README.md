@@ -1,13 +1,14 @@
 # ЗМІ, комунікаторам, дизайнерам та креаторам
 
-Координатор: [Диана Кинг](https://t.me/dianatheking)
+Координатор: [Діана Кінг](https://t.me/dianatheking)
 
-* [\#marketing-pr](https://discord.gg/5t6zMtv)
+* Канал для волонтерів [\#marketing-pr](https://discord.gg/5t6zMtv)
+* [Медіакіт](https://docs.google.com/document/d/1uyl3wf2cpi6yJFPKybJtQD9_LL5jKfdENCccA6LO10c/edit?usp=sharing)
+* [Лого та інші прес-матеріали](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5?usp=sharing)
 * [Доска по маркетингу](https://trello.com/b/6DCyBJA1/marketing-pr)
 * [Доска задач по коммуникациям](https://trello.com/b/xjcCv4vB/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
 * Канал [StopCovid Youtube](https://t.me/StopCovidYouTube)
 * [Контент план](https://docs.google.com/spreadsheets/d/1vRUnJNAk7FgvdbDWydn429hRSV1j65q1VUCCLpXQTAQ/edit#gid=1872245614)
-* Звонки в приложенных страницах
 
 ## Сообщения
 
@@ -29,17 +30,7 @@ Tone of voice: Есть такая идея чтобы наша коммуник
 
 * [shieldmaiden.info](https://shieldmaiden.info)
 * [followers.com.ua](https://followers.com.ua/)
-* Телебачення Торонто – хотим установить партнерство
-* [https://shotam.info/](https://shotam.info/) – хотим установить партнерство
-
-Попросить всевозможные организации об информационной онлайн-поддержке:
-
-* странички компаний \(технологические стартапы, разработчики,;
-* хабы и коворкинги \([Lift99](https://www.facebook.com/LIFT99KyivHub/), [1991](https://www.facebook.com/1991vc/), [Unit City](https://www.facebook.com/unit.city/) etc.\);
-* сообщества \(Змінотворці, [Wtech](https://www.facebook.com/wtechukraine/), [UTEW](https://www.facebook.com/groups/669683489867171/) Tech Tribe, [СУМ](https://www.facebook.com/sektamarketing/) etc. + закрытые телеграм-каналы\);
-* распространение информации от инфлюенсеров \(знаменитости, диджеи, фотографы, фаундеры стартапов, журналисты и др.\);
-* популярные заведения \(просить распространять инфо в своих соцсетях\);
-* незаангажированные СМИ \(Vector, БЖ + другие лайфстайл\).
+* [unian.net](https://www.unian.net/society/10933154-pokupka-ivl-poshiv-zashchitnyh-kostyumov-produkty-dlya-pensionerov-kak-ukraincy-pomogayut-strane-spravitsya-s-epidemiey.html)
 
 ## Идеи
 
