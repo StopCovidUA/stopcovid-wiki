@@ -1,10 +1,10 @@
 # Координаторам, аналітикам та проект-менеджерам
 
-* Координатор – [Макс Семенчук](https://t.me/maxsemenchuk)
-  *  Связь с глобальным движением – Oksana Pashchenko
+* Координатор движения – [Макс Семенчук](https://t.me/maxsemenchuk)
+  * Связь с волонтерами – [Vitaliy Gataulin](https://t.me/VGataulin)
+  * Связь с глобальным движением – [Oksana Pashchenko](https://t.me/Oksana_Paschenko)
 * Канал [\#pm-analytics-mgmt](https://discord.gg/DX883hY%20)
-* * канал
-* [Доска задач основна](https://trello.com/b/IkonsFAY/main-board)
+* [Доска задач-вакансий](https://trello.com/b/IkonsFAY/main-board)
 
 ## Задачи
 
