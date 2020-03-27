@@ -24,6 +24,8 @@
 * [Перекладачам](perekladacham/README.md)
   * [Цілі, способи та тактика роботи з матеріалами](perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
 * [HR'ам](hram.md)
+* [Юристам](yuristam.md)
+* [Фінансистам](finansistam.md)
 * [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [🐝 Доєднатись до роботи](https://discord.gg/VqWKqbh)
 
