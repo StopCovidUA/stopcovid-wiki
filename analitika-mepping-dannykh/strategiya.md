@@ -178,4 +178,5 @@ description: '[Потребує перекладу]'
 * [https://deurban.org/epidemics](https://deurban.org/epidemics)
 * Использовать коллективный интеллект для изменения системы + Меташкола
 * Подключить доноров как адвайзоров
+* [https://www.pravda.com.ua/columns/2020/03/19/7244254/](https://www.pravda.com.ua/columns/2020/03/19/7244254/)
 
