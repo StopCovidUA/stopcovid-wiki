@@ -47,4 +47,5 @@
 
 * В Ташкенте создают мобильные госпиталя из контейнеров \(есть видео\)
 * База знаний переводов по медицине
+* [https://t.me/immune\_system\_optimization](https://t.me/immune_system_optimization)
 
