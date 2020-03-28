@@ -16,6 +16,7 @@
   * [Comms 20.03](informacionnaya-kampaniya/comms-20.03.md)
   * [Comms 24.03](informacionnaya-kampaniya/comms-23.03.md)
   * [Comms 26.03](informacionnaya-kampaniya/comms-26.03.md)
+  * [Comms 28.03](informacionnaya-kampaniya/comms-28.03.md)
 * [Психологам, психотерапевтам, психіатрам](psychological-support/README.md)
   * [Reducing Stigma](psychological-support/reducing-stigma.md)
   * [Медики](psychological-support/mediki.md)
