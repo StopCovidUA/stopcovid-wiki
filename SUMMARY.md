@@ -3,7 +3,7 @@
 * [🖐 Вітаю, го допомагати](README.md)
 * [🚀 Організація – як все працює?](informaciya-dlya-volonterov-onboarding.md)
 * [Організаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh/README.md)
-  * [Волонтеры, Активисты и НГО](analitika-mepping-dannykh/strategiya.md)
+  * [Волонтеры, активисты и НГО](analitika-mepping-dannykh/strategiya.md)
   * [Медицинская система](analitika-mepping-dannykh/medicinskaya-sistema.md)
   * [Уязвимые слои](analitika-mepping-dannykh/bezrabotica.md)
   * [\#stopcovid ua - н13](analitika-mepping-dannykh/stopcovid-ua-n13.md)

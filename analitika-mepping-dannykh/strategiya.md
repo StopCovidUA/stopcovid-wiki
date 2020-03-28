@@ -2,7 +2,7 @@
 description: '[Потребує перекладу]'
 ---
 
-# Волонтеры, Активисты и НГО
+# Волонтеры, активисты и НГО
 
 ## Задачи
 
@@ -21,21 +21,6 @@ description: '[Потребує перекладу]'
 * Общий канал коммуникации \(рассылка + пост\)
 * Think Tank
 
-## Глобальний рух
-
-* [https://spark.adobe.com/page/dGaNRTsfy6Dej/](https://spark.adobe.com/page/dGaNRTsfy6Dej/)
-* Глобальний рух і статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
-* [COVID-19 Slack / Discord workspaces \(+ hackathons\) – International list](https://docs.google.com/document/d/e/2PACX-1vS2p8BPJ5d0WcHxRAB0BWCv6fY2lgZPVanfZNqOX4z2e00cOEwPIWhlO5ZNlPb5Fe2Pva_c74leKrR2/pub)
-* [Бібліотека з посиланнями на всі рухи і матеріали \(англ\)](https://coronavirustechhandbook.com/communities)
-* WEF Covid Action Platform [https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
-
-
-
-
-
-
-
-* 
 ## Идеи
 
 * Пометить Медицинские, Образовательные, Профессиональные и Локальные организации
@@ -131,4 +116,8 @@ description: '[Потребує перекладу]'
 * Создание систем, устойчивых к глобальным последствиям пандемий, может иметь далеко идущие преимущества. В этой статье 2010 года, опубликованной в журнале [«Грипп и другие респираторные вирусы»](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941659/), перечислены восемь социальных выгод, полученных от разработки эффективных механизмов реагирования на пандемии. **Ключевой вывод:** есть много «потенциальных побочных выгод от планирования и подготовки к пандемии, которые могут быть реализованы независимо от будущей пандемии».
 * [https://spark.adobe.com/page/dGaNRTsfy6Dej/](https://spark.adobe.com/page/dGaNRTsfy6Dej/)
 * [Maryna Saprykina](https://www.facebook.com/maryna.saprykina)
+* [https://spark.adobe.com/page/dGaNRTsfy6Dej/](https://spark.adobe.com/page/dGaNRTsfy6Dej/)
+* Глобальний рух і статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
+* [Бібліотека з посиланнями на всі рухи і матеріали \(англ\)](https://coronavirustechhandbook.com/communities)
+* [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
 

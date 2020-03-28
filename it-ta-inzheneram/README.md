@@ -37,10 +37,9 @@
 * [https://www.coronawhy.org/](https://www.coronawhy.org/)
 * [https://garage48.org/hackthecrisis](https://garage48.org/hackthecrisis)
 * [https://medium.com/daia/the-covidathon-decentralised-ai-against-covid-19-a27d5a25e199](https://medium.com/daia/the-covidathon-decentralised-ai-against-covid-19-a27d5a25e199)
+* [COVID-19 Slack / Discord workspaces \(+ hackathons\) – International list](https://docs.google.com/document/d/e/2PACX-1vS2p8BPJ5d0WcHxRAB0BWCv6fY2lgZPVanfZNqOX4z2e00cOEwPIWhlO5ZNlPb5Fe2Pva_c74leKrR2/pub)
 
-Эпидемия для всех разная: кому-то не хватает общения в карантине, у кого-то болеет знакомый, кто-то успел лишиться работы, у некоторых трещит по швам бизнес.
 
-Но не надо думать, что борьба эпидемией касатеся только медиков: это социальный и экономический кризис. И мы, программисты и айтишники, можем в нем себя применить.
 
 Ниже подборка хакатонов и проектов, в которые можно вписаться pro bono, чтобы помочь в борьбе с эпидемией и ее последствиями:
 
