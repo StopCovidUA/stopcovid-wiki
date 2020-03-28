@@ -29,14 +29,6 @@ description: '[Потребує перекладу]'
 * [Бібліотека з посиланнями на всі рухи і матеріали \(англ\)](https://coronavirustechhandbook.com/communities)
 * WEF Covid Action Platform [https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
 
-### 
-
-
-
-Вопрос доступности и процедуры тестов.
-
-[Еженедельный бюллетень Минестерства Охраны Здоровья Украины](https://phc.org.ua/kontrol-zakhvoryuvan/inshi-infekciyni-zakhvoryuvannya/monitoring-i-ocinka/zakhvoryuvanist-na-grip-ta-grvi-v-ukraini)
-
 Глобальная статистика:
 
 {% embed url="https://epidemic-stats.com" caption="" %}

@@ -79,4 +79,5 @@ Coronavirus handbook \([https://coronavirustechhandbook.com/home](https://corona
 ## Идеи
 
 * Виталий Гончарук
+* [https://epidemic-stats.com/](https://epidemic-stats.com/)
 
