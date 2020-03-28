@@ -32,7 +32,7 @@
 
 * Координировали доставку медиков на работу
 * Распространяли средства защиты \(экраны\) в больницах Оболони
-* Помогаем нац. службе здоровья перевести FAQ по борьбе с вирусом, [еще ряд актуальных материалов](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
+* Помогаем нац. службе здоровья перевести FAQ от Centers for Disease Control and Prevention по борьбе с вирусом, [еще ряд актуальных материалов](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
 
 ### IT / Технологии
 
