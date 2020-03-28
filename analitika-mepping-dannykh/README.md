@@ -7,6 +7,16 @@
 * Канал [\#pm-analytics-mgmt](https://discord.gg/DX883hY%20)
 * [Доска задач-вакансий](https://trello.com/b/IkonsFAY/main-board)
 
+## Цели
+
+* [100 организаций работают вместе](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0) 
+
+## Проекты
+
+* Отчеты
+* Общий канал коммуникации \(рассылка + пост\)
+* Think Tank
+
 ## Аудитории и потребности
 
 ### [Волонтеры, Активисты и НГО](strategiya.md)
