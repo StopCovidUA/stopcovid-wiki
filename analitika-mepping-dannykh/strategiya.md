@@ -6,7 +6,7 @@ description: '[Потребує перекладу]'
 
 ## Задачи
 
-1. Координация \(стратегия/задачи, не повторять действия, единая база, лучшие практики\)
+1. Координация: стратегия/задачи, не повторять действия, единая база, лучшие практики
 2. Психологическая помощь
 3. Средства защиты
 4. Нехватка ресурсов
@@ -29,27 +29,13 @@ description: '[Потребує перекладу]'
 * [Бібліотека з посиланнями на всі рухи і матеріали \(англ\)](https://coronavirustechhandbook.com/communities)
 * WEF Covid Action Platform [https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
 
-Глобальная статистика:
-
-{% embed url="https://epidemic-stats.com" caption="" %}
-
-[Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering \(CSSE\) at Johns Hopkins University \(JHU\)](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR1GfIkkgwCZFKwxsrHZjqYqXkzRIHcDXpH8gr6h31tz_EBZBCMt8ldchs4#/bda7594740fd40299423467b48e9ecf6)
-
-{% embed url="https://worldometers.info" caption="" %}
-
-[Мониторить ситуацию в Украине \(официальную\) можно тут](https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9&fbclid=IwAR1-m0J2J-cFPJPubcFLxls8WgScsdsq8nNlYbY-hti5ZUDsShKYhpCTosU)
 
 
 
 
 
-* открытие и прозрачность данных по распространению вируса.
-* для волонтёров и доноров знание куда нужно вкладывать
-* Открытая база инструментов взаимодействия соседей на уровне парадного/ЖК/микрорайона \(тесты, каналы коммуникации\)
-* Предсказать где сколько медиков будет нужно когда
-* все видят кто что делают, в курсе лучший практик и где что происходит.
-* Зараженность локации
 
+* 
 ## Идеи
 
 * Пометить Медицинские, Образовательные, Профессиональные и Локальные организации
