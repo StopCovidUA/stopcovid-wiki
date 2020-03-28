@@ -2,7 +2,7 @@
 description: '[Потребує перекладу]'
 ---
 
-# Стратегія
+# Волонтеры, Активисты и НГО
 
 ## Цели
 
@@ -140,6 +140,17 @@ description: '[Потребує перекладу]'
 
 [Мониторить ситуацию в Украине \(официальную\) можно тут](https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9&fbclid=IwAR1-m0J2J-cFPJPubcFLxls8WgScsdsq8nNlYbY-hti5ZUDsShKYhpCTosU)
 
+
+
+
+
+* открытие и прозрачность данных по распространению вируса.
+* для волонтёров и доноров знание куда нужно вкладывать
+* Открытая база инструментов взаимодействия соседей на уровне парадного/ЖК/микрорайона \(тесты, каналы коммуникации\)
+* Предсказать где сколько медиков будет нужно когда
+* все видят кто что делают, в курсе лучший практик и где что происходит.
+* Зараженность локации
+
 ## Идеи
 
 * Пометить Медицинские, Образовательные, Профессиональные и Локальные организации
@@ -230,4 +241,14 @@ description: '[Потребує перекладу]'
 * Давать работу волонтерам за деньги
 * [https://hbr.org/insight-center/coronavirus](https://hbr.org/insight-center/coronavirus)
 * [https://drive.google.com/file/d/10yUprldnkXUnQNojnSM41ZFFGA4syBG1/view](https://drive.google.com/file/d/10yUprldnkXUnQNojnSM41ZFFGA4syBG1/view)
+
+
+
+Вот [список организаций](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0) которые работают на проблемой \(пополняется\)
+
+## Идеи
+
+* идет очень много работы – переводы инструкций для медиков, информационные кампании, делаются чаты и боты чтобы подвезти медиков. Иногда работа делается по нескольку раз в каждом штабе
+* мы бы хотели наладить обмен информацией. Кто что делает, какие потребности и какие есть лучшие практики
+* [Maryna Saprykina](https://www.facebook.com/maryna.saprykina)
 
