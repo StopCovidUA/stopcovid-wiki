@@ -110,4 +110,37 @@ description: '[Потребує перекладу]'
 * Глобальний рух і статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
 * [Бібліотека з посиланнями на всі рухи і матеріали \(англ\)](https://coronavirustechhandbook.com/communities)
 * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
+* Дать коучей Лидам
+* People obligate to volunteer and cant fulfil \(for other reasons\)
+* People say but not qualified \(unable to use collaboration practices, don't have the technical expertise
+* Local office collab / different mindsets – workshop \(senior who people can trust\)
+* 27 regions
+* Развивать каждого волонтера
+* Онбординг лидеры / Нужно как-то научить лидов
+* Более четко описать домены, создание лида / репа
+* Серотониновый всплеск закончится – Public better, нужна позитивная цель
+* Поискать наративы
+* [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
+* Брать консультации у крутых экспертов \(Например Felipe\), просить улучшить организацию
+* NVC для работы с будущим конфликтом
+* Мартын и игротехники, рефлексивное управление
+* Допускать к работе по чеклисту
+* Как работать с таким возражением "я по-другому не могу организовываться"
+* Обучение фасилитации
+* Помощь и забота о команде и волонтерах. Начать создавать роли
+* [Матричная структура](https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf)
+* Волонтер Сервис могут проконсультировать
+* Сделать HR-агентство: находить ресурсы для проектов
+* Когда не можешь прямо – действуй по-партизански
+* Затестить бот от Скуратова
+* Найти местные движения через медиков-волонтеров
+* В нашей группе должны быть представители всех групп стейкхолдеров
+* Молодежные медицинские организации Украины и Европы \(UMSA\) – Андрей
+* Юрист
+* Сделать чеклист онбординга
+* [https://medlabboulder.gitlab.io/communityrule/templates/](https://medlabboulder.gitlab.io/communityrule/templates/)
+* Должны входить представители города, бизнеса, НГО, медиа
+* Подготовить инструкцию типа франшиза
+* Повторяющаяся структура
+* Игровая концепция активизма
 

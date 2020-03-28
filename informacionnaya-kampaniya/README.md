@@ -24,6 +24,7 @@ Tone of voice: Есть такая идея чтобы наша коммуник
 * [shieldmaiden.info](https://shieldmaiden.info)
 * [followers.com.ua](https://followers.com.ua/)
 * [unian.net](https://www.unian.net/society/10933154-pokupka-ivl-poshiv-zashchitnyh-kostyumov-produkty-dlya-pensionerov-kak-ukraincy-pomogayut-strane-spravitsya-s-epidemiey.html)
+* [Sillicon Drinkabout](https://silicondrinkabout.com/kiev)
 
 ## Идеи
 
