@@ -7,7 +7,7 @@
   * [NGO sync](analitika-mepping-dannykh/ngo-sync.md)
 * [ЗМІ, комунікаторам, дизайнерам та креаторам](informacionnaya-kampaniya/README.md)
   * [Врачи – герои](informacionnaya-kampaniya/vrachi.md)
-  * [Общее дело](informacionnaya-kampaniya/obshee-delo.md)
+  * [\#безтебеніяк](informacionnaya-kampaniya/obshee-delo.md)
   * [Ты нужен миру дома](informacionnaya-kampaniya/ty-nuzhen-miru-doma.md)
   * [Comms 18.03](informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](informacionnaya-kampaniya/comms-19.03.md)
