@@ -1,8 +1,8 @@
 # ЗМІ, комунікаторам, дизайнерам та креаторам
 
-Координация коммуникаий: [Діана Кінг](https://t.me/dianatheking)
+Координація комуникацій: [Діана Кінг](https://t.me/dianatheking)
 
-* SMM менеджер \(своевременная трансляция медиа-поводов в соц сетях\) – [ищем](https://trello.com/c/sN8F56Ul/37-smm-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80)
+* SMM-менеджер \(своевременная трансляция медиа-поводов в соц сетях\) – [ищем](https://trello.com/c/sN8F56Ul/37-smm-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80)
 * Канал для волонтерів [\#marketing-pr](https://discord.gg/5t6zMtv)
 * [Медіакіт](https://docs.google.com/document/d/1uyl3wf2cpi6yJFPKybJtQD9_LL5jKfdENCccA6LO10c/edit?usp=sharing)
 * [Лого та інші прес-матеріали](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5?usp=sharing)
