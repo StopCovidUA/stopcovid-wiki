@@ -12,6 +12,7 @@
 * [Ending Pandemics](https://endingpandemics.org/) – организация, занимающаяся ранним обнаружением вспышек инфекционных заболеваний, чтобы их можно было остановить до того, как они станут пандемиями. **Основной вывод:** «Если мы отдадим приоритет нашим усилиям по более быстрому обнаружению вспышек среди животных, можно полностью предотвратить заражение людей».
 * [Еженедельный бюллетень Минестерства Охраны Здоровья Украины](https://phc.org.ua/kontrol-zakhvoryuvan/inshi-infekciyni-zakhvoryuvannya/monitoring-i-ocinka/zakhvoryuvanist-na-grip-ta-grvi-v-ukraini)
 * Как нужно перестроить систему здравоохранения. Браслеты/аппка
+* [https://youtu.be/lLxeoVeubJc?t=559](https://youtu.be/lLxeoVeubJc?t=559)
 
 ## [Билл Гейтс: следующая эпидемия? мы не готовы](https://www.youtube.com/watch?v=6Af6b_wyiwI)
 
