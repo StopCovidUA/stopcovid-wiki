@@ -68,9 +68,8 @@ description: '[Потребує перекладу]'
 * long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
 * Переход на e-ID
 * Над экономическими вопросами работает Aspen Institute в том числе
-* Работа с незанятыми
-* Перестроить систему здравоохранения \(Супрун?\)
-* Think tank шо дальше?
+* Работа с незанятым
+* [https://www.youtube.com/watch?v=ToD6xtx\_vd8](https://www.youtube.com/watch?v=ToD6xtx_vd8)
 * Коронавірус: Молот і Танок \(переклад статті Tomas Pueyo\) - частина 1
 * Страховая для таких случаев
 * [https://download.joinfightback.com/FightbackCorona.pdf](https://download.joinfightback.com/FightbackCorona.pdf)
