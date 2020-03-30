@@ -44,6 +44,8 @@ description: >-
 
 ## Идеи:
 
+
+
 ### Психологическая поддержка через сайт Stop Covid Ua 
 
 ![](../.gitbook/assets/image%20%2812%29.png)
