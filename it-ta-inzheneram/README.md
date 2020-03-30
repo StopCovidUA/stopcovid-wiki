@@ -97,4 +97,5 @@ Coronavirus handbook \([https://coronavirustechhandbook.com/home](https://corona
 * Виталий Гончарук
 * [https://epidemic-stats.com/](https://epidemic-stats.com/)
 * [https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/](https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/)
+* [How Civic Technology Can Help Stop a Pandemic](https://www.foreignaffairs.com/articles/asia/2020-03-20/how-civic-technology-can-help-stop-pandemic)
 
