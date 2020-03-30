@@ -6,7 +6,6 @@
   * [Волонтеры, активисты и НГО](analitika-mepping-dannykh/strategiya.md)
   * [Медицинская система](analitika-mepping-dannykh/medicinskaya-sistema.md)
   * [Уязвимые слои](analitika-mepping-dannykh/bezrabotica.md)
-  * [\#stopcovid ua - неделя 13](analitika-mepping-dannykh/stopcovid-ua-n13.md)
 * [ЗМІ, комунікаторам, дизайнерам та креаторам](informacionnaya-kampaniya/README.md)
   * [\#безтебеніяк](informacionnaya-kampaniya/obshee-delo.md)
   * [Врачи – герои](informacionnaya-kampaniya/vrachi.md)
@@ -38,6 +37,10 @@
 * [Фінансистам](finansistam.md)
 * [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [🐝 Доєднатись до роботи](https://discord.gg/VqWKqbh)
+
+## Звіти
+
+* [\#stopcovid ua - неделя 13](zviti/stopcovid-ua-n13.md)
 
 ## Зустрічі <a id="organizaciya"></a>
 
