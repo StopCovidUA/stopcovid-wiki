@@ -6,7 +6,6 @@
 * [\#ivl-tech](https://discord.gg/yxFSSRx) – обсуждение производства и модификации ИВЛ аппаратов
 * [Чат боты для поставок еды людям на карантине](dostavka-produktov-i-medikamentov.md)
 * [Система логистики](sistema-logistiki.md)
-* [Сборка и модификация ИВЛ]()
 
 ## Транспортные сервисы
 
@@ -88,6 +87,7 @@
 * Taiwan \(best: Bottom-up information sharing, public-private partnerships, “hacktivism” \(activism through the building of quick-and-dirty but effective proofs of concept for online public services\), and participatory collective action have been central to the country’s success in coordinating a consensual and transparent set of responses to the coronavirus.
 * Аудит информ. мед систем с Натой
 * [https://vitagramma.com/](https://vitagramma.com/)
+* Контроль симптомов через страховые
 
 ## Хакатоны
 
