@@ -53,9 +53,14 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 
 ## Проекты
 
-* [Отчеты](../zviti/stopcovid-ua-n13.md)
+### [Отчеты](../zviti/stopcovid-ua-n13.md)
+
 * Общий канал коммуникации \(рассылка + пост\)
-* Think Tank
+* Отчет в фейсбуке с тегами
+
+### Think Tank
+
+* Собираем проблемы
 
 ## Идеи
 
