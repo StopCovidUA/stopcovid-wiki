@@ -63,11 +63,12 @@
 
 * [Лидерборд](https://mee6.xyz/leaderboard/688064950635462771)
 
-### Формат созвонов
+### Координационные звонки
 
-[Каледарь созвонов \(google cal\)](https://calendar.google.com/calendar?cid=dWFjYmxrMG80MGx0amRidGFpb2M0aGVoZmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) – добавляй себе чтобы не пропустить.
+* [Каледарь созвонов \(google cal\)](https://calendar.google.com/calendar?cid=dWFjYmxrMG80MGx0amRidGFpb2M0aGVoZmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) – добавляй себе чтобы не пропустить.
+* Созвоны каждый день в 20:00 \(Киев\) в [зуме](https://zoom.us/j/919563955?pwd=VlIrTjZXUHpuQTQrVHlpa09WUnpJUT09) \(добавляем записи youtube\)
 
-Созвоны каждый день в 20:00 \(Киев\) в [зуме](https://zoom.us/j/919563955?pwd=VlIrTjZXUHpuQTQrVHlpa09WUnpJUT09) \(добавляем записи youtube\)
+Формат созвонов:
 
 1. Каждый называет цель над которой он работает и апдейты. _Например: начать производство аппаратов для вентиляции легких. Обновления: нашел схему и производителя, нужна консультация._ 
 2. Каждый может вынести вопрос который продвинет его к достижению цели _Например: как понять куда нужны аппараты в первую очередь?_ 
