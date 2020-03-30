@@ -82,7 +82,9 @@
 
 ## Вакансии
 
-* [Список вакансий тут](https://trello.com/b/IkonsFAY/stopcovid-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80)
+Мы помагаем находить волонтеров проектам которые ведут борьбу с covid и последствиями
+
+* [Список вакансий тут](https://trello.com/b/IkonsFAY/stopcovid-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80) – вы можете просто добавить карточку с со своей вакансией на доску \([права тут](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board)\)
 * [Пример вакансии](https://trello.com/c/v9EWH6x8/32-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8)
 
 ## Дизайн и лого
