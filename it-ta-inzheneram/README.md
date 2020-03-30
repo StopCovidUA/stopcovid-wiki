@@ -41,6 +41,7 @@
 * [Українська спільнота інженерної допомоги медичним закладам](https://t.me/UCEAMI)
 * [https://www.firstpost.com/tech/news-analysis/chinese-citizens-turn-to-virus-tracker-apps-to-avoid-infected-neighbourhoods-7998181.html](https://www.firstpost.com/tech/news-analysis/chinese-citizens-turn-to-virus-tracker-apps-to-avoid-infected-neighbourhoods-7998181.html)
 * [https://rtvi.com/news/china-app-virus/](https://rtvi.com/news/china-app-virus/)
+* Individuals used the platform to share reports, voluntarily and in real time, about symptoms using a variety of media \(such as a call-in line and smartphones\); this information was quickly verified and collated. The result was then combined with more community-created apps that allowed users to download their smartphone location history to determine if they may have been exposed.
 
 ## Хакатоны
 
