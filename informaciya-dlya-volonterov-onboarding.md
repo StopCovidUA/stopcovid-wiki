@@ -80,6 +80,11 @@
 * Постарайтесь не удалять контент, если нужно лучше перенести его в конец страницы с пометкой "на удаление".
 * [Права на редактирование можно получить тут](https://app.gitbook.com/invite/dgov?invite=-M2JRBARwkcPd9AED8KT)
 
+## Вакансии
+
+* [Список вакансий тут](https://trello.com/b/IkonsFAY/stopcovid-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80)
+* [Пример вакансии](https://trello.com/c/v9EWH6x8/32-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8)
+
 ## Дизайн и лого
 
 * [Все материалы в figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)
