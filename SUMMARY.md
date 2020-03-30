@@ -43,6 +43,7 @@
 ## Звіти
 
 * [Отчет по работе \#stopcovid ua - неделя 13](zviti/stopcovid-ua-n13.md)
+* [Отчет по работе \#stopcovid ua - неделя 14](zviti/otchet-po-rabote-stopcovid-ua-nedelya-14.md)
 
 ## Зустрічі <a id="organizaciya"></a>
 
