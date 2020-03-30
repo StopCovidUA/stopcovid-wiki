@@ -87,6 +87,7 @@
 * [https://rtvi.com/news/china-app-virus/](https://rtvi.com/news/china-app-virus/)
 * Individuals used the platform to share reports, voluntarily and in real time, about symptoms using a variety of media \(such as a call-in line and smartphones\); this information was quickly verified and collated. The result was then combined with more community-created apps that allowed users to download their smartphone location history to determine if they may have been exposed.
 * Taiwan \(best: Bottom-up information sharing, public-private partnerships, “hacktivism” \(activism through the building of quick-and-dirty but effective proofs of concept for online public services\), and participatory collective action have been central to the country’s success in coordinating a consensual and transparent set of responses to the coronavirus.
+* Аудит информ. мед систем с Натой
 
 ## Хакатоны
 
