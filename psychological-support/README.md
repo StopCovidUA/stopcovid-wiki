@@ -42,7 +42,15 @@ description: >-
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-## Идеи:
+
+
+### [База психологов-волонтеров \#StopCovidUa](https://docs.google.com/spreadsheets/d/1TJtvt8ezKGul1dUbZvLUFw0CyDjGT0PUvNE_h19JYso/edit#gid=0)
+
+### 
+
+
+
+
 
 ## Волонтеры/активисты НГО: 
 
