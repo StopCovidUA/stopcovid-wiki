@@ -28,7 +28,6 @@
   * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [IT та інженерам](it-ta-inzheneram/README.md)
   * [Постачання продуктів, медикаментів та засобів безпеки](it-ta-inzheneram/dostavka-produktov-i-medikamentov.md)
-  * [Сборка и модификация ИВЛ](it-ta-inzheneram/sborka-i-modifikaciya-ivl.md)
   * [Система логистики товаров](it-ta-inzheneram/sistema-logistiki.md)
   * [Сервисы транспортировки врачей](it-ta-inzheneram/servisy-transportirovki-vrachei.md)
 * [Перекладачам](perekladacham/README.md)

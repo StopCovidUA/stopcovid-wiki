@@ -60,7 +60,7 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 
 ## Идеи
 
-* Daily рассылка - аналитика по НГО
+* Taiwan’s success has rested on a fusion of technology, activism, and civic participation
 * Текстовый мастермайнд с НГО
 * [https://m.facebook.com/obo.tarilka/](https://m.facebook.com/obo.tarilka/)
 * Можно сделать саморепортинг \(анонимный\) о симптомах болезни

@@ -6,7 +6,7 @@
 * [\#ivl-tech](https://discord.gg/yxFSSRx) – обсуждение производства и модификации ИВЛ аппаратов
 * [Чат боты для поставок еды людям на карантине](dostavka-produktov-i-medikamentov.md)
 * [Система логистики](sistema-logistiki.md)
-* [Сборка и модификация ИВЛ](sborka-i-modifikaciya-ivl.md)
+* [Сборка и модификация ИВЛ]()
 
 ## Транспортные сервисы
 
@@ -24,7 +24,7 @@
 * Щодо протокулу поведінки людям в разі захворювання, пропонують таке: «Я тобі раджу зайти на сайт Міністерства охорони здоров'я Ізраїлю. Там все розписано. В А ще там ти побачиш звіти які контактори мають надсилати»
 * Инфицированные люди могут щерить своё местоположение
 * Трекинг зараженных зон
-* [Сборка и модификация ИВЛ](sborka-i-modifikaciya-ivl.md)
+* [Сборка и модификация ИВЛ]()
 
 ### Мониторинг и предсказания
 
@@ -86,6 +86,7 @@
 * [https://www.firstpost.com/tech/news-analysis/chinese-citizens-turn-to-virus-tracker-apps-to-avoid-infected-neighbourhoods-7998181.html](https://www.firstpost.com/tech/news-analysis/chinese-citizens-turn-to-virus-tracker-apps-to-avoid-infected-neighbourhoods-7998181.html)
 * [https://rtvi.com/news/china-app-virus/](https://rtvi.com/news/china-app-virus/)
 * Individuals used the platform to share reports, voluntarily and in real time, about symptoms using a variety of media \(such as a call-in line and smartphones\); this information was quickly verified and collated. The result was then combined with more community-created apps that allowed users to download their smartphone location history to determine if they may have been exposed.
+* Taiwan \(best: Bottom-up information sharing, public-private partnerships, “hacktivism” \(activism through the building of quick-and-dirty but effective proofs of concept for online public services\), and participatory collective action have been central to the country’s success in coordinating a consensual and transparent set of responses to the coronavirus.
 
 ## Хакатоны
 
