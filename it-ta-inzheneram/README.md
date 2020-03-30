@@ -40,6 +40,7 @@
 
 * [Українська спільнота інженерної допомоги медичним закладам](https://t.me/UCEAMI)
 * [https://www.firstpost.com/tech/news-analysis/chinese-citizens-turn-to-virus-tracker-apps-to-avoid-infected-neighbourhoods-7998181.html](https://www.firstpost.com/tech/news-analysis/chinese-citizens-turn-to-virus-tracker-apps-to-avoid-infected-neighbourhoods-7998181.html)
+* [https://rtvi.com/news/china-app-virus/](https://rtvi.com/news/china-app-virus/)
 
 ## Хакатоны
 
