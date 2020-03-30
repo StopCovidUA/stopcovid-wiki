@@ -11,11 +11,55 @@ description: '[Потребує перекладу]'
 3. Средства защиты
 4. Нехватка ресурсов
 
+[Организации и инициативы по борьбе с covid в Украине](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit?usp=drive_web&ouid=106088990650229192528)
+
+## Цели
+
+* 100 организаций работают вместе 
+
+## Стратегия
+
+### Strategy
+
+* Small top-management teams
+* Long term objectives
+* Culture norms
+
+### Organizational Structure
+
+* Modular organizational structure
+* Small self-organizing teams
+* Emerging teams
+
+### Task Allocation
+
+* Stakeholder-facing and support teams
+* Self-selected task commitments
+* Natural leadership roles
+
+### Coordination
+
+* Direct person-to-person interaction
+* Digital tools
+* Rules of the game
+
+### Motivation
+
+* Transparent performance rankings
+* Individual short-term compensation
+* Collective long-term compensation
+
+More at [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
+
+## Проекты
+
+* [Отчеты](stopcovid-ua-n13.md)
+* Общий канал коммуникации \(рассылка + пост\)
+* Think Tank
+* Список регуляций мешающих борьбе с covid \([референс](https://www.pauseregulations.com/) + [tips](https://www.youtube.com/watch?v=ToD6xtx_vd8)\)
+
 ## Идеи
 
-* Пометить Медицинские, Образовательные, Профессиональные и Локальные организации
-* Вступить в закрытый чат НГО \(напишите [Максу](https://t.me/maxsemenchuk)\)
-* [Пару месяцев назад собирали реестр ГО и БФ. основном по Одесской области. На жизнеспособность не проверяли, но вдруг будет полезно](https://docs.google.com/spreadsheets/d/1hnP36LdccOxd93r5-VzP4tsO54PycMQjzJ-MomHsrYY/edit?usp=sharing)
 * Daily рассылка - аналитика по НГО
 * Текстовый мастермайнд с НГО
 * [https://m.facebook.com/obo.tarilka/](https://m.facebook.com/obo.tarilka/)
