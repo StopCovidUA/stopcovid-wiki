@@ -95,4 +95,5 @@ Coronavirus handbook \([https://coronavirustechhandbook.com/home](https://corona
 
 * Виталий Гончарук
 * [https://epidemic-stats.com/](https://epidemic-stats.com/)
+* [https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/](https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/)
 
