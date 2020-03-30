@@ -191,4 +191,5 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 * Повторяющаяся структура
 * Игровая концепция активизма
 * Институт будущего партнерство
+* Проблема с именами в дискорде
 
