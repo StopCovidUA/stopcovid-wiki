@@ -56,7 +56,6 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 * [Отчеты](stopcovid-ua-n13.md)
 * Общий канал коммуникации \(рассылка + пост\)
 * Think Tank
-* Список регуляций мешающих борьбе с covid \([референс](https://www.pauseregulations.com/) + [tips](https://www.youtube.com/watch?v=ToD6xtx_vd8)\)
 
 ## Идеи
 
