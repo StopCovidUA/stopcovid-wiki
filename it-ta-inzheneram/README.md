@@ -36,7 +36,10 @@
 * Предсказать где сколько медиков будет нужно когда
 * Зараженность локации
 
-[Українська спільнота інженерної допомоги медичним закладам](https://t.me/UCEAMI)
+### Идеи
+
+* [Українська спільнота інженерної допомоги медичним закладам](https://t.me/UCEAMI)
+* [https://www.firstpost.com/tech/news-analysis/chinese-citizens-turn-to-virus-tracker-apps-to-avoid-infected-neighbourhoods-7998181.html](https://www.firstpost.com/tech/news-analysis/chinese-citizens-turn-to-virus-tracker-apps-to-avoid-infected-neighbourhoods-7998181.html)
 
 ## Хакатоны
 
