@@ -36,6 +36,7 @@
   * [Tactical 28.03](perekladacham/tactical-28.03.md)
   * [Tactical xx](perekladacham/tactical-xx.md)
 * [HR'ам](hram.md)
+* [Операторам StopCovidUA Bot](operatoram-stopcovidua-bot.md)
 * [Юристам](yuristam.md)
 * [Фінансистам](finansistam.md)
 * [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
