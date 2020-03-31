@@ -6,6 +6,7 @@
 
 ## Матеріали
 
+* [Переводы протоколов, инструкций к тестам и актуальных статей](https://coronavirus.co.ua/)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Важливі матеріали для медиків про COVID-19 \(переклади\)](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
 * Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
