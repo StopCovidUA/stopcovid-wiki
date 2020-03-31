@@ -40,3 +40,5 @@ Everyone can help stop stigma related to COVID-19 by [knowing the facts](https:/
 2. **Mental health** is defined by the World Health Organization as a state of well being in which a person realizes his or her own abilities, can cope with normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community \([https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-responseexternal icon](https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response)\).
 3. **Resilience** is the ability to withstand and recover from stress. \([https://blogs.cdc.gov/publichealthmatters/2017/08/predicting-community-resilience-and-recovery-after-a-disaster/](https://blogs.cdc.gov/publichealthmatters/2017/08/predicting-community-resilience-and-recovery-after-a-disaster/)\)
 
+[https://en.m.wikipedia.org/wiki/List\_of\_incidents\_of\_xenophobia\_and\_racism\_related\_to\_the\_2019%E2%80%9320\_coronavirus\_pandemic](https://en.m.wikipedia.org/wiki/List_of_incidents_of_xenophobia_and_racism_related_to_the_2019%E2%80%9320_coronavirus_pandemic)
+
