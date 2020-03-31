@@ -32,6 +32,7 @@
 * В первую очередь нужно позаботиться о медиках
 * [https://www.facebook.com/Odessa.vs.COVID/posts/107115777598276](https://www.facebook.com/Odessa.vs.COVID/posts/107115777598276)
 * Есть контакт с красным крестом
+* [https://www.facebook.com/752792571/posts/10157650518162572/?d=n](https://www.facebook.com/752792571/posts/10157650518162572/?d=n)
 
 
 
