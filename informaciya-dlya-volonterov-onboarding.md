@@ -57,11 +57,15 @@
 * Еще [телеграм-канал](https://t.me/scutasks) с задачами
 * Файлы в [google drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
 * [Контакты команды](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(добавь сюда свои\)
-* Используем модель социократии для гибкой работы
+* Используем модель [социократии](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F) для гибкой работы
 
-### [Карта экспертиз](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
+### [Дискорд чат](https://discord.gg/AebMHV)
 
-{% embed url="https://www.loom.com/share/f8f1fbc235f24f48bc4c6ec6b17e100e" caption="" %}
+![](.gitbook/assets/image%20%281%29.png)
+
+* Основной рабочий чат
+* Каждый может создать канал со своим проектом или направлением
+* [Лидерборд](https://mee6.xyz/leaderboard/688064950635462771)
 
 ### [Телеграм чат](https://t.me/stopcovidua)
 
@@ -69,14 +73,6 @@
 * Используйте хештеги: \#intro, \#новости, \#психолог, \#деньги, \#медикаменты, \#контент, \#discord, \#помощь, \#созвон
 * Новости моз давай просто всіх просити підписатися на [https://t.me/COVID19\_Ukraine](https://t.me/COVID19_Ukraine) і не репостити те, що і так більшість отримуж
 * [Статистика](https://combot.org/c/-1001383920031)
-
-### [Дискорд чат](https://discord.gg/AebMHV)
-
-{% embed url="https://www.youtube.com/watch?v=W-5-FxL0P7Y" %}
-
-* [Лидерборд](https://mee6.xyz/leaderboard/688064950635462771)
-
-## 
 
 ## База знаний / как добавить информацию на этот сайт
 
