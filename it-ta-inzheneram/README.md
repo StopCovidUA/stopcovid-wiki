@@ -89,6 +89,7 @@
 * [https://vitagramma.com/](https://vitagramma.com/)
 * Контроль симптомов через страховые
 * Распределённая медицина, дневные отчеты и браслеты
+* [https://www.telegraph.co.uk/news/2020/03/29/germany-will-issue-coronavirus-antibody-certificates-allow-quarantined/](https://www.telegraph.co.uk/news/2020/03/29/germany-will-issue-coronavirus-antibody-certificates-allow-quarantined/)
 
 ## Хакатоны
 
