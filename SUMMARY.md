@@ -16,7 +16,7 @@
   * [Comms 24.03](informacionnaya-kampaniya/comms-23.03.md)
   * [Comms 26.03](informacionnaya-kampaniya/comms-26.03.md)
   * [Comms 28.03](informacionnaya-kampaniya/comms-28.03.md)
-  * [Comms 30.03](informacionnaya-kampaniya/comms-30.03.md)
+  * [Comms хх.03](informacionnaya-kampaniya/comms-30.03.md)
 * [Психологам, психотерапевтам, психіатрам](psychological-support/README.md)
   * [Reducing Stigma](psychological-support/reducing-stigma.md)
   * [Медики](psychological-support/mediki.md)
@@ -61,6 +61,7 @@
 * [Tactical 27.03](organizaciya/tactical-27.03.md)
 * [Tactical 28.03](organizaciya/tactical-28.03.md)
 * [Tactical 30.03](organizaciya/tactical-30.03.md)
+* [Tactical 31.03](organizaciya/tactical-31.03.md)
 
 ## Контент для сайту <a id="do-saitu"></a>
 
