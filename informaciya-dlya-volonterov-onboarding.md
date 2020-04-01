@@ -59,7 +59,7 @@
 * [Контакты команды](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(добавь сюда свои\)
 * Используем модель [социократии](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F) для гибкой работы
 
-### [Дискорд чат](https://discord.gg/AebMHV)
+## [Дискорд чат](https://discord.gg/AebMHV)
 
 ![](.gitbook/assets/image%20%281%29.png)
 
@@ -67,7 +67,7 @@
 * Каждый может создать канал со своим проектом или направлением
 * [Лидерборд](https://mee6.xyz/leaderboard/688064950635462771)
 
-### [Телеграм чат](https://t.me/stopcovidua)
+## [Телеграм чат](https://t.me/stopcovidua)
 
 * Пожалуйста, подключайтесь в дискорд [https://discord.gg/BwaaJV](https://discord.gg/BwaaJV), тут свалка из всего
 * Используйте хештеги: \#intro, \#новости, \#психолог, \#деньги, \#медикаменты, \#контент, \#discord, \#помощь, \#созвон
