@@ -7,6 +7,8 @@
 * Канал [\#pm-analytics-mgmt](https://discord.gg/DX883hY%20)
 * [Доска задач-вакансий](https://trello.com/b/IkonsFAY/main-board)
 
+Цель: наилучшая организация работы
+
 ## Направления работы
 
 ### 1. [Волонтеры, Активисты и НГО](strategiya.md)
