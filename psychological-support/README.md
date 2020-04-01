@@ -92,7 +92,7 @@ viktoriya.buznik@gmail.com
 
 ## База контактов для получения психологической поддержки.
 
-[База психологов-волонтеров \#StopCovidUa](https://docs.google.com/spreadsheets/d/1TJtvt8ezKGul1dUbZvLUFw0CyDjGT0PUvNE_h19JYso/edit#gid=0)
+[База психологов-волонтеров \#StopCovidUa](https://docs.google.com/spreadsheets/d/1BnYBYNhAa2Yj0rjNnj4v4ohEgdXU2F3V95hiVNFxaE0/edit?usp=sharing)
 
 [Гаряча лінія професійної підтримки «Стоп, паніка»](https://m.facebook.com/story.php?story_fbid=2517763828496884&id=100007898741828)
 
