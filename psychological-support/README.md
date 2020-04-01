@@ -105,7 +105,7 @@ viktoriya.buznik@gmail.com
 
 [Центр психотерапии кризисной помощи "Доброе Слово"](https://dobroeslovo.com.ua/)
 
-Телефоны линии бесплатной анонимной психологической помощи
+[Телефоны линии бесплатной анонимной психологической помощи](https://docs.google.com/spreadsheets/d/1Tiz3PZtqXY4q34sdXC9balK1s8yA5-WBlnXXrCgTa54/edit?usp=sharing)
 
 {% hint style="danger" %}
 Мы не являемся верифицированным экспертным центром по психологической поддержке. 
