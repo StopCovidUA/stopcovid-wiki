@@ -34,6 +34,7 @@
   * [Постачання продуктів, медикаментів та засобів безпеки](it-ta-inzheneram/dostavka-produktov-i-medikamentov.md)
   * [Система логистики товаров](it-ta-inzheneram/sistema-logistiki.md)
   * [Сервисы транспортировки врачей](it-ta-inzheneram/servisy-transportirovki-vrachei.md)
+  * [Tactical 01.04](it-ta-inzheneram/tactical-01.04.md)
 * [Перекладачам](perekladacham/README.md)
   * [Цілі, способи та тактика роботи з матеріалами](perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
   * [Tactical 28.03](perekladacham/tactical-28.03.md)
