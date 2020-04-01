@@ -6,6 +6,7 @@
   * [Волонтеры, активисты и НГО](analitika-mepping-dannykh/strategiya.md)
   * [Медицинская система](analitika-mepping-dannykh/medicinskaya-sistema.md)
   * [Уязвимые слои](analitika-mepping-dannykh/bezrabotica.md)
+  * [Отчет](analitika-mepping-dannykh/otchet.md)
   * [Tactical 02.04](analitika-mepping-dannykh/tactical-02.04.md)
 * [ЗМІ, комунікаторам, дизайнерам та креаторам](informacionnaya-kampaniya/README.md)
   * [\#безтебеніяк](informacionnaya-kampaniya/obshee-delo.md)
