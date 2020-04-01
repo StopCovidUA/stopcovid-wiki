@@ -85,7 +85,8 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 * Vlad Govorukha
 * Аппка с анализами которые трекают где ты и какие к тебя хронические проблемы
 * Monitoring, Distributed healthcare
-* Передовсім він приготовляє свого підопічного до боротьби. Далі навчає його всіх боротьби для того, щоб успішно досягнути перемоги, та весь час упродовж змагань дає настанови і підбадьорює свого учня\[504\].
+* Улучшить флоу онбординга для новенького
+* Передовсім він приготовляє свого підо пічного до боротьби. Далі навчає його всіх боротьби для того, щоб успішно досягнути перемоги, та весь час упродовж змагань дає настанови і підбадьорює свого учня\[504\].
 * Фасилитационная рада, а решения в loomio
 * Емченко
 * [https://www.who.int/ru/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---25-march-2020?fbclid=IwAR2hgxtigjnmS6W3GiOX0p1YKYH60lHddt--QokuCpWjFOSRMj42Go3JNGs](https://www.who.int/ru/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---25-march-2020?fbclid=IwAR2hgxtigjnmS6W3GiOX0p1YKYH60lHddt--QokuCpWjFOSRMj42Go3JNGs)
