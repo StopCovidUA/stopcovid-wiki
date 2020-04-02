@@ -15,6 +15,7 @@
 * [https://covid-19.lvivoblrada.gov.ua/](https://covid-19.lvivoblrada.gov.ua/)
 * Зафичерить результаты проект poboremo
 * v2020
+* [https://donor.ua/aid](https://donor.ua/aid)
 
 ### Глобально
 

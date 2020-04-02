@@ -19,6 +19,8 @@ description: '[Потребує перекладу]'
 
 ## Стратегия
 
+Taiwan’s success has rested on a fusion of technology, activism, and civic participation
+
 ### Strategy
 
 * Small top-management teams
@@ -30,6 +32,8 @@ description: '[Потребує перекладу]'
 * Modular organizational structure
 * Small self-organizing teams
 * Emerging teams
+
+Объединение НГО
 
 ### Task Allocation
 
@@ -64,13 +68,6 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 
 ## Идеи
 
-* Taiwan’s success has rested on a fusion of technology, activism, and civic participation
-* Текстовый мастермайнд с НГО
-* [https://m.facebook.com/obo.tarilka/](https://m.facebook.com/obo.tarilka/)
-* Можно сделать саморепортинг \(анонимный\) о симптомах болезни
-* Мобильные лабы для тестирования
-* [https://www.facebook.com/100001627693171/posts/2903039876426907/](https://www.facebook.com/100001627693171/posts/2903039876426907/)
-* [https://github.com/HospitalRun](https://github.com/HospitalRun)
 * [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
 * [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
 * [Еще 1 дешборд](https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9)

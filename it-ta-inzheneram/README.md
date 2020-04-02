@@ -7,6 +7,28 @@
 * [Чат боты для поставок еды людям на карантине](dostavka-produktov-i-medikamentov.md)
 * [Система логистики](sistema-logistiki.md)
 
+Unsorted
+
+* Чат бот координации волонтеров \(Виталик\)
+* v2020 \(Солидарность\)
+* poboremo \(Институт будущего\)
+* [https://covid-19.lvivoblrada.gov.ua/](https://covid-19.lvivoblrada.gov.ua/) \(SoftServe\)
+* donor.org \(каким больницам что нужно\)
+* [https://pandemiia.herokuapp.com/](https://pandemiia.herokuapp.com/)
+* AirBNB
+* Сборки ИВЛ \(маски, разветвители\)
+* Кварцевые лампы, обеззараживатели воздуха
+* QR коды для зоны карантина
+* Фейс трекинг
+* Дешборды показывают кто где заразился \(по области\)
+* Трекинг зараженности района \(микрорайоны\)
+* Модели предсказаний
+* Штрихкод-Браслеты с привязкой к медкарте
+* Експрес-діагностика COVID-19 за допомогою системи машинного зору \(микроскоп и томография\)
+* Система запросов больниц
+* Распределенное вычисление белков / вируса
+* [https://hospitalrun.io/blog/why-hospitalrun/](https://hospitalrun.io/blog/why-hospitalrun/)
+
 ## Транспортные сервисы
 
 Медики не знают как пользоваться, не у всех норм девайсы. Для звонков нужна автоматизация.
@@ -77,6 +99,8 @@
 * [https://www.youtube.com/watch?v=uClq978oohY&feature=emb\_title](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
 * Виктор Шкурба и дрон юа
 * IJS, PRISTOP & GZS have initiated a respirator project Mr.Sekulic and his group have initiated a group to hack Covid-19 through developing test kits, respirators based on MITs open source plans MIT have initiated several projects with regards to Covid-19. LABENA has been helping with their lab, network, and by donating equipment since early february.
+* Можно сделать саморепортинг \(анонимный\) о симптомах болезни
+* Мобильные лабы для тестирования
 
 ### Идеи
 
