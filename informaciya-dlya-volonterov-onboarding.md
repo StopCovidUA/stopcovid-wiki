@@ -25,7 +25,7 @@
 * [IT та інженерам](it-ta-inzheneram/)
 * [HR'ам](hram.md)
 * [Юристам](yuristam.md)
-* [Фінансистам](finansistam.md)
+* [Фінансистам](analitika-mepping-dannykh/finansistam.md)
 
 {% hint style="warning" %}
 [Список открытых ваканский для волонтеров](https://trello.com/b/IkonsFAY/stopcovid-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80)  

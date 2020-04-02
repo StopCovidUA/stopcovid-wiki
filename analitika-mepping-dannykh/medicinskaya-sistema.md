@@ -14,6 +14,7 @@
 
 ## Идеи
 
+* Децентрализация – Вырастет роль городов в решении локальных проблем
 * по hardware технологиям, вещи которые можно делать в кустарных условиях - медицинские маски - маски N95 - костюмы химзащиты это 100% понадобиться медикам, которые будут в самой гуще
 * Верифицировать врачей можно через Национальную службу здоровья и систему eHealth
 * [https://www.facebook.com/iyura/posts/10157314650736492](https://www.facebook.com/iyura/posts/10157314650736492)
@@ -22,6 +23,14 @@
 * Как нужно перестроить систему здравоохранения. Браслеты/аппка
 * [https://youtu.be/lLxeoVeubJc?t=559](https://youtu.be/lLxeoVeubJc?t=559)
 * В список материлов перчатки, скотч, дождевые накидки
+* [https://www.who.int/ru/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---25-march-2020?fbclid=IwAR2hgxtigjnmS6W3GiOX0p1YKYH60lHddt--QokuCpWjFOSRMj42Go3JNGs](https://www.who.int/ru/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---25-march-2020?fbclid=IwAR2hgxtigjnmS6W3GiOX0p1YKYH60lHddt--QokuCpWjFOSRMj42Go3JNGs)
+* Подключение и финансирование бизнеса для решения задач
+* [WHO Critical preparedness, readiness and response actions for COVID-19](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
+* [Framework for a Public Health Emergency Operations Centre](https://www.who.int/ihr/publications/9789241565134_eng/en/)
+* [Infection Prevention and Control \(IPC\) for Novel Coronavirus \(COVID-19\)](https://openwho.org/courses/COVID-19-IPC-EN)
+* Страховая для таких случаев
+* [https://www.ted.com/talks/larry\_brilliant\_my\_wish\_help\_me\_stop\_pandemics?fbclid=IwAR3YQ2RRMTS0mBKGFCcxoVjsyQweJwu1PBqw87xB0zlAO5t\_Yp8\_CEhguHI](https://www.ted.com/talks/larry_brilliant_my_wish_help_me_stop_pandemics?fbclid=IwAR3YQ2RRMTS0mBKGFCcxoVjsyQweJwu1PBqw87xB0zlAO5t_Yp8_CEhguHI)
+* [https://www.ted.com/talks/bill\_gates\_how\_we\_must\_respond\_to\_the\_coronavirus\_pandemic](https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_coronavirus_pandemic)
 
 ### [Билл Гейтс: следующая эпидемия? мы не готовы](https://www.youtube.com/watch?v=6Af6b_wyiwI)
 

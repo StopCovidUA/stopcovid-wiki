@@ -28,6 +28,8 @@ Unsorted
 * Система запросов больниц
 * Распределенное вычисление белков / вируса
 * [https://hospitalrun.io/blog/why-hospitalrun/](https://hospitalrun.io/blog/why-hospitalrun/)
+* [Sanju 'Amorn' Sachamuneewongse](https://www.facebook.com/awesomesanju?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTE0MjQ2MDQyMDk0MDU%3D) In Thailand they have created a Thailand Digital Covid Group to bring in all working in programming and tech to create the easiest way to track cases within Thailand and find out which stores have masks and hand sanitizers available and how many.
+* [Rositsa Zaimova](https://www.facebook.com/rosi.zaimova?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTIyNDI4NjQxMjc1Nzk%3D) My team and I at Dalberg Data Insights are developing predictive models using mobility and health data. Hoping to have first results in Belgium before end of the week and then scale, Europe, the world.
 
 ## Транспортные сервисы
 
@@ -166,8 +168,14 @@ Coronavirus handbook \([https://coronavirustechhandbook.com/home](https://corona
 
 ## Идеи
 
-* Виталий Гончарук
 * [https://epidemic-stats.com/](https://epidemic-stats.com/)
 * [https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/](https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/)
 * [How Civic Technology Can Help Stop a Pandemic](https://www.foreignaffairs.com/articles/asia/2020-03-20/how-civic-technology-can-help-stop-pandemic)
+* [https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9)
+* [https://www.facebook.com/1398461359/posts/10217596251643635/?d=n](https://www.facebook.com/1398461359/posts/10217596251643635/?d=n)
+* Отсмотреть решения с хакатонов
+* в Корее есть апка, которая сообщает о зараженности в регионе и дает точный маршрут к центру госпитализации
+* Аппка с анализами которые трекают где ты и какие к тебя хронические проблемы
+* Monitoring, Distributed healthcare
+* [https://www.ycombinator.com/covid](https://www.ycombinator.com/covid)
 

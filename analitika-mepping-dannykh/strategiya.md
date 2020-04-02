@@ -19,7 +19,7 @@ description: '[Потребує перекладу]'
 
 ## Стратегия
 
-Taiwan’s success has rested on a fusion of technology, activism, and civic participation
+Taiwan’s success has rested on a fusion of technology, activism, and civic participation. **Почему 100 организаций должны работать вместе?**
 
 ### Strategy
 
@@ -41,17 +41,31 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Self-selected task commitments
 * Natural leadership roles
 
+**Смоделировать волонтерский опыт + Улучшить флоу онбординга для новенького**
+
 ### Coordination
 
 * Direct person-to-person interaction
 * Digital tools
 * Rules of the game
 
+Фасилитационная рада, а решения в loomio
+
+Курс Артема по самоорганизации
+
+Сделать совместные проекты с каждый из своих сообществ - типа консультационное сессии
+
 ### Motivation
 
 * Transparent performance rankings
 * Individual short-term compensation
 * Collective long-term compensation
+
+Передовсім він приготовляє свого підо пічного до боротьби. Далі навчає його всіх боротьби для того, щоб успішно досягнути перемоги, та весь час упродовж змагань дає настанови і підбадьорює свого учня
+
+Программы обучения + Брать лучшие компании в своих сферах консультировать Лидов
+
+Подтянуть финансирование
 
 More at [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
 
@@ -61,76 +75,16 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 
 * Общий канал коммуникации \(рассылка + пост\)
 * Отчет в фейсбуке с тегами
+* Делать выжимку инсайтов глобального движения
+* Аналитические статьи с 1 выводом
 
 ### Think Tank
 
-* Собираем проблемы
+* FutureBackwards
 
 ## Идеи
 
-* [Coronavirus: seven ways collective intelligence is tackling the pandemic](https://theconversation.com/coronavirus-seven-ways-collective-intelligence-is-tackling-the-pandemic-133553)
-* [I need you to read this and decide about Coronavirus Approaching the pandemic with a systems-thinking lens](https://medium.com/@phoebetickell/i-need-you-to-read-this-and-decide-about-coronavirus-6dd184745b33)
-* [Еще 1 дешборд](https://app.powerbi.com/view?r=eyJrIjoiN2M1MTY1MDktZTY5Mi00OTE0LWFiMDAtMjM4NTY0YWU2MmI3IiwidCI6IjI4OGJmYmNmLTVhYjItNDk2MS04YTM5LTg2MDYxYWFhY2Q4NiIsImMiOjl9)
-* [Applications welcome from startups and SMEs with innovative solutions to tackle Coronavirus outbreak](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en)
-* [ЄС оголошує конкурс інноваційних рішень для боротьби зі спалахом коронавірусу](https://euprostir.org.ua/opportunities/148570)
-* science shapers
-* [ http://v2020.org.ua](%20http://v2020.org.ua)
-* Уклон приложение для волонтёров
-* Отсмотреть решения с хакатонов
-* в Корее есть апка, которая сообщает о зараженности в регионе и дает точный маршрут к центру госпитализации
-* [https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/](https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/)
-* Vlad Govorukha
-* Аппка с анализами которые трекают где ты и какие к тебя хронические проблемы
-* Monitoring, Distributed healthcare
-* Смоделировать волонтерский опыт + Улучшить флоу онбординга для новенького
-* Передовсім він приготовляє свого підо пічного до боротьби. Далі навчає його всіх боротьби для того, щоб успішно досягнути перемоги, та весь час упродовж змагань дає настанови і підбадьорює свого учня\[504\].
-* Фасилитационная рада, а решения в loomio
-* Емченко
-* [https://www.who.int/ru/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---25-march-2020?fbclid=IwAR2hgxtigjnmS6W3GiOX0p1YKYH60lHddt--QokuCpWjFOSRMj42Go3JNGs](https://www.who.int/ru/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---25-march-2020?fbclid=IwAR2hgxtigjnmS6W3GiOX0p1YKYH60lHddt--QokuCpWjFOSRMj42Go3JNGs)
-* Курс Артема по самоорганизации
-* [Sanju 'Amorn' Sachamuneewongse](https://www.facebook.com/awesomesanju?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTE0MjQ2MDQyMDk0MDU%3D) In Thailand they have created a Thailand Digital Covid Group to bring in all working in programming and tech to create the easiest way to track cases within Thailand and find out which stores have masks and hand sanitizers available and how many.
-* [Rositsa Zaimova](https://www.facebook.com/rosi.zaimova?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTIyNDI4NjQxMjc1Nzk%3D) My team and I at Dalberg Data Insights are developing predictive models using mobility and health data. Hoping to have first results in Belgium before end of the week and then scale, Europe, the world.
-* [Карантинные методы в Китае](https://www.facebook.com/100001226971213/posts/3069131659804370/?d=n)
-* Вырастет роль городов в решении локальных проблем
-* Подключение и финансирование бизнеса для решения задач
-* [WHO Critical preparedness, readiness and response actions for COVID-19](https://www.who.int/docs/default-source/coronaviruse/20200307-cccc-guidance-table-covid-19-final.pdf?sfvrsn=1c8ee193_10)
-* [Framework for a Public Health Emergency Operations Centre](https://www.who.int/ihr/publications/9789241565134_eng/en/)
-* [Infection Prevention and Control \(IPC\) for Novel Coronavirus \(COVID-19\)](https://openwho.org/courses/COVID-19-IPC-EN)
-* [Зеленський створив Координаційний центр з протидії коронавірусу](https://inforesist.org/ua/zelenspkyj-stvoryv-koordynaczijnyj-czentr-z-protydiyi-koronavirusu/amp/)
-* [IMF готов оказать помощь странам в условиях эпидемии, выделит 50 млрд долл](http://bit.ly/2x5cGQk) 
-* [Как обеспечить финансовую стабильность в условиях эпидемии?](http://bit.ly/2TMETo8)
-* [Экономическая политика в условиях эпидемии](http://bit.ly/33eXY5f%20)
-* [Limiting the Economic Fallout of the Coronavirus with Large Targeted Policies](http://bit.ly/3cWsy8o)
-* [Фискальная политика в условиях эпидемии](https://blogs.imf.org/2020/03/05/fiscal-policies-to-protect-people-during-the-coronavirus-outbreak/)
-* [Мир на развилке выбора пути борьбы с COVID-19](https://www.facebook.com/sergey.karelov.5/posts/2789965497705789?__cft__[0]=AZXf_NV75tNyO7ObqhhScQOmMxOr9xBDmWZ3ABfm196wPYxNC75zLJee8AYroStuAcnEdpUcOyYs6aesqIn0FMvyUuvUnga4EnMi9j-0zSGDVk3PbubXl3pclqY8anNiQN4&__tn__=%2CO%2CP-R)
-* [https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications](https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications)
-* [Разговор группы unDavos по теме коронавируса](https://www.notion.so/4irelabs/Covid-call-15-03-7dd305c3c1534cfc90a4389a3f289740)
-* Супрун будет перестраивать медицину
-* Exponential spread, and the resulting societal, economic and political ramifications
-* slow reactions of politicians and public, donwplaying, a general feeling of "it won't happen to me" I sense in many people
-* exponential growth due to insufficient testing, no social distancing, and medical professional and media censorship
-* ensuring this doesn't reinforce narratives of fear, polarization and "othering"; focusing on government competence and non-governmental initiative
-* getting out the word, and making this a positive change process, not reinforcing fear
-* long-term health impacts and potential addition to the human ecosystem as a 'constant' threat
-* Переход на e-ID
-* Над экономическими вопросами работает Aspen Institute в том числе
-* Работа с незанятым
-* [https://www.youtube.com/watch?v=ToD6xtx\_vd8](https://www.youtube.com/watch?v=ToD6xtx_vd8)
-* Коронавірус: Молот і Танок \(переклад статті Tomas Pueyo\) - частина 1
-* Страховая для таких случаев
-* [https://download.joinfightback.com/FightbackCorona.pdf](https://download.joinfightback.com/FightbackCorona.pdf)
-* Делать выжимку инсайтов глобального движения
-* [https://itukraine.org.ua/spilna-zayava-biznes-spilnoti-shhodo-nadzvichajnogo-stanu.html](https://itukraine.org.ua/spilna-zayava-biznes-spilnoti-shhodo-nadzvichajnogo-stanu.html)
-* Есть миллиардеры которые хотят инвестировать в систем чендж
-* переквалификация с makemebetter
-* Как смягчить политику карантина безопасно?
-* [https://www.facebook.com/100005980356384/posts/1338041243071875/?d=n](https://www.facebook.com/100005980356384/posts/1338041243071875/?d=n)
-* Обеспечивать всем волонтерам страховку?
-* Сделать совместные проекты с каждый из своих сообществ - типа консультационное сессии
-* уйти с координации подпроектов
-* Найти денег на движение
-* Брать лучшие компании в своих сферах консультировать Лидов
-* [https://80000hours.org/covid-19/](https://80000hours.org/covid-19/)
+* * * [https://80000hours.org/covid-19/](https://80000hours.org/covid-19/)
 * [https://www.youtube.com/watch?v=vPNXZIbs128](https://www.youtube.com/watch?v=vPNXZIbs128)
 * [https://pages.semanticscholar.org/coronavirus-research](https://pages.semanticscholar.org/coronavirus-research)
 * [https://docs.google.com/document/d/1W\_m\_0A5wl4s5okN74TQvCI40IbHm8NZP5uBlQVrtmgo/edit?fbclid=IwAR3nDV0MYfTKJ3SeI5mB9qXAPR62ZMRNhkJ3OKX\_aeFmqLfjFrpebvIa5Qs](https://docs.google.com/document/d/1W_m_0A5wl4s5okN74TQvCI40IbHm8NZP5uBlQVrtmgo/edit?fbclid=IwAR3nDV0MYfTKJ3SeI5mB9qXAPR62ZMRNhkJ3OKX_aeFmqLfjFrpebvIa5Qs)
