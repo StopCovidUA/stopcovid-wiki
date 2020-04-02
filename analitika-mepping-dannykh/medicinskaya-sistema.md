@@ -31,7 +31,11 @@
 * Страховая для таких случаев
 * [https://www.youtube.com/watch?v=vPNXZIbs128](https://www.youtube.com/watch?v=vPNXZIbs128)
 * [https://www.ted.com/talks/larry\_brilliant\_my\_wish\_help\_me\_stop\_pandemics?fbclid=IwAR3YQ2RRMTS0mBKGFCcxoVjsyQweJwu1PBqw87xB0zlAO5t\_Yp8\_CEhguHI](https://www.ted.com/talks/larry_brilliant_my_wish_help_me_stop_pandemics?fbclid=IwAR3YQ2RRMTS0mBKGFCcxoVjsyQweJwu1PBqw87xB0zlAO5t_Yp8_CEhguHI)
-* [https://www.ted.com/talks/bill\_gates\_how\_we\_must\_respond\_to\_the\_coronavirus\_pandemic](https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_coronavirus_pandemic)
+* [https://deurban.org/epidemics](https://deurban.org/epidemics)
+* [https://www.ted.com/talks/bill\_gates\_how\_we\_must\_respond\_to\_the\_coronavirus\_pandem](https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_coronavirus_pandemic)
+* [Венчурный капиталист Азим Азхар обсуждает шесть способов, которыми коронавирус изменит наш мир](https://www.exponentialview.co/p/-six-ways-coronavirus-will-change). Его список включает в себя: открытые источники ранее запатентованной информации о глобальных угрозах, а также рост онлайн-обучения, работы и собраний. **Ключевые выводы:** подготовьтесь к переходу от хрупких глобальных цепочек поставок к «сетевым, децентрализованным и устойчивым» моделям. 
+* «Правительства всего мира могут рассматривать этот кризис в области здравоохранения как возможность внедрить или внедрить противоречивые технологии и системы для эпиднадзора», - говорится в отчете [Access Now](https://www.accessnow.org/protect-digital-rights-promote-public-health-towards-a-better-coronavirus-response/). **Ключевой вывод:** вспышка - это возможность «оценить, как мы можем защитить здравоохранение в эпоху цифровых технологий и где наши цифровые права вписываются в глобальные гуманитарные меры». 
+* Создание систем, устойчивых к глобальным последствиям пандемий, может иметь далеко идущие преимущества. В этой статье 2010 года, опубликованной в журнале [«Грипп и другие респираторные вирусы»](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941659/), перечислены восемь социальных выгод, полученных от разработки эффективных механизмов реагирования на пандемии. **Ключевой вывод:** есть много «потенциальных побочных выгод от планирования и подготовки к пандемии, которые могут быть реализованы независимо от будущей пандемии».
 
 ### [Билл Гейтс: следующая эпидемия? мы не готовы](https://www.youtube.com/watch?v=6Af6b_wyiwI)
 

@@ -27,6 +27,8 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Long term objectives
 * Culture norms
 
+Подключить адвайзоров
+
 ### Organizational Structure
 
 * Modular organizational structure
@@ -63,9 +65,13 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 Передовсім він приготовляє свого підо пічного до боротьби. Далі навчає його всіх боротьби для того, щоб успішно досягнути перемоги, та весь час упродовж змагань дає настанови і підбадьорює свого учня
 
-Программы обучения + Брать лучшие компании в своих сферах консультировать Лидов
+Программы обучения / Меташкола
+
++ Брать лучшие компании в своих сферах консультировать Лидов
 
 Подтянуть финансирование
+
+Мониторить выгорание
 
 More at [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
 
@@ -84,23 +90,7 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 
 ## Идеи
 
-* [https://docs.google.com/document/d/1W\_m\_0A5wl4s5okN74TQvCI40IbHm8NZP5uBlQVrtmgo/edit?fbclid=IwAR3nDV0MYfTKJ3SeI5mB9qXAPR62ZMRNhkJ3OKX\_aeFmqLfjFrpebvIa5Qs](https://docs.google.com/document/d/1W_m_0A5wl4s5okN74TQvCI40IbHm8NZP5uBlQVrtmgo/edit?fbclid=IwAR3nDV0MYfTKJ3SeI5mB9qXAPR62ZMRNhkJ3OKX_aeFmqLfjFrpebvIa5Qs)
-* [https://helpwithcovid.com/](https://helpwithcovid.com/)
-* Наш источник сообщает, что в Офисе Президента продолжают обсуждать тему с созданием всеукраинского волонтерского движения по борьбе с коронавирусом. Ходят также слухи, что именно президенту предлагают возглавить волонтерское движение. Пока обдумывают сам этот формат, но уже по городам и регионам люди сами начали объединяться в группы и помогать всем нуждающимся. Источник поясняет, что всё это сейчас очень хорошо можно централизовано объединить на основе общественной платформы. И получить контакты тысячи инициативных и активных людей. Одна большая проблема есть, сейчас в ОП, нет кадров, кто может это всё организовать.
-* Оксана UNDP
-* Разделить на время для обсуждения кейсов и время для рефлексии, отреагирования и восстановления. То есть на поддержание профессиональной и человеческой части. Знакомство, прояснение задач и целей. Обсуждение функционала и ограничений. Провести групповые супервизии. Установить график видео сессий. Создать банк информации. И отслеживать динамику профессиональных и личных трансформации. При отсутствии четкой структуры риск эмоционального и профессионального выгорания очень высок.
-* [https://deurban.org/epidemics](https://deurban.org/epidemics)
-* Использовать коллективный интеллект для изменения системы + Меташкола
-* Подключить доноров как адвайзоров
-* [https://www.pravda.com.ua/columns/2020/03/19/7244254/](https://www.pravda.com.ua/columns/2020/03/19/7244254/)
-* [https://youtu.be/wnEOofjL3ZM](https://youtu.be/wnEOofjL3ZM)
-* Давать работу волонтерам за деньги
-* [https://hbr.org/insight-center/coronavirus](https://hbr.org/insight-center/coronavirus)
-* [https://drive.google.com/file/d/10yUprldnkXUnQNojnSM41ZFFGA4syBG1/view](https://drive.google.com/file/d/10yUprldnkXUnQNojnSM41ZFFGA4syBG1/view)
-* [Венчурный капиталист Азим Азхар обсуждает шесть способов, которыми коронавирус изменит наш мир](https://www.exponentialview.co/p/-six-ways-coronavirus-will-change). Его список включает в себя: открытые источники ранее запатентованной информации о глобальных угрозах, а также рост онлайн-обучения, работы и собраний. **Ключевые выводы:** подготовьтесь к переходу от хрупких глобальных цепочек поставок к «сетевым, децентрализованным и устойчивым» моделям. 
-* «Правительства всего мира могут рассматривать этот кризис в области здравоохранения как возможность внедрить или внедрить противоречивые технологии и системы для эпиднадзора», - говорится в отчете [Access Now](https://www.accessnow.org/protect-digital-rights-promote-public-health-towards-a-better-coronavirus-response/). **Ключевой вывод:** вспышка - это возможность «оценить, как мы можем защитить здравоохранение в эпоху цифровых технологий и где наши цифровые права вписываются в глобальные гуманитарные меры». 
-* Создание систем, устойчивых к глобальным последствиям пандемий, может иметь далеко идущие преимущества. В этой статье 2010 года, опубликованной в журнале [«Грипп и другие респираторные вирусы»](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941659/), перечислены восемь социальных выгод, полученных от разработки эффективных механизмов реагирования на пандемии. **Ключевой вывод:** есть много «потенциальных побочных выгод от планирования и подготовки к пандемии, которые могут быть реализованы независимо от будущей пандемии».
-* [https://spark.adobe.com/page/dGaNRTsfy6Dej/](https://spark.adobe.com/page/dGaNRTsfy6Dej/)
+* * * [https://spark.adobe.com/page/dGaNRTsfy6Dej/](https://spark.adobe.com/page/dGaNRTsfy6Dej/)
 * [Maryna Saprykina](https://www.facebook.com/maryna.saprykina)
 * [https://spark.adobe.com/page/dGaNRTsfy6Dej/](https://spark.adobe.com/page/dGaNRTsfy6Dej/)
 * Глобальний рух і статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
