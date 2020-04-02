@@ -32,6 +32,8 @@ Unsorted
 * [Rositsa Zaimova](https://www.facebook.com/rosi.zaimova?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTIyNDI4NjQxMjc1Nzk%3D) My team and I at Dalberg Data Insights are developing predictive models using mobility and health data. Hoping to have first results in Belgium before end of the week and then scale, Europe, the world.
 * По типам влияния [https://helpwithcovid.com/projects](https://helpwithcovid.com/projects)
 
+Track the outbreak Reduce spread Scale testing Medical facilities Medical equipments Treatment R&D E-Learning Job placement Mental health Help out communities Map volunteers to needs News and information Social giving Other
+
 ## Транспортные сервисы
 
 Медики не знают как пользоваться, не у всех норм девайсы. Для звонков нужна автоматизация.
