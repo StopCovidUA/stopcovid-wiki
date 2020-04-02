@@ -40,6 +40,7 @@
   * [Цілі, способи та тактика роботи з матеріалами](perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
   * [Tactical 28.03](perekladacham/tactical-28.03.md)
   * [Tactical 31.03](perekladacham/tactical-31.03.md)
+  * [Tactical 02.04](perekladacham/tactical-02.04.md)
 * [HR'ам](hram.md)
 * [Операторам StopCovidUA Bot](operatoram-stopcovidua-bot.md)
 * [Юристам](yuristam.md)

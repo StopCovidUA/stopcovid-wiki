@@ -29,6 +29,7 @@
 * [Framework for a Public Health Emergency Operations Centre](https://www.who.int/ihr/publications/9789241565134_eng/en/)
 * [Infection Prevention and Control \(IPC\) for Novel Coronavirus \(COVID-19\)](https://openwho.org/courses/COVID-19-IPC-EN)
 * Страховая для таких случаев
+* [https://www.youtube.com/watch?v=vPNXZIbs128](https://www.youtube.com/watch?v=vPNXZIbs128)
 * [https://www.ted.com/talks/larry\_brilliant\_my\_wish\_help\_me\_stop\_pandemics?fbclid=IwAR3YQ2RRMTS0mBKGFCcxoVjsyQweJwu1PBqw87xB0zlAO5t\_Yp8\_CEhguHI](https://www.ted.com/talks/larry_brilliant_my_wish_help_me_stop_pandemics?fbclid=IwAR3YQ2RRMTS0mBKGFCcxoVjsyQweJwu1PBqw87xB0zlAO5t_Yp8_CEhguHI)
 * [https://www.ted.com/talks/bill\_gates\_how\_we\_must\_respond\_to\_the\_coronavirus\_pandemic](https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_coronavirus_pandemic)
 
