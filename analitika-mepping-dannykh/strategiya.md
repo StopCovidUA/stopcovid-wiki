@@ -86,13 +86,10 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 
 ### Think Tank
 
-* FutureBackwards
+* FutureBackwards – Поискать наративы
 
 ## Идеи
 
-* * * [https://spark.adobe.com/page/dGaNRTsfy6Dej/](https://spark.adobe.com/page/dGaNRTsfy6Dej/)
-* [Maryna Saprykina](https://www.facebook.com/maryna.saprykina)
-* [https://spark.adobe.com/page/dGaNRTsfy6Dej/](https://spark.adobe.com/page/dGaNRTsfy6Dej/)
 * Глобальний рух і статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
 * [Бібліотека з посиланнями на всі рухи і матеріали \(англ\)](https://coronavirustechhandbook.com/communities)
 * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
@@ -105,8 +102,7 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 * Онбординг лидеры / Нужно как-то научить лидов
 * Более четко описать домены, создание лида / репа
 * Серотониновый всплеск закончится – Public better, нужна позитивная цель
-* Поискать наративы
-* [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
+* * [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
 * Брать консультации у крутых экспертов \(Например Felipe\), просить улучшить организацию
 * NVC для работы с будущим конфликтом
 * Мартын и игротехники, рефлексивное управление
