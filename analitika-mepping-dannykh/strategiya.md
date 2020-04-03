@@ -62,10 +62,13 @@ Think Tank
 ### Small self-organizing teams
 
 * Оптимально 7, максимум 13
+* Фасилитация
+* Рекорд кипинг и база знаний
+* Динамичные роли
 
 ### Emerging teams
 
-* Объединение НГО
+New teams at all three companies emerge in an organic manner, initiated by entrepreneurial employees. New teams only start when a group of employees gets excited about pursuing an opportunity or solving a specific problem. A new team is only launched when a group of employees is convinced that there is a demand for it. Thus, new teams emerge and grow in a free-flowing, bottom-up fashion.
 
 ## Task Allocation
 
