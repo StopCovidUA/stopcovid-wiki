@@ -17,7 +17,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 ### Board of advisors
 
-В нашей группе должны быть представители всех групп стейкхолдеров
+В нашей группе должны быть представители всех групп стейкхолдеров \(например представители города, бизнеса, НГО, медиа...\)
 
 * Чакхоян
 * Гурский
@@ -34,6 +34,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * В первую очередь адвайзоров
 * Мартын и игротехники, рефлексивное управление
 * Институт будущего партнерство
+* Сразу создавать вопросы на кворе в определенном канале
 
 ## Organizational Structure
 
@@ -73,18 +74,18 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 ### Digital tools
 
-### Rules of the game
-
-* Фасилитационная рада, а решения в loomio
-* Курс Артема по самоорганизации
-
-### [Отчеты](../zviti/stopcovid-ua-n13.md)
-
 * Общий канал коммуникации \(рассылка + пост\)
 * Отчет в фейсбуке с тегами
 * Аналитические статьи с 1 выводом
 * Подключить все регионы \(24-27\)
 * Брать ресурсы из глобального движения – выжимку инсайтов
+* Найти местные движения через медиков-волонтеров
+* Фасилитационная рада, а решения в loomio
+
+### Rules of the game
+
+* [https://medlabboulder.gitlab.io/democraticmediums/](https://medlabboulder.gitlab.io/democraticmediums/)
+* Курс Артема по самоорганизации
 
 ## Motivation
 
@@ -126,11 +127,6 @@ Problems:
 ## Идеи
 
 * [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
-* Матрица Felipe
-* * Найти местные движения через медиков-волонтеров
-* * [https://medlabboulder.gitlab.io/communityrule/templates/](https://medlabboulder.gitlab.io/communityrule/templates/)
-* Должны входить представители города, бизнеса, НГО, медиа
-* Подготовить инструкцию типа франшиза
 * More at [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
 
 
