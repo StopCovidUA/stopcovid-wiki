@@ -33,7 +33,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Long term objectives
 * Culture norms
 
-Подключить адвайзоров
+Board of advisors – Подключить адвайзоров
 
 ### Organizational Structure
 
