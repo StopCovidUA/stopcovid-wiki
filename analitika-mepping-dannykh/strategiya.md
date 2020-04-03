@@ -22,6 +22,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Тычкивская
 * шейперы
 * волонтер сервис
+* Институт будущего / TEDx чувак
 * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
 
 ### Think Tank
@@ -29,6 +30,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * FutureBackwards – Поискать наративы
 * В первую очередь адвайзоров
 * Мартын и игротехники, рефлексивное управление
+* Институт будущего партнерство
 
 ## Organizational Structure
 
@@ -83,6 +85,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 ### Transparent performance rankings
 
 * Геймификация / Борды / Ачивки
+* Игровая концепция активизма
 
 ### Individual short-term compensation
 
@@ -127,9 +130,7 @@ Problems:
 * Должны входить представители города, бизнеса, НГО, медиа
 * Подготовить инструкцию типа франшиза
 * Повторяющаяся структура
-* Игровая концепция активизма
-* Институт будущего партнерство
-* Проблема с именами в дискорде
+* * * Проблема с именами в дискорде
 * Использовать меташколу для развития волонтеров и организаций тут
 * Подключить выпускников программы Гаврилишина
 * Учить Лидов социократии
