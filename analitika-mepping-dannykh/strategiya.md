@@ -16,18 +16,12 @@ description: '[Потребує перекладу]'
 ## Цели
 
 * 100 организаций работают вместе 
-* волонтеры развивают свои сообществ
-* волонтеры развивают критическое мышление
-* волонтеры развивают эмоциональный интеллект
-* волонтеры развивают креативность
-* волонтеры развивают future thinking
+* волонтеры развиваются
 * волонтеры получают универсальный базовый доход
-
-## Стратегия
 
 Taiwan’s success has rested on a fusion of technology, activism, and civic participation. **Почему 100 организаций должны работать вместе?**
 
-### Strategy
+## Strategy
 
 * Small top-management teams
 * Long term objectives
@@ -35,7 +29,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 Board of advisors – Подключить адвайзоров
 
-### Organizational Structure
+## Organizational Structure
 
 * Modular organizational structure
 * Small self-organizing teams
@@ -43,7 +37,7 @@ Board of advisors – Подключить адвайзоров
 
 Объединение НГО
 
-### Task Allocation
+## Task Allocation
 
 * Stakeholder-facing and support teams
 * Self-selected task commitments
@@ -51,7 +45,7 @@ Board of advisors – Подключить адвайзоров
 
 **Смоделировать волонтерский опыт + Улучшить флоу онбординга для новенького**
 
-### Coordination
+## Coordination
 
 * Direct person-to-person interaction
 * Digital tools
@@ -63,7 +57,7 @@ Board of advisors – Подключить адвайзоров
 
 Сделать совместные проекты с каждый из своих сообществ - типа консультационное сессии
 
-### Motivation
+## Motivation
 
 * Transparent performance rankings
 * Individual short-term compensation
@@ -71,15 +65,25 @@ Board of advisors – Подключить адвайзоров
 
 Передовсім він приготовляє свого підо пічного до боротьби. Далі навчає його всіх боротьби для того, щоб успішно досягнути перемоги, та весь час упродовж змагань дає настанови і підбадьорює свого учня
 
+### Volunteers development program
+
 Программы обучения / Меташкола
 
-+ Брать лучшие компании в своих сферах консультировать Лидов
+* развитие сообщетсв
+* самоорганизация
+* критическое мышление
+* эмоциональный интеллект
+* креативность
+* future thinking
+* здоровый образ жизни
 
-Подтянуть финансирование
++ Брать лучшие компании в своих сферах консультировать
 
 Мониторить выгорание
 
-More at [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
+### Универсальный базовый доход
+
+Подтянуть финансирование
 
 ## Проекты
 
@@ -139,6 +143,7 @@ More at [How To Organize A Large Company Without Middle Management](https://corp
 * Брать ресурсы из глобального движения. Может та же Беларусь например
 * Обучение Лидов
 * Определить группы для расширения движения
+* More at [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
 
 Как объяснить людям социократию?
 
