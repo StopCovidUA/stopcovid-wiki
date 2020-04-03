@@ -9,6 +9,7 @@
 * [ЄС оголошує конкурс інноваційних рішень для боротьби зі спалахом коронавірусу](https://euprostir.org.ua/opportunities/148570)
 * [https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/](https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/)
 * [https://download.joinfightback.com/FightbackCorona.pdf](https://download.joinfightback.com/FightbackCorona.pdf)
+* [https://www.antler.co/covid19-call](https://www.antler.co/covid19-call)
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
