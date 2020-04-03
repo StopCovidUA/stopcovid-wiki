@@ -32,7 +32,7 @@
 * [Перекладачам](perekladacham/)
 * [Медикам](sistema-zdravookhraneniya/)
 * [IT-спеціалістам та інженерам](it-ta-inzheneram/)
-* [HR'ам](hram.md)
+* [HR'ам](hram/)
 * [Юристам](yuristam.md)
 * [Фінансистам](analitika-mepping-dannykh/finansistam.md)
 
