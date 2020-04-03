@@ -17,12 +17,15 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 ### Board of advisors
 
+В нашей группе должны быть представители всех групп стейкхолдеров
+
 * Чакхоян
 * Гурский
 * Тычкивская
 * шейперы
 * волонтер сервис
 * Институт будущего / TEDx чувак
+* Булавинова
 * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
 
 ### Think Tank
@@ -38,6 +41,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 * Сделать совместные проекты с каждый из своих сообществ - типа консультационное сессии
 * Повторяющаяся структура
+* Подготовить инструкцию типа франшиза
 
 ### Small self-organizing teams
 
@@ -124,19 +128,9 @@ Problems:
 * [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
 * Матрица Felipe
 * * Найти местные движения через медиков-волонтеров
-* В нашей группе должны быть представители всех групп стейкхолдеров
-
-
-
-* [https://medlabboulder.gitlab.io/communityrule/templates/](https://medlabboulder.gitlab.io/communityrule/templates/)
+* * [https://medlabboulder.gitlab.io/communityrule/templates/](https://medlabboulder.gitlab.io/communityrule/templates/)
 * Должны входить представители города, бизнеса, НГО, медиа
 * Подготовить инструкцию типа франшиза
-
-
-
-
-
-* * Определить группы для расширения движения
 * More at [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
 
 
