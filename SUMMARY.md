@@ -45,7 +45,7 @@
   * [Tactical 31.03](perekladacham/tactical-31.03.md)
   * [Tactical 28.03](perekladacham/tactical-28.03.md)
   * [Цілі, способи та тактика роботи з матеріалами](perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
-* [HR'ам](hram.md)
+* [Профессиональное развитие](hram.md)
 * [Операторам StopCovidUA Bot](operatoram-stopcovidua-bot.md)
 * [Юристам](yuristam.md)
 * [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
