@@ -9,6 +9,7 @@
   * [Экономика и бизнес](analitika-mepping-dannykh/ekonomika-i-biznes.md)
   * [Фінансування](analitika-mepping-dannykh/finansistam.md)
   * [Coordination 02.04](analitika-mepping-dannykh/tactical-02.04.md)
+  * [Coordination 07.04](analitika-mepping-dannykh/coordination-07.04.md)
 * [Комунікації](informacionnaya-kampaniya/README.md)
   * [\#безтебеніяк](informacionnaya-kampaniya/obshee-delo.md)
   * [Врачи – герои](informacionnaya-kampaniya/vrachi.md)
