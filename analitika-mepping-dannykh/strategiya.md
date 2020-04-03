@@ -26,10 +26,13 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 * FutureBackwards – Поискать наративы
 * В первую очередь адвайзоров
+* Мартын и игротехники, рефлексивное управление
 
 ## Organizational Structure
 
 ### Modular organizational structure
+
+* Сделать совместные проекты с каждый из своих сообществ - типа консультационное сессии
 
 ### Small self-organizing teams
 
@@ -41,26 +44,29 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 ## Task Allocation
 
-* Stakeholder-facing and support teams
-* Self-selected task commitments
-* Natural leadership roles
+### Stakeholder-facing and support teams
 
-### Программа онбординга волонтеров
+Программа онбординга волонтеров
 
 * Смоделировать волонтерский опыт 
 * Улучшить флоу онбординга для новенького
 
+### Self-selected task commitments
+
+### Natural leadership roles
+
 ## Coordination
 
-* Direct person-to-person interaction
-* Digital tools
-* Rules of the game
+### Direct person-to-person interaction
 
-Фасилитационная рада, а решения в loomio
 
-Курс Артема по самоорганизации
 
-Сделать совместные проекты с каждый из своих сообществ - типа консультационное сессии
+### Digital tools
+
+### Rules of the game
+
+* Фасилитационная рада, а решения в loomio
+* Курс Артема по самоорганизации
 
 ### [Отчеты](../zviti/stopcovid-ua-n13.md)
 
@@ -68,22 +74,22 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Отчет в фейсбуке с тегами
 * Делать выжимку инсайтов глобального движения
 * Аналитические статьи с 1 выводом
-* Подключить все регионы
+* Подключить все регионы \(24-27\)
 
 ## Motivation
 
-* Transparent performance rankings
-* Individual short-term compensation
-* Collective long-term compensation
+### Transparent performance rankings
 
-Передовсім він приготовляє свого підо пічного до боротьби. Далі навчає його всіх боротьби для того, щоб успішно досягнути перемоги, та весь час упродовж змагань дає настанови і підбадьорює свого учня
+* Геймификация / Борды / Ачивки
 
-### Volunteers development program
+### Individual short-term compensation
+
+Volunteers development program
 
 Программы обучения / Меташкола
 
 * развитие сообщетсв
-* самоорганизация
+* самоорганизация \(фасилитация...\)
 * критическое мышление
 * эмоциональный интеллект
 * креативность
@@ -99,24 +105,18 @@ Problems:
 * People obligate to volunteer and cant fulfil \(for other reasons\)
 * People say but not qualified \(unable to use collaboration practices, don't have the technical expertise\)
 
-### Универсальный базовый доход
+### Collective long-term compensation
 
-Подтянуть финансирование
+* Универсальный базовых доход – Подтянуть финансирование
+* Серотониновый всплеск закончится – Public better, нужна позитивная цель
+
+Передовсім він приготовляє свого підо пічного до боротьби. Далі навчає його всіх боротьби для того, щоб успішно досягнути перемоги, та весь час упродовж змагань дає настанови і підбадьорює свого учня
 
 ## Идеи
 
-* 27 regions
-* Развивать каждого волонтера
-* Онбординг лидеры / Нужно как-то научить лидов
-* Более четко описать домены, создание лида / репа
-* Серотониновый всплеск закончится – Public better, нужна позитивная цель
-* * [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
-* Брать консультации у крутых экспертов \(Например Felipe\), просить улучшить организацию
-* NVC для работы с будущим конфликтом
-* Мартын и игротехники, рефлексивное управление
-* Допускать к работе по чеклисту
-* Как работать с таким возражением "я по-другому не могу организовываться"
-* Обучение фасилитации
+* [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
+* Матрица Felipe
+* * Обучение фасилитации
 * Помощь и забота о команде и волонтерах. Начать создавать роли
 * [Матричная структура](https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf)
 * Волонтер Сервис могут проконсультировать
