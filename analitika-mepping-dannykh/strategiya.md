@@ -11,13 +11,19 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 ## Strategy
 
-* Small top-management teams
-* Long term objectives
-* Culture norms
+### Small top-management teams
 
-### Board of advisors
+Think Tank
 
-В нашей группе должны быть представители всех групп стейкхолдеров \(например представители города, бизнеса, НГО, медиа...\)
+* FutureBackwards 
+* В первую очередь адвайзоров
+* Мартын и игротехники, рефлексивное управление
+* Институт будущего партнерство
+* Сразу создавать вопросы на кворе в определенном канале
+
+### Long term objectives
+
+Board of advisors: В нашей группе должны быть представители всех групп стейкхолдеров \(например представители города, бизнеса, НГО, медиа...\)
 
 * Чакхоян
 * Гурский
@@ -27,14 +33,13 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Институт будущего / TEDx чувак
 * Булавинова
 * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
+* Long term objectives
 
-### Think Tank
+### Culture norms
 
-* FutureBackwards – Поискать наративы
-* В первую очередь адвайзоров
-* Мартын и игротехники, рефлексивное управление
-* Институт будущего партнерство
-* Сразу создавать вопросы на кворе в определенном канале
+* Ретроспективы
+* Поискать наративы
+* Коммуникация в нашем ключе
 
 ## Organizational Structure
 
@@ -50,7 +55,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 ### Emerging teams
 
-Объединение НГО
+* Объединение НГО
 
 ## Task Allocation
 
@@ -64,13 +69,20 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 ### Self-selected task commitments
 
+* Нарезать работу на кусочки по 1-2 часа
+* Использовать доски трелло и прозрачный процесс
+* Никто не навязывает задачи
+
 ### Natural leadership roles
+
+* Лидеры/представители выбираются участниками внутри
 
 ## Coordination
 
 ### Direct person-to-person interaction
 
-
+* Все могут говорить со всеми \(в тч на открытых звонках\)
+* Оверкомьюникейт – звонок лучше чем текст
 
 ### Digital tools
 
@@ -85,7 +97,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 ### Rules of the game
 
 * [https://medlabboulder.gitlab.io/democraticmediums/](https://medlabboulder.gitlab.io/democraticmediums/)
-* Курс Артема по самоорганизации
+* Курс по самоорганизации
 
 ## Motivation
 
@@ -96,9 +108,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 ### Individual short-term compensation
 
-Volunteers development program
-
-Программы обучения / Меташкола
+Volunteers development program/ Программы обучения / Меташкола
 
 * развитие сообщетсв
 * самоорганизация \(фасилитация, социократия...\)
@@ -110,19 +120,12 @@ Volunteers development program
 
 + Брать лучшие компании в своих сферах консультировать
 
-Мониторить выгорание, предоставлять коучинг.
-
-Problems:
-
-* People obligate to volunteer and cant fulfil \(for other reasons\)
-* People say but not qualified \(unable to use collaboration practices, don't have the technical expertise\)
+Мониторить выгорание, предоставлять коучинг. Передовсім він приготовляє свого підо пічного до боротьби. Далі навчає його всіх боротьби для того, щоб успішно досягнути перемоги, та весь час упродовж змагань дає настанови і підбадьорює свого учня
 
 ### Collective long-term compensation
 
 * Универсальный базовых доход – Подтянуть финансирование
-* Серотониновый всплеск закончится – Public better, нужна позитивная цель
-
-Передовсім він приготовляє свого підо пічного до боротьби. Далі навчає його всіх боротьби для того, щоб успішно досягнути перемоги, та весь час упродовж змагань дає настанови і підбадьорює свого учня
+* Серотониновый всплеск закончится – Public better, нужна позитивная цель и устойчивые условия работы
 
 ## Идеи
 
