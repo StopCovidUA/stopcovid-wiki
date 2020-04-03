@@ -60,4 +60,5 @@ Tone of voice: Есть такая идея чтобы наша коммуник
 * Открыть статистику наших медиа
 * [https://www.facebook.com/groups/POfinddesigner](https://www.facebook.com/groups/POfinddesigner)
 * Задействовать Дена для stopcovid
+* Сделать страницу на википедии про движении \([реф](https://en.wikipedia.org/wiki/Coronavirus_Tech_Handbook)\)
 

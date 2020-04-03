@@ -100,8 +100,7 @@ Board of advisors – Подключить адвайзоров
 
 ## Идеи
 
-* Глобальний рух і статистика: [https://www.endcoronavirus.org](https://www.endcoronavirus.org/)
-* [Бібліотека з посиланнями на всі рухи і матеріали \(англ\)](https://coronavirustechhandbook.com/communities)
+* * [Бібліотека з посиланнями на всі рухи і матеріали \(англ\)](https://coronavirustechhandbook.com/communities)
 * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
 * Дать коучей Лидам
 * People obligate to volunteer and cant fulfil \(for other reasons\)
