@@ -54,7 +54,6 @@ Discord-канал [\#marketing-pr](https://discord.gg/5t6zMtv)
 * Долучити медіа до розробки контенту
 * Зробити лідерів думок друзями нашого руху
 * Зібрати перелік регіональних ЗМІ
-* Рамки для аватарок
 * Продумати, як людина може безпечно, без почуття провини та сорому говорити про своє захворювання
 * Відкрити статистику наших медіа
 * [Маніпуляції, фейки, конспірологія, особисті дані людей — як українські медіа повідомляють про коронавірус. І як потрібно робити](https://texty.org.ua/articles/100492/manipulyaciyi-fejky-konspirolohiya-osobysti-dani-lyudej-yak-ukrayinski-media-povidomlyayut-pro-koronavirus-i-yak-potribno-robyty/?fbclid=IwAR1uiw284kptmSqLdgO7O5bbKVLsdNkMtAuZAwhf2cy0FIVTTO-GWFik65Q)
