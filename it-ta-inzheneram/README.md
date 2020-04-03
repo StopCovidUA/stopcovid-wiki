@@ -11,33 +11,10 @@ description: 'Інженерам, програмістам, IT аналітик�
 * [Чат боты для поставок еды людям на карантине](dostavka-produktov-i-medikamentov.md)
 * [Система логистики](sistema-logistiki.md)
 
-Unsorted
+## Цели
 
-* Чат бот координации волонтеров \(Виталик\)
-* v2020 \(Солидарность\)
-* poboremo \(Институт будущего\)
-* [https://covid-19.lvivoblrada.gov.ua/](https://covid-19.lvivoblrada.gov.ua/) \(SoftServe\)
-* donor.org \(каким больницам что нужно\)
-* [https://pandemiia.herokuapp.com/](https://pandemiia.herokuapp.com/)
-* AirBNB
-* Сборки ИВЛ \(маски, разветвители\)
-* Кварцевые лампы, обеззараживатели воздуха
-* QR коды для зоны карантина
-* Фейс трекинг
-* Дешборды показывают кто где заразился \(по области\)
-* Трекинг зараженности района \(микрорайоны\)
-* Модели предсказаний
-* Штрихкод-Браслеты с привязкой к медкарте
-* Експрес-діагностика COVID-19 за допомогою системи машинного зору \(микроскоп и томография\)
-* Система запросов больниц
-* Распределенное вычисление белков / вируса
-* [https://hospitalrun.io/blog/why-hospitalrun/](https://hospitalrun.io/blog/why-hospitalrun/)
-* [Sanju 'Amorn' Sachamuneewongse](https://www.facebook.com/awesomesanju?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTE0MjQ2MDQyMDk0MDU%3D) In Thailand they have created a Thailand Digital Covid Group to bring in all working in programming and tech to create the easiest way to track cases within Thailand and find out which stores have masks and hand sanitizers available and how many.
-* [Rositsa Zaimova](https://www.facebook.com/rosi.zaimova?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTIyNDI4NjQxMjc1Nzk%3D) My team and I at Dalberg Data Insights are developing predictive models using mobility and health data. Hoping to have first results in Belgium before end of the week and then scale, Europe, the world.
-* По типам влияния [https://helpwithcovid.com/projects](https://helpwithcovid.com/projects)
-* [https://stopcorona.live/](https://stopcorona.live/)
-
-Track the outbreak Reduce spread Scale testing Medical facilities Medical equipments Treatment R&D E-Learning Job placement Mental health Help out communities Map volunteers to needs News and information Social giving Other
+* заонбордить в работу 400 волонтеров, 
+* обработать 3000 заявок помощь
 
 ## Транспортные сервисы
 
@@ -111,6 +88,34 @@ Track the outbreak Reduce spread Scale testing Medical facilities Medical equipm
 * IJS, PRISTOP & GZS have initiated a respirator project Mr.Sekulic and his group have initiated a group to hack Covid-19 through developing test kits, respirators based on MITs open source plans MIT have initiated several projects with regards to Covid-19. LABENA has been helping with their lab, network, and by donating equipment since early february.
 * Можно сделать саморепортинг \(анонимный\) о симптомах болезни
 * Мобильные лабы для тестирования
+
+### Unsorted
+
+* Чат бот координации волонтеров \(Виталик\)
+* v2020 \(Солидарность\)
+* poboremo \(Институт будущего\)
+* [https://covid-19.lvivoblrada.gov.ua/](https://covid-19.lvivoblrada.gov.ua/) \(SoftServe\)
+* donor.org \(каким больницам что нужно\)
+* [https://pandemiia.herokuapp.com/](https://pandemiia.herokuapp.com/)
+* AirBNB
+* Сборки ИВЛ \(маски, разветвители\)
+* Кварцевые лампы, обеззараживатели воздуха
+* QR коды для зоны карантина
+* Фейс трекинг
+* Дешборды показывают кто где заразился \(по области\)
+* Трекинг зараженности района \(микрорайоны\)
+* Модели предсказаний
+* Штрихкод-Браслеты с привязкой к медкарте
+* Експрес-діагностика COVID-19 за допомогою системи машинного зору \(микроскоп и томография\)
+* Система запросов больниц
+* Распределенное вычисление белков / вируса
+* [https://hospitalrun.io/blog/why-hospitalrun/](https://hospitalrun.io/blog/why-hospitalrun/)
+* [Sanju 'Amorn' Sachamuneewongse](https://www.facebook.com/awesomesanju?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTE0MjQ2MDQyMDk0MDU%3D) In Thailand they have created a Thailand Digital Covid Group to bring in all working in programming and tech to create the easiest way to track cases within Thailand and find out which stores have masks and hand sanitizers available and how many.
+* [Rositsa Zaimova](https://www.facebook.com/rosi.zaimova?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTIyNDI4NjQxMjc1Nzk%3D) My team and I at Dalberg Data Insights are developing predictive models using mobility and health data. Hoping to have first results in Belgium before end of the week and then scale, Europe, the world.
+* По типам влияния [https://helpwithcovid.com/projects](https://helpwithcovid.com/projects)
+* [https://stopcorona.live/](https://stopcorona.live/)
+
+Track the outbreak Reduce spread Scale testing Medical facilities Medical equipments Treatment R&D E-Learning Job placement Mental health Help out communities Map volunteers to needs News and information Social giving Other
 
 ### Идеи
 

@@ -7,7 +7,7 @@
   * [Медицинская система](analitika-mepping-dannykh/medicinskaya-sistema.md)
   * [Социальная поддержка](analitika-mepping-dannykh/bezrabotica.md)
   * [Экономика и бизнес](analitika-mepping-dannykh/ekonomika-i-biznes.md)
-  * [Фінансисування](analitika-mepping-dannykh/finansistam.md)
+  * [Фінансування](analitika-mepping-dannykh/finansistam.md)
   * [Coordination 02.04](analitika-mepping-dannykh/tactical-02.04.md)
 * [Комунікації](informacionnaya-kampaniya/README.md)
   * [\#безтебеніяк](informacionnaya-kampaniya/obshee-delo.md)

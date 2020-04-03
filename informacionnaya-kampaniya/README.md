@@ -16,6 +16,12 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * Канал [StopCovid Youtube](https://t.me/StopCovidYouTube)
 * [Контент план](https://docs.google.com/spreadsheets/d/1vRUnJNAk7FgvdbDWydn429hRSV1j65q1VUCCLpXQTAQ/edit#gid=1872245614)
 
+## Цели
+
+* повлиять на поведение 1% населения,
+* сделать так чтобы 10 крупных медиа поддержали компанию "врачи – герои"
+* наши материалы прочитали 10% врачей
+
 ## Сообщения
 
 * [Врачи – герои](vrachi.md)
