@@ -1,4 +1,8 @@
-# IT та інженерам
+---
+description: 'Інженерам, програмістам, IT аналітикам'
+---
+
+# Технології
 
 Координация – [ищем координатора](https://trello.com/c/YRWr9gRq/36-%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80-%D0%BF%D0%BE-it-%D1%82%D0%B0-%D1%96%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BC)
 
@@ -31,6 +35,7 @@ Unsorted
 * [Sanju 'Amorn' Sachamuneewongse](https://www.facebook.com/awesomesanju?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTE0MjQ2MDQyMDk0MDU%3D) In Thailand they have created a Thailand Digital Covid Group to bring in all working in programming and tech to create the easiest way to track cases within Thailand and find out which stores have masks and hand sanitizers available and how many.
 * [Rositsa Zaimova](https://www.facebook.com/rosi.zaimova?comment_id=Y29tbWVudDozMDkxMjgyNTA0MjIzNjE1XzMwOTIyNDI4NjQxMjc1Nzk%3D) My team and I at Dalberg Data Insights are developing predictive models using mobility and health data. Hoping to have first results in Belgium before end of the week and then scale, Europe, the world.
 * По типам влияния [https://helpwithcovid.com/projects](https://helpwithcovid.com/projects)
+* [https://stopcorona.live/](https://stopcorona.live/)
 
 Track the outbreak Reduce spread Scale testing Medical facilities Medical equipments Treatment R&D E-Learning Job placement Mental health Help out communities Map volunteers to needs News and information Social giving Other
 
