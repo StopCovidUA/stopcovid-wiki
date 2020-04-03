@@ -20,7 +20,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Гурский
 * Тычкивская
 * шейперы
-* [https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
+* [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
 
 ### Think Tank
 
@@ -68,6 +68,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Отчет в фейсбуке с тегами
 * Делать выжимку инсайтов глобального движения
 * Аналитические статьи с 1 выводом
+* Подключить все регионы
 
 ## Motivation
 
@@ -91,7 +92,12 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 + Брать лучшие компании в своих сферах консультировать
 
-Мониторить выгорание
+Мониторить выгорание, предоставлять коучинг.
+
+Problems:
+
+* People obligate to volunteer and cant fulfil \(for other reasons\)
+* People say but not qualified \(unable to use collaboration practices, don't have the technical expertise\)
 
 ### Универсальный базовый доход
 
@@ -99,12 +105,6 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 ## Идеи
 
-* * [Бібліотека з посиланнями на всі рухи і матеріали \(англ\)](https://coronavirustechhandbook.com/communities)
-* [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
-* Дать коучей Лидам
-* People obligate to volunteer and cant fulfil \(for other reasons\)
-* People say but not qualified \(unable to use collaboration practices, don't have the technical expertise
-* Local office collab / different mindsets – workshop \(senior who people can trust\)
 * 27 regions
 * Развивать каждого волонтера
 * Онбординг лидеры / Нужно как-то научить лидов
