@@ -21,6 +21,7 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Гурский
 * Тычкивская
 * шейперы
+* волонтер сервис
 * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
 
 ### Think Tank
@@ -117,10 +118,7 @@ Problems:
 
 * [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
 * Матрица Felipe
-* * Обучение фасилитации
-* Помощь и забота о команде и волонтерах. Начать создавать роли
-* [Матричная структура](https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf)
-* Волонтер Сервис могут проконсультировать
+* * Волонтер Сервис могут проконсультировать
 * Сделать HR-агентство: находить ресурсы для проектов
 * Когда не можешь прямо – действуй по-партизански
 * Затестить бот от Скуратова
