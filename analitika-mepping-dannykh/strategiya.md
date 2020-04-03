@@ -1,4 +1,4 @@
-# Волонтеры, активисты и НГО
+# Стратегия управления
 
 ## Цели
 
@@ -130,7 +130,6 @@ Volunteers development program/ Программы обучения / Меташ
 ## Идеи
 
 * [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
-* More at [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
-
-
+* [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
+* [За принципом рою. Тактична настанова про те, як змінити світ](https://texty.org.ua/archive-books/45215/za-pryntsypom-roju-taktychna-nastanova-pro-te-jak-zminyty-svit-45215/#45217)
 
