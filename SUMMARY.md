@@ -1,8 +1,8 @@
 # Table of contents
 
-* [🖐 Вітаю, го допомагати](README.md)
-* [🚀 Організація – як все працює?](informaciya-dlya-volonterov-onboarding.md)
-* [Організаторам, аналітикам та проект-менеджерам](analitika-mepping-dannykh/README.md)
+* [🖐 Вітаємо. Го допомагати!](README.md)
+* [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding.md)
+* [Організаторам, аналітикам та проджект-менеджерам](analitika-mepping-dannykh/README.md)
   * [Волонтеры, активисты и НГО](analitika-mepping-dannykh/strategiya.md)
   * [Медицинская система](analitika-mepping-dannykh/medicinskaya-sistema.md)
   * [Социальная поддержка](analitika-mepping-dannykh/bezrabotica.md)
