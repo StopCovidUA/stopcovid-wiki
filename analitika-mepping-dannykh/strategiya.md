@@ -1,21 +1,8 @@
----
-description: '[Потребує перекладу]'
----
-
 # Волонтеры, активисты и НГО
-
-## Задачи
-
-1. Координация: стратегия/задачи, не повторять действия, единая база, лучшие практики
-2. Психологическая помощь
-3. Средства защиты
-4. Нехватка ресурсов
-
-[Организации и инициативы по борьбе с covid в Украине](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit?usp=drive_web&ouid=106088990650229192528)
 
 ## Цели
 
-* 100 организаций работают вместе 
+* 100 организаций работают вместе [Организации и инициативы по борьбе с covid в Украине](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit?usp=drive_web&ouid=106088990650229192528)
 * волонтеры развиваются
 * волонтеры получают универсальный базовый доход
 
@@ -27,13 +14,28 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Long term objectives
 * Culture norms
 
-Board of advisors – Подключить адвайзоров
+### Board of advisors
+
+* Чакхоян
+* Гурский
+* Тычкивская
+* шейперы
+* [https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
+
+### Think Tank
+
+* FutureBackwards – Поискать наративы
+* В первую очередь адвайзоров
 
 ## Organizational Structure
 
-* Modular organizational structure
-* Small self-organizing teams
-* Emerging teams
+### Modular organizational structure
+
+### Small self-organizing teams
+
+* Оптимально 7, максимум 13
+
+### Emerging teams
 
 Объединение НГО
 
@@ -43,7 +45,10 @@ Board of advisors – Подключить адвайзоров
 * Self-selected task commitments
 * Natural leadership roles
 
-**Смоделировать волонтерский опыт + Улучшить флоу онбординга для новенького**
+### Программа онбординга волонтеров
+
+* Смоделировать волонтерский опыт 
+* Улучшить флоу онбординга для новенького
 
 ## Coordination
 
@@ -56,6 +61,13 @@ Board of advisors – Подключить адвайзоров
 Курс Артема по самоорганизации
 
 Сделать совместные проекты с каждый из своих сообществ - типа консультационное сессии
+
+### [Отчеты](../zviti/stopcovid-ua-n13.md)
+
+* Общий канал коммуникации \(рассылка + пост\)
+* Отчет в фейсбуке с тегами
+* Делать выжимку инсайтов глобального движения
+* Аналитические статьи с 1 выводом
 
 ## Motivation
 
@@ -84,19 +96,6 @@ Board of advisors – Подключить адвайзоров
 ### Универсальный базовый доход
 
 Подтянуть финансирование
-
-## Проекты
-
-### [Отчеты](../zviti/stopcovid-ua-n13.md)
-
-* Общий канал коммуникации \(рассылка + пост\)
-* Отчет в фейсбуке с тегами
-* Делать выжимку инсайтов глобального движения
-* Аналитические статьи с 1 выводом
-
-### Think Tank
-
-* FutureBackwards – Поискать наративы
 
 ## Идеи
 
