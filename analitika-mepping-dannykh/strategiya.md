@@ -2,9 +2,10 @@
 
 ## Цели
 
-* 100 организаций работают вместе [Организации и инициативы по борьбе с covid в Украине](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit?usp=drive_web&ouid=106088990650229192528)
+* топ10 инициатива по борьбе с коронавирусом
+* объединить 100 [организаций и инициатив по борьбе с covid в Украине](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit?usp=drive_web&ouid=106088990650229192528)
 * волонтеры развиваются
-* волонтеры получают универсальный базовый доход
+* волонтеры получают доход
 
 Taiwan’s success has rested on a fusion of technology, activism, and civic participation. **Почему 100 организаций должны работать вместе?**
 
