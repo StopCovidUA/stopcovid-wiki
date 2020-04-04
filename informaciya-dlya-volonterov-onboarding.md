@@ -55,6 +55,7 @@
 * [Тelegram-канал](https://t.me/scutasks) із завданнями
 * Файли на [Google Drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
 * [Контакти команди](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(додай сюди свої\)
+* [Ключові показники \(KPI\)](https://docs.google.com/spreadsheets/d/1qxu6R_ToVvPUXK439pKcS8pDluyzr6lt5AjGpI-F8wY/edit#gid=0)
 
 ## [Discord чат](https://discord.gg/AebMHV)
 

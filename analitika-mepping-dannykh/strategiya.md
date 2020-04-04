@@ -123,6 +123,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 * Геймификация / Борды / Ачивки
 * Игровая концепция активизма
+* [Доска KPI](https://docs.google.com/spreadsheets/d/1qxu6R_ToVvPUXK439pKcS8pDluyzr6lt5AjGpI-F8wY/edit#gid=0)
 
 ### Individual short-term compensation
 
