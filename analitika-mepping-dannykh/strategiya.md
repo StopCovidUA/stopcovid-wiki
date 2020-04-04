@@ -19,7 +19,7 @@ Board of advisors: В нашей группе должны быть предст
 * Сердюк
 * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
 * Think Tank
-* FutureBackwards 
+* Емченко
 * Мартын и игротехники, рефлексивное управление
 * Институт будущего партнерство
 * Сразу создавать вопросы на кворе в определенном канале

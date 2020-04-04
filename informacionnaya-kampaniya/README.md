@@ -66,5 +66,6 @@ Discord-канал [\#marketing-pr](https://discord.gg/5t6zMtv)
 * [http://uacrisis.org/reg](http://uacrisis.org/reg)
 * Міла Йовович?
 * [https://www.facebook.com/groups/POfinddesigner](https://www.facebook.com/groups/POfinddesigner)
-* Долучити Дена до stopcovid
+* Долучити Дена \(ЕКЦ\) до stopcovid
+* Future Backwards
 
