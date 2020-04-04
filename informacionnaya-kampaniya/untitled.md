@@ -2,6 +2,9 @@
 
 ## Цели и апдейты
 
+* [KPI](https://docs.google.com/spreadsheets/d/1qxu6R_ToVvPUXK439pKcS8pDluyzr6lt5AjGpI-F8wY/edit#gid=0)
+* ...
+
 ## Вопросы
 
 ### Макс / Упоминать блоггеров которые про нас пишут \(медиа партнеры\)
