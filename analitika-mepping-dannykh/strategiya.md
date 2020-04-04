@@ -140,6 +140,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 * [https://medlabboulder.gitlab.io/democraticmediums/](https://medlabboulder.gitlab.io/democraticmediums/)
 * Курс по самоорганизации
+* Правило 3х пиратов: если 3 пирата договорились вместе – они могу действовать от имени организации
 
 ## Motivation
 
