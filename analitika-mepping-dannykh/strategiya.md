@@ -146,12 +146,15 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 ### Rules of the game
 
-Перший спосіб - організаційний. Він означає, що ми унеможливлюємо ситуацію, коли одна людина визначає, що слід робити іншій людині. Ніхто нікому не каже, що тому треба робити. Це норма для рою. Деякі люди називають це «[дієкратія](https://medlabboulder.gitlab.io/democraticmediums/mediums/do-ocracy/)». Другий ефективний метод – це процес консенсусного прийняття рішень, де будь-хто може накласти вето на подальше просування певної справи. Цей метод більш затратний, але може \(і повинен\) застосовуватися у рідкісних та ретельно визначених сценаріях.
+Перший спосіб - організаційний. Він означає, що ми унеможливлюємо ситуацію, коли одна людина визначає, що слід робити іншій людині. Ніхто нікому не каже, що тому треба робити. Це норма для рою. Деякі люди називають це «[дієкратія](https://medlabboulder.gitlab.io/democraticmediums/mediums/do-ocracy/)». 
 
-* [https://medlabboulder.gitlab.io/democraticmediums/](https://medlabboulder.gitlab.io/democraticmediums/)
-* Курс по самоорганизации
-* Правило 3х пиратов: если 3 пирата договорились вместе – они могу действовать от имени организации
-* Работа с конфликтами: метод разбора спора по 60 секунд
+Другий ефективний метод – це процес консенсусного прийняття рішень, де будь-хто може накласти вето на подальше просування певної справи. Цей метод більш затратний, але може \(і повинен\) застосовуватися у рідкісних та ретельно визначених сценаріях.
+
+Правило 3х пиратов: если 3 пирата договорились вместе – они могу действовать от имени организации
+
+Работа с конфликтами: метод разбора спора по 60 секунд
+
+Голосование как последняя мера
 
 ## Motivation
 
@@ -187,6 +190,7 @@ Volunteers development program/ Программы обучения / Меташ
 * [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
 * [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
 * [За принципом рою. Тактична настанова про те, як змінити світ](https://texty.org.ua/archive-books/45215/za-pryntsypom-roju-taktychna-nastanova-pro-te-jak-zminyty-svit-45215/#45217)
+* [Democratic Mediums](https://medlabboulder.gitlab.io/democraticmediums/) is a directory of patterns for decision, deliberation, and noise
 * Привлечь скрам-мастеров
 
 Как объяснить людям социократию?
