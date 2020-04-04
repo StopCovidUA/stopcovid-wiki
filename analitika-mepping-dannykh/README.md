@@ -50,3 +50,7 @@ Discord-канал [\#pm-analytics-mgmt](https://discord.gg/DX883hY%20)
 
 [Дошка завдань та вакансій](https://trello.com/b/IkonsFAY/main-board)
 
+## Идеи
+
+* Трекать топ инициативы/ренк по борьбе с короной
+
