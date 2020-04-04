@@ -144,6 +144,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Брать ресурсы из глобального движения – выжимку инсайтов
 * Найти местные движения через медиков-волонтеров
 * Фасилитационная рада, а решения в loomio
+* [http://covid19.aspeninstitutekyiv.org/](http://covid19.aspeninstitutekyiv.org/)
 
 ### Rules of the game
 
