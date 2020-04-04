@@ -1,6 +1,6 @@
 # Стратегия управления
 
-## Strategy
+## Вибудовання стратегії
 
 ### Small top-management teams
 
@@ -70,7 +70,7 @@ Think Tank
 * Записывать в мемы
 * Document History
 
-## Organizational Structure
+## Організаційна структура
 
 ### Modular organizational structure
 
@@ -94,7 +94,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Креативність та обмін ідеями.
 * Допомога людям дати собі раду.
 
-## Task Allocation
+## Розподіл завдань
 
 ### Stakeholder-facing and support teams
 
@@ -131,7 +131,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 * Лидеры/представители выбираются участниками внутри
 
-## Coordination
+## Координація
 
 ### Direct person-to-person interaction
 
@@ -160,7 +160,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 Голосование как последняя мера
 
-## Motivation
+## Мотивація
 
 ### Transparent performance rankings
 
@@ -188,6 +188,7 @@ Volunteers development program/ Программы обучения / Меташ
 
 * Универсальный базовых доход – Подтянуть финансирование
 * Серотониновый всплеск закончится – Public better, нужна позитивная цель и устойчивые условия работы
+* Визнання
 
 ## Идеи
 
