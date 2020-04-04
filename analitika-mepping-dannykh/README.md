@@ -6,12 +6,17 @@ description: 'Координаторам, аналітикам і проєктн
 
 ## Цілі
 
-* Ефективна організація роботи усіх напрямків руху StopCovidUA
-* среди топ10 организаций которые помогли справиться был назван стотпковид
+* StopCovid – топ10 инициатива по борьбе с коронавирусом
+* объединить 100 [организаций и инициатив по борьбе с covid в Украине](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit?usp=drive_web&ouid=106088990650229192528)
+* NPS 8+
 
 ## Проєкти напрямку 
 
 ### [Волонтери, Активісти та НГО](strategiya.md)
+
+{% hint style="info" %}
+Taiwan’s success has rested on a fusion of technology, activism, and civic participation. 
+{% endhint %}
 
 1. Вибудовування єдиної стратегії дій для координації StopCovidUA та інших організацій, які протидіють кризі, спричиненій коронавірусом.
 2. Створення бази партнерів руху та поширення серед них кращих практик.
