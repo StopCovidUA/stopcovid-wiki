@@ -130,6 +130,8 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 ### Natural leadership roles
 
+Добрий проектний менеджмент – це не стільки менеджмент, скільки лідерство. Лідером, на відміну від менеджера, не призначають. Лідерство – це даність групової психології.
+
 * Лидеры/представители выбираются участниками внутри
 
 ## Coordination
