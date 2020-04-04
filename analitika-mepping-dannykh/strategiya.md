@@ -22,6 +22,7 @@ Board of advisors: В нашей группе должны быть предст
 * шейперы
 * волонтер сервис
 * Дим и Гарик
+* Йорген, Столярчук
 * Институт будущего / TEDx чувак
 * Булавинова
 * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
