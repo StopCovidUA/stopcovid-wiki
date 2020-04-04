@@ -10,19 +10,16 @@ Board of advisors: В нашей группе должны быть предст
 * Гурский
 * Тычкивская
 * Сапрыкина
-* шейперы
+* Global Shapers
 * волонтер сервис
 * Дим и Гарик
 * Йорген, Столярчук
 * Институт будущего / TEDx чувак
 * Булавинова
+* Сердюк
 * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
-* Long term objectives
-
-Think Tank
-
+* Think Tank
 * FutureBackwards 
-* В первую очередь адвайзоров
 * Мартын и игротехники, рефлексивное управление
 * Институт будущего партнерство
 * Сразу создавать вопросы на кворе в определенном канале
