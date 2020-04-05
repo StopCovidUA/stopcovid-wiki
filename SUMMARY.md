@@ -23,7 +23,7 @@
   * [Comms 01.04](informacionnaya-kampaniya/comms-01.04.md)
   * [Comms 03.04](informacionnaya-kampaniya/comms-03.04.md)
   * [Comms 06.04](informacionnaya-kampaniya/untitled.md)
-* [Психологическая и эмоциональная поддержка](psychological-support/README.md)
+* [Психологічна підтримка](psychological-support/README.md)
   * [Reducing Stigma](psychological-support/reducing-stigma.md)
   * [Здоровье на 100%](psychological-support/zdorove-na-100.md)
   * [Медики](psychological-support/mediki.md)
