@@ -47,7 +47,11 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 Зв'язок із волонтерами: [Vitaliy Gataulin](https://t.me/VGataulin)
 
+
+
 Зв'язок із глобальним рухом: [Oksana Pashchenko](https://t.me/Oksana_Paschenko)
+
+
 
 ## Канали комунікації
 
