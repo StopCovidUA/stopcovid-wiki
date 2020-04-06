@@ -59,4 +59,5 @@ Discord-канал [\#pm-analytics-mgmt](https://discord.gg/DX883hY%20)
 
 * Трекать топ инициативы/ренк по борьбе с короной
 * Достижения взять из [https://nobl.io/](https://nobl.io/)
+* [https://nobl.io/covid19-organizational-playbook](https://nobl.io/covid19-organizational-playbook)
 
