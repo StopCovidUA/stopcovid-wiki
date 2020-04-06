@@ -86,6 +86,8 @@ Board of advisors: В нашей группе должны быть предст
 
 New teams at all three companies emerge in an organic manner, initiated by entrepreneurial employees. New teams only start when a group of employees gets excited about pursuing an opportunity or solving a specific problem. A new team is only launched when a group of employees is convinced that there is a demand for it. Thus, new teams emerge and grow in a free-flowing, bottom-up fashion.
 
+Программы которые поддерживают:
+
 * Ініціативи. Навіть ті ініціативи, що зазнають невдачі.
 * Підтримка інших. Насправді саме це вкрай важливо. Я часто наголошую, що допомога іншим досягти успіху така ж цінна, як ваш власний успіх.
 * Креативність та обмін ідеями.
