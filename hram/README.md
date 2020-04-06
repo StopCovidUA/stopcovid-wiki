@@ -6,6 +6,7 @@ description: 'HR, коучи'
 
 * Координатор: [Настя](http://t.me/Sia_AnastaSi)
 * Встречи еженедельно пт 17:00 [https://zoom.us/j/323320085](https://zoom.us/j/323320085)
+* [Чат в телеграме](https://t.me/joinchat/D2dUjhntik4xS68pOqQNGQ)
 * Канал [\#hr](https://discord.gg/SFu4Xx8)
 
 ## Цели
