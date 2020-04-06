@@ -46,7 +46,7 @@
   * [Tactical 31.03](perekladacham/tactical-31.03.md)
   * [Tactical 28.03](perekladacham/tactical-28.03.md)
   * [Цілі, способи та тактика роботи з матеріалами](perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
-* [Профессиональное развитие](hram/README.md)
+* [Карьерное развитие](hram/README.md)
   * [Бізнесу](hram/biznesy/README.md)
     * [Список компаний которые поддержали борьбу с covid-19](hram/biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
     * [Допомога у веденні бізнесу](hram/biznesy/dopomoga-u-vedenni-biznesu.md)
