@@ -208,4 +208,5 @@ Volunteers development program/ Программы обучения / Меташ
 * [https://sociocracy30.org/](https://sociocracy30.org/)
 * Привлечь скрам-мастеров
 * [https://wiki.teal.org.ua/](https://wiki.teal.org.ua/)
+* Тестить тип мышления волонтера
 
