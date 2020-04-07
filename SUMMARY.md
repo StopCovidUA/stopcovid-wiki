@@ -32,6 +32,7 @@
   * [Psychology 25.03](psychological-support/psychology-25.03.md)
   * [Psychology 31.03](psychological-support/psychology-31.03.md)
   * [Psychology 02.04](psychological-support/psychology-02.04.md)
+  * [Psychology 07.04](psychological-support/psychology-07.04.md)
 * [Медикам](sistema-zdravookhraneniya/README.md)
   * [Медицинская система](sistema-zdravookhraneniya/medicinskaya-sistema.md)
   * [Онлайн курс для мед волонтерів](sistema-zdravookhraneniya/onlain-kurs-dlya-med-volonterov.md)
