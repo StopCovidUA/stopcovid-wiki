@@ -26,7 +26,7 @@
 >
 > З.пов. Володимир Олександрович.
 
-![](../.gitbook/assets/dsc_00271.jpg)
+![](../../.gitbook/assets/dsc_00271.jpg)
 
 
 

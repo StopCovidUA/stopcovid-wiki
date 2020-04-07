@@ -18,9 +18,9 @@
 
 * Хотим привлечь больше внимания важности медиков и их потребностям сегодня
 
-  с кампанией "[врачи – герои](../informacionnaya-kampaniya/vrachi.md)"
+  с кампанией "[врачи – герои](../za-specializaciyeyu/informacionnaya-kampaniya/vrachi.md)"
 
-* Поддерживаем кампанию [\#безтебеніяк](../informacionnaya-kampaniya/obshee-delo.md) для вовлечения всех групп в борьбу с кризисом
+* Поддерживаем кампанию [\#безтебеніяк](../za-specializaciyeyu/informacionnaya-kampaniya/obshee-delo.md) для вовлечения всех групп в борьбу с кризисом
 * Доносили о средствах защиты и важности самоизоляции через [вики](https://wiki.stopcovid.org.ua/) \(45 тыс. просмотров\) и [Youtube](https://www.youtube.com/channel/UC2wd337MNQZCrJ0NST544OA) \(4 ролика\). Спасибо всем медиа и людям которые поддерживают эти сообщения.
 
 ### Психологическая поддержка

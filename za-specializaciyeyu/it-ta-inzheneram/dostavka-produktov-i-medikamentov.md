@@ -114,9 +114,9 @@ description: Твоему вниманию план разработки рук�
 * Электронные пропуска \(QR?\)
 * [https://www.invisiblehandsdeliver.com/](https://www.invisiblehandsdeliver.com/)
 
-![](../.gitbook/assets/photo_2020-03-18_12-52-06.jpg)
+![](../../.gitbook/assets/photo_2020-03-18_12-52-06.jpg)
 
-![](../.gitbook/assets/photo_2020-03-18_12-52-06-2.jpg)
+![](../../.gitbook/assets/photo_2020-03-18_12-52-06-2.jpg)
 
 
 

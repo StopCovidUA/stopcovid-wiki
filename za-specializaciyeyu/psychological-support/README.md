@@ -48,11 +48,11 @@ description: >-
 
  \*Даний перелік не є повним. Якщо ви хочете щось додати, напишіть [нам.](https://t.me/SayaSemenchuk)
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 ## Кризове психологіне консультування \(гаряча лінія\) 
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 {% hint style="info" %}
 ГО «[Інститут медико-соціальних проблем вразливих категорій населення](http://ukrims.org/)» спільно з волонтерами руху  StopCovidUА організовує кризове психологічне консультування через платформу  
@@ -120,7 +120,7 @@ Telegram чат [Без паники ](https://t.me/bezpaniky)
 
 [ Карантин \| 8 способов заботы о ментальном здоровье](https://www.youtube.com/watch?v=t1VFUCnF_BI&feature=youtu.be&fbclid=IwAR21d0TD2ubNoTI8LzHXIN43XWnqnk9eIbmMYfubfejVs1BmqfTM1Q708C4)
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 \*\*\*\*
 

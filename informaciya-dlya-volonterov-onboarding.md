@@ -28,12 +28,12 @@
 
 * [Координаторам, аналітикам та проєктним менеджерам](analitika-mepping-dannykh/)
 * [Представникам ЗМІ, комунікаторам, дизайнерам та креаторам](https://app.gitbook.com/@dgov/s/stopcovid/~/drafts/-M3zNx5P-7ysMTiG6jk-/informacionnaya-kampaniya)
-* [Психологам, психотерапевтам, психіатрам](psychological-support/)
-* [Перекладачам](perekladacham/)
+* [Психологам, психотерапевтам, психіатрам](za-specializaciyeyu/psychological-support/)
+* [Перекладачам](za-specializaciyeyu/perekladacham/)
 * [Медикам](sistema-zdravookhraneniya/)
-* [IT-спеціалістам та інженерам](it-ta-inzheneram/)
-* [HR'ам](hram/)
-* [Юристам](yuristam.md)
+* [IT-спеціалістам та інженерам](za-specializaciyeyu/it-ta-inzheneram/)
+* [HR'ам](hram.md)
+* [Юристам](za-specializaciyeyu/yuristam.md)
 * [Фінансистам](analitika-mepping-dannykh/finansistam.md)
 
 {% hint style="warning" %}
