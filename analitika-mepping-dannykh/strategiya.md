@@ -92,6 +92,8 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Креативність та обмін ідеями.
 * Допомога людям дати собі раду.
 
+Рост через проекты сообществ
+
 ## Розподіл завдань
 
 ### Stakeholder-facing and support teams
@@ -198,7 +200,13 @@ Volunteers development program/ Программы обучения / Меташ
 
 ## Сорсінг
 
+### Рост
+
 * Вечеринки как способ находить волонтёров
+
+### Онбординг
+
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## Идеи
 

@@ -69,4 +69,5 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Достижения взять из [https://nobl.io/](https://nobl.io/)
 * [https://nobl.io/covid19-organizational-playbook](https://nobl.io/covid19-organizational-playbook)
 * Глобальный кооперейшен
+* Исследование мотивов и почему кто-то вышел
 
