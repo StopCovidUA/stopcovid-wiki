@@ -8,14 +8,6 @@
 
 * [\#medics](https://discord.gg/JARdyyZ)
 
-## Матеріали
-
-* [Переводы протоколов, инструкций к тестам и актуальных статей](https://coronavirus.co.ua/)
-* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
-* [Важливі матеріали для медиків про COVID-19 \(переклади\)](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
-* Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
-* [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
-
 ## Запити на постачання
 
 * [Фонд "Таблеточки"](https://tabletochki.org/) вже роками співпрацює з лікарнями та їхніми потребами.
@@ -42,13 +34,29 @@
 Для запису на консультацію звертайтеся за телефонами:  
 +38 095 216 64 32, +38 096 54 55 877 \(Viber, What'sUp\)
 
-
+### Допомога з транспортуванням
 
 * Групи підвези медика:  [https://t.me/helpdoctorsCoronavlrus](https://t.me/helpdoctorsCoronavlrus), @MedHelpKyiv1, @Medikoronavirus
 * [https://poputi.club/](https://poputi.club/) — є безкоштовні маршрути для лікарів
 * Є коди на uber та уклон
-* [https://www.airbnb.com/openhomes/covid19relief](https://www.airbnb.com/openhomes/covid19relief) AirBnB надає житло медикам, які надають першу допомогу під час пандемії
 * [\#підвезимедиканароботу: українці гуртуються, щоб довозити персонал у лікарні](https://life.pravda.com.ua/society/2020/03/19/240277/)
+* [Переводы протоколов, инструкций к тестам и актуальных статей](https://coronavirus.co.ua/)
+* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+* [Важливі матеріали для медиків про COVID-19 \(переклади\)](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
+* Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
+* [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
+
+### Житло
+
+* [https://www.airbnb.com/openhomes/covid19relief](https://www.airbnb.com/openhomes/covid19relief) AirBnB надає житло медикам, які надають першу допомогу під час пандемії
+
+## Матеріали
+
+* [Переводы протоколов, инструкций к тестам и актуальных статей](https://coronavirus.co.ua/)
+* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+* [Важливі матеріали для медиків про COVID-19 \(переклади\)](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
+* Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
+* [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
 
 ## Банк ідей
 
