@@ -71,4 +71,5 @@
 * В Ташкенте создают мобильные госпиталя из контейнеров \(есть видео\)
 * [https://t.me/immune\_system\_optimization](https://t.me/immune_system_optimization)
 * [https://covid-19.alibabacloud.com](https://covid-19.alibabacloud.com)
+* Какие тут нужны волонтеры?
 
