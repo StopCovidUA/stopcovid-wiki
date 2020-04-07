@@ -13,15 +13,10 @@ Board of advisors: В нашей группе должны быть предст
 * Сапрыкина
 * Global Shapers
 * Соловей
-* Волонтер сервис
-* Дим и Гарик
-* Столярчук
-* Жмеренецький
-* [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
+* * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
 * Think Tank
 * Емченко
-* Мартын и игротехники, рефлексивное управление
-* Институт будущего партнерство
+* * Институт будущего партнерство
 * Сразу создавать вопросы на кворе в определенном канале
 
 ### Long term objective

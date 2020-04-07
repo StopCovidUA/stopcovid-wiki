@@ -56,7 +56,9 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * [Артем Сердюк](https://www.linkedin.com/in/aserdyuk/)
 * [Павло Рыжий](https://novilidery.com/lider/2-season/Rizhiy_Pavlo_Volodimirovich)
 * [Jorgen Bo](https://www.linkedin.com/in/fixeroslo/)
-* 
+* Парень из Волонтер сервиса
+* Мартын \(игротехники и рефлексивное управление\)
+
 ## Канали комунікації
 
 * Discord-канал [\#coordination](https://discord.gg/DX883hY%20)
