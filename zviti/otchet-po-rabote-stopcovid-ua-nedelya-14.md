@@ -55,7 +55,7 @@
 
 ## Мемы недели
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 {% embed url="https://youtu.be/MMA\_IvpPBQE" %}
 

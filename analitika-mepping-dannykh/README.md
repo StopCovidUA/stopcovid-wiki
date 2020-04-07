@@ -51,6 +51,12 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 * Переклади [Алекс Баир](http://t.me/ctalebap)
 * Кар'єрний розвиток [Настя](http://t.me/Sia_AnastaSi)
 
+## Радники
+
+* [Артем Сердюк](https://www.linkedin.com/in/aserdyuk/)
+* [Павло Рыжий](https://novilidery.com/lider/2-season/Rizhiy_Pavlo_Volodimirovich)
+* [Jorgen Bo](https://www.linkedin.com/in/fixeroslo/)
+* 
 ## Канали комунікації
 
 * Discord-канал [\#coordination](https://discord.gg/DX883hY%20)

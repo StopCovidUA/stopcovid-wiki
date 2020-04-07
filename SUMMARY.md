@@ -42,6 +42,7 @@
   * [Сервисы транспортировки врачей](it-ta-inzheneram/servisy-transportirovki-vrachei.md)
   * [Tech Tactical 01.04](it-ta-inzheneram/tactical-01.04.md)
 * [Перекладачам](perekladacham/README.md)
+  * [Tactical 07.04](perekladacham/tactical-07.04.md)
   * [Tactical 03.04](perekladacham/tactical-03.04.md)
   * [Tactical 31.03](perekladacham/tactical-31.03.md)
   * [Tactical 28.03](perekladacham/tactical-28.03.md)
