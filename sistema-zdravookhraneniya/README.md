@@ -34,6 +34,14 @@
 Для запису на консультацію звертайтеся за телефонами:  
 +38 095 216 64 32, +38 096 54 55 877 \(Viber, What'sUp\)
 
+
+
+### Відкриті медичні пабліки в фейсбуці
+
+* [Віруси і люди / COVID-19](https://www.facebook.com/groups/216061242925171/)
+* [Стандарти і клінічні протоколи МОЗ](https://www.facebook.com/groups/1663381727323535/)
+* \*\*\*\*[**ЛікарВторінкі**](https://www.facebook.com/groups/likarvtorynky/)\*\*\*\*
+
 ### Допомога з транспортуванням
 
 * Групи підвези медика:  [https://t.me/helpdoctorsCoronavlrus](https://t.me/helpdoctorsCoronavlrus), @MedHelpKyiv1, @Medikoronavirus
