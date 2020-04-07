@@ -53,13 +53,14 @@ Taiwan’s success has rested on a fusion of technology, activism, and civic par
 
 ## Канали комунікації
 
-Discord-канал [\#pm-analytics-mgmt](https://discord.gg/DX883hY%20)
-
-[Дошка завдань та вакансій](https://trello.com/b/IkonsFAY/main-board)
+* Discord-канал [\#coordination](https://discord.gg/DX883hY%20)
+* [Дошка вакансій](https://trello.com/b/IkonsFAY/main-board)
+* Телеграм канал [\#stopcoviduaupdates](https://t.me/stopcoviduaupdates)
 
 ## Идеи
 
 * Трекать топ инициативы/ренк по борьбе с короной
 * Достижения взять из [https://nobl.io/](https://nobl.io/)
 * [https://nobl.io/covid19-organizational-playbook](https://nobl.io/covid19-organizational-playbook)
+* Глобальный кооперейшен
 
