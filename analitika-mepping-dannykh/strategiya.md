@@ -92,6 +92,8 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Креативність та обмін ідеями.
 * Допомога людям дати собі раду.
 
+Рост через проекты сообществ
+
 ## Розподіл завдань
 
 ### Stakeholder-facing and support teams
