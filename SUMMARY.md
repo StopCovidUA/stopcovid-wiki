@@ -3,7 +3,7 @@
 * [🖐 Вітаємо. Го допомагати!](README.md)
 * [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding.md)
 * [Координація](analitika-mepping-dannykh/README.md)
-  * [Стратегия управления](analitika-mepping-dannykh/strategiya.md)
+  * [Стратегія координації](analitika-mepping-dannykh/strategiya.md)
   * [Социальная поддержка](analitika-mepping-dannykh/bezrabotica.md)
   * [Экономика и бизнес](analitika-mepping-dannykh/ekonomika-i-biznes.md)
   * [Фінансування](analitika-mepping-dannykh/finansistam.md)
