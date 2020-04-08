@@ -37,9 +37,9 @@ description: 'Координаторам, аналітикам і проєктн
 
 ## Вибудовання стратегії
 
-### Мала команда топ-менеджменту
+### Рада радників
 
-Board of advisors: В нашей группе должны быть представители всех групп стейкхолдеров \(представители города, бизнеса, НГО, медиа...\)
+В нашей группе должны быть представители всех групп стейкхолдеров \(представители города, бизнеса, НГО, медиа...\)
 
 ### Довгострокові цілі
 
@@ -85,20 +85,20 @@ Board of advisors: В нашей группе должны быть предст
 
 ## Організаційна структура
 
-### Modular organizational structure
+### Модульна організаційна структура
 
 * Сделать совместные проекты с каждый из своих сообществ - типа консультационное сессии
 * Повторяющаяся структура
 * Подготовить инструкцию типа франшиза
 
-### Small self-organizing teams
+### Малі самоорганізовані команди
 
 * Оптимально 7, максимум 13
 * Фасилитация
 * Рекорд кипинг и база знаний
 * Динамичные роли
 
-### Emerging teams
+### Виникаючі команди
 
 New teams at all three companies emerge in an organic manner, initiated by entrepreneurial employees. New teams only start when a group of employees gets excited about pursuing an opportunity or solving a specific problem. A new team is only launched when a group of employees is convinced that there is a demand for it. Thus, new teams emerge and grow in a free-flowing, bottom-up fashion.
 
@@ -267,6 +267,8 @@ Volunteers development program/ Программы обучения / Меташ
 * Исследование мотивов и почему кто-то вышел
 * [https://network.neoinnovators.ru/posts/zapis-vebinara-organizatsionnaya-struktura-v-s3-domeny-krugi-roli-svyazi-aleksei-ilichev-aleksandr-tsyglin](https://network.neoinnovators.ru/posts/zapis-vebinara-organizatsionnaya-struktura-v-s3-domeny-krugi-roli-svyazi-aleksei-ilichev-aleksandr-tsyglin)
 * [https://www.elcuartosector.net/en/thefourthsector/](https://www.elcuartosector.net/en/thefourthsector/)
+
+![](../.gitbook/assets/image%20%2831%29.png)
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
