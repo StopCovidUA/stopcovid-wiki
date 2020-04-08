@@ -51,7 +51,7 @@
   * [Comms 30.03](za-specializaciyeyu/informacionnaya-kampaniya/comms-30.03.md)
   * [Comms 01.04](za-specializaciyeyu/informacionnaya-kampaniya/comms-01.04.md)
   * [Comms 03.04](za-specializaciyeyu/informacionnaya-kampaniya/comms-03.04.md)
-  * [Comms 06.04](za-specializaciyeyu/informacionnaya-kampaniya/untitled.md)
+  * [Comms 08.04](za-specializaciyeyu/informacionnaya-kampaniya/untitled.md)
 * [Юристам](za-specializaciyeyu/yuristam.md)
 * [Перекладачам](za-specializaciyeyu/perekladacham/README.md)
   * [Tactical 07.04](za-specializaciyeyu/perekladacham/tactical-07.04.md)
