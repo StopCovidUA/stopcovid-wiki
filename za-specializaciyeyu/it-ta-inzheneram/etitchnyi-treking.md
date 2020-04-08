@@ -20,6 +20,9 @@
 
 Вознаграждать деньгами заболевших людей за обмен данными и коллаборацию с системой.
 
+**Где можно представить решение:**  
+- ConsenSys Health launches Stop COVID-19 Ethereum Blockchain Hackathon \(April 13 - May 11\) [https://www.ledgerinsights.com/covid-19-blockchain-hackathon-consensys-health/](https://www.ledgerinsights.com/covid-19-blockchain-hackathon-consensys-health/)
+
 
 
 **Пища для размышлений / Идеи:**
