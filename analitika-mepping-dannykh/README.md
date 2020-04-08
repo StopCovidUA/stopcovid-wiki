@@ -264,6 +264,7 @@ Volunteers development program/ Программы обучения / Меташ
 * [https://nobl.io/covid19-organizational-playbook](https://nobl.io/covid19-organizational-playbook)
 * Глобальный кооперейшен
 * Исследование мотивов и почему кто-то вышел
+* Вебинар по работе с волонтерами \(Koskin\)
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
