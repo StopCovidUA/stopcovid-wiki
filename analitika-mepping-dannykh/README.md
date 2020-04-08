@@ -268,6 +268,7 @@ Volunteers development program/ Программы обучения / Меташ
 * Исследование мотивов и почему кто-то вышел
 * [https://network.neoinnovators.ru/posts/zapis-vebinara-organizatsionnaya-struktura-v-s3-domeny-krugi-roli-svyazi-aleksei-ilichev-aleksandr-tsyglin](https://network.neoinnovators.ru/posts/zapis-vebinara-organizatsionnaya-struktura-v-s3-domeny-krugi-roli-svyazi-aleksei-ilichev-aleksandr-tsyglin)
 * [https://www.elcuartosector.net/en/thefourthsector/](https://www.elcuartosector.net/en/thefourthsector/) There are many expressions of this trend, including corporate social responsibility, microfinance, venture philanthropy, sustainable businesses, social enterprise, privatization, community development and others. As this activity matures, it is becoming formalized as a ‘fourth sector’ of the economy
+* Фокус на кросскомандных возможностях и сильная вертикаль в специальностях
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
