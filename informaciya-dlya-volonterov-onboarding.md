@@ -57,7 +57,7 @@
 * [Контакти команди](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(додай сюди свої\)
 * [Ключові показники \(KPI\)](https://docs.google.com/spreadsheets/d/1qxu6R_ToVvPUXK439pKcS8pDluyzr6lt5AjGpI-F8wY/edit#gid=0)
 
-## [Discord чат](https://discord.gg/AebMHV)
+## [Discord чат](https://discord.gg/MxT4axM)
 
 Основний робочий чат руху. Тут ви можете створювати канали зі своїм проектом чи напрямком \(попередньо переконайтесь, що інші канали не вирішують вашу задачу\).
 
