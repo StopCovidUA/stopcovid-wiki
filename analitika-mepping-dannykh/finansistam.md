@@ -14,6 +14,7 @@
 * [https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/](https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/)
 * Через волонтерство делать маркетинг
 * Чемпионат по кибериграм среди звезд
+* Свят финансирование
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
