@@ -24,8 +24,9 @@ description: 'Координаторам, аналітикам і проєктн
 * [Артем Сердюк](https://www.linkedin.com/in/aserdyuk/)
 * [Павло Рыжий](https://novilidery.com/lider/2-season/Rizhiy_Pavlo_Volodimirovich)
 * [Jorgen Bo](https://www.linkedin.com/in/fixeroslo/)
-* Georgiy Koskin из Волонтер сервиса
-* Мартын \(игротехники и рефлексивное управление\)
+* [Georgiy Koskin ](https://www.facebook.com/profile.php?id=100007818436136)из Волонтер сервиса
+* Мартын Ковалко \(игротехники и рефлексивное управление\)
+* [Nathan Snyder](https://www.linkedin.com/in/nathanvsnyder/)
 * Teal ua
 * Метасообщество
 
