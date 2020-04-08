@@ -102,14 +102,16 @@ Navigate complexity together: Shared intent, shared attention, shared resources
 * Teacher is one of the most rewarding careers
 * Школа - человек приходит с запросом и все ему помогают и готовятся
 
-![](../.gitbook/assets/untitled.png)
+![\(&#x441;\) &#x415;&#x432;&#x433;&#x435;&#x43D;&#x438;&#x439; &#x41B;&#x430;&#x43F;&#x438;&#x43D;](../.gitbook/assets/untitled.png)
+
+
 
 * Мастермайнд как игра
 * Ищем проблемы – находим группы
 * Брать гранты чтобы отдавать количество лицензий по конкурсу
 * Метчиться в больших группах по вопросам
 * Кооператив только стартапы с классной идеей/историей и миссией
-* More collaboration sessions in 4ire
+* More collaboration sessions
 * Это сигналинг решение
 * Это и есть айдишка
 * Самый эффективный формат проведения мастермайнд групп
