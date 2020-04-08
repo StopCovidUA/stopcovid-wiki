@@ -16,9 +16,8 @@ description: 'Координаторам, аналітикам і проєктн
 * Зв'язок із волонтерами: [Vitaliy Gataulin](https://t.me/VGataulin)
 * Комунікацї [Діана Кінг](https://t.me/dianatheking)
 * Псіхологічна підтримка [Жансая Жайсанбаєва](https://t.me/SayaSemenchuk)
-* Зв'язок із глобальним рухом: [Oksana Pashchenko](https://t.me/Oksana_Paschenko)
 * Переклади [Алекс Баир](http://t.me/ctalebap)
-* Кар'єрний розвиток [Настя](http://t.me/Sia_AnastaSi)
+* Кар'єрний розвиток [Настя Арабинская](http://t.me/Sia_AnastaSi)
 
 ## Радники
 
