@@ -62,6 +62,7 @@
   * [Tactical 28.03](za-specializaciyeyu/perekladacham/tactical-28.03.md)
   * [Цілі, способи та тактика роботи з матеріалами](za-specializaciyeyu/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
 * [Операторам StopCovidUA Bot](za-specializaciyeyu/operatoram-stopcovidua-bot.md)
+* [Обучение](za-specializaciyeyu/obuchenie.md)
 
 ## Звіти
 
