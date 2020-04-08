@@ -15,6 +15,8 @@
 * Через волонтерство делать маркетинг
 * Чемпионат по кибериграм среди звезд
 * Свят финансирование
+* Усилить сбор денег помощью бизнеса
+* CLR Gitcoin
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
