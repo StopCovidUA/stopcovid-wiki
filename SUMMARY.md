@@ -44,6 +44,7 @@
   * [Система логистики товаров](za-specializaciyeyu/it-ta-inzheneram/sistema-logistiki.md)
   * [Сервисы транспортировки врачей](za-specializaciyeyu/it-ta-inzheneram/servisy-transportirovki-vrachei.md)
   * [Tech Tactical 01.04](za-specializaciyeyu/it-ta-inzheneram/tactical-01.04.md)
+  * [Tech Tactical 01.04](za-specializaciyeyu/it-ta-inzheneram/tech-tactical-01.04.md)
 * [Психологічна підтримка](za-specializaciyeyu/psychological-support/README.md)
   * [Reducing Stigma](za-specializaciyeyu/psychological-support/reducing-stigma.md)
   * [Здоровье на 100%](za-specializaciyeyu/psychological-support/zdorove-na-100.md)
