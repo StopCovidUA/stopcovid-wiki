@@ -24,8 +24,10 @@ description: 'Координаторам, аналітикам і проєктн
 * [Артем Сердюк](https://www.linkedin.com/in/aserdyuk/)
 * [Павло Рыжий](https://novilidery.com/lider/2-season/Rizhiy_Pavlo_Volodimirovich)
 * [Jorgen Bo](https://www.linkedin.com/in/fixeroslo/)
-* Парень из Волонтер сервиса
+* Georgiy Koskin из Волонтер сервиса
 * Мартын \(игротехники и рефлексивное управление\)
+* Teal ua
+* Метасообщество
 
 ## Канали комунікації
 
@@ -263,8 +265,8 @@ Volunteers development program/ Программы обучения / Меташ
 * [https://nobl.io/covid19-organizational-playbook](https://nobl.io/covid19-organizational-playbook)
 * Глобальный кооперейшен
 * Исследование мотивов и почему кто-то вышел
-* Вебинар по работе с волонтерами \(Koskin\)
 * [https://network.neoinnovators.ru/posts/zapis-vebinara-organizatsionnaya-struktura-v-s3-domeny-krugi-roli-svyazi-aleksei-ilichev-aleksandr-tsyglin](https://network.neoinnovators.ru/posts/zapis-vebinara-organizatsionnaya-struktura-v-s3-domeny-krugi-roli-svyazi-aleksei-ilichev-aleksandr-tsyglin)
+* [https://www.elcuartosector.net/en/thefourthsector/](https://www.elcuartosector.net/en/thefourthsector/)
 
 ![](../.gitbook/assets/image%20%288%29.png)
 

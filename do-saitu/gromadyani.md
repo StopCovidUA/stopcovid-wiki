@@ -126,7 +126,7 @@
 
 [Більше про вірус і симптоми на сторінці про вірус. ](o-koronaviruse/)
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 [Коронавірус: що не так з тестуванням](https://www.slidstvo.info/texts/koronavirus-shho-ne-tak-z-testuvannyam/?fbclid=IwAR3CbF5i8RJRnPMuuao8VgEg9Xsq2n1dqKBsVfJXAEpVg97xDCby-D0NSjc)
 
@@ -154,7 +154,7 @@
 
 ## Можливості допомоги / роботи
 
-* [Волонтерство \#stopcovid ua](../informaciya-dlya-volonterov-onboarding.md)
+* [Волонтерство \#stopcovid ua](../informaciya-dlya-volonterov-onboarding/)
 * [http://need.zakaz.ua/](http://need.zakaz.ua/)
 * [https://shatyrko.com/forpeople](https://shatyrko.com/forpeople)
 * [https://happymonday.ua/c/nakarantyni/](https://happymonday.ua/c/nakarantyni/) - тут собираем все по работе и карьере в текущих условиях. там сейчас только новые статьи, до завтра подтянем все актуальное по удаленке, подработке, фрилансу и онлайн профессиям, что у нас есть
