@@ -40,6 +40,7 @@
   * [Comms 03.04](za-specializaciyeyu/informacionnaya-kampaniya/comms-03.04.md)
   * [Comms 08.04](za-specializaciyeyu/informacionnaya-kampaniya/untitled.md)
 * [Технології](za-specializaciyeyu/it-ta-inzheneram/README.md)
+  * [Этитчный трекинг](za-specializaciyeyu/it-ta-inzheneram/etitchnyi-treking.md)
   * [Постачання продуктів, медикаментів та засобів безпеки](za-specializaciyeyu/it-ta-inzheneram/dostavka-produktov-i-medikamentov.md)
   * [Система логистики товаров](za-specializaciyeyu/it-ta-inzheneram/sistema-logistiki.md)
   * [Сервисы транспортировки врачей](za-specializaciyeyu/it-ta-inzheneram/servisy-transportirovki-vrachei.md)
