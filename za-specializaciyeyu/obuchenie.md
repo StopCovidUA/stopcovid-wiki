@@ -1,16 +1,14 @@
 # Обучение
 
-Education is a product for communities to drive integration, interaction and satisfaction.
+P2P обучение в онлайн группах is a product for communities to drive integration, interaction and satisfaction. Navigate complexity together: Shared intent, shared attention, shared resources
 
-Navigate complexity together: Shared intent, shared attention, shared resources
+### Для кого
 
-Кому стоит участвовать
-
-* Людям, готовым делиться и учиться, открытым всему новому
-* Координаторам, чья группа постоянно растет
-* Выдающимся профессионалам в своей сфере
-* Управляющим директорам крупных организаций
-* Инвесторам которые ищут новые возможности и контакты
+* Люди, готовые делиться и учиться, открытым всему новому
+* Координаторы, чья группа постоянно растет
+* Выдающиеся профессионалам в своей сфере
+* Управляющие директора крупных организаций
+* Инвесторы которые ищут новые возможности и контакты
 
 ### Motto
 
