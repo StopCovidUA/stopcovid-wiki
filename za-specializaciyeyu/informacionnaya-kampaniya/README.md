@@ -23,17 +23,16 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 
 ## Координатори напрямку
 
-Загальна координація комуникацій: [Діана Кінг](https://t.me/dianatheking)
-
-SMM-менеджер — [шукаємо](https://trello.com/c/sN8F56Ul/37-smm-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80)
+* Загальна координація комуникацій: [Діана Кінг](https://t.me/dianatheking)
+* SMM-менеджер: Саша Барабаш 
+* Красиво улыбается: Карина 
+* Лучший в мире креатив: Жансая Жайсанбаева
 
 ## Канали комунікації
 
-Discord-канал [\#marketing-pr](https://discord.gg/5t6zMtv)
-
-[Дошка завдань та вакансій](https://trello.com/b/IkonsFAY/main-board) \(комунікації\)
-
-[Дошка завдань та вакансій](https://trello.com/b/6DCyBJA1/marketing-pr) \(маркетинг\)
+* Discord-канал [\#marketing-pr](https://discord.gg/5t6zMtv)
+* [Дошка завдань та вакансій](https://trello.com/b/IkonsFAY/main-board) \(комунікації\)
+* [Дошка завдань та вакансій](https://trello.com/b/6DCyBJA1/marketing-pr) \(маркетинг\)
 
 ## Додаткові матеріали
 
@@ -69,4 +68,5 @@ Discord-канал [\#marketing-pr](https://discord.gg/5t6zMtv)
 * Долучити Дена \(ЕКЦ\) до stopcovid
 * Future Backwards
 * Design force
+* Нативные проекты с рекламными бюджетами
 
