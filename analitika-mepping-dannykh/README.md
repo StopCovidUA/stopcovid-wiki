@@ -265,6 +265,7 @@ Volunteers development program/ Программы обучения / Меташ
 * Глобальный кооперейшен
 * Исследование мотивов и почему кто-то вышел
 * Вебинар по работе с волонтерами \(Koskin\)
+* [https://network.neoinnovators.ru/posts/zapis-vebinara-organizatsionnaya-struktura-v-s3-domeny-krugi-roli-svyazi-aleksei-ilichev-aleksandr-tsyglin](https://network.neoinnovators.ru/posts/zapis-vebinara-organizatsionnaya-struktura-v-s3-domeny-krugi-roli-svyazi-aleksei-ilichev-aleksandr-tsyglin)
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
