@@ -68,4 +68,5 @@ Discord-канал [\#marketing-pr](https://discord.gg/5t6zMtv)
 * [https://www.facebook.com/groups/POfinddesigner](https://www.facebook.com/groups/POfinddesigner)
 * Долучити Дена \(ЕКЦ\) до stopcovid
 * Future Backwards
+* Design force
 
