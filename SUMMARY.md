@@ -14,7 +14,7 @@
 * [Вразливі верстви населения](bezrabotica.md)
 * [Незаняті спеціалісти](hr-bezrabotica/README.md)
   * [Tactical 08.04](hr-bezrabotica/tactical-08.04.md)
-* [Бізнес](biznesy/README.md)
+* [Экономіка та бізнес](biznesy/README.md)
   * [Список компаний которые поддержали борьбу с covid-19](biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
   * [Допомога у веденні бізнесу](biznesy/dopomoga-u-vedenni-biznesu.md)
   * [Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу](biznesy/untitled/README.md)
