@@ -275,7 +275,7 @@ Volunteers development program/ Программы обучения / Меташ
 * Фокус на кросскомандных возможностях и сильная вертикаль в специальностях
 * Platform cooperative
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 ![](../.gitbook/assets/image%20%288%29.png)
 

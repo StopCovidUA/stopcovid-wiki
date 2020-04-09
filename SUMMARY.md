@@ -28,6 +28,7 @@
 * [Комунікації](za-specializaciyeyu/informacionnaya-kampaniya/README.md)
   * [\#безтебеніяк](za-specializaciyeyu/informacionnaya-kampaniya/obshee-delo.md)
   * [Врачи – герои](za-specializaciyeyu/informacionnaya-kampaniya/vrachi.md)
+  * [Экология](za-specializaciyeyu/informacionnaya-kampaniya/ekologiya.md)
   * [Ты нужен миру дома](za-specializaciyeyu/informacionnaya-kampaniya/ty-nuzhen-miru-doma.md)
   * [Comms 18.03](za-specializaciyeyu/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](za-specializaciyeyu/informacionnaya-kampaniya/comms-19.03.md)
@@ -41,6 +42,7 @@
   * [Comms 08.04](za-specializaciyeyu/informacionnaya-kampaniya/untitled.md)
 * [Технології](za-specializaciyeyu/it-ta-inzheneram/README.md)
   * [Этичный трекинг](za-specializaciyeyu/it-ta-inzheneram/etitchnyi-treking.md)
+  * [Телемедицина](za-specializaciyeyu/it-ta-inzheneram/telemedicina.md)
   * [Постачання продуктів, медикаментів та засобів безпеки](za-specializaciyeyu/it-ta-inzheneram/dostavka-produktov-i-medikamentov.md)
   * [Система логистики товаров](za-specializaciyeyu/it-ta-inzheneram/sistema-logistiki.md)
   * [Сервисы транспортировки врачей](za-specializaciyeyu/it-ta-inzheneram/servisy-transportirovki-vrachei.md)
@@ -67,11 +69,11 @@
 * [Обучение](za-specializaciyeyu/obuchenie.md)
 * [Фінансування](za-specializaciyeyu/finansistam.md)
 
-## Звіти
+## Тижневі звіти <a id="zviti"></a>
 
-* [Отчет по работе \#stopcovid ua - неделя 13](zviti/stopcovid-ua-n13.md)
-* [Отчет по работе \#stopcovid ua - неделя 14](zviti/otchet-po-rabote-stopcovid-ua-nedelya-14.md)
-* [Untitled](zviti/untitled.md)
+* [\#stopcovid ua - неделя 13](zviti/stopcovid-ua-n13.md)
+* [\#stopcovid ua - неделя 14](zviti/otchet-po-rabote-stopcovid-ua-nedelya-14.md)
+* [\#stopcovid ua - неделя 15](zviti/untitled.md)
 
 ## Зустрічі <a id="organizaciya"></a>
 
