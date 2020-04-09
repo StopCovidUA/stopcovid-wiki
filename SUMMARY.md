@@ -3,7 +3,7 @@
 * [🖐 Вітаємо. Го допомагати!](README.md)
 * [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding/README.md)
   * [Онбординг сценарий](informaciya-dlya-volonterov-onboarding/onbording-scenarii.md)
-* [Волонтери та NGO](analitika-mepping-dannykh/README.md)
+* [Мережа волонтерів](analitika-mepping-dannykh/README.md)
   * [Довгострокове бачення](analitika-mepping-dannykh/dovgostrokove-bachennya.md)
   * [Coordination 02.04](analitika-mepping-dannykh/tactical-02.04.md)
   * [Coordination 07.04](analitika-mepping-dannykh/coordination-07.04.md)
