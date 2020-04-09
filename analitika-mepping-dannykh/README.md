@@ -275,6 +275,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Фокус на кросскомандных возможностях и сильная вертикаль в специальностях
 * Platform cooperative
 * Референсы: красный крест, unicef, greenpeace, giz
+* Построить дорожную карту по размеру организации - какие проекты когда будут чем
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
