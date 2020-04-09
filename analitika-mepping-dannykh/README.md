@@ -277,6 +277,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Референсы: красный крест, unicef, greenpeace, giz
 * Построить дорожную карту по размеру организации - какие проекты когда будут чем
 * Древний Рим завоевал Грецию не потому, что римляне были умнее, а потому, что они сумели лучше организоваться
+* Впечтатления: According to the researchers, the participants in their study reported that time “stood still” during “awesome” experiences. The feeling of awe is also correlated with willingness to volunteer time, the likelihood of choosing experiences over material objects, and even greater life satisfaction. In this state we believe we are capable of almost anything.
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
