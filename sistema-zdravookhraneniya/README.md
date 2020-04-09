@@ -44,9 +44,10 @@
 
 ### Відкриті медичні пабліки в фейсбуці
 
-* [Віруси і люди / COVID-19](https://www.facebook.com/groups/216061242925171/)
-* [Стандарти і клінічні протоколи МОЗ](https://www.facebook.com/groups/1663381727323535/)
-* \*\*\*\*[**ЛікарВторінкі**](https://www.facebook.com/groups/likarvtorynky/)\*\*\*\*
+* [Віруси і люди / COVID-19](https://www.facebook.com/groups/216061242925171/) \(епідеміологія, 1000+ членів на 9 квіт.\)
+* [Віруси та люди](https://www.facebook.com/virusesandpeople) \(епідеміологія, 100+ членів на 9 квіт.\)
+* [Стандарти і клінічні протоколи МОЗ](https://www.facebook.com/groups/1663381727323535/) 
+* \*\*\*\*[**ЛікарВторінкі**](https://www.facebook.com/groups/likarvtorynky/) ****
 
 ### Допомога з транспортуванням
 
