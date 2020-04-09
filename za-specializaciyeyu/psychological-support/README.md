@@ -63,7 +63,7 @@ description: >-
 
 viktoriya.buznik@gmail.com
 
-## База контактів для отримання психологічної підтримки
+### База контактів для отримання психологічної підтримки
 
 [База психологів-волонтерів \#StopCovidUa](https://docs.google.com/spreadsheets/d/1BnYBYNhAa2Yj0rjNnj4v4ohEgdXU2F3V95hiVNFxaE0/edit?usp=sharing)
 
@@ -92,7 +92,7 @@ Telegram чат [Без паники ](https://t.me/bezpaniky)
 * ГО [Українська асоціація спеціалістів по подоланню наслідків психо-травмуючих подій](https://www.facebook.com/Psychological.Crisis.Service.Ukraine/posts/752934608159929/%20). 
 * ГО «[Інститут медико-соціальних проблем вразливих категорій населення](http://ukrims.org/)
 * [СЕТА-Центр при Киево-Могилянской Академии ](https://www.facebook.com/kmarehab/)
-
+* 
 
 
 ![](../../.gitbook/assets/image.png)
