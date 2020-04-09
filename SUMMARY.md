@@ -42,6 +42,7 @@
   * [Comms 08.04](za-specializaciyeyu/informacionnaya-kampaniya/untitled.md)
 * [Технології](za-specializaciyeyu/it-ta-inzheneram/README.md)
   * [Этичный трекинг](za-specializaciyeyu/it-ta-inzheneram/etitchnyi-treking.md)
+  * [Системы тестирования](za-specializaciyeyu/it-ta-inzheneram/sistemy-testirovaniya.md)
   * [Телемедицина](za-specializaciyeyu/it-ta-inzheneram/telemedicina.md)
   * [Система логистики товаров](za-specializaciyeyu/it-ta-inzheneram/sistema-logistiki.md)
   * [Сервисы транспортировки врачей](za-specializaciyeyu/it-ta-inzheneram/servisy-transportirovki-vrachei.md)
