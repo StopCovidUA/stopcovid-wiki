@@ -67,7 +67,8 @@
   * [Tactical 28.03](za-specializaciyeyu/perekladacham/tactical-28.03.md)
   * [Цілі, способи та тактика роботи з матеріалами](za-specializaciyeyu/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
 * [Операторам StopCovidUA Bot](za-specializaciyeyu/operatoram-stopcovidua-bot.md)
-* [Обучение](za-specializaciyeyu/obuchenie.md)
+* [Обучение](za-specializaciyeyu/obuchenie/README.md)
+  * [Школам та вишам](za-specializaciyeyu/obuchenie/udalennoe-i-onlain-obrazovanie.md)
 * [Фінансування](za-specializaciyeyu/finansistam.md)
 
 ## Тижневі звіти <a id="zviti"></a>
@@ -96,7 +97,6 @@
 ## Контент для сайту <a id="do-saitu"></a>
 
 * [Громадянам](do-saitu/gromadyani.md)
-* [Школам та вишам](do-saitu/udalennoe-i-onlain-obrazovanie.md)
 * [Все про коронавірус \(SARS-CoV-2\)](do-saitu/o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](do-saitu/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 
