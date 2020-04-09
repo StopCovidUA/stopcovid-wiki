@@ -71,6 +71,8 @@ description: >-
 
 ### База контактів для отримання психологічної підтримки
 
+[Контакты центров псих.поддержки и телефонов доверия](https://docs.google.com/spreadsheets/d/1Tiz3PZtqXY4q34sdXC9balK1s8yA5-WBlnXXrCgTa54/edit#gid=0) 
+
 [База психологів-волонтерів \#StopCovidUa](https://docs.google.com/spreadsheets/d/1BnYBYNhAa2Yj0rjNnj4v4ohEgdXU2F3V95hiVNFxaE0/edit?usp=sharing)
 
 [Гаряча лінія професійної підтримки «Стоп, паніка»](https://m.facebook.com/story.php?story_fbid=2517763828496884&id=100007898741828)
@@ -86,6 +88,8 @@ description: >-
 [Телефони лінії безкоштовної анонімної психологічної допомоги](https://docs.google.com/spreadsheets/d/1Tiz3PZtqXY4q34sdXC9balK1s8yA5-WBlnXXrCgTa54/edit?usp=sharing)
 
 Telegram чат [Без паники ](https://t.me/bezpaniky)
+
+Якщо у вас є контакти, яких немає у списку, але які можуть допомогти в реалізації проектів, додайте їх, будь ласка.
 
 {% hint style="danger" %}
 Зверніть увагу, що ми — волонтери і не є верифікованим експертним центром з психологічної підтримки. 
@@ -106,12 +110,6 @@ Telegram чат [Без паники ](https://t.me/bezpaniky)
 \*\*\*\*
 
 ## Банк ідей
-
-Якщо у вас є контакти, яких немає у списку, але які можуть допомогти в реалізації проектів, додайте їх, будь ласка.
-
-\*\*\*\*[**Контакты центров псих.поддержки и телефонов доверия**](https://docs.google.com/spreadsheets/d/1Tiz3PZtqXY4q34sdXC9balK1s8yA5-WBlnXXrCgTa54/edit#gid=0) ****
-
-Одеський обласний центр громадського  здоров'я \(вул. Люстдорфська дорога, буд. 1, тел.: \(048\) 715-06-16, \(073\) 425-30-13, czk2018.od@gmail.com\)
 
 #### Идеи для підтримки психологічного здоров'я
 
