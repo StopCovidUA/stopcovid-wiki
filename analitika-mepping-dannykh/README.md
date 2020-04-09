@@ -200,7 +200,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 Возможность отвлечься от сложностей в жизни/стране, тревожности, сфокусироваться на созидании
 
-Volunteers development program/ Программы обучения / Меташкола
+Путь к развитию и поддержке. Volunteers development program/ Программы обучения / Меташкола
 
 * развитие сообщетсв
 * самоорганизация \(фасилитация, социократия...\)
