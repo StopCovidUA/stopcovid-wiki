@@ -274,6 +274,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * [https://www.elcuartosector.net/en/thefourthsector/](https://www.elcuartosector.net/en/thefourthsector/) There are many expressions of this trend, including corporate social responsibility, microfinance, venture philanthropy, sustainable businesses, social enterprise, privatization, community development and others. As this activity matures, it is becoming formalized as a ‘fourth sector’ of the economy
 * Фокус на кросскомандных возможностях и сильная вертикаль в специальностях
 * Platform cooperative
+* Референсы: красный крест, unicef, greenpeace, giz
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
