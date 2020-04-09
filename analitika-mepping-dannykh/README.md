@@ -29,6 +29,7 @@ description: 'Координаторам, аналітикам і проєктн
 * [Nathan Snyder](https://www.linkedin.com/in/nathanvsnyder/)
 * Teal ua
 * Метасообщество
+* Ира Соловей
 
 ## Канали комунікації
 
