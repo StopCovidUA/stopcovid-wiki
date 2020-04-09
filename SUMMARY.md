@@ -5,6 +5,7 @@
   * [Онбординг сценарий](informaciya-dlya-volonterov-onboarding/onbording-scenarii.md)
 * [Мережа волонтерів](analitika-mepping-dannykh/README.md)
   * [Довгострокове бачення](analitika-mepping-dannykh/dovgostrokove-bachennya.md)
+  * [Обучение "Координатор Волонтеров"](analitika-mepping-dannykh/obuchenie-koordinator-volonterov.md)
   * [Coordination 02.04](analitika-mepping-dannykh/tactical-02.04.md)
   * [Coordination 07.04](analitika-mepping-dannykh/coordination-07.04.md)
   * [Coordination 09.04](analitika-mepping-dannykh/coordination-09.04.md)
