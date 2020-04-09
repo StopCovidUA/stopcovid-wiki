@@ -103,7 +103,7 @@ viktoriya.buznik@gmail.com
 
 [Безкоштовна психологічна допомога \(Київ\)](https://kiev.vgorode.ua/news/sobytyia/394370-chto-to-prydumaem-hde-kyevliane-mohut-poluchyt-besplatnuui-psykholohycheskuui-pomosch)
 
-[Безкоштовна психологічна допомога НПА \(Національна психологічна асоціація\)](https://www.facebook.com/npa.org.ukraine/photos/a.646567839107182/916007572163206/?type=3&theater)
+[Безкоштовна психологічна допомога НПА ](https://www.facebook.com/npa.org.ukraine/photos/a.646567839107182/916007572163206/?type=3&theater)
 
 [Консультаційний центр кафедри психології та психотерапії УКУ "Порадня"](https://www.facebook.com/101849334803221/posts/101855291469292/?app=fbl)
 
@@ -116,6 +116,14 @@ Telegram чат [Без паники ](https://t.me/bezpaniky)
 {% hint style="danger" %}
 Зверніть увагу, що ми — волонтери і не є верифікованим експертним центром з психологічної підтримки. 
 {% endhint %}
+
+## Инициативы с которыми мы работаем. 
+
+* [Uplife](http://uplife.com.ua/?fbclid=IwAR2w7Wiu3GVDsaCb3hqbggIZskx-5cIz3rWs59SI4EK9ciGB9QSPkg8tPLA#about)
+* [Національна психологічна асоціація](https://www.facebook.com/npa.org.ukraine/photos/a.646567839107182/916007572163206/?type=3&theater)
+* ГО [Українська асоціація спеціалістів по подоланню наслідків психо-травмуючих подій](https://www.facebook.com/Psychological.Crisis.Service.Ukraine/posts/752934608159929/%20). 
+* ГО «[Інститут медико-соціальних проблем вразливих категорій населення](http://ukrims.org/)
+* [СЕТА-Центр при Киево-Могилянской Академии ](https://www.facebook.com/kmarehab/)
 
 ## Короткі відео та списки рекомендацій 
 
