@@ -186,4 +186,5 @@ P2P обучение в онлайн группах is a product for communities
 * Каждую неделю люди заполняют индикатор счастья
 * [https://advance-club.ru/](https://advance-club.ru/) \(Ник\)
 * [Про Энштейна](https://www.facebook.com/1539068219686026/posts/2015394728720037?d=n&sfns=mo)
+* Попросить места у бизнес школ
 
