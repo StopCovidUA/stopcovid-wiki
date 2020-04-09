@@ -39,6 +39,8 @@ description: >-
 
 Чат "Без Паники" модератор @oksana\_borovets 
 
+Сета-консультирование для врачей [Ирина Шведюк](https://www.facebook.com/vakans)
+
 
 
 ## Детальніше про напрямок
@@ -69,7 +71,7 @@ description: >-
 
 **Всю інформацію, а також додаткові питання відправляйте куратору проєкту:** [**Вікторії Бузник**](https://www.facebook.com/viktoriya.buznik%20)\*\*\*\*
 
-viktoriya.buznik@gmail.com
+{% embed url="https://viktoriya.buznik@gmail.com" %}
 
 ### База контактів для отримання психологічної підтримки
 
