@@ -4,6 +4,12 @@
 
 * [\#finance](https://discord.gg/yq5WV7p)
 
+## Проекты
+
+* Проект с Bird in flight по фоткам
+* Чемпионат по кибериграм среди звезд
+* Обучение психологов кризисному консультированию
+
 ## Идеи
 
 * [https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19?fbclid=IwAR3LssTJIa49qbxsfgthz4SyWAnUEtPFfo-rE71isFL5AN4\_7YKSNEMiWUI](https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19?fbclid=IwAR3LssTJIa49qbxsfgthz4SyWAnUEtPFfo-rE71isFL5AN4_7YKSNEMiWUI)
@@ -15,10 +21,10 @@
 * Из фонда видродження \(на саму структуру\)
 * [https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/](https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/)
 * Через волонтерство делать маркетинг
-* Чемпионат по кибериграм среди звезд
 * Свят финансирование
 * Усилить сбор денег помощью бизнеса
 * CLR Gitcoin но без крипты
+* Фандинг как на гиткоине
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
