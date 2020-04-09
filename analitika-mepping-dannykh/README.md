@@ -276,7 +276,6 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Platform cooperative
 * Референсы: красный крест, unicef, greenpeace, giz
 * Построить дорожную карту по размеру организации - какие проекты когда будут чем
-* [https://didtheyhelp.com/](https://didtheyhelp.com/?fbclid=IwAR18pBwbTOfCnO0KfDJvGo5_fNrW0MTKoKRy449zgUuYfaBOrKwzIKwa0AM)
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
