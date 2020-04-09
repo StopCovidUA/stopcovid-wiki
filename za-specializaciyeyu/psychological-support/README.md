@@ -109,7 +109,7 @@ Telegram чат [Без паники ](https://t.me/bezpaniky)
 
 #### Идеи для підтримки психологічного здоров'я
 
-1. **Проект коучинг в семье от Анастасии**
+1. **Проект коучинг в семье от Анастасий**
 2. **Совместные игры по сети**
 3. **Групповые медитаций** 
 4. [**Facebook: Message to Community Managers**](https://www.facebook.com/community/whats-new/communities-health-information-coronavirus/)
