@@ -50,6 +50,7 @@
   * [Tech Tactical 01.04](za-specializaciyeyu/it-ta-inzheneram/tactical-01.04.md)
   * [Tech Tactical 01.04](za-specializaciyeyu/it-ta-inzheneram/tech-tactical-01.04.md)
 * [Психологічна підтримка](za-specializaciyeyu/psychological-support/README.md)
+  * [Psychology 09.04](za-specializaciyeyu/psychological-support/psychology-09.04.md)
   * [Reducing Stigma](za-specializaciyeyu/psychological-support/reducing-stigma.md)
   * [Здоровье на 100%](za-specializaciyeyu/psychological-support/zdorove-na-100.md)
   * [Медики](za-specializaciyeyu/psychological-support/mediki.md)
