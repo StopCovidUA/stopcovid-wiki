@@ -29,4 +29,5 @@
 * [Yuval Noah Harari: the world after coronavirus](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 * Нужно продумать гавернанс \(как можно отключить потом эту штуку\)
 * откуда брать деньги которые вы собрались раздавать партисипантам?
+* [https://news.finance.ua/ru/news/-/468695/v-shvetsii-budut-otslezhivat-peredvizhenie-zhitelej-po-mobilnym-dannym](https://news.finance.ua/ru/news/-/468695/v-shvetsii-budut-otslezhivat-peredvizhenie-zhitelej-po-mobilnym-dannym)
 
