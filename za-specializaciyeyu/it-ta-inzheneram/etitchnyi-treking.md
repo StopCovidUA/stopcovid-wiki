@@ -30,4 +30,5 @@
 * Нужно продумать гавернанс \(как можно отключить потом эту штуку\)
 * откуда брать деньги которые вы собрались раздавать партисипантам?
 * [https://news.finance.ua/ru/news/-/468695/v-shvetsii-budut-otslezhivat-peredvizhenie-zhitelej-po-mobilnym-dannym](https://news.finance.ua/ru/news/-/468695/v-shvetsii-budut-otslezhivat-peredvizhenie-zhitelej-po-mobilnym-dannym)
+* [https://youtu.be/puOvWdLLvzM?t=675](https://youtu.be/puOvWdLLvzM?t=675)
 

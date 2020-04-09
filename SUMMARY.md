@@ -43,7 +43,6 @@
 * [Технології](za-specializaciyeyu/it-ta-inzheneram/README.md)
   * [Этичный трекинг](za-specializaciyeyu/it-ta-inzheneram/etitchnyi-treking.md)
   * [Телемедицина](za-specializaciyeyu/it-ta-inzheneram/telemedicina.md)
-  * [Постачання продуктів, медикаментів та засобів безпеки](za-specializaciyeyu/it-ta-inzheneram/dostavka-produktov-i-medikamentov.md)
   * [Система логистики товаров](za-specializaciyeyu/it-ta-inzheneram/sistema-logistiki.md)
   * [Сервисы транспортировки врачей](za-specializaciyeyu/it-ta-inzheneram/servisy-transportirovki-vrachei.md)
   * [Tech Tactical 01.04](za-specializaciyeyu/it-ta-inzheneram/tactical-01.04.md)
