@@ -13,7 +13,7 @@
   * [Онлайн курс для мед волонтерів](sistema-zdravookhraneniya/onlain-kurs-dlya-med-volonterov.md)
   * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Вразливі верстви населения](bezrabotica.md)
-* [Незаняті спеціалісти](hr-bezrabotica/README.md)
+* [Незайняті спеціалісти](hr-bezrabotica/README.md)
   * [Tactical 08.04](hr-bezrabotica/tactical-08.04.md)
 * [Экономіка та бізнес](biznesy/README.md)
   * [Список компаний которые поддержали борьбу с covid-19](biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
