@@ -181,6 +181,7 @@ P2P обучение в онлайн группах is a product for communities
 * Сократовский метод для выработки критического мышления
 * Things are easy for you, and hard for me. We can make smth together.
 * [Coronavirus Second Order Effects](https://docs.google.com/document/d/17YkH4kc63t7JI7JJZR6i3-iebJd7kfRAzAK_ssl8bt4/mobilebasic#)
+* Каждую неделю люди заполняют индикатор счастья
 
 [Про Энштейна](https://www.facebook.com/1539068219686026/posts/2015394728720037?d=n&sfns=mo)
 
