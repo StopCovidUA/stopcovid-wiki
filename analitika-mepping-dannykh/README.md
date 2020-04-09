@@ -161,6 +161,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 * Все могут говорить со всеми \(в тч на открытых звонках\)
 * Оверкомьюникейт – звонок лучше чем текст
+* [https://thedecider.app/](https://thedecider.app/) – как принять решения
 
 ### Digital tools
 
