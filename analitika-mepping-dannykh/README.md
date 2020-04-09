@@ -276,6 +276,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Platform cooperative
 * Референсы: красный крест, unicef, greenpeace, giz
 * Построить дорожную карту по размеру организации - какие проекты когда будут чем
+* Древний Рим завоевал Грецию не потому, что римляне были умнее, а потому, что они сумели лучше организоваться
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
