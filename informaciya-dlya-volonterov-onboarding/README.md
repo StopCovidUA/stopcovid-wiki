@@ -34,7 +34,7 @@
 * [IT-спеціалістам та інженерам](../za-specializaciyeyu/it-ta-inzheneram/)
 * [HR'ам](../hr-bezrabotica/)
 * [Юристам](../za-specializaciyeyu/yuristam.md)
-* [Фінансистам](../analitika-mepping-dannykh/finansistam.md)
+* [Фінансистам](../za-specializaciyeyu/finansistam.md)
 
 {% hint style="warning" %}
 ## Вакансії

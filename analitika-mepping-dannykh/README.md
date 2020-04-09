@@ -198,6 +198,8 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 ### Individual short-term compensation
 
+Возможность отвлечься от сложностей в жизни/стране, тревожности, сфокусироваться на созидании
+
 Volunteers development program/ Программы обучения / Меташкола
 
 * развитие сообщетсв

@@ -4,7 +4,6 @@
 * [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding/README.md)
   * [Онбординг сценарий](informaciya-dlya-volonterov-onboarding/onbording-scenarii.md)
 * [Волонтери та NGO](analitika-mepping-dannykh/README.md)
-  * [Фінансування](analitika-mepping-dannykh/finansistam.md)
   * [Coordination 02.04](analitika-mepping-dannykh/tactical-02.04.md)
   * [Coordination 07.04](analitika-mepping-dannykh/coordination-07.04.md)
 * [Система охорони здоров'я](sistema-zdravookhraneniya/README.md)
@@ -65,6 +64,7 @@
   * [Цілі, способи та тактика роботи з матеріалами](za-specializaciyeyu/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
 * [Операторам StopCovidUA Bot](za-specializaciyeyu/operatoram-stopcovidua-bot.md)
 * [Обучение](za-specializaciyeyu/obuchenie.md)
+* [Фінансування](za-specializaciyeyu/finansistam.md)
 
 ## Звіти
 
