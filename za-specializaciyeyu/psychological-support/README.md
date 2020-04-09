@@ -21,7 +21,7 @@ description: >-
 
 1\) Заповніть [форму](https://docs.google.com/spreadsheets/d/1TJtvt8ezKGul1dUbZvLUFw0CyDjGT0PUvNE_h19JYso/edit#gid=0) для волонтерів напрямку психологічної допомоги.
 
-2\) Ознайомтесь з [інструкцією](https://app.gitbook.com/@dgov/s/stopcovid/~/drafts/-M3fHf993zoANZPEz8Q-/) ита [інструментами](https://discordapp.com/invite/VqWKqbh) спільної роботи. 
+2\) Ознайомтесь з [інструкцією](https://app.gitbook.com/@dgov/s/stopcovid/~/drafts/-M3fHf993zoANZPEz8Q-/) та [інструментами](https://discordapp.com/invite/VqWKqbh) спільної роботи. 
 
 3\) Додавайтесь у наш [Координаційний чат у Tеlеgram.](https://t.me/keepcalmanddontpanic) 
 
