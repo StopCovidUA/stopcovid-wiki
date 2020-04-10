@@ -234,12 +234,18 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Вечеринки как способ находить волонтёров
 * ProBono Club
 * [https://volunteer.country/](https://volunteer.country/)
+* Сорсинг через сообщество, заход через КМ Inbox
 
 ### Онбординг
 
-* Бот поддержки волонтеров \(Max AI\)
+![](../.gitbook/assets/image%20%2824%29.png)
 
-![](../.gitbook/assets/image%20%284%29.png)
+* Посты вакансии и посты-отчеты
+* Общая информация / презентация
+* Регформа / чат
+* Созвон с координатором
+* Вакансии / задачи
+* Цепочка писем онбординга
 
 ## Идеи
 
@@ -288,7 +294,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Древний Рим завоевал Грецию не потому, что римляне были умнее, а потому, что они сумели лучше организоваться
 * Впечтатления: According to the researchers, the participants in their study reported that time “stood still” during “awesome” experiences. The feeling of awe is also correlated with willingness to volunteer time, the likelihood of choosing experiences over material objects, and even greater life satisfaction. In this state we believe we are capable of almost anything.
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
