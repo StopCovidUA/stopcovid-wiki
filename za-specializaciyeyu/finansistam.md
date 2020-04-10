@@ -3,6 +3,7 @@
 Задача: Полезные проекты получают финансирование
 
 * [\#finance](https://discord.gg/yq5WV7p)
+* [Доска проектов](https://trello.com/b/fCpPgkFh/funding)
 
 ## Проекты
 

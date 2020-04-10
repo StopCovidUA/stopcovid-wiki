@@ -19,8 +19,5 @@
 
 ### Список волонтерських організацій
 
-[Таблиця](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0) з волонтерськими організаціями, нові додавайте туди.  
-
-
-
+[Таблиця](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0) з волонтерськими організаціями, нові додавайте туди.
 
