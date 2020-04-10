@@ -57,6 +57,7 @@
   * [Reducing Stigma](za-specializaciyeyu/psychological-support/reducing-stigma.md)
   * [Здоровье на 100%](za-specializaciyeyu/psychological-support/zdorove-na-100.md)
   * [Медики](za-specializaciyeyu/psychological-support/mediki.md)
+  * [Psychology 14.04](za-specializaciyeyu/psychological-support/psychology-14.04.md)
   * [Psychology 17.03](za-specializaciyeyu/psychological-support/psychology-17.03.md)
   * [Psychology 24.03](za-specializaciyeyu/psychological-support/psychology-24.03.md)
   * [Psychology 25.03](za-specializaciyeyu/psychological-support/psychology-25.03.md)
