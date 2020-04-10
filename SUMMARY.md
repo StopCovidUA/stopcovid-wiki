@@ -49,7 +49,7 @@
   * [Система логистики товаров](za-specializaciyeyu/it-ta-inzheneram/sistema-logistiki.md)
   * [Сервисы транспортировки врачей](za-specializaciyeyu/it-ta-inzheneram/servisy-transportirovki-vrachei.md)
   * [Tech Tactical 01.04](za-specializaciyeyu/it-ta-inzheneram/tactical-01.04.md)
-  * [Tech Tactical 01.04](za-specializaciyeyu/it-ta-inzheneram/tech-tactical-01.04.md)
+  * [Tech Tactical 07.04](za-specializaciyeyu/it-ta-inzheneram/tech-tactical-01.04.md)
 * [Психологічна підтримка](za-specializaciyeyu/psychological-support/README.md)
   * [Events](za-specializaciyeyu/psychological-support/events.md)
   * [Psychology 09.04](za-specializaciyeyu/psychological-support/psychology-09.04.md)
