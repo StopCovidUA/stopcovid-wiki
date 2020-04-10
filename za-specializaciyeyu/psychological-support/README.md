@@ -125,7 +125,7 @@
 
 [Телефони лінії безкоштовної анонімної психологічної допомоги](https://docs.google.com/spreadsheets/d/1Tiz3PZtqXY4q34sdXC9balK1s8yA5-WBlnXXrCgTa54/edit?usp=sharing)
 
-[Соціальний \(безкоштовний\) онлайн прийом УСП](https://www.facebook.com/uspkiev/photos/rpp.972588522830901/2873806489375752/?type=3&theater)
+[Соціальний \(безкоштовний\) онлайн прийом УСП](https://www.facebook.com/uspkiev/photos/rpp.972588522830901/2873806489375752/?type=3&theater) 
 
 Telegram чат [Без паники ](https://t.me/bezpaniky)
 
