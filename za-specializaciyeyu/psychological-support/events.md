@@ -20,11 +20,11 @@ description: 'Проведенные ивенты:'
 
 ## Задачи для СММ: 
 
-* Можете написать пост на каналах коммуникаций и тегнуть Наталью.[https://www.facebook.com/profile.php?id=100004521701073](https://www.facebook.com/profile.php?id=100004521701073) 
+* Написать пост на каналах коммуникаций с видео и тегнуть спикера Наталью.[https://www.facebook.com/profile.php?id=100004521701073](https://www.facebook.com/profile.php?id=100004521701073) 
 * В Инстаграмме напишите просто Наталья Струс. 
-* Можете также использовать презентацию и видео; 
+* Можете также использовать презентацию;
 * Презентация по волонтерству: [https://drive.google.com/drive/u/0/folders/1BXecf54HeKyWdDFbKH0791vseJJ2DNJh](https://drive.google.com/drive/u/0/folders/1BXecf54HeKyWdDFbKH0791vseJJ2DNJh)
-* Видео: 
+* Видео: у ребят; 
 
 В презентаций написать, источник материалов: интернет. \(может она сама напишет\) ?!
 
