@@ -245,6 +245,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Сорсинг через сообщество, заход через КМ
 *  Андрей Белюх \(студ организация\)
 * [https://studway.com.ua/](https://studway.com.ua/) \(Анастасія\)
+* Тегать людей \#безтебенияк
 
 ### Онбординг
 
