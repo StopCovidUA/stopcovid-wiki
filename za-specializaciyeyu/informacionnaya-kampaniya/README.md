@@ -67,7 +67,7 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * Міла Йовович?
 * [https://www.facebook.com/groups/POfinddesigner](https://www.facebook.com/groups/POfinddesigner)
 * Долучити Дена \(ЕКЦ\) до stopcovid
-* Future Backwards
+* Future Backwards / от разных сообществ
 * Design force
 * Нативные проекты с рекламными бюджетами
 * [https://didtheyhelp.com/](https://didtheyhelp.com/?fbclid=IwAR18pBwbTOfCnO0KfDJvGo5_fNrW0MTKoKRy449zgUuYfaBOrKwzIKwa0AM)
