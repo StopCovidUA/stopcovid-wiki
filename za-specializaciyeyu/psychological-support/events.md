@@ -23,7 +23,7 @@ description: 'Проведенные ивенты:'
 * Можете написать пост на каналах коммуникаций и тегнуть Наталью.[https://www.facebook.com/profile.php?id=100004521701073](https://www.facebook.com/profile.php?id=100004521701073) 
 * В Инстаграмме напишите просто Наталья Струс. 
 * Можете также использовать презентацию и видео; 
-* Презентация по волонтерству: 
+* Презентация по волонтерству: [https://drive.google.com/drive/u/0/folders/1BXecf54HeKyWdDFbKH0791vseJJ2DNJh](https://drive.google.com/drive/u/0/folders/1BXecf54HeKyWdDFbKH0791vseJJ2DNJh)
 * Видео: 
 
 В презентаций написать, источник материалов: интернет. \(может она сама напишет\) ?!
