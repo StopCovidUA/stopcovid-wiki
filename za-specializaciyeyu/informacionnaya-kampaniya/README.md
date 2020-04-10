@@ -8,6 +8,11 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 
 Підвищувати рівень обізнаності про коронавірус та способи убезпечити себе від захворювання. Інформувати суспільство про роботу StopCovidUA та про досягнення руху. Об'єднувати ЗМІ та партнерські організації задля відкритого діалогу щодо викликів, які стоять перед суспільством у зв'язку з епідемією.
 
+* [Медіакіт](https://docs.google.com/document/d/1uyl3wf2cpi6yJFPKybJtQD9_LL5jKfdENCccA6LO10c/edit?usp=sharing)
+* [Усі матеріали у figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)
+* [Лого та інші прес-матеріали](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5?usp=sharing)
+* [Контент-план](https://docs.google.com/spreadsheets/d/1vRUnJNAk7FgvdbDWydn429hRSV1j65q1VUCCLpXQTAQ/edit#gid=1872245614)
+
 ## Цілі
 
 * вплинути на поведінку 1% населення
@@ -25,22 +30,20 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 ## Координатори напрямку
 
 * Загальна координація комуникацій: [Діана Кінг](https://t.me/dianatheking)
-* SMM-менеджер: Саша Барабаш 
+* Посты которых мы долго ждали: Саша Барабаш 
 * Красиво улыбается: Карина 
-* Лучший в мире креатив: Жансая Жайсанбаева
+* Космический креатив: Жансая Жайсанбаева
+
+## Радники
+
+* Юрий Марченко / Platforma \(?\)
+* Банда
 
 ## Канали комунікації
 
 * Discord-канал [\#marketing-pr](https://discord.gg/5t6zMtv)
 * [Дошка завдань та вакансій](https://trello.com/b/IkonsFAY/main-board) \(комунікації\)
 * [Дошка завдань та вакансій](https://trello.com/b/6DCyBJA1/marketing-pr) \(маркетинг\)
-
-## Додаткові матеріали
-
-* [Медіакіт](https://docs.google.com/document/d/1uyl3wf2cpi6yJFPKybJtQD9_LL5jKfdENCccA6LO10c/edit?usp=sharing)
-* [Усі матеріали у figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)
-* [Лого та інші прес-матеріали](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5?usp=sharing)
-* [Контент-план](https://docs.google.com/spreadsheets/d/1vRUnJNAk7FgvdbDWydn429hRSV1j65q1VUCCLpXQTAQ/edit#gid=1872245614)
 
 ## Медіапартнери
 
