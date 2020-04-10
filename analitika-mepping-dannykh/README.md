@@ -236,13 +236,15 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 ## Сорсінг
 
-### Рост
+### Метчинг
 
 * Рост через создание вакансий
 * Вечеринки как способ находить волонтёров
 * ProBono Club
 * [https://volunteer.country/](https://volunteer.country/)
 * Сорсинг через сообщество, заход через КМ
+*  Андрей Белюх \(студ организация\)
+* [https://studway.com.ua/](https://studway.com.ua/) \(Анастасія\)
 
 ### Онбординг
 
