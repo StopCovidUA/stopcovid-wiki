@@ -1,6 +1,10 @@
 # Юристам
 
+## Каналы коммуникации
+
 * [\#legal](https://discord.gg/vMVEfZB)
+
+## Проєкти
 
 ### Список регуляций мешающих борьбе с covid 
 
@@ -13,4 +17,8 @@ Cобирают регуляции которые мешают борьбе с c
 * [Ученые-медики, преподаватели и студенты медвузов с 1 апреля не смогут консультировать больных, - доктор меднаук Мироненко](https://censor.net.ua/news/3185552/uchenyemediki_prepodavateli_i_studenty_medvuzov_s_1_aprelya_ne_smogut_konsultirovat_bolnyh_doktor_mednauk?fbclid=IwAR2e5Kc3IL0rgkECaVIeS1BhDSELKigFXeSNNwlgiSHsruptNec5Mfyk8vU)
 
 Потенциальные партнеры: kmbs, KSE, Чернышов, Микольска
+
+## Идеи
+
+* Центр экономической стратегии
 

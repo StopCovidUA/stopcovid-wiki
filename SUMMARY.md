@@ -75,6 +75,7 @@
   * [Курс "Координатор Волонтеров"](za-specializaciyeyu/obuchenie/obuchenie-koordinator-volonterov.md)
   * [Школам та вишам](za-specializaciyeyu/obuchenie/udalennoe-i-onlain-obrazovanie.md)
 * [Фінансування](za-specializaciyeyu/finansistam.md)
+* [Інкубатор / Біздев](za-specializaciyeyu/inkubator-bizdev.md)
 
 ## Тижневі звіти <a id="zviti"></a>
 
