@@ -73,7 +73,9 @@
 
 ![](../../.gitbook/assets/image%20%2850%29.png)
 
+[Up-life](http://uplife.com.ua/?fbclid=IwAR2w7Wiu3GVDsaCb3hqbggIZskx-5cIz3rWs59SI4EK9ciGB9QSPkg8tPLA)
 
+**Додаткові питання про проект відправляйте куратору проєкту:** [Галина Приходько](https://www.facebook.com/galyna.prykhodko)
 
 ### База контактів для отримання психологічної підтримки
 
