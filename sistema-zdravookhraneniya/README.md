@@ -48,6 +48,7 @@
 * [Віруси та люди](https://www.facebook.com/virusesandpeople) \(епідеміологія, 100+ членів на 9 квіт.\)
 * [Стандарти і клінічні протоколи МОЗ](https://www.facebook.com/groups/1663381727323535/) 
 * \*\*\*\*[**ЛікарВторінкі**](https://www.facebook.com/groups/likarvtorynky/) ****
+* [Група Медиторія - медична територія](https://www.facebook.com/groups/meditory.com.ua)
 
 ### Допомога з транспортуванням
 
