@@ -65,6 +65,7 @@
   * [Psychology 07.04](za-specializaciyeyu/psychological-support/psychology-07.04.md)
 * [Юристам](za-specializaciyeyu/yuristam.md)
 * [Перекладачам](za-specializaciyeyu/perekladacham/README.md)
+  * [Tactical 10.04](za-specializaciyeyu/perekladacham/tactical-10.04.md)
   * [Tactical 07.04](za-specializaciyeyu/perekladacham/tactical-07.04.md)
   * [Tactical 03.04](za-specializaciyeyu/perekladacham/tactical-03.04.md)
   * [Tactical 31.03](za-specializaciyeyu/perekladacham/tactical-31.03.md)

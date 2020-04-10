@@ -1,5 +1,7 @@
 # Обучение
 
+Задача: повышение уровня субъектности \(например люди не могут определять свои цели\)
+
 P2P обучение в онлайн группах is a product for communities to drive integration, interaction and satisfaction. Navigate complexity together: Shared intent, shared attention, shared resources
 
 ### Для кого
@@ -187,4 +189,6 @@ P2P обучение в онлайн группах is a product for communities
 * Попросить места у бизнес школ
 * Баумейстер - совет по школе
 * Программа обучения через ролики и дискуссионные группы
+* Диалог-игра-сотворчество
+* Игра со 2-го уровня субъектности повышает уровень
 
