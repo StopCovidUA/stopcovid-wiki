@@ -28,6 +28,7 @@
 ## За спеціалізацією
 
 * [Комунікації](za-specializaciyeyu/informacionnaya-kampaniya/README.md)
+  * [Еженедельный онлайн бар](za-specializaciyeyu/informacionnaya-kampaniya/ezhenedelnyi-onlain-bar.md)
   * [\#безтебеніяк](za-specializaciyeyu/informacionnaya-kampaniya/obshee-delo.md)
   * [Врачи – герои](za-specializaciyeyu/informacionnaya-kampaniya/vrachi.md)
   * [Экология](za-specializaciyeyu/informacionnaya-kampaniya/ekologiya.md)
