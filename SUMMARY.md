@@ -8,6 +8,7 @@
   * [Coordination 02.04](analitika-mepping-dannykh/tactical-02.04.md)
   * [Coordination 07.04](analitika-mepping-dannykh/coordination-07.04.md)
   * [Coordination 09.04](analitika-mepping-dannykh/coordination-09.04.md)
+  * [Coordination 14.04](analitika-mepping-dannykh/coordination-14.04.md)
 * [Система охорони здоров'я](sistema-zdravookhraneniya/README.md)
   * [Медицинская система](sistema-zdravookhraneniya/medicinskaya-sistema.md)
   * [Онлайн курс для мед волонтерів](sistema-zdravookhraneniya/onlain-kurs-dlya-med-volonterov.md)
