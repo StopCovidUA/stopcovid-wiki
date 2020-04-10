@@ -72,7 +72,7 @@
   * [Цілі, способи та тактика роботи з матеріалами](za-specializaciyeyu/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
 * [Операторам StopCovidUA Bot](za-specializaciyeyu/operatoram-stopcovidua-bot.md)
 * [Обучение](za-specializaciyeyu/obuchenie/README.md)
-  * [Обучение "Координатор Волонтеров"](za-specializaciyeyu/obuchenie/obuchenie-koordinator-volonterov.md)
+  * [Курс "Координатор Волонтеров"](za-specializaciyeyu/obuchenie/obuchenie-koordinator-volonterov.md)
   * [Школам та вишам](za-specializaciyeyu/obuchenie/udalennoe-i-onlain-obrazovanie.md)
 * [Фінансування](za-specializaciyeyu/finansistam.md)
 

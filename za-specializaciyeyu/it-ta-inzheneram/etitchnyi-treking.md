@@ -41,4 +41,5 @@
 * [https://news.finance.ua/ru/news/-/468695/v-shvetsii-budut-otslezhivat-peredvizhenie-zhitelej-po-mobilnym-dannym](https://news.finance.ua/ru/news/-/468695/v-shvetsii-budut-otslezhivat-peredvizhenie-zhitelej-po-mobilnym-dannym)
 * [https://youtu.be/puOvWdLLvzM?t=675](https://youtu.be/puOvWdLLvzM?t=675)
 * Геймифицированная медицинская страховка
+* Отслеживание этих фактов в децентрализованной \(peer-to-peer\) системе без возможности единому актору \(государству\) получить доступ ко всем данным.
 

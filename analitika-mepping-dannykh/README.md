@@ -233,14 +233,13 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 ## Сорсінг
 
-### Вакансии
-
 ### Рост
 
+* Рост через создание вакансий
 * Вечеринки как способ находить волонтёров
 * ProBono Club
 * [https://volunteer.country/](https://volunteer.country/)
-* Сорсинг через сообщество, заход через КМ Inbox
+* Сорсинг через сообщество, заход через КМ
 
 ### Онбординг
 

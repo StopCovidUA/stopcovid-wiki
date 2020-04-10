@@ -26,6 +26,7 @@
 * CLR Gitcoin но без крипты
 * Фандинг как на гиткоине
 * Донейшен как на патреоне - повторяющийся \(можно скоординировать в спильнокоште\)
+* Распределять с помощью адвайзоров
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
