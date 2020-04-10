@@ -38,12 +38,14 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 
 * Юрий Марченко / Platforma \(?\)
 * Банда
+* Макс Уперяка
 
 ## Канали комунікації
 
 * Discord-канал [\#marketing-pr](https://discord.gg/5t6zMtv)
 * [Дошка завдань та вакансій](https://trello.com/b/IkonsFAY/main-board) \(комунікації\)
 * [Дошка завдань та вакансій](https://trello.com/b/6DCyBJA1/marketing-pr) \(маркетинг\)
+* [StopCovidUA \| YouTube](https://t.me/StopCovidYouTube)
 
 ## Медіапартнери
 
