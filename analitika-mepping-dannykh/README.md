@@ -16,7 +16,7 @@ description: 'Координаторам, аналітикам і проєктн
 | Удовлетворенность | Оценка NPS  | - | 8 |
 | Взаимопомощь | [Кол-во интро/закрытых позиций](https://trello.com/b/IkonsFAY/main-board) | 5 | 100 |
 
-## Координатори
+## Ролі
 
 * Загальна координація: [Макс Семенчук](https://t.me/maxsemenchuk)
 * Зв'язок із волонтерами: [Vitaliy Gataulin](https://t.me/VGataulin)
@@ -24,7 +24,7 @@ description: 'Координаторам, аналітикам і проєктн
 * Псіхологічна підтримка [Жансая Жайсанбаєва](https://t.me/SayaSemenchuk)
 * Переклади [Алекс Баир](http://t.me/ctalebap)
 * Кар'єрний розвиток [Настя Арабинская](http://t.me/Sia_AnastaSi)
-* Фасилитатор: [Макс Семенчук](https://t.me/maxsemenchuk)
+* Фасілітатор: [Макс Семенчук](https://t.me/maxsemenchuk)
 * Секретарь: [Макс Семенчук](https://t.me/maxsemenchuk)
 
 ## Радники
