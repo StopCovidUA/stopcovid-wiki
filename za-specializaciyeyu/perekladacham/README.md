@@ -57,10 +57,12 @@
 
 ## Вже переклали
 
-* \*\*\*\*[**Інструкції швидких тест наборів для визначення COVID-19**](https://coronavirus.co.ua/test-kits/)\*\*\*\*
-* \*\*\*\*[**COVID-19 від Школи Медицини Гарвардського університету**](https://coronavirus.co.ua/covid-19-harvard/)\*\*\*\*
-* \*\*\*\*[**Протокол лечения COVID-19 для амбулаторного отделения/отделения неотложной помощи Albert Einstein College of Medicine, NYC, USA 31.03.2020**](https://coronavirus.co.ua/covid19-einstein/)\*\*\*\*
-* \*\*\*\*[**Посібник з профілактики та лікування COVID-19 \(переклад\)**](https://coronavirus.co.ua/covid-19-ukr/)\*\*\*\*
+* [Інструкції швидких тест наборів для визначення COVID-19](https://coronavirus.co.ua/test-kits/) для медиків з Тернополя і всіх, хто користується тестами виробників Xiamen AmonMed Biotechnology Co., Ltd та Hecin Scientific 
+* [Короновірусна хвороба COVID-19.](https://coronavirus.co.ua/covid-19-harvard/) Основна інформація від Школи Медицини Гарвардського університету 
+* [Протокол лечения COVID-19 для амбулаторного отделения/отделения неотложной помощи Albert Einstein College of Medicine, Нью-Йорк, США](https://coronavirus.co.ua/covid19-einstein/)
+* [Посібник з профілактики та лікування COVID-19 \(Перша афілійована лікарня, Медична школа університету Чжецзян\) ](https://coronavirus.co.ua/covid-19-ukr/)Переклад відомого притоколи китайських лікарів. Ініціатива Джека Ма \(Алібаба\)
+* [Посібник з профілактики та лікування COVID-19 \(доповнений рекомендаціями\)](https://coronavirus.co.ua/covid-19-moz/) Прийнятий як рекомендований підручник МОЗ України
+* [Підготовка анестезіологічної та хірургічної служби до операції пацієнта з COVID-19](https://coronavirus.co.ua/covid-19-surgery/) Відео від Alberta Children's Hospital
 
 
 
