@@ -16,14 +16,16 @@ description: 'Координаторам, аналітикам і проєктн
 | Удовлетворенность | Оценка NPS  | ? | 8+ |
 | Взаимопомощь | Кол-во интро/закрытых позиций | ? | ? |
 
-## Координатори напрямку
+## Координатори
 
-* Загальна координація руху: [Макс Семенчук](https://t.me/maxsemenchuk)
+* Загальна координація: [Макс Семенчук](https://t.me/maxsemenchuk)
 * Зв'язок із волонтерами: [Vitaliy Gataulin](https://t.me/VGataulin)
 * Комунікацї [Діана Кінг](https://t.me/dianatheking)
 * Псіхологічна підтримка [Жансая Жайсанбаєва](https://t.me/SayaSemenchuk)
 * Переклади [Алекс Баир](http://t.me/ctalebap)
 * Кар'єрний розвиток [Настя Арабинская](http://t.me/Sia_AnastaSi)
+* Фасилитатор: [Макс Семенчук](https://t.me/maxsemenchuk)
+* Секретарь: [Макс Семенчук](https://t.me/maxsemenchuk)
 
 ## Радники
 
@@ -254,7 +256,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 ### Онбординг
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 * Посты вакансии и посты-отчеты
 * Общая информация / презентация
@@ -311,9 +313,9 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Впечтатления: According to the researchers, the participants in their study reported that time “stood still” during “awesome” experiences. The feeling of awe is also correlated with willingness to volunteer time, the likelihood of choosing experiences over material objects, and even greater life satisfaction. In this state we believe we are capable of almost anything.
 * Kialo эксперимент
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 

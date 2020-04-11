@@ -44,3 +44,5 @@
 * Отслеживание этих фактов в децентрализованной \(peer-to-peer\) системе без возможности единому актору \(государству\) получить доступ ко всем данным.
 * [The Far-Right Helped Create The World's Most Powerful Facial Recognition Technology](https://www.huffingtonpost.ca/entry/clearview-ai-facial-recognition-alt-right_n_5e7d028bc5b6cb08a92a5c48?ri18n=true)
 
+![](../../.gitbook/assets/image%20%2811%29.png)
+
