@@ -256,7 +256,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 ### Онбординг
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 * Посты вакансии и посты-отчеты
 * Общая информация / презентация
@@ -314,9 +314,9 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Kialo эксперимент
 * Поставить скрам в стопковид \(+шоукейс\)
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 

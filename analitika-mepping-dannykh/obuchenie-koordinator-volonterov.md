@@ -2,7 +2,7 @@
 
 
 
-![https://communityroundtable.com/what-we-do/models-and-frameworks/community-skills-framework/](../.gitbook/assets/image%20%2822%29.png)
+![https://communityroundtable.com/what-we-do/models-and-frameworks/community-skills-framework/](../.gitbook/assets/image%20%2823%29.png)
 
 ## Strategy
 
