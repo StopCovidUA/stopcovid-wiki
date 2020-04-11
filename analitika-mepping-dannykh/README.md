@@ -312,7 +312,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Древний Рим завоевал Грецию не потому, что римляне были умнее, а потому, что они сумели лучше организоваться
 * Впечтатления: According to the researchers, the participants in their study reported that time “stood still” during “awesome” experiences. The feeling of awe is also correlated with willingness to volunteer time, the likelihood of choosing experiences over material objects, and even greater life satisfaction. In this state we believe we are capable of almost anything.
 * Kialo эксперимент
-* поставить скрам в стопковид
+* Поставить скрам в стопковид \(+шоукейс\)
 
 ![](../.gitbook/assets/image%20%2845%29.png)
 
