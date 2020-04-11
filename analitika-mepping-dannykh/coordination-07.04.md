@@ -13,7 +13,7 @@
 
 ### Макс / Обновленная структура стейкхолдеров
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 Вопросы:
 
@@ -35,7 +35,7 @@
 
 [https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 {% file src="../.gitbook/assets/max\_skriny.pdf" %}
 

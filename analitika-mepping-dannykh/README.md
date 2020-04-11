@@ -256,7 +256,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 ### Онбординг
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 * Посты вакансии и посты-отчеты
 * Общая информация / презентация
@@ -313,9 +313,9 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Впечтатления: According to the researchers, the participants in their study reported that time “stood still” during “awesome” experiences. The feeling of awe is also correlated with willingness to volunteer time, the likelihood of choosing experiences over material objects, and even greater life satisfaction. In this state we believe we are capable of almost anything.
 * Kialo эксперимент
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
