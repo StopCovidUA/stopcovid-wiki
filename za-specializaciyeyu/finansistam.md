@@ -28,6 +28,7 @@
 * Фандинг как на гиткоине
 * Донейшен как на патреоне - повторяющийся \(можно скоординировать в спильнокоште\)
 * Распределять с помощью адвайзоров
+* Бизнес 100
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
