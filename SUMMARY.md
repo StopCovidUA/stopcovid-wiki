@@ -3,13 +3,6 @@
 * [🖐 Вітаємо. Го допомагати!](README.md)
 * [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding/README.md)
   * [Онбординг сценарий](informaciya-dlya-volonterov-onboarding/onbording-scenarii.md)
-* [Стратегія управління](analitika-mepping-dannykh/README.md)
-  * [Довгострокове бачення](analitika-mepping-dannykh/dovgostrokove-bachennya.md)
-  * [Обучение координаторов](analitika-mepping-dannykh/obuchenie-koordinator-volonterov.md)
-  * [Coordination 02.04](analitika-mepping-dannykh/tactical-02.04.md)
-  * [Coordination 07.04](analitika-mepping-dannykh/coordination-07.04.md)
-  * [Coordination 09.04](analitika-mepping-dannykh/coordination-09.04.md)
-  * [Coordination 14.04](analitika-mepping-dannykh/coordination-14.04.md)
 * [Система охорони здоров'я](sistema-zdravookhraneniya/README.md)
   * [Медицинская система](sistema-zdravookhraneniya/medicinskaya-sistema.md)
   * [Онлайн курс для мед волонтерів](sistema-zdravookhraneniya/onlain-kurs-dlya-med-volonterov.md)
@@ -28,6 +21,13 @@
 
 ## За спеціалізацією
 
+* [Координація](za-specializaciyeyu/analitika-mepping-dannykh/README.md)
+  * [Довгострокове бачення](za-specializaciyeyu/analitika-mepping-dannykh/dovgostrokove-bachennya.md)
+  * [Обучение координаторов](za-specializaciyeyu/analitika-mepping-dannykh/obuchenie-koordinator-volonterov.md)
+  * [Coordination 02.04](za-specializaciyeyu/analitika-mepping-dannykh/tactical-02.04.md)
+  * [Coordination 07.04](za-specializaciyeyu/analitika-mepping-dannykh/coordination-07.04.md)
+  * [Coordination 09.04](za-specializaciyeyu/analitika-mepping-dannykh/coordination-09.04.md)
+  * [Coordination 14.04](za-specializaciyeyu/analitika-mepping-dannykh/coordination-14.04.md)
 * [Комунікації](za-specializaciyeyu/informacionnaya-kampaniya/README.md)
   * [Еженедельный онлайн бар](za-specializaciyeyu/informacionnaya-kampaniya/ezhenedelnyi-onlain-bar.md)
   * [\#безтебеніяк](za-specializaciyeyu/informacionnaya-kampaniya/obshee-delo.md)
@@ -76,10 +76,11 @@
   * [Tactical 28.03](za-specializaciyeyu/perekladacham/tactical-28.03.md)
   * [Цілі, способи та тактика роботи з матеріалами](za-specializaciyeyu/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
 * [Операторам StopCovidUA Bot](za-specializaciyeyu/operatoram-stopcovidua-bot.md)
-* [P2P Обучение](za-specializaciyeyu/p2p-education/README.md)
+* [P2P Навчання](za-specializaciyeyu/p2p-education/README.md)
   * [Школам та вишам](za-specializaciyeyu/p2p-education/udalennoe-i-onlain-obrazovanie.md)
 * [Фінансування](za-specializaciyeyu/finansistam.md)
-* [Інкубатор / Біздев](za-specializaciyeyu/inkubator-bizdev.md)
+* [Біздев інкубатор](za-specializaciyeyu/inkubator-bizdev.md)
+* [Мистецтво](za-specializaciyeyu/mistectvo.md)
 
 ## Тижневі звіти <a id="zviti"></a>
 

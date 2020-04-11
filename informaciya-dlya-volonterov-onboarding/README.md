@@ -26,7 +26,7 @@
 
 Оберіть один із напрямків роботи та зв'яжіться із координатором напрямку, щоб з'ясувати, яка допомога потрібна.
 
-* [Координаторам, аналітикам та проєктним менеджерам](../analitika-mepping-dannykh/)
+* [Координаторам, аналітикам та проєктним менеджерам](../za-specializaciyeyu/analitika-mepping-dannykh/)
 * [Представникам ЗМІ, комунікаторам, дизайнерам та креаторам](https://app.gitbook.com/@dgov/s/stopcovid/~/drafts/-M3zNx5P-7ysMTiG6jk-/informacionnaya-kampaniya)
 * [Психологам, психотерапевтам, психіатрам](../za-specializaciyeyu/psychological-support/)
 * [Перекладачам](../za-specializaciyeyu/perekladacham/)
