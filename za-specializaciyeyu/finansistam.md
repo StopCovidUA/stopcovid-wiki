@@ -32,6 +32,7 @@
 * Спильнокошт
 * 2 Patreon campaign
 * Писать имена людей которые дали с тегом в фб
+* Попросить денег на тест по базовому доходу
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
