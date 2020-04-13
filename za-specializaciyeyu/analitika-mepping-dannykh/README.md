@@ -286,6 +286,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Kialo эксперимент
 * Поставить скрам в стопковид \(+шоукейс\)
 * Культурные нормы записать в видео
+* Тренина снять ограничения на рост
 
 ![](../../.gitbook/assets/image%20%2846%29.png)
 
