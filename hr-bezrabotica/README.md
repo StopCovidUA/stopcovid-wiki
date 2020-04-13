@@ -31,4 +31,5 @@ description: 'HR, коучи'
 * [http://advanceonline.com.ua/](http://advanceonline.com.ua/)
 * Открыть проф школы при сообществах
 * Искать волонтёров через сайты работы
+* [https://mate.academy/uk](https://mate.academy/uk) skvot для обучения
 
