@@ -22,7 +22,6 @@
 ## За спеціалізацією
 
 * [Координація](za-specializaciyeyu/analitika-mepping-dannykh/README.md)
-  * [Довгострокове бачення](za-specializaciyeyu/analitika-mepping-dannykh/dovgostrokove-bachennya.md)
   * [Обучение координаторов](za-specializaciyeyu/analitika-mepping-dannykh/obuchenie-koordinator-volonterov.md)
   * [Coordination 02.04](za-specializaciyeyu/analitika-mepping-dannykh/tactical-02.04.md)
   * [Coordination 07.04](za-specializaciyeyu/analitika-mepping-dannykh/coordination-07.04.md)
