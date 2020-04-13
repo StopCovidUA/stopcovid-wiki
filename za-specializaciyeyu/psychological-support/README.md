@@ -99,7 +99,7 @@
 
 ## [Онлайн-друг на карантині](http://uplife.com.ua/?fbclid=IwAR2w7Wiu3GVDsaCb3hqbggIZskx-5cIz3rWs59SI4EK9ciGB9QSPkg8tPLA)
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 {% hint style="info" %}
 [Up-life](http://uplife.com.ua/?fbclid=IwAR2w7Wiu3GVDsaCb3hqbggIZskx-5cIz3rWs59SI4EK9ciGB9QSPkg8tPLA) ****Место, которое поможет тебе пережить карантин и психологически справиться с кризисом. Проект состоит из 2-х частей, которые дополняют друг друга. Этот проект создан на волонтерской основе со стороны всех его участников. Это личная инициатива каждого из участников проекта, организаторов и ведущих, чтобы поддержать население страны во время карантина.
