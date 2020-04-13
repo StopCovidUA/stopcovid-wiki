@@ -44,6 +44,7 @@
   * [Comms 03.04](za-specializaciyeyu/informacionnaya-kampaniya/comms-03.04.md)
   * [Comms 08.04](za-specializaciyeyu/informacionnaya-kampaniya/untitled.md)
   * [Comms 10.04](za-specializaciyeyu/informacionnaya-kampaniya/comms-10.04.md)
+  * [Comms 13.0](za-specializaciyeyu/informacionnaya-kampaniya/comms-13.0.md)
 * [Технологи та інженери](za-specializaciyeyu/it-ta-inzheneram/README.md)
   * [Этичный трекинг](za-specializaciyeyu/it-ta-inzheneram/etitchnyi-treking.md)
   * [Системы тестирования](za-specializaciyeyu/it-ta-inzheneram/sistemy-testirovaniya.md)
