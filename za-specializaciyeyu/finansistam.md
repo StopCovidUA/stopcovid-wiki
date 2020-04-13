@@ -31,6 +31,7 @@
 * Бизнес 100
 * Спильнокошт
 * 2 Patreon campaign
+* Писать имена людей которые дали с тегом в фб
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
