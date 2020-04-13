@@ -4,7 +4,6 @@
 * [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding/README.md)
   * [Онбординг сценарий](informaciya-dlya-volonterov-onboarding/onbording-scenarii.md)
 * [Система охорони здоров'я](sistema-zdravookhraneniya/README.md)
-  * [Медицинская система](sistema-zdravookhraneniya/medicinskaya-sistema.md)
   * [Онлайн курс для мед волонтерів](sistema-zdravookhraneniya/onlain-kurs-dlya-med-volonterov.md)
   * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
   * [13.04](sistema-zdravookhraneniya/13.04.md)

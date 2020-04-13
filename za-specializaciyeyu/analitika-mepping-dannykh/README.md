@@ -285,6 +285,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Впечтатления: According to the researchers, the participants in their study reported that time “stood still” during “awesome” experiences. The feeling of awe is also correlated with willingness to volunteer time, the likelihood of choosing experiences over material objects, and even greater life satisfaction. In this state we believe we are capable of almost anything.
 * Kialo эксперимент
 * Поставить скрам в стопковид \(+шоукейс\)
+* Культурные нормы записать в видео
 
 ![](../../.gitbook/assets/image%20%2846%29.png)
 
