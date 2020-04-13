@@ -80,6 +80,7 @@
 * [Online курс КАК ОРГАНИЗОВАТЬ СООБЩЕСТВО](https://vector.education/course/11?fbclid=IwAR0NlFVfTTN2PvJ2vasb7AcoQrxRZHCZgn_RsD4haLU79Lv3l-j6SM0Hm0s)
 * [https://ondemand.feverbee.com/](https://ondemand.feverbee.com/)
 * [https://academy.betterworktogether.co/p/network-governance-101](https://academy.betterworktogether.co/p/network-governance-101)
+* [https://bigbluebutton.org](https://bigbluebutton.org)
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
