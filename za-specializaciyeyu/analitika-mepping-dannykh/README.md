@@ -289,9 +289,9 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Тренина снять ограничения на рост
 * Стратегия реинк в стопковиде, то же по тил
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 ![](../../.gitbook/assets/image%20%2825%29.png)
 

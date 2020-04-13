@@ -81,5 +81,5 @@
 * [https://ondemand.feverbee.com/](https://ondemand.feverbee.com/)
 * [https://academy.betterworktogether.co/p/network-governance-101](https://academy.betterworktogether.co/p/network-governance-101)
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
