@@ -67,8 +67,6 @@
 * Writing
 * Communication planning
 
-
-
 ## Идеи
 
 * [https://communityroundtable.com/what-we-do/models-and-frameworks/community-skills-framework/](https://communityroundtable.com/what-we-do/models-and-frameworks/community-skills-framework/)
