@@ -73,6 +73,7 @@
 * [https://www.volonter.org/news/volonterske-vigorannya-yak-rozp%D1%96znati-ta-vberegti](https://www.volonter.org/news/volonterske-vigorannya-yak-rozp%D1%96znati-ta-vberegti)
 * [https://volunteer.country/agents-for-change](https://volunteer.country/agents-for-change)
 * ProBono Club
+* [https://wiki.reincubator.org/metacommunity/baza-znanii-po-km](https://wiki.reincubator.org/metacommunity/baza-znanii-po-km)
 * Мастер класс по фасилитации - Наташа и [https://www.facebook.com/groups/975343552524281](https://www.facebook.com/groups/975343552524281)
 * [Introduction to Communication Science](https://www.coursera.org/learn/communication?fbclid=IwAR3F_WqsgaJnAh8xZiSr_n_WpygHThWPE5f1Awh-BulL9L-wC495B9xxJ3I)
 * [Курс по основам комьюнити-менеджмента для Ассоциации волонтерских центров](https://edu.dobro.ru/courses/25/)
