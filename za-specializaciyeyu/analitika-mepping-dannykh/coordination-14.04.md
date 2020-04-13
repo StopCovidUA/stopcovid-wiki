@@ -21,5 +21,9 @@
 
 + Фандинг сессии
 
+### Макс / Рейтинг
+
+[https://www.givewell.org/](https://www.givewell.org/)
+
 ## Ретроспектива
 
