@@ -287,6 +287,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Поставить скрам в стопковид \(+шоукейс\)
 * Культурные нормы записать в видео
 * Тренина снять ограничения на рост
+* Стратегия реинк в стопковиде, то же по тил
 
 ![](../../.gitbook/assets/image%20%2846%29.png)
 
