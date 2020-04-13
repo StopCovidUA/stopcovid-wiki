@@ -5,6 +5,8 @@
 * 
 ## Вопросы
 
+### Макс / Future Backwards закончить
+
 ### Макс / Провести выборы фаси и секретаря
 
 ### Сая / Координаторы вдохновители
@@ -23,7 +25,7 @@
 
 ### Макс / Рейтинг
 
-[https://www.givewell.org/](https://www.givewell.org/)
+{% embed url="https://www.givewell.org/" %}
 
 ## Ретроспектива
 
