@@ -1,5 +1,7 @@
 # Psychology 14.04
 
+## 
+
 ## Цель и апдейты: 
 
 Сая: эффективная координация направления  псих. поддержки. Структурировала направление. Поделилась материалами из вебинара. Поговорили сегодня с Ириной. Поговорила с волонтерами из Москвы, поделилась нашей структурой направления. 
@@ -28,7 +30,7 @@
 
 Если мы планируем полезный продукт, то надо разделить категорий по запросам. 
 
-Сая: Поизучить каналы коммуникаций: [https://wiki.stopcovid.org.ua/volonteram/psychological-support/y-clients](https://wiki.stopcovid.org.ua/volonteram/psychological-support/y-clients)
+Сая: Поизучить каналы коммуникаций нашего движения: [https://wiki.stopcovid.org.ua/volonteram/psychological-support/y-clients](https://wiki.stopcovid.org.ua/volonteram/psychological-support/y-clients)
 
 ## Сая: Название нашего направления: 
 
