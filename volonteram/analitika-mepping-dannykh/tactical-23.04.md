@@ -1,4 +1,4 @@
-# Tactical 23.04
+# Tactical 23.03
 
 {% embed url="https://youtu.be/Zsneml4\_sbE" %}
 
@@ -19,7 +19,7 @@
 
 ### Макс / Приоритеты
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 Сая: кто займется координацией \(Макс+\)
 

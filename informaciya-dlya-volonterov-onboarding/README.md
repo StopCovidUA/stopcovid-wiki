@@ -29,12 +29,12 @@
 * [Координаторам, аналітикам та проєктним менеджерам](../volonteram/analitika-mepping-dannykh/)
 * [Представникам ЗМІ, комунікаторам, дизайнерам та креаторам](https://app.gitbook.com/@dgov/s/stopcovid/~/drafts/-M3zNx5P-7ysMTiG6jk-/informacionnaya-kampaniya)
 * [Психологам, психотерапевтам, психіатрам](../volonteram/psychological-support/)
-* [Перекладачам](../perekladacham/)
+* [Перекладачам](../volonteram/perekladacham/)
 * [Медикам](../medikam/sistema-zdravookhraneniya/)
 * [IT-спеціалістам та інженерам](../volonteram/it-ta-inzheneram/)
 * [HR'ам](../hr-bezrabotica/)
-* [Юристам](../yuristam.md)
-* [Фінансистам](../finansistam.md)
+* [Юристам](../volonteram/yuristam.md)
+* [Фінансистам](../volonteram/finansistam.md)
 
 {% hint style="warning" %}
 ## Вакансії
