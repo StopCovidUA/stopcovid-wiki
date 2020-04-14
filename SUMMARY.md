@@ -7,7 +7,7 @@
   * [Онлайн курс для мед волонтерів](sistema-zdravookhraneniya/onlain-kurs-dlya-med-volonterov.md)
   * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
   * [13.04](sistema-zdravookhraneniya/13.04.md)
-* [Вразливі верстви населения](bezrabotica.md)
+* [Вразливі верстви населення](vrazlivi-verstvi-naselennya.md)
 * [Незайняті спеціалісти](hr-bezrabotica/README.md)
   * [Tactical 08.04](hr-bezrabotica/tactical-08.04.md)
 * [Экономіка та бізнес](biznesy/README.md)
