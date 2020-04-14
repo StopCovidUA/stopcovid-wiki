@@ -310,6 +310,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Тренина снять ограничения на рост
 * Стратегия реинк в стопковиде, то же по тил
 * OKR - инструмент стратегии / Поюзать [аппку Баса](https://plai.team/)
+* Снимать ограничения
 
 ![](../../.gitbook/assets/image%20%2851%29.png)
 
