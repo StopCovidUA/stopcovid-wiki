@@ -5,7 +5,7 @@
   * [Онбординг сценарий](informaciya-dlya-volonterov-onboarding/onbording-scenarii.md)
 * [\#stopcovid ua - неделя 13](stopcovid-ua-n13.md)
 * [\#stopcovid ua - неделя 14](otchet-po-rabote-stopcovid-ua-nedelya-14.md)
-* [\#stopcovid ua - тиждень 15](untitled.md)
+* [\#stopcovid ua - тиждень 15](stopcovid-ua-tizhden-15.md)
 * [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [🐝 Увійти у робочий чат](https://discord.gg/VqWKqbh)
 
