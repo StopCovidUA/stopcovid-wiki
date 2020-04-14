@@ -8,7 +8,7 @@
 ## Проекты
 
 * Рейтинг инициатив по эффективности вложений
-* Проект с Bird in flight по фоткам
+* [Проект с Bird in flight по фоткам](https://docs.google.com/document/d/1JjpLPZbaBmBfGJZ5zVaTnOOLtyP64TbI0k9lImD9qwU/edit#)
 * Чемпионат по кибериграм среди звезд
 * Обучение психологов кризисному консультированию
 
