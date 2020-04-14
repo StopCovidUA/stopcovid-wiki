@@ -143,6 +143,8 @@
 
 [Соціальний \(безкоштовний\) онлайн прийом УСП](https://www.facebook.com/uspkiev/photos/rpp.972588522830901/2873806489375752/?type=3&theater) 
 
+[База психологов UpLife](https://m.uplife.com.ua/)
+
 [Центр психосоціальної реабілітації НаУКМА](https://www.facebook.com/kmarehab/?tn-str=k%2AF) \(помощь медикам\) 
 
 [Київська філія Української спілки психотерапевтів](https://www.facebook.com/uspkiev/photos/rpp.972588522830901/2873806489375752/?type=3&theater)
