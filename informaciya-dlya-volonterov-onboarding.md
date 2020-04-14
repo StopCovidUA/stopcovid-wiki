@@ -26,15 +26,15 @@
 
 Оберіть один із напрямків роботи та зв'яжіться із координатором напрямку, щоб з'ясувати, яка допомога потрібна.
 
-* [Координаторам, аналітикам та проєктним менеджерам](analitika-mepping-dannykh/)
+* [Координаторам, аналітикам та проєктним менеджерам](volonteram/analitika-mepping-dannykh/)
 * [Представникам ЗМІ, комунікаторам, дизайнерам та креаторам](https://app.gitbook.com/@dgov/s/stopcovid/~/drafts/-M3zNx5P-7ysMTiG6jk-/informacionnaya-kampaniya)
-* [Психологам, психотерапевтам, психіатрам](za-specializaciyeyu/psychological-support/)
-* [Перекладачам](za-specializaciyeyu/perekladacham/)
-* [Медикам](sistema-zdravookhraneniya/)
-* [IT-спеціалістам та інженерам](za-specializaciyeyu/it-ta-inzheneram/)
-* [HR'ам](hram.md)
-* [Юристам](za-specializaciyeyu/yuristam.md)
-* [Фінансистам](analitika-mepping-dannykh/finansistam.md)
+* [Психологам, психотерапевтам, психіатрам](volonteram/psychological-support/)
+* [Перекладачам](volonteram/perekladacham/)
+* [Медикам](medikam/sistema-zdravookhraneniya/)
+* [IT-спеціалістам та інженерам](volonteram/it-ta-inzheneram/)
+* [HR'ам](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/)
+* [Юристам](volonteram/yuristam.md)
+* [Фінансистам](volonteram/finansistam.md)
 
 {% hint style="warning" %}
 ## Вакансії
@@ -61,7 +61,7 @@
 
 Основний робочий чат руху. Тут ви можете створювати канали зі своїм проектом чи напрямком \(попередньо переконайтесь, що інші канали не вирішують вашу задачу\).
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 [Лідерборд](https://mee6.xyz/leaderboard/688064950635462771)
 
@@ -77,7 +77,7 @@
 2. Кожен може винести на обговорення питання, яке допоможе йому досягти цілі. _Наприклад: як зрозуміти, кому апарати потрібні у першу чергу?_
 3. Група обирає порядок розгляду питань й обговорює/пропонує рішення \(5-10 хв на 1 питання\).
 
-Якщо ви з якихось причин пропустили зустріч або хочете щось поточнити, у вас завжди буде можливість переглянути нотатки і запис зустрічі, які додаються до бази знань \([приклад](organizaciya/tactical-16.03.md)\).
+Якщо ви з якихось причин пропустили зустріч або хочете щось поточнити, у вас завжди буде можливість переглянути нотатки і запис зустрічі, які додаються до бази знань \([приклад](volonteram/analitika-mepping-dannykh/tactical-16.03.md)\).
 
 ## [Теlegram-чат](https://t.me/stopcovidua)
 

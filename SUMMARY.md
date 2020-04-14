@@ -1,8 +1,7 @@
 # Table of contents
 
 * [🖐 Вітаємо. Го допомагати!](README.md)
-* [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding/README.md)
-  * [Онбординг сценарий](informaciya-dlya-volonterov-onboarding/onbording-scenarii.md)
+* [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding.md)
 * [\#stopcovid ua - неделя 13](stopcovid-ua-n13.md)
 * [\#stopcovid ua - неделя 14](otchet-po-rabote-stopcovid-ua-nedelya-14.md)
 * [\#stopcovid ua - тиждень 15](stopcovid-ua-tizhden-15.md)
@@ -19,6 +18,7 @@
 ## Волонтерам
 
 * [Стратегія координації](volonteram/analitika-mepping-dannykh/README.md)
+  * [Онбординг сценарий](volonteram/analitika-mepping-dannykh/onbording-scenarii.md)
   * [Обучение координаторов](volonteram/analitika-mepping-dannykh/obuchenie-koordinator-volonterov.md)
   * [Tactical 16.03](volonteram/analitika-mepping-dannykh/tactical-16.03.md)
   * [Tactical 17.03](volonteram/analitika-mepping-dannykh/tactical-17.03.md)
@@ -95,13 +95,13 @@
 * [Біздеви та інноваційні директори](volonteram/inkubator-bizdev.md)
 * [Митці](volonteram/mistectvo.md)
 
-## Вразливі верстви населення <a id="vrazlivi-verstvi-naselennya-1"></a>
+## Вразливим верствам населення <a id="vrazlivi-verstvi-naselennya-1"></a>
 
 * [Вразливі верстви населення](vrazlivi-verstvi-naselennya-1/vrazlivi-verstvi-naselennya.md)
 * [Незайняті спеціалісти](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/README.md)
   * [Tactical 08.04](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/tactical-08.04.md)
 
-## Бізнес
+## Бізнесу <a id="biznes"></a>
 
 * [Экономіка та бізнес](biznes/biznesy/README.md)
   * [Список компаний которые поддержали борьбу с covid-19](biznes/biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
