@@ -14,11 +14,19 @@
 
 * [\#medics](https://discord.gg/JARdyyZ)
 
+## Ролі
+
+* Допомога медикам: [Сергей DropTablePassword](https://t.me/drop_table_password)
+* Медичні матеріали – Алекс, Аркадій
+
+## Радники
+
+* Катерина Булавинова – Інфекціоніст, медичний експерт Дитячого фонду ООН \(ЮНІСЕФ\) в Україні
+* Марина Кедрова – специалист по коммуникациям, коуч, биолог, консультант по здоровью, автор науч.популярных статей. Проходила курс вирусологии, микробиологии, физиологии человека и иммунологии и др. во время учебы в ХНУ им. Каразина. Работала в научной сфере до 2016 г, могу критично воспринимать научную информацию, анализировать публикации и т.п. . У меня есть психологическая подготовка и практический опыт. Мед.: подготовка, медицинский сертификат младшей медицинский сестры, сертификат Красного креста. Есть опыт преподавательской работы со взрослыми, обучение детей. Профессионально и с интересом работаю и общаюсь с аудиторией по разным каналам коммуникации.
+
 ### Врачи не получили все материалы и протоколы
 
 * База знаний и бот протокол?
-
-![](../.gitbook/assets/image%20%2842%29.png)
 
 ## Запити на постачання
 
@@ -63,10 +71,10 @@
 * Є коди на uber та уклон
 * [\#підвезимедиканароботу: українці гуртуються, щоб довозити персонал у лікарні](https://life.pravda.com.ua/society/2020/03/19/240277/)
 * [Переводы протоколов, инструкций к тестам и актуальных статей](https://coronavirus.co.ua/)
-* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](../vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Важливі матеріали для медиків про COVID-19 \(переклади\)](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
 * Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
-* [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
+* [Онлайн курс для мед волонтеров](../onlain-kurs-dlya-med-volonterov.md)
 
 ### Житло
 
@@ -75,10 +83,10 @@
 ## Матеріали
 
 * [Переводы протоколов, инструкций к тестам и актуальных статей](https://coronavirus.co.ua/)
-* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](../vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Важливі матеріали для медиків про COVID-19 \(переклади\)](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
 * Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
-* [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
+* [Онлайн курс для мед волонтеров](../onlain-kurs-dlya-med-volonterov.md)
 
 ## Банк ідей
 

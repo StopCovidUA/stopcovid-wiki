@@ -15,12 +15,16 @@
 * [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [🐝 Увійти у робочий чат](https://discord.gg/VqWKqbh)
 
+## Волонтерам
+
+* [Untitled](volonteram/untitled.md)
+
 ## Медикам
 
-* [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya.md)
+* [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
+  * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
-* [13.04](medikam/13.04.md)
 
 ## За спеціалізацією
 

@@ -30,7 +30,7 @@
 * [Представникам ЗМІ, комунікаторам, дизайнерам та креаторам](https://app.gitbook.com/@dgov/s/stopcovid/~/drafts/-M3zNx5P-7ysMTiG6jk-/informacionnaya-kampaniya)
 * [Психологам, психотерапевтам, психіатрам](../za-specializaciyeyu/psychological-support/)
 * [Перекладачам](../za-specializaciyeyu/perekladacham/)
-* [Медикам](../medikam/sistema-zdravookhraneniya.md)
+* [Медикам](../medikam/sistema-zdravookhraneniya/)
 * [IT-спеціалістам та інженерам](../za-specializaciyeyu/it-ta-inzheneram/)
 * [HR'ам](../hr-bezrabotica/)
 * [Юристам](../za-specializaciyeyu/yuristam.md)
