@@ -3,20 +3,18 @@
 * [🖐 Вітаємо. Го допомагати!](README.md)
 * [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding/README.md)
   * [Онбординг сценарий](informaciya-dlya-volonterov-onboarding/onbording-scenarii.md)
-* [Вразливі верстви населення](vrazlivi-verstvi-naselennya.md)
-* [Незайняті спеціалісти](hr-bezrabotica/README.md)
-  * [Tactical 08.04](hr-bezrabotica/tactical-08.04.md)
-* [Экономіка та бізнес](biznesy/README.md)
-  * [Список компаний которые поддержали борьбу с covid-19](biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
-  * [Допомога у веденні бізнесу](biznesy/dopomoga-u-vedenni-biznesu.md)
-  * [Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу](biznesy/untitled/README.md)
-    * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
-    * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznesy/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
 * [\#stopcovid ua - неделя 13](stopcovid-ua-n13.md)
 * [\#stopcovid ua - неделя 14](otchet-po-rabote-stopcovid-ua-nedelya-14.md)
 * [\#stopcovid ua - тиждень 15](untitled.md)
 * [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [🐝 Увійти у робочий чат](https://discord.gg/VqWKqbh)
+
+## Медикам
+
+* [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
+  * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
+* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+* [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
 
 ## Волонтерам
 
@@ -97,12 +95,20 @@
 * [Фінансисти та економісти](volonteram/finansistam.md)
 * [Митці](volonteram/mistectvo.md)
 
-## Медикам
+## Вразливі верстви населення <a id="vrazlivi-verstvi-naselennya-1"></a>
 
-* [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
-  * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
-* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
-* [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
+* [Вразливі верстви населення](vrazlivi-verstvi-naselennya-1/vrazlivi-verstvi-naselennya.md)
+* [Незайняті спеціалісти](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/README.md)
+  * [Tactical 08.04](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/tactical-08.04.md)
+
+## Бізнес
+
+* [Экономіка та бізнес](biznes/biznesy/README.md)
+  * [Список компаний которые поддержали борьбу с covid-19](biznes/biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
+  * [Допомога у веденні бізнесу](biznes/biznesy/dopomoga-u-vedenni-biznesu.md)
+  * [Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу](biznes/biznesy/untitled/README.md)
+    * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznes/biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
+    * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/biznesy/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
 
 ## Контент для сайту <a id="do-saitu"></a>
 

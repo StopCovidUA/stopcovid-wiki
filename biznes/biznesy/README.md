@@ -5,12 +5,12 @@
 * Бізнес знає, які є потреби на ринку, та куди інвестувати ресурси \(контекстно по типу допомоги і регіонах\).
 * Відповідна до ситуації поведінка покращує репутацію бізнесу,  невідповідна - погіршує. 
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 ## Проекти
 
 * [Група фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) – запити, "що потрібно громадам".
-* [Аналітична платформа](../volonteram/analitika-mepping-dannykh/)
+* [Аналітична платформа](../../volonteram/analitika-mepping-dannykh/)
 * [Список компаний которые поддержали борьбу с covid-19](spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
 * [Список фондов для поддержки больниц, пожилых людей и тд](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0)
 * Фонд

@@ -32,7 +32,7 @@
 * [Перекладачам](../volonteram/perekladacham/)
 * [Медикам](../medikam/sistema-zdravookhraneniya/)
 * [IT-спеціалістам та інженерам](../volonteram/it-ta-inzheneram/)
-* [HR'ам](../hr-bezrabotica/)
+* [HR'ам](../vrazlivi-verstvi-naselennya-1/hr-bezrabotica/)
 * [Юристам](../volonteram/yuristam.md)
 * [Фінансистам](../volonteram/finansistam.md)
 
