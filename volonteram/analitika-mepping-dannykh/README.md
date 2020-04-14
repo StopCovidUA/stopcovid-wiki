@@ -316,6 +316,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * OKR - инструмент стратегии / Поюзать [аппку Баса](https://plai.team/)
 * Снимать ограничения
 * Использовать ограничения как трамплины
+* Поставить галочки по каждому принципу в регистрационной форме \(typeform\)
 
 ![](../../.gitbook/assets/image%20%2852%29.png)
 
