@@ -317,6 +317,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Снимать ограничения
 * Использовать ограничения как трамплины
 * Поставить галочки по каждому принципу в регистрационной форме \(typeform\)
+* Сделать видео как все работает
 
 ![](../../.gitbook/assets/image%20%2852%29.png)
 
