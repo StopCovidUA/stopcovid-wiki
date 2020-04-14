@@ -3,10 +3,6 @@
 * [🖐 Вітаємо. Го допомагати!](README.md)
 * [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding/README.md)
   * [Онбординг сценарий](informaciya-dlya-volonterov-onboarding/onbording-scenarii.md)
-* [Система охорони здоров'я](sistema-zdravookhraneniya/README.md)
-  * [Онлайн курс для мед волонтерів](sistema-zdravookhraneniya/onlain-kurs-dlya-med-volonterov.md)
-  * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](sistema-zdravookhraneniya/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
-  * [13.04](sistema-zdravookhraneniya/13.04.md)
 * [Вразливі верстви населення](vrazlivi-verstvi-naselennya.md)
 * [Незайняті спеціалісти](hr-bezrabotica/README.md)
   * [Tactical 08.04](hr-bezrabotica/tactical-08.04.md)
@@ -21,7 +17,10 @@
 
 ## Медикам
 
-* [Untitled](medikam/untitled.md)
+* [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya.md)
+* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+* [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
+* [13.04](medikam/13.04.md)
 
 ## За спеціалізацією
 
@@ -92,7 +91,7 @@
 
 * [\#stopcovid ua - неделя 13](zviti/stopcovid-ua-n13.md)
 * [\#stopcovid ua - неделя 14](zviti/otchet-po-rabote-stopcovid-ua-nedelya-14.md)
-* [\#stopcovid ua - неделя 15](zviti/untitled.md)
+* [\#stopcovid ua - тиждень 15](zviti/untitled.md)
 
 ## Зустрічі <a id="organizaciya"></a>
 
