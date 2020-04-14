@@ -53,11 +53,3 @@
 
 * Можно [увеличить покрытие тестированием пузырьковой сортировкой](https://www.medrxiv.org/content/10.1101/2020.03.27.20043968v1) \([обсуждение](https://twitter.com/koeppelmann/status/1245037948099330048?s=21)\)
 
-## Мемы недели
-
-![](../.gitbook/assets/image%20%2855%29.png)
-
-{% embed url="https://youtu.be/MMA\_IvpPBQE" %}
-
-{% embed url="https://youtu.be/uDv27gn0HmM" %}
-
