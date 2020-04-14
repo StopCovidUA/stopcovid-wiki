@@ -90,9 +90,9 @@
   * [Tactical 28.03](volonteram/perekladacham/tactical-28.03.md)
   * [Цілі, способи та тактика роботи з матеріалами](volonteram/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
 * [Освітяни](volonteram/p2p-education/README.md)
-  * [Біздеви та інноваційні директори](volonteram/p2p-education/inkubator-bizdev.md)
   * [Школам та вишам](volonteram/p2p-education/udalennoe-i-onlain-obrazovanie.md)
 * [Фінансисти та економісти](volonteram/finansistam.md)
+* [Біздеви та інноваційні директори](volonteram/inkubator-bizdev.md)
 * [Митці](volonteram/mistectvo.md)
 
 ## Вразливі верстви населення <a id="vrazlivi-verstvi-naselennya-1"></a>
