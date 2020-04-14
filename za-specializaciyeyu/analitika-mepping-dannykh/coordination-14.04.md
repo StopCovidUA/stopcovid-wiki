@@ -5,6 +5,10 @@
 * 
 ## Вопросы
 
+### Макс / Структура работы
+
+[https://miro.com/app/board/o9J\_kukEi2M=/](https://miro.com/app/board/o9J_kukEi2M=/)
+
 ### Макс / Future Backwards закончить
 
 ### Сая / Координаторы вдохновители
