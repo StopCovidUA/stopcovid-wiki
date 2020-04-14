@@ -19,6 +19,7 @@ description: 'Координаторам, аналітикам і проєктн
 ## Ролі
 
 * Загальна координація: [Макс Семенчук](https://t.me/maxsemenchuk)
+* Допомога медикам: [Сергей DropTablePassword](https://t.me/drop_table_password)
 * Зв'язок із волонтерами: [Vitaliy Gataulin](https://t.me/VGataulin)
 * Комунікацї [Діана Кінг](https://t.me/dianatheking)
 * Псіхологічна підтримка [Жансая Жайсанбаєва](https://t.me/SayaSemenchuk)
