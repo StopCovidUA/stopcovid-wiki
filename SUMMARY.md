@@ -12,6 +12,9 @@
   * [Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу](biznesy/untitled/README.md)
     * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
     * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznesy/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
+* [\#stopcovid ua - неделя 13](stopcovid-ua-n13.md)
+* [\#stopcovid ua - неделя 14](otchet-po-rabote-stopcovid-ua-nedelya-14.md)
+* [\#stopcovid ua - тиждень 15](untitled.md)
 * [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [🐝 Увійти у робочий чат](https://discord.gg/VqWKqbh)
 
@@ -100,12 +103,6 @@
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
-
-## Тижневі звіти <a id="zviti"></a>
-
-* [\#stopcovid ua - неделя 13](zviti/stopcovid-ua-n13.md)
-* [\#stopcovid ua - неделя 14](zviti/otchet-po-rabote-stopcovid-ua-nedelya-14.md)
-* [\#stopcovid ua - тиждень 15](zviti/untitled.md)
 
 ## Контент для сайту <a id="do-saitu"></a>
 
