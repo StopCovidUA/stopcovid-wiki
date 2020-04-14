@@ -19,6 +19,10 @@
 * [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
 * [🐝 Увійти у робочий чат](https://discord.gg/VqWKqbh)
 
+## Медикам
+
+* [Untitled](medikam/untitled.md)
+
 ## За спеціалізацією
 
 * [Координатори](za-specializaciyeyu/analitika-mepping-dannykh/README.md)
