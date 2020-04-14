@@ -82,5 +82,5 @@
 * [https://academy.betterworktogether.co/p/network-governance-101](https://academy.betterworktogether.co/p/network-governance-101)
 * [https://bigbluebutton.org](https://bigbluebutton.org)
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
