@@ -2,7 +2,7 @@
 
 
 
-![https://communityroundtable.com/what-we-do/models-and-frameworks/community-skills-framework/](../../.gitbook/assets/image%20%2823%29.png)
+![https://communityroundtable.com/what-we-do/models-and-frameworks/community-skills-framework/](../../.gitbook/assets/image%20%2824%29.png)
 
 ## Strategy
 
@@ -82,5 +82,5 @@
 * [https://academy.betterworktogether.co/p/network-governance-101](https://academy.betterworktogether.co/p/network-governance-101)
 * [https://bigbluebutton.org](https://bigbluebutton.org)
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
