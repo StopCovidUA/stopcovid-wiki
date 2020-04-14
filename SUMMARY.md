@@ -54,6 +54,7 @@
   * [Tech Tactical 01.04](za-specializaciyeyu/it-ta-inzheneram/tactical-01.04.md)
   * [Tech Tactical 07.04](za-specializaciyeyu/it-ta-inzheneram/tech-tactical-01.04.md)
 * [Психологи та психотерапевти](za-specializaciyeyu/psychological-support/README.md)
+  * [Y-clients](za-specializaciyeyu/psychological-support/y-clients.md)
   * [Events](za-specializaciyeyu/psychological-support/events.md)
   * [Events policy\*](za-specializaciyeyu/psychological-support/events-1.md)
   * [Psychology 09.04](za-specializaciyeyu/psychological-support/psychology-09.04.md)
