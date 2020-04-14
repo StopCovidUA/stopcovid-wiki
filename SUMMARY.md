@@ -77,7 +77,7 @@
   * [Цілі, способи та тактика роботи з матеріалами](za-specializaciyeyu/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
 * [Освітяни](za-specializaciyeyu/p2p-education/README.md)
   * [Школам та вишам](za-specializaciyeyu/p2p-education/udalennoe-i-onlain-obrazovanie.md)
-* [Фінансисти](za-specializaciyeyu/finansistam.md)
+* [Фінансисти та економісти](za-specializaciyeyu/finansistam.md)
 * [HR'и](za-specializaciyeyu/hri.md)
 * [Біздеви та інноваційні директори](za-specializaciyeyu/inkubator-bizdev.md)
 * [Митці](za-specializaciyeyu/mistectvo.md)
