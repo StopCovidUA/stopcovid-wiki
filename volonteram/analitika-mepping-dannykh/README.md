@@ -47,6 +47,27 @@ description: 'Координаторам, аналітикам і проєктн
 * [Дошка вакансій](https://trello.com/b/IkonsFAY/main-board)
 * Телеграм канал [\#stopcoviduaupdates](https://t.me/stopcoviduaupdates)
 
+## Development Plan
+
+\(c\) [Nathan Snyder](https://www.linkedin.com/in/nathanvsnyder/)
+
+1. Marketing and Communications – Cross-channel and cross-platform meme-making.
+2. Membership and Volunteer Coordination – Building invitations, initiations, and portals for new members and supporters. 
+3. Operations and Finance – How do we execute while efficiently coordinating between labor-capital and capital-capital?
+4. Political Strategy Design – How do we relate to political persons of interest?
+5. Strategic Partnerships – How do we relate to non-profits, NGOs, and corporations?
+
+Let’s say these 5 functions which comprise the administration had within them 5 levels of task complexity associated with the work objectives of each function. Here are examples of how to organize that:  
+****
+
+|  | Marketing/Comms | Members/Volunteers | Ops/Finance | Political Strategy | Partnerships |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Level 1 | Writing Tweets or designing landing pages | Enacting membership or being among SOPP body | Tallying the SOPP ledgers at a functional level  | Systems/stakeholder mapping at and below the municipal level  | Dialogue building within mission and vision of org/institution |
+| Level 2 | Setting campaign standards across channels for continuous improvement | Implementing systems of membership, measuring and reincorporating results  | Designing and implementing systems of accounting & Opps efficiency | Building and measuring the results of coalition movements beneath the state level | Designing the systems of content-structure mapping  |
+| Level 3 | e2e redesign of comms method  | Redesigning entire systems/processes + initiations of membership and inclusion  | Redesigning entire ledger across the spectrum  | Making new oppositional unities of existing and dormant political camps | Redesigning the systems of partnership making  |
+| Level 4 | Redefining meta-strategy of comms  | Identity and inclusion making and leadership  | Privately  & public finance making socio-technical systems making | Assuming leadership positions as an overt and covert actor within the existing system  | Hosting executive. level partnerships relations  |
+| Level 5 | Transformation of entire SOPP comms function including historical recasting  | Meta-sovereignty and cooperation stewardship/re-definition of historicity  | Trans-capital leadership and influence  | Leading new political practice | Making new institutions of partnership |
+
 ## Вибудовання стратегії
 
 ### Рада стейкхолдерів
