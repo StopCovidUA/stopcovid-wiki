@@ -1,7 +1,25 @@
-# Сервис транспортировки врачей
+# Транспортні сервіси
 
 * [Все инициативы по перевозке](https://docs.google.com/spreadsheets/d/1vLV7Rkt4EQxMTqgXS66th4bsdTj--MgZa_heMlfQT-o/edit#gid=0)
-* Група координаторов в телеграме \(закрыта, напишите [Сергею](https://t.me/drop_table_password)\)
+* Група координаторов в телеграме \(закрыта, напишите [Сергею](https://t.me/drop_table_password)\)ґ
+
+### Допомога з транспортуванням
+
+* Групи підвези медика:  [https://t.me/helpdoctorsCoronavlrus](https://t.me/helpdoctorsCoronavlrus), @MedHelpKyiv1, @Medikoronavirus
+* [https://poputi.club/](https://poputi.club/) — є безкоштовні маршрути для лікарів
+* Є коди на uber та уклон
+* [\#підвезимедиканароботу: українці гуртуються, щоб довозити персонал у лікарні](https://life.pravda.com.ua/society/2020/03/19/240277/)
+* [Переводы протоколов, инструкций к тестам и актуальных статей](https://coronavirus.co.ua/)
+* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+* [Важливі матеріали для медиків про COVID-19 \(переклади\)](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
+* Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
+* [Онлайн курс для мед волонтеров](onlain-kurs-dlya-med-volonterov.md)
+
+Медики не знають, як користуватися сервісами, не у всіх є сучасні девайси. Для дзвінків потрібна автоматизація.
+
+* [Система логістики товаров](../vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
+* [Сервіси транспортування лікарів](servisy-transportirovki-vrachei.md)
+* [https://l2mtk.glideapp.io/](https://l2mtk.glideapp.io/)
 
 ## Идеи
 

@@ -64,17 +64,7 @@
 * \*\*\*\*[**ЛікарВторінкі**](https://www.facebook.com/groups/likarvtorynky/) ****
 * [Група Медиторія - медична територія](https://www.facebook.com/groups/meditory.com.ua)
 
-### Допомога з транспортуванням
-
-* Групи підвези медика:  [https://t.me/helpdoctorsCoronavlrus](https://t.me/helpdoctorsCoronavlrus), @MedHelpKyiv1, @Medikoronavirus
-* [https://poputi.club/](https://poputi.club/) — є безкоштовні маршрути для лікарів
-* Є коди на uber та уклон
-* [\#підвезимедиканароботу: українці гуртуються, щоб довозити персонал у лікарні](https://life.pravda.com.ua/society/2020/03/19/240277/)
-* [Переводы протоколов, инструкций к тестам и актуальных статей](https://coronavirus.co.ua/)
-* [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](../vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
-* [Важливі матеріали для медиків про COVID-19 \(переклади\)](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
-* Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
-* [Онлайн курс для мед волонтеров](../onlain-kurs-dlya-med-volonterov.md)
+### 
 
 ### Житло
 
@@ -87,6 +77,24 @@
 * [Важливі матеріали для медиків про COVID-19 \(переклади\)](https://drive.google.com/drive/folders/1WQoWinMhR55AIEHjRTW7HfveT21M84YS)
 * Коронавірус — актуальні матеріали [https://coronavirus.co.ua/](https://coronavirus.co.ua/)
 * [Онлайн курс для мед волонтеров](../onlain-kurs-dlya-med-volonterov.md)
+
+## Больше ресурсов
+
+* [https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/](https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/)
+* [Open Source ventilator hackathon](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/?fbclid=IwAR21A0LNDOajH30Shd0f7hPemwYIncr-g5dqVlqqHOWjStVO-jUaDo9TrOQ)
+* [Open Source COVID19 Medical Supplies](https://www.facebook.com/groups/670932227050506/)
+* [There’s A Shortage Of Ventilators For Coronavirus Patients, So This International Group Invented An Open Source Alternative That’s Being Tested Next Week](https://www.forbes.com/sites/alexandrasternlicht/2020/03/18/theres-a-shortage-of-ventilators-for-coronavirus-patients-so-this-international-group-invented-an-open-source-alternative-thats-being-tested-next-week/)
+* [https://www.facebook.com/Fabricator.me/posts/3415059838521130](https://www.facebook.com/Fabricator.me/posts/3415059838521130)
+* [Тренажер дыхания – стимулирующий спирометр Voldyne 5000](https://ark-ukraine.com.ua/product/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80-%D0%B4%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D1%81%D0%BF%D0%B8/)
+* сложнее: - кислородные маски, нужен еще кислород и обучение
+* Из реально сложных вещей - кустарные аппараты ИВЛ
+* [https://korrespondent.net/world/4207134-v-chekhyy-budut-pechatat-respyratory-na-3D-pryntere](https://korrespondent.net/world/4207134-v-chekhyy-budut-pechatat-respyratory-na-3D-pryntere)
+* [https://osventilator.slack.com/](https://osventilator.slack.com/)
+* [https://www.youtube.com/watch?v=uClq978oohY&feature=emb\_title](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
+* Виктор Шкурба и дрон юа
+* IJS, PRISTOP & GZS have initiated a respirator project Mr.Sekulic and his group have initiated a group to hack Covid-19 through developing test kits, respirators based on MITs open source plans MIT have initiated several projects with regards to Covid-19. LABENA has been helping with their lab, network, and by donating equipment since early february.
+* Можно сделать саморепортинг \(анонимный\) о симптомах болезни
+* Мобильные лабы для тестирования
 
 ## Банк ідей
 

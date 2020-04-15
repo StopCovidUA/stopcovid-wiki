@@ -33,7 +33,7 @@
 * [Медикам](medikam/sistema-zdravookhraneniya/)
 * [IT-спеціалістам та інженерам](volonteram/it-ta-inzheneram/)
 * [HR'ам](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/)
-* [Юристам](volonteram/yuristam.md)
+* [Юристам]()
 * [Фінансистам](volonteram/finansistam.md)
 
 {% hint style="warning" %}
