@@ -19,6 +19,7 @@
 ## Волонтерам
 
 * [Стратегія координації](volonteram/analitika-mepping-dannykh/README.md)
+  * [Платформа волонтеров](volonteram/analitika-mepping-dannykh/platforma-volonterov.md)
   * [Онбординг сценарий](volonteram/analitika-mepping-dannykh/onbording-scenarii.md)
   * [Обучение координаторов](volonteram/analitika-mepping-dannykh/obuchenie-koordinator-volonterov.md)
   * [Tactical 16.03](volonteram/analitika-mepping-dannykh/tactical-16.03.md)
@@ -75,7 +76,6 @@
   * [Psychology 07.04](volonteram/psychological-support/psychology-07.04.md)
 * [HR'и](volonteram/hri.md)
 * [Технологи та інженери](volonteram/it-ta-inzheneram/README.md)
-  * [Платформа волонтеров](volonteram/it-ta-inzheneram/platforma-volonterov.md)
   * [Этичный трекинг](volonteram/it-ta-inzheneram/etitchnyi-treking.md)
   * [Системы тестирования](volonteram/it-ta-inzheneram/sistemy-testirovaniya.md)
   * [Телемедицина](volonteram/it-ta-inzheneram/telemedicina.md)

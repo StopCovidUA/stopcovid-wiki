@@ -13,4 +13,6 @@
 ## Идеи
 
 * SSID без Блокчейн
+* [https://www.volonter.org/](https://www.volonter.org/)
+* [https://volunteer.country/](https://volunteer.country/)
 
