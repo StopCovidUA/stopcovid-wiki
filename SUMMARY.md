@@ -2,11 +2,11 @@
 
 * [🖐 Вітаємо. Го допомагати!](README.md)
 * [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding.md)
+* [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
+* [🐝 Увійти у робочий чат](https://discord.gg/VqWKqbh)
 * [\#stopcovid ua - неделя 13](stopcovid-ua-n13.md)
 * [\#stopcovid ua - неделя 14](otchet-po-rabote-stopcovid-ua-nedelya-14.md)
 * [\#stopcovid ua - тиждень 15](stopcovid-ua-tizhden-15.md)
-* [🔥 Канал з оновленнями](https://t.me/stopcoviduaupdates)
-* [🐝 Увійти у робочий чат](https://discord.gg/VqWKqbh)
 
 ## Медикам
 
@@ -101,7 +101,8 @@
   * [Tactical 15.04](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/tactical-15.04.md)
 * [Система логистики товаров](vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
 * [Экология](vrazlivi-verstvi-naselennya-1/ekologiya.md)
-* [Ты нужен миру дома](vrazlivi-verstvi-naselennya-1/ty-nuzhen-miru-doma.md)
+* [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya-1/ty-nuzhen-miru-doma.md)
+* [Кампанія "Жити по-новому"](vrazlivi-verstvi-naselennya-1/kampaniya-zhiti-po-novomu.md)
 
 ## Бізнесу <a id="biznes"></a>
 
