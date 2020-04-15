@@ -28,10 +28,10 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 ## Наші кампанії
 
 * [Лікарі — герої](vrachi.md)
-* [\#безтебеніяк](obshee-delo.md)
+* [\#безтебеніяк](../obshee-delo.md)
 * [Ти потрібен світові вдома](ty-nuzhen-miru-doma.md)
 * Психологічна підтримка
-* [Экология](ekologiya.md)
+* [Экология](../../vrazlivi-verstvi-naselennya-1/ekologiya.md)
 
 ## Координатори напрямку
 

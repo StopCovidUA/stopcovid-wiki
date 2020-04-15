@@ -1,7 +1,8 @@
 # Table of contents
 
 * [🖐 Вітаємо. Го допомагати!](README.md)
-* [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding.md)
+* [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding/README.md)
+  * [HR'и](informaciya-dlya-volonterov-onboarding/hri.md)
 * [\#stopcovid ua - неделя 13](stopcovid-ua-n13.md)
 * [\#stopcovid ua - неделя 14](otchet-po-rabote-stopcovid-ua-nedelya-14.md)
 * [\#stopcovid ua - тиждень 15](stopcovid-ua-tizhden-15.md)
@@ -44,12 +45,11 @@
   * [Coordination 07.04](volonteram/analitika-mepping-dannykh/coordination-07.04.md)
   * [Coordination 09.04](volonteram/analitika-mepping-dannykh/coordination-09.04.md)
   * [Coordination 14.04](volonteram/analitika-mepping-dannykh/coordination-14.04.md)
+* [\#безтебеніяк](volonteram/obshee-delo.md)
 * [Комунікатори](volonteram/informacionnaya-kampaniya/README.md)
   * [Communication](volonteram/informacionnaya-kampaniya/communication.md)
   * [Еженедельный онлайн бар](volonteram/informacionnaya-kampaniya/ezhenedelnyi-onlain-bar.md)
-  * [\#безтебеніяк](volonteram/informacionnaya-kampaniya/obshee-delo.md)
   * [Врачи – герои](volonteram/informacionnaya-kampaniya/vrachi.md)
-  * [Экология](volonteram/informacionnaya-kampaniya/ekologiya.md)
   * [Ты нужен миру дома](volonteram/informacionnaya-kampaniya/ty-nuzhen-miru-doma.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](volonteram/informacionnaya-kampaniya/comms-19.03.md)
@@ -79,7 +79,6 @@
   * [Psychology 31.03](volonteram/psychological-support/psychology-31.03.md)
   * [Psychology 02.04](volonteram/psychological-support/psychology-02.04.md)
   * [Psychology 07.04](volonteram/psychological-support/psychology-07.04.md)
-* [HR'и](volonteram/hri.md)
 * [Технологи та інженери](volonteram/it-ta-inzheneram/README.md)
   * [Tech Tactical 01.04](volonteram/it-ta-inzheneram/tactical-01.04.md)
   * [Tech Tactical 07.04](volonteram/it-ta-inzheneram/tech-tactical-01.04.md)
@@ -105,15 +104,16 @@
   * [Tactical 08.04](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/tactical-08.04.md)
   * [Tactical 15.04](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/tactical-15.04.md)
 * [Система логистики товаров](vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
+* [Экология](vrazlivi-verstvi-naselennya-1/ekologiya.md)
 
 ## Бізнесу <a id="biznes"></a>
 
-* [Стратегія розвитку бізнесу](biznes/biznesy/README.md)
-  * [Список компаний которые поддержали борьбу с covid-19](biznes/biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
-  * [Допомога у веденні бізнесу](biznes/biznesy/dopomoga-u-vedenni-biznesu.md)
-  * [Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу](biznes/biznesy/untitled/README.md)
-    * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznes/biznesy/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
-    * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/biznesy/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
+* [Стратегія розвитку бізнесу](biznes/biznesy.md)
+* [Зміни регуляторів](biznes/dopomoga-u-vedenni-biznesu.md)
+* [Дистанційна робота](biznes/untitled/README.md)
+  * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznes/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
+  * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
+* [Список компаний которые поддержали борьбу с covid-19](biznes/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
 
 ## Контент для сайту <a id="do-saitu"></a>
 
