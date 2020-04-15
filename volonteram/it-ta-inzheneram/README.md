@@ -28,14 +28,14 @@ Office of Technology Assessment: Інтегрувати технології у 
 
 * [\#it-engineers](https://discord.gg/GMGzPN6)
 * [\#ivl-tech](https://discord.gg/yxFSSRx) – обговорення виробництва та модификації апаратів ШВЛ
-* [Система логістики](sistema-logistiki.md)
+* [Система логістики](../../vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
 
 ## Транспортні сервіси
 
 Медики не знають, як користуватися сервісами, не у всіх є сучасні девайси. Для дзвінків потрібна автоматизація.
 
-* [Система логістики товаров](sistema-logistiki.md)
-* [Сервіси транспортування лікарів](servisy-transportirovki-vrachei.md)
+* [Система логістики товаров](../../vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
+* [Сервіси транспортування лікарів](../../medikam/servisy-transportirovki-vrachei.md)
 * [https://l2mtk.glideapp.io/](https://l2mtk.glideapp.io/)
 
 ## Медичні сервисы

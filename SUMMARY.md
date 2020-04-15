@@ -14,7 +14,11 @@
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
   * [Untitled](medikam/sistema-zdravookhraneniya/untitled.md)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+* [Сервис транспортировки врачей](medikam/servisy-transportirovki-vrachei.md)
 * [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
+* [Телемедицина](medikam/telemedicina.md)
+* [Системы тестирования](medikam/sistemy-testirovaniya.md)
+* [Этичный трекинг](medikam/etitchnyi-treking.md)
 
 ## Волонтерам
 
@@ -76,11 +80,6 @@
   * [Psychology 07.04](volonteram/psychological-support/psychology-07.04.md)
 * [HR'и](volonteram/hri.md)
 * [Технологи та інженери](volonteram/it-ta-inzheneram/README.md)
-  * [Этичный трекинг](volonteram/it-ta-inzheneram/etitchnyi-treking.md)
-  * [Системы тестирования](volonteram/it-ta-inzheneram/sistemy-testirovaniya.md)
-  * [Телемедицина](volonteram/it-ta-inzheneram/telemedicina.md)
-  * [Система логистики товаров](volonteram/it-ta-inzheneram/sistema-logistiki.md)
-  * [Сервисы транспортировки врачей](volonteram/it-ta-inzheneram/servisy-transportirovki-vrachei.md)
   * [Tech Tactical 01.04](volonteram/it-ta-inzheneram/tactical-01.04.md)
   * [Tech Tactical 07.04](volonteram/it-ta-inzheneram/tech-tactical-01.04.md)
 * [Оператори StopCovidUA Bot](volonteram/operatoram-stopcovidua-bot.md)
@@ -101,8 +100,9 @@
 ## Вразливим верствам населення <a id="vrazlivi-verstvi-naselennya-1"></a>
 
 * [Вразливі верстви населення](vrazlivi-verstvi-naselennya-1/vrazlivi-verstvi-naselennya.md)
-* [Незайняті спеціалісти](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/README.md)
+* [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/README.md)
   * [Tactical 08.04](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/tactical-08.04.md)
+* [Система логистики товаров](vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
 
 ## Бізнесу <a id="biznes"></a>
 
