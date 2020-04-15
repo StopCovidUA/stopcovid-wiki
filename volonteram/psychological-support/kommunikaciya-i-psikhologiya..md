@@ -30,9 +30,11 @@
 
 Ссылка на сайт института: [Інститут медико-соціальних проблем вразливих категорій населення](http://ukrims.org/)
 
-Объявление:  
+Соц.сети; [https://www.facebook.com/%D0%86%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82-%D0%BC%D0%B5%D0%B4%D0%B8%D0%BA%D0%BE-%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D1%85-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-105580844234157/](https://www.facebook.com/%D0%86%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82-%D0%BC%D0%B5%D0%B4%D0%B8%D0%BA%D0%BE-%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D1%85-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-105580844234157/)
 
-Соц.сети; 
+Как они о нас говорят у себя: [https://www.facebook.com/105580844234157/photos/a.197536688371905/199924798133094/?type=3&theater](https://www.facebook.com/105580844234157/photos/a.197536688371905/199924798133094/?type=3&theater)
+
+Номера: [http://ukrims.org/vidrodzhennja?fbclid=IwAR0BRVJ9daVpX8ObDRBwIeYKOPt9Z86U4Di5w3HkazvTRWvyEeJ-iAWTFMw](http://ukrims.org/vidrodzhennja?fbclid=IwAR0BRVJ9daVpX8ObDRBwIeYKOPt9Z86U4Di5w3HkazvTRWvyEeJ-iAWTFMw) 
 
 **Диана:** Хочу чтобы Вика написала. 
 
