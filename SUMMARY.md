@@ -106,7 +106,7 @@
 
 ## Бізнесу <a id="biznes"></a>
 
-* [Экономіка та бізнес](biznes/biznesy/README.md)
+* [Стратегія розвитку бізнесу](biznes/biznesy/README.md)
   * [Список компаний которые поддержали борьбу с covid-19](biznes/biznesy/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
   * [Допомога у веденні бізнесу](biznes/biznesy/dopomoga-u-vedenni-biznesu.md)
   * [Онлайн-курси, вебінари та інші корисні матеріали для малого та середнього бізнесу](biznes/biznesy/untitled/README.md)

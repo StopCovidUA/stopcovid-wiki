@@ -34,14 +34,13 @@ HR Назначение:  Обязанности: Сорсинг Онборди�
 ## Радники
 
 * [Артем Сердюк](https://www.linkedin.com/in/aserdyuk/)
-* [Павло Рыжий](https://novilidery.com/lider/2-season/Rizhiy_Pavlo_Volodimirovich)
 * [Jorgen Bo](https://www.linkedin.com/in/fixeroslo/)
 * [Georgiy Koskin](https://www.facebook.com/profile.php?id=100007818436136) из Волонтер сервиса
-* Мартын Ковалко \(игротехники и рефлексивное управление\)
 * [Nathan Snyder](https://www.linkedin.com/in/nathanvsnyder/)
 * Teal ua
 * Метасообщество
 * Ира Соловей
+* dgov foundation
 * Rickard Falkvinge\* \(можно через Liberland\)
 
 ## Канали комунікації
