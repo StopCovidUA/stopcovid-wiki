@@ -10,3 +10,7 @@
 | Удовлетворенность | Оценка [eNPS](https://officevibe.com/employee-engagement-solution/employee-net-promoter-score)  | - | 8 |
 | Взаимопомощь | [Кол-во интро/закрытых позиций](https://trello.com/b/IkonsFAY/main-board) | 5 | 100 |
 
+## Идеи
+
+* SSID без Блокчейн
+
