@@ -37,3 +37,8 @@
 
 Пройшов [перший дзвінок з медичної допомоги](medikam/sistema-zdravookhraneniya/13.04.md).  
 
+Опублікували записи вебінарів:
+
+* [Волонтёрство история и настоящее время](https://www.youtube.com/watch?v=3ViZjgcRe9w)
+* [Основы кризисного консультирования для психологов и не только](https://www.youtube.com/watch?v=9uvjN9KuoUE)
+
