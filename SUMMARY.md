@@ -102,6 +102,7 @@
 * [Вразливі верстви населення](vrazlivi-verstvi-naselennya-1/vrazlivi-verstvi-naselennya.md)
 * [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/README.md)
   * [Tactical 08.04](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/tactical-08.04.md)
+  * [Tactical 15.04](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/tactical-15.04.md)
 * [Система логистики товаров](vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
 
 ## Бізнесу <a id="biznes"></a>
