@@ -66,6 +66,7 @@
 * [Технологи та інженери](volonteram/it-ta-inzheneram/README.md)
   * [Tech Tactical 01.04](volonteram/it-ta-inzheneram/tactical-01.04.md)
   * [Tech Tactical 07.04](volonteram/it-ta-inzheneram/tech-tactical-01.04.md)
+  * [Tech Tactical 15.04](volonteram/it-ta-inzheneram/tech-tactical-15.04.md)
 * [Психологи та психотерапевти](volonteram/psychological-support/README.md)
   * [Коммуникация и психология.](volonteram/psychological-support/kommunikaciya-i-psikhologiya..md)
   * [Y-clients](volonteram/psychological-support/y-clients.md)
