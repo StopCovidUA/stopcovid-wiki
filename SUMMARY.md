@@ -75,6 +75,7 @@
   * [Psychology 07.04](volonteram/psychological-support/psychology-07.04.md)
 * [HR'и](volonteram/hri.md)
 * [Технологи та інженери](volonteram/it-ta-inzheneram/README.md)
+  * [Платформа волонтеров](volonteram/it-ta-inzheneram/platforma-volonterov.md)
   * [Этичный трекинг](volonteram/it-ta-inzheneram/etitchnyi-treking.md)
   * [Системы тестирования](volonteram/it-ta-inzheneram/sistemy-testirovaniya.md)
   * [Телемедицина](volonteram/it-ta-inzheneram/telemedicina.md)
