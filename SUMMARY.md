@@ -45,6 +45,7 @@
   * [Coordination 09.04](volonteram/analitika-mepping-dannykh/coordination-09.04.md)
   * [Coordination 14.04](volonteram/analitika-mepping-dannykh/coordination-14.04.md)
 * [Комунікатори](volonteram/informacionnaya-kampaniya/README.md)
+  * [Communication](volonteram/informacionnaya-kampaniya/communication.md)
   * [Еженедельный онлайн бар](volonteram/informacionnaya-kampaniya/ezhenedelnyi-onlain-bar.md)
   * [\#безтебеніяк](volonteram/informacionnaya-kampaniya/obshee-delo.md)
   * [Врачи – герои](volonteram/informacionnaya-kampaniya/vrachi.md)
