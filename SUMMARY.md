@@ -58,6 +58,7 @@
   * [Comms 10.04](volonteram/informacionnaya-kampaniya/comms-10.04.md)
   * [Comms 13.04](volonteram/informacionnaya-kampaniya/comms-13.0.md)
 * [Психологи та психотерапевти](volonteram/psychological-support/README.md)
+  * [Коммуникация и психология.](volonteram/psychological-support/kommunikaciya-i-psikhologiya..md)
   * [Y-clients](volonteram/psychological-support/y-clients.md)
   * [Events](volonteram/psychological-support/events.md)
   * [Events policy\*](volonteram/psychological-support/events-1.md)
