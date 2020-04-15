@@ -19,6 +19,7 @@
 * [Телемедицина](medikam/telemedicina.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
 * [Этичный трекинг](medikam/etitchnyi-treking.md)
+* [Кампанія \#лікарі–герої](medikam/vrachi.md)
 
 ## Волонтерам
 
@@ -48,7 +49,6 @@
   * [Communication](volonteram/informacionnaya-kampaniya/communication.md)
   * [Еженедельный онлайн бар](volonteram/informacionnaya-kampaniya/ezhenedelnyi-onlain-bar.md)
   * [\#безтебеніяк](volonteram/informacionnaya-kampaniya/obshee-delo.md)
-  * [Врачи – герои](volonteram/informacionnaya-kampaniya/vrachi.md)
   * [Экология](volonteram/informacionnaya-kampaniya/ekologiya.md)
   * [Ты нужен миру дома](volonteram/informacionnaya-kampaniya/ty-nuzhen-miru-doma.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
