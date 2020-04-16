@@ -33,7 +33,6 @@
 * [Медикам](medikam/sistema-zdravookhraneniya/)
 * [IT-спеціалістам та інженерам](volonteram/it-ta-inzheneram/)
 * [HR'ам](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/)
-* [Юристам]()
 * [Фінансистам](volonteram/finansistam.md)
 
 {% hint style="warning" %}
@@ -66,8 +65,6 @@
 [Лідерборд](https://mee6.xyz/leaderboard/688064950635462771)
 
 ## Координаційні дзвінки
-
-Онлайн-зустрічі кожного дня о 20:00 \(за київським часом\) у [Zoom](https://zoom.us/j/919563955?pwd=VlIrTjZXUHpuQTQrVHlpa09WUnpJUT09) \(записи зустрічей додаються на YouTube\)
 
 [Каледар дзвінків \(Google Call\)](https://calendar.google.com/calendar?cid=dWFjYmxrMG80MGx0amRidGFpb2M0aGVoZmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) — додавай собі, щод не пропустити.
 
