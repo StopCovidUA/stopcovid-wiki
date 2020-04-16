@@ -65,12 +65,6 @@
 * Writing
 * Communication planning
 
-## Идеи
-
-![](../../.gitbook/assets/image%20%2866%29.png)
-
-1
-
 ## Задача
 
 * повышение уровня субъектности \(люди могут определить свою миссию\)
@@ -307,6 +301,7 @@
 * [https://academy.betterworktogether.co/p/network-governance-101](https://academy.betterworktogether.co/p/network-governance-101)
 * [https://bigbluebutton.org](https://bigbluebutton.org)
 * Интервизия, супервизия
+* Карточка человека, карточка супервизии
 
 ![](../../.gitbook/assets/image%20%2866%29.png)
 
