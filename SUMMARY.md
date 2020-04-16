@@ -42,6 +42,7 @@
   * [Coordination 07.04](volonteram/analitika-mepping-dannykh/coordination-07.04.md)
   * [Coordination 09.04](volonteram/analitika-mepping-dannykh/coordination-09.04.md)
   * [Coordination 14.04](volonteram/analitika-mepping-dannykh/coordination-14.04.md)
+  * [Coordination 16.04](volonteram/analitika-mepping-dannykh/coordination-16.04.md)
 * [Кампанія \#безтебеніяк](volonteram/obshee-delo.md)
 * [StopCovidUA Bot / Platform](volonteram/operatoram-stopcovidua-bot/README.md)
   * [Онбординг сценарий](volonteram/operatoram-stopcovidua-bot/onbording-scenarii.md)
