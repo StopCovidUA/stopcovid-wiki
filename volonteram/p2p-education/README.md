@@ -67,7 +67,6 @@
 
 ## Идеи
 
-* 
 ![](../../.gitbook/assets/image%20%2866%29.png)
 
 1
@@ -113,7 +112,7 @@
 * Ritual dissent
 * Future backwards
 * Дебаты
-* Митапч с предзаданной темой
+* Митап с предзаданной темой
 * Находить эксперта по запросам
 * Иметь core команду + приглашенные по доменам
 * Все время возвращаться к вопросу "зачем"
@@ -307,6 +306,7 @@
 * [https://ondemand.feverbee.com/](https://ondemand.feverbee.com/)
 * [https://academy.betterworktogether.co/p/network-governance-101](https://academy.betterworktogether.co/p/network-governance-101)
 * [https://bigbluebutton.org](https://bigbluebutton.org)
+* Интервизия, супервизия
 
 ![](../../.gitbook/assets/image%20%2866%29.png)
 
