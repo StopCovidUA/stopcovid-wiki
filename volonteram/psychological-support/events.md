@@ -53,7 +53,11 @@ I - часть "Волонтёрство: история и настоящее �
 
 II - часть "Основы кризисного консультирования" [https://youtu.be/9uvjN9KuoUE](https://youtu.be/9uvjN9KuoUE); 
 
-Презентация: [История волонтерского движения; ](https://drive.google.com/drive/u/0/folders/1BXecf54HeKyWdDFbKH0791vseJJ2DNJh)[https://fex.net/ru/s/merkoyb](https://fex.net/ru/s/merkoyb)
+Презентация: [История волонтерского движения; ](https://drive.google.com/drive/u/0/folders/1BXecf54HeKyWdDFbKH0791vseJJ2DNJh)[https://fex.net/ru/s/merkoyb](https://fex.net/ru/s/merkoyb) 
+
+
+
+
 
 
 
