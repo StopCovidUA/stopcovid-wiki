@@ -26,6 +26,7 @@
 * [https://www.antler.co/covid19-call](https://www.antler.co/covid19-call)
 * Из фонда видродження \(на саму структуру\)
 * [https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/](https://www.irf.ua/contest/konkurs-grantiv-dlya-protydiyi-koronavirusu-lyudyanist-i-vzayemodopomoga/)
+* [https://www.prostir.ua/?grants=prohrama-kanadskoho-fondu-pidtrymky-mistsevyh-initsiatyv-reahuvannya-na-covid-19&fbclid=IwAR0ip9ysK5lIR8kYeDhqTZkZ425xpqImd-CBnhvZoRzICw9nQzXVfGffr9Q](https://www.prostir.ua/?grants=prohrama-kanadskoho-fondu-pidtrymky-mistsevyh-initsiatyv-reahuvannya-na-covid-19&fbclid=IwAR0ip9ysK5lIR8kYeDhqTZkZ425xpqImd-CBnhvZoRzICw9nQzXVfGffr9Q)
 * Через волонтерство делать маркетинг
 * Свят финансирование
 * Усилить сбор денег помощью бизнеса
