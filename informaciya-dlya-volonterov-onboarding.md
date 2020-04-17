@@ -50,7 +50,7 @@
 * Робота команди у [Discord](https://discord.gg/Ua4nnXZ)
 * Координаційні дзвінки в [Zoom](https://zoom.us/j/919563955?pwd=VlIrTjZXUHpuQTQrVHlpa09WUnpJUT09)
 * Обговорення у [Telegram-чаті](https://t.me/stopcovidua)
-* Перелік задач у [Trello](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board) \(інвайт за посиланням\)
+* Перелік цілей у [Trello](https://trello.com/invite/b/IkonsFAY/12e5d029973f9869061f7a5c1a0364f4/main-board) \(інвайт за посиланням\)
 * [Тelegram-канал](https://t.me/scutasks) із завданнями
 * Файли на [Google Drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
 * [Контакти команди](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(додай сюди свої\)
@@ -86,9 +86,9 @@
 
 [Статистика](https://combot.org/c/-1001383920031) нашого чату
 
-## \#безтебеніяк
+## [\#безтебеніяк](volonteram/beztebeniyak.md)
 
-Це інформаційна каманія
+Це інформаційна каманія для того щоб більше людей приєднались до волонтерства. Якщо хочешь допомогти – використовуй його, найкраще всього з історією того чому став волонтером чи коли збираєш команду.
 
 ## Як додати інформацію на цей сайт
 

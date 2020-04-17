@@ -44,6 +44,7 @@
   * [Coordination 14.04](volonteram/analitika-mepping-dannykh/coordination-14.04.md)
   * [Coordination 16.04](volonteram/analitika-mepping-dannykh/coordination-16.04.md)
 * [Кампанія \#безтебеніяк](volonteram/beztebeniyak.md)
+* [Кампанія "Жити по-новому"](volonteram/kampaniya-zhiti-po-novomu.md)
 * [StopCovidUA Bot / Platform](volonteram/operatoram-stopcovidua-bot/README.md)
   * [Онбординг сценарий](volonteram/operatoram-stopcovidua-bot/onbording-scenarii.md)
 * [Школа координаторів](volonteram/p2p-education/README.md)
@@ -107,7 +108,6 @@
 * [Система логистики товаров](vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
 * [Экология](vrazlivi-verstvi-naselennya-1/ekologiya.md)
 * [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya-1/ty-nuzhen-miru-doma.md)
-* [Кампанія "Жити по-новому"](vrazlivi-verstvi-naselennya-1/kampaniya-zhiti-po-novomu.md)
 
 ## Бізнесу <a id="biznes"></a>
 
