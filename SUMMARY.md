@@ -95,6 +95,7 @@
   * [Tactical 28.03](volonteram/perekladacham/tactical-28.03.md)
 * [Фінансисти та економісти](volonteram/finansistam.md)
 * [Біздеви та інноваційні директори](volonteram/inkubator-bizdev.md)
+* [Партнерства](volonteram/partnerstva.md)
 * [Митці](volonteram/mistectvo.md)
 
 ## Вразливим верствам населення <a id="vrazlivi-verstvi-naselennya-1"></a>
