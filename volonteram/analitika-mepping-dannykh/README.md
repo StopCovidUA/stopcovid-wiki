@@ -61,7 +61,7 @@ HR Назначение:  Обязанности: Сорсинг Онборди�
 
 Let’s say these 5 functions which comprise the administration had within them 5 levels of task complexity associated with the work objectives of each function. Here are examples of how to organize that:
 
-| Level | Marketing/Comms | Members/Volunteers | Ops/Finance | Political Strategy | Partnerships |
+| Level | Comms | Volunteers | Ops/Finance | Strategy | Partnerships |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Writing Tweets or designing landing pages | Enacting membership or being among SOPP body | Tallying the SOPP ledgers at a functional level  | Systems/stakeholder mapping at and below the municipal level  | Dialogue building within mission and vision of org/institution |
 | 2 | Setting campaign standards across channels for continuous improvement | Implementing systems of membership, measuring and reincorporating results  | Designing and implementing systems of accounting & Opps efficiency | Building and measuring the results of coalition movements beneath the state level | Designing the systems of content-structure mapping  |
