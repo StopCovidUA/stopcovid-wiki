@@ -316,6 +316,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Использовать ограничения как трамплины
 * Поставить галочки по каждому принципу в регистрационной форме \(typeform\)
 * Сделать видео как все работает
+* [http://humantime.com.ua/](http://humantime.com.ua/)
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
 
