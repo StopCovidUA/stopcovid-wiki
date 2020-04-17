@@ -1,4 +1,4 @@
-# \#stopcovid ua - неделя 14
+# \#stopcovid ua - отчет 14
 
 Привет!
 

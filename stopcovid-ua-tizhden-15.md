@@ -1,4 +1,4 @@
-# \#stopcovid ua - тиждень 15
+# \#stopcovid ua - звіт 15
 
 Привіт!
 
