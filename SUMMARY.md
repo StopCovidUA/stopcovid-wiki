@@ -112,6 +112,7 @@
 ## Бізнесу <a id="biznes"></a>
 
 * [Стратегія розвитку бізнесу](biznes/biznesy.md)
+* [Список регуляций мешающих борьбе с covid](biznes/spisok-regulyacii-meshayushikh-borbe-s-covid.md)
 * [Зміни регуляторів](biznes/dopomoga-u-vedenni-biznesu.md)
 * [Дистанційна робота](biznes/untitled/README.md)
   * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznes/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
