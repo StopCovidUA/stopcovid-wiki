@@ -4,17 +4,9 @@ description: 'Координаторам, аналітикам і проєктн
 
 # Стратегія
 
-## Цілі
+## Бачення
 
-Наиболее эффективная инициатива по борьбе с коронавирусом \(по соотношению вклад/результат\)
-
-* Доверительное отношение к бренду платформы
-* Автоматизированная платформа взаимодействия
-* Объединили 100 инициатив
-* Национальная коммуникационная кампания / идея 
-* Волонтерят 5000 человек
-
-![https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](../../.gitbook/assets/image%20%2871%29.png)
+![https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](../../.gitbook/assets/image%20%2872%29.png)
 
 ## Ролі
 
@@ -320,11 +312,11 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * [http://humantime.com.ua/](http://humantime.com.ua/)
 * Гопко нужен совет
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 

@@ -1,6 +1,6 @@
 # Школа координаторів
 
-![https://communityroundtable.com/what-we-do/models-and-frameworks/community-skills-framework/](../../.gitbook/assets/image%20%2824%29.png)
+![https://communityroundtable.com/what-we-do/models-and-frameworks/community-skills-framework/](../../.gitbook/assets/image%20%2825%29.png)
 
 ## Strategy
 
@@ -303,9 +303,9 @@
 * Интервизия, супервизия
 * Карточка человека, карточка супервизии
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
-![&#x41B;&#x43E;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x443;&#x440;&#x43E;&#x432;&#x43D;&#x438; &#x414;&#x438;&#x43B;&#x442;&#x441;&#x430;](../../.gitbook/assets/image%20%2866%29.png)
+![&#x41B;&#x43E;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x443;&#x440;&#x43E;&#x432;&#x43D;&#x438; &#x414;&#x438;&#x43B;&#x442;&#x441;&#x430;](../../.gitbook/assets/image%20%2867%29.png)
 
 В The Leadership System \(модель, которую я использую в качестве основы\) хорошо работают "лидерские каникулы" - полдня, раз в месяц, интимная группа, глубокие диалоги.
 
