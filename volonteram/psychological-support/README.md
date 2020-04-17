@@ -234,7 +234,7 @@ Telegram чат [Без паники ](https://t.me/bezpaniky)
 8. Психологическая поддержка сервис – как выглядит сервис
 9. Еженедельный вебинар с психологом
 10. Открытые вебинары по псих. поддержке.
-11. [https://helpdoctors.com.ua/](https://helpdoctors.com.ua/)  irina.vakans@gmail.com
+11. [https://helpdoctors.com.ua/](https://helpdoctors.com.ua/)  
 
 
 
