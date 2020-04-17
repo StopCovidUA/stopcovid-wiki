@@ -23,7 +23,7 @@
 
 ## Волонтерам
 
-* [Стратегія координації](volonteram/analitika-mepping-dannykh/README.md)
+* [Стратегія](volonteram/analitika-mepping-dannykh/README.md)
   * [Tactical 16.03](volonteram/analitika-mepping-dannykh/tactical-16.03.md)
   * [Tactical 17.03](volonteram/analitika-mepping-dannykh/tactical-17.03.md)
   * [Tactical 18.03](volonteram/analitika-mepping-dannykh/tactical-18.03.md)
