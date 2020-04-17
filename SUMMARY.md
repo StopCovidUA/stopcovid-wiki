@@ -64,6 +64,7 @@
   * [Comms 08.04](volonteram/informacionnaya-kampaniya/untitled.md)
   * [Comms 10.04](volonteram/informacionnaya-kampaniya/comms-10.04.md)
   * [Comms 13.04](volonteram/informacionnaya-kampaniya/comms-13.0.md)
+  * [Comms 17.04](volonteram/informacionnaya-kampaniya/comms-17.04.md)
 * [Технологи та інженери](volonteram/it-ta-inzheneram/README.md)
   * [Tech Tactical 01.04](volonteram/it-ta-inzheneram/tactical-01.04.md)
   * [Tech Tactical 07.04](volonteram/it-ta-inzheneram/tech-tactical-01.04.md)

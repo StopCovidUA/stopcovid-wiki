@@ -13,7 +13,7 @@ description: 'Координаторам, аналітикам і проєктн
 * Национальная коммуникационная кампания / идея 
 * Волонтерят 5000 человек
 
-![https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](../../.gitbook/assets/image%20%2869%29.png)
+![https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](../../.gitbook/assets/image%20%2871%29.png)
 
 ## Ролі
 
@@ -317,11 +317,11 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Поставить галочки по каждому принципу в регистрационной форме \(typeform\)
 * Сделать видео как все работает
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 ![](../../.gitbook/assets/image%20%2826%29.png)
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
