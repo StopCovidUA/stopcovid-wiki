@@ -341,6 +341,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Сделать видео как все работает
 * [http://humantime.com.ua/](http://humantime.com.ua/)
 * Гопко нужен совет
+* LinkedIn рекомендации / программа стажировки
 
 ![](../../.gitbook/assets/image%20%2855%29.png)
 
