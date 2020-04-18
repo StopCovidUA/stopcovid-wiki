@@ -14,6 +14,10 @@
 10. Gitbooks
 11. Intercom
 12. Protonmail
+13. dgov foundation
+14. teal ua
+15. metacommunity
+16. edgyneers
 
 ## Ідеї
 
@@ -23,4 +27,5 @@
 * Bigggggidea
 * UNDP
 * USAID
+* TedX
 
