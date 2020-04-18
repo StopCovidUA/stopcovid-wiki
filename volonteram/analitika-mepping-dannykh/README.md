@@ -2,11 +2,7 @@
 description: 'Координаторам, аналітикам і проєктним менеджерам'
 ---
 
-# Стратегія
-
-## Бачення
-
-![https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](../../.gitbook/assets/image%20%2872%29.png)
+# Волонтери
 
 ## Ролі
 
@@ -253,8 +249,42 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Серотониновый всплеск закончится – Public better, нужна позитивная цель и устойчивые условия работы
 * Визнання
 
+
+
+## Сорсінг
+
+### Вакансії
+
+* [На дошці](https://trello.com/b/IkonsFAY/stopcovid-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80)
+* Рассказывать о команде
+* просить заинтересованных постить меншеном
+* Каждый кому нужна помощь - должен сначала написать пост в соцсетх с требованиями, мы берём в работу пост
+
+### Метчинг
+
+* Рост через создание вакансий
+* Вечеринки как способ находить волонтёров
+* ProBono Club
+* [https://volunteer.country/](https://volunteer.country/)
+* Сорсинг через сообщество, заход через КМ
+*  Андрей Белюх \(студ организация\)
+* [https://studway.com.ua/](https://studway.com.ua/) \(Анастасія\)
+* Тегать людей \#безтебенияк
+
+### Онбординг
+
+![](../../.gitbook/assets/image%20%2837%29.png)
+
+* Посты вакансии и посты-отчеты
+* Общая информация / презентация
+* Регформа / чат
+* Созвон с координатором
+* Вакансии / задачи
+* Цепочка писем онбординга
+
 ## Идеи
 
+* [https://thelobbyx.com/](https://thelobbyx.com/)
 * [Уроки и ошибки по координации Майдана](https://rizzoma.com/topic/58b6486fca851222c97f5f30868d7408/0_b_6b0p_4s1t4/)
 * [How To Organize A Large Company Without Middle Management](https://corporate-rebels.com/how-to-organize-a-large-organization-without-middle-management/)
 * [За принципом рою. Тактична настанова про те, як змінити світ](https://texty.org.ua/archive-books/45215/za-pryntsypom-roju-taktychna-nastanova-pro-te-jak-zminyty-svit-45215/#45217)
