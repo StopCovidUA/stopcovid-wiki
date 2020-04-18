@@ -28,4 +28,6 @@
 * UNDP
 * USAID
 * TedX
+* Google
+* Facebook
 
