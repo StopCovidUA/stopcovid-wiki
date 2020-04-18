@@ -27,4 +27,5 @@ description: Уютный онлайн бар для добрых душ!)
 * Сделать клёвый дизайн бара и идеи вокруг
 * [https://ru.airbnb.com/s/experiences/online](https://ru.airbnb.com/s/experiences/online)
 * Приглашать всех волонтёров на вечеринку
+* Саю на чёрном снять
 
