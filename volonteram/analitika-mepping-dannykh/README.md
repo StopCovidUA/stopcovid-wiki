@@ -273,7 +273,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 ### Онбординг
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 * Посты вакансии и посты-отчеты
 * Общая информация / презентация
@@ -343,11 +343,11 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Гопко нужен совет
 * LinkedIn рекомендации / программа стажировки
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 ![](../../.gitbook/assets/image%20%2827%29.png)
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 

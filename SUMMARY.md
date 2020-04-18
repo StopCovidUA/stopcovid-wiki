@@ -62,6 +62,7 @@
   * [Comms 10.04](volonteram/informacionnaya-kampaniya/comms-10.04.md)
   * [Comms 13.04](volonteram/informacionnaya-kampaniya/comms-13.0.md)
   * [Comms 17.04](volonteram/informacionnaya-kampaniya/comms-17.04.md)
+  * [Comms 20.04](volonteram/informacionnaya-kampaniya/comms-20.04.md)
 * [Волонтери](volonteram/analitika-mepping-dannykh/README.md)
   * [Кампанія "Жити по-новому"](volonteram/analitika-mepping-dannykh/kampaniya-zhiti-po-novomu.md)
   * [Школа координаторів](volonteram/analitika-mepping-dannykh/p2p-education.md)
