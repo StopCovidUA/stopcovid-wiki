@@ -46,8 +46,8 @@
 ## Координація <a id="volonteram"></a>
 
 * [Комунікація](volonteram/informacionnaya-kampaniya/README.md)
-  * [Еженедельный онлайн бар](volonteram/informacionnaya-kampaniya/ezhenedelnyi-onlain-bar.md)
   * [Кампанія \#безтебеніяк](volonteram/informacionnaya-kampaniya/beztebeniyak.md)
+  * [Еженедельный онлайн бар](volonteram/informacionnaya-kampaniya/ezhenedelnyi-onlain-bar.md)
   * [Communication](volonteram/informacionnaya-kampaniya/communication.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](volonteram/informacionnaya-kampaniya/comms-19.03.md)
