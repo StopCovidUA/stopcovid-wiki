@@ -47,8 +47,7 @@
 * [Кампанія "Жити по-новому"](volonteram/kampaniya-zhiti-po-novomu.md)
 * [StopCovidUA Bot / Platform](volonteram/operatoram-stopcovidua-bot/README.md)
   * [Онбординг сценарий](volonteram/operatoram-stopcovidua-bot/onbording-scenarii.md)
-* [Школа координаторів](volonteram/p2p-education/README.md)
-  * [Школам та вишам](volonteram/p2p-education/udalennoe-i-onlain-obrazovanie.md)
+* [Школа координаторів](volonteram/p2p-education.md)
 * [Еженедельный онлайн бар](volonteram/ezhenedelnyi-onlain-bar.md)
 * [HR'и](volonteram/hri.md)
 * [Комунікатори](volonteram/informacionnaya-kampaniya/README.md)
@@ -126,4 +125,5 @@
 * [Громадянам](do-saitu/gromadyani.md)
 * [Все про коронавірус \(SARS-CoV-2\)](do-saitu/o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](do-saitu/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
+* [Школам та вишам](do-saitu/udalennoe-i-onlain-obrazovanie.md)
 
