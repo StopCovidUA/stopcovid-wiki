@@ -19,7 +19,7 @@
 * [Телемедицина](medikam/telemedicina.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
 * [Этичный трекинг](medikam/etitchnyi-treking.md)
-* [Кампанія \#лікарі–герої](medikam/vrachi.md)
+* [Кампанія \#лікарігерої](medikam/kampaniya-likarigeroyi.md)
 
 ## Вразливі верстви населення
 

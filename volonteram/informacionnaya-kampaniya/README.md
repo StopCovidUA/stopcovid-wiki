@@ -21,7 +21,7 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 
 ## Проекти
 
-* [Лікарі — герої](../../medikam/vrachi.md)
+* [Лікарі — герої](../../medikam/kampaniya-likarigeroyi.md)
 * [\#безтебеніяк](beztebeniyak.md)
 * [Ти потрібен світові вдома](../../vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
 * Психологічна підтримка
