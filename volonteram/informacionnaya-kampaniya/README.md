@@ -78,4 +78,5 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * Нативные проекты с рекламными бюджетами
 * [https://didtheyhelp.com/](https://didtheyhelp.com/?fbclid=IwAR18pBwbTOfCnO0KfDJvGo5_fNrW0MTKoKRy449zgUuYfaBOrKwzIKwa0AM)
 * Креативные школы - Берите наши кейсы
+* Описывать достигнутые и плановые цели
 
