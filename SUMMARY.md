@@ -8,7 +8,7 @@
 * [\#stopcovid ua - отчет 14](otchet-po-rabote-stopcovid-ua-nedelya-14.md)
 * [\#stopcovid ua - звіт 15](stopcovid-ua-tizhden-15.md)
 
-## Медикам
+## Допомога медикам <a id="medikam"></a>
 
 * [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
@@ -20,6 +20,28 @@
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
 * [Этичный трекинг](medikam/etitchnyi-treking.md)
 * [Кампанія \#лікарі–герої](medikam/vrachi.md)
+
+## Вразливі верстви населення
+
+* [Стратегія](vrazlivi-verstvi-naselennya/strategiya.md)
+* [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya/hr-bezrabotica/README.md)
+  * [Tactical 08.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-08.04.md)
+  * [Tactical 16.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-15.04.md)
+* [Система логистики товаров](vrazlivi-verstvi-naselennya/sistema-logistiki.md)
+* [Экология](vrazlivi-verstvi-naselennya/ekologiya.md)
+* [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
+
+## Бізнесу <a id="biznes"></a>
+
+* [Стратегія розвитку бізнесу](biznes/biznesy.md)
+* [Рейтинг инициатив по эффективности вложений](biznes/reiting-iniciativ-po-effektivnosti-vlozhenii.md)
+* [Импакт фонд](biznes/impakt-fond.md)
+* [Список регуляций мешающих борьбе с covid](biznes/spisok-regulyacii-meshayushikh-borbe-s-covid.md)
+* [Зміни регуляторів](biznes/dopomoga-u-vedenni-biznesu.md)
+* [Дистанційна робота](biznes/untitled/README.md)
+  * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznes/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
+  * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
+* [Список компаний которые поддержали борьбу с covid-19](biznes/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
 
 ## Волонтерам
 
@@ -93,32 +115,10 @@
   * [Tactical 03.04](volonteram/perekladacham/tactical-03.04.md)
   * [Tactical 31.03](volonteram/perekladacham/tactical-31.03.md)
   * [Tactical 28.03](volonteram/perekladacham/tactical-28.03.md)
-* [Фінансисти та економісти](volonteram/finansistam.md)
+* [Операції та фінанси](volonteram/finansistam.md)
 * [Біздеви та інноваційні директори](volonteram/inkubator-bizdev.md)
 * [Партнерства](volonteram/partnerstva.md)
 * [Митці](volonteram/mistectvo.md)
-
-## Вразливим верствам населення <a id="vrazlivi-verstvi-naselennya-1"></a>
-
-* [Вразливі верстви населення](vrazlivi-verstvi-naselennya-1/vrazlivi-verstvi-naselennya.md)
-* [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/README.md)
-  * [Tactical 08.04](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/tactical-08.04.md)
-  * [Tactical 16.04](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/tactical-15.04.md)
-* [Система логистики товаров](vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
-* [Экология](vrazlivi-verstvi-naselennya-1/ekologiya.md)
-* [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya-1/ty-nuzhen-miru-doma.md)
-
-## Бізнесу <a id="biznes"></a>
-
-* [Стратегія розвитку бізнесу](biznes/biznesy.md)
-* [Рейтинг инициатив по эффективности вложений](biznes/reiting-iniciativ-po-effektivnosti-vlozhenii.md)
-* [Импакт фонд](biznes/impakt-fond.md)
-* [Список регуляций мешающих борьбе с covid](biznes/spisok-regulyacii-meshayushikh-borbe-s-covid.md)
-* [Зміни регуляторів](biznes/dopomoga-u-vedenni-biznesu.md)
-* [Дистанційна робота](biznes/untitled/README.md)
-  * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznes/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
-  * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
-* [Список компаний которые поддержали борьбу с covid-19](biznes/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
 
 ## Контент для сайту <a id="do-saitu"></a>
 

@@ -26,7 +26,7 @@ Office of Technology Assessment: Інтегрувати технології у 
 
 * [\#it-engineers](https://discord.gg/GMGzPN6)
 * [\#ivl-tech](https://discord.gg/yxFSSRx) – обговорення виробництва та модификації апаратів ШВЛ
-* [Система логістики](../../vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
+* [Система логістики](../../vrazlivi-verstvi-naselennya/sistema-logistiki.md)
 
 ## Проекти
 

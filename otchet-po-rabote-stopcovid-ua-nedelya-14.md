@@ -17,7 +17,7 @@
 * Установили [среднесрочные цели](https://docs.google.com/spreadsheets/d/1qxu6R_ToVvPUXK439pKcS8pDluyzr6lt5AjGpI-F8wY/edit#gid=0) \(2-3 мес\) и провели первый замер 
 * Запустили [сбор данных по регуляциям которые мешают борьбе с кризисом](https://stopcovid.org.ua/deregulation)
 * Добавили направлений работы для нашей [доски вакансий](https://trello.com/b/IkonsFAY/stopcovid-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80). Если вы ищете специалиста в ваш проект \(юрист, айтишник, маркетолог\) – мы можем вам помочь
-* Запустили [направление по борьбе с безработицей](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/), там уже 37 HR'ов
+* Запустили [направление по борьбе с безработицей](vrazlivi-verstvi-naselennya/hr-bezrabotica/), там уже 37 HR'ов
 * Описали чуть лучше [ценности движения](./)
 * Провели [воркшоп Future Backwards](https://cognitive-edge.com/methods/the-future-backwards/) по анализу трендов \(есть идея сделать более информативную статью на этот счет\)
 

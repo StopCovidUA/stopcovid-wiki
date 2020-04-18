@@ -23,9 +23,9 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 
 * [Лікарі — герої](../../medikam/vrachi.md)
 * [\#безтебеніяк](../beztebeniyak.md)
-* [Ти потрібен світові вдома](../../vrazlivi-verstvi-naselennya-1/ty-nuzhen-miru-doma.md)
+* [Ти потрібен світові вдома](../../vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
 * Психологічна підтримка
-* [Экология](../../vrazlivi-verstvi-naselennya-1/ekologiya.md)
+* [Экология](../../vrazlivi-verstvi-naselennya/ekologiya.md)
 
 ## Координатори напрямку
 

@@ -31,7 +31,7 @@
 
 ## Волонтерам
 
-Ми ініціювали новий [напрям по допозі людям що втратили роботу](vrazlivi-verstvi-naselennya-1/hr-bezrabotica/). 
+Ми ініціювали новий [напрям по допозі людям що втратили роботу](vrazlivi-verstvi-naselennya/hr-bezrabotica/). 
 
 Також працюємо зараз над 2-ма [запитами на фандінг](https://trello.com/b/fCpPgkFh/funding) – для навчання психологів та медійний проект з Bird in flight.
 

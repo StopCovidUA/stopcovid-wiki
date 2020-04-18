@@ -20,7 +20,7 @@
 
 Медики не знають, як користуватися сервісами, не у всіх є сучасні девайси. Для дзвінків потрібна автоматизація.
 
-* [Система логістики товаров](../vrazlivi-verstvi-naselennya-1/sistema-logistiki.md)
+* [Система логістики товаров](../vrazlivi-verstvi-naselennya/sistema-logistiki.md)
 * [Сервіси транспортування лікарів](servisy-transportirovki-vrachei.md)
 * [https://l2mtk.glideapp.io/](https://l2mtk.glideapp.io/)
 
