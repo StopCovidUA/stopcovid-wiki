@@ -15,7 +15,7 @@
 
 * Реанимационный центр реформ
 * Кризис медиа центр
-* Позвать urbanspace 500
+* Urbanspace 500
 * Bigggggidea
 * UNDP, USAID
 
