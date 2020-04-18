@@ -28,10 +28,10 @@
 
 * [Координаторам, аналітикам та проєктним менеджерам](volonteram/analitika-mepping-dannykh/)
 * [Представникам ЗМІ, комунікаторам, дизайнерам та креаторам](https://app.gitbook.com/@dgov/s/stopcovid/~/drafts/-M3zNx5P-7ysMTiG6jk-/informacionnaya-kampaniya)
-* [Психологам, психотерапевтам, психіатрам](volonteram/psychological-support/)
-* [Перекладачам](volonteram/perekladacham/)
+* [Психологам, психотерапевтам, психіатрам](za-specializaciyeyu/psychological-support/)
+* [Перекладачам](za-specializaciyeyu/perekladacham/)
 * [Медикам](medikam/sistema-zdravookhraneniya/)
-* [IT-спеціалістам та інженерам](volonteram/it-ta-inzheneram/)
+* [IT-спеціалістам та інженерам](za-specializaciyeyu/it-ta-inzheneram/)
 * [HR'ам](vrazlivi-verstvi-naselennya/hr-bezrabotica/)
 * [Фінансистам](volonteram/finansistam.md)
 
