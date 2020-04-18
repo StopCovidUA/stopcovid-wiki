@@ -2,14 +2,18 @@
 
 ## **Наші партнери**
 
-* [Інститут медико-соціальних проблем](https://www.facebook.com/%D0%86%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82-%D0%BC%D0%B5%D0%B4%D0%B8%D0%BA%D0%BE-%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D1%85-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-105580844234157/?__cft__[0]=AZXABZdsKdMepUKXzTJ659lY5_3Er6XSzeX6rttUCjFckkRDq_CpTywndACrUUeC4gA4vhZaW6Hh2uNU4Zue7nfF5lF1awW5EhgDHGwKFVeYtU55NHoqty2tGzDifNI5EOtHFZfJ7l6I8TZ_NnWG7Od4&__tn__=kK-R)
-* [Центр психосоціальної реабілітації НаУКМА](https://www.facebook.com/kmarehab/?__cft__[0]=AZXABZdsKdMepUKXzTJ659lY5_3Er6XSzeX6rttUCjFckkRDq_CpTywndACrUUeC4gA4vhZaW6Hh2uNU4Zue7nfF5lF1awW5EhgDHGwKFVeYtU55NHoqty2tGzDifNI5EOtHFZfJ7l6I8TZ_NnWG7Od4&__tn__=kK-R)
-* [https://birdinflight.com/](https://birdinflight.com/)
-* Єдиний координаційний центр в Києві
-* Штаб: Одеса проти covid
-* Центр в Івано-Франковську
-
-Безкоштовно використовуємо: Gitbooks, Intercom, Protonmail \(дяк!\)
+1. [Bird in Flight](https://birdinflight.com/)
+2. Єдиний координаційний центр в Києві
+3. Штаб: Одеса проти covid
+4. Центр в Івано-Франковську
+5. [Uplife](http://uplife.com.ua/?fbclid=IwAR2w7Wiu3GVDsaCb3hqbggIZskx-5cIz3rWs59SI4EK9ciGB9QSPkg8tPLA#about)
+6. [Національна психологічна асоціація](https://www.facebook.com/npa.org.ukraine/photos/a.646567839107182/916007572163206/?type=3&theater)
+7. ГО [Українська асоціація спеціалістів по подоланню наслідків психо-травмуючих подій](https://www.facebook.com/Psychological.Crisis.Service.Ukraine/posts/752934608159929/%20). 
+8. ГО «[Інститут медико-соціальних проблем вразливих категорій населення](http://ukrims.org/)
+9. [Центр психосоціальної реабілітації НаУКМА](https://www.facebook.com/kmarehab/)
+10. Gitbooks
+11. Intercom
+12. Protonmail
 
 ## Ідеї
 
@@ -17,5 +21,6 @@
 * Кризис медиа центр
 * Urbanspace 500
 * Bigggggidea
-* UNDP, USAID
+* UNDP
+* USAID
 
