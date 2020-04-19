@@ -7,6 +7,7 @@
 * [\#stopcovid ua - отчет 13](stopcovid-ua-n13.md)
 * [\#stopcovid ua - отчет 14](otchet-po-rabote-stopcovid-ua-nedelya-14.md)
 * [\#stopcovid ua - звіт 15](stopcovid-ua-tizhden-15.md)
+* [звіт 16](zvit-16.md)
 
 ## Допомога медикам <a id="medikam"></a>
 
