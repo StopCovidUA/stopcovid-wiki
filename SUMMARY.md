@@ -13,7 +13,7 @@
 
 * [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
-  * [Untitled](medikam/sistema-zdravookhraneniya/untitled.md)
+  * [20.04](medikam/sistema-zdravookhraneniya/untitled.md)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Транспортні сервіси](medikam/servisy-transportirovki-vrachei.md)
 * [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
