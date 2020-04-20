@@ -44,6 +44,11 @@
   * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
 * [Список компаний которые поддержали борьбу с covid-19](biznes/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
 
+## Культура
+
+* [Стратегія](kultura/mistectvo.md)
+* [\#мистецтворятує](kultura/mistectvoryatuye.md)
+
 ## Координація <a id="volonteram"></a>
 
 * [Комунікація](volonteram/informacionnaya-kampaniya/README.md)
@@ -123,7 +128,6 @@
   * [Tactical 31.03](za-specializaciyeyu/perekladacham/tactical-31.03.md)
   * [Tactical 28.03](za-specializaciyeyu/perekladacham/tactical-28.03.md)
 * [Біздеви та інноваційні директори](za-specializaciyeyu/inkubator-bizdev.md)
-* [Митці](za-specializaciyeyu/mistectvo.md)
 
 ## Контент для сайту <a id="do-saitu"></a>
 
