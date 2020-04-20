@@ -4,7 +4,7 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 
 # Комунікація
 
-## Мета напрямку
+## Бачення напрямку
 
 Підвищувати рівень обізнаності про коронавірус та способи убезпечити себе від захворювання. Інформувати суспільство про роботу StopCovidUA та про досягнення руху. Об'єднувати ЗМІ та партнерські організації задля відкритого діалогу щодо викликів, які стоять перед суспільством у зв'язку з епідемією.
 
@@ -13,25 +13,19 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * [Лого та інші прес-матеріали](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5?usp=sharing)
 * [Контент-план](https://docs.google.com/spreadsheets/d/1vRUnJNAk7FgvdbDWydn429hRSV1j65q1VUCCLpXQTAQ/edit#gid=1872245614)
 
-## Цілі
+[Наши цілі \(колонка Комунікації\)](https://trello.com/b/IkonsFAY/%D1%86%D1%96%D0%BB%D1%96-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%96-%D0%BE%D1%81%D0%BE%D0%B1%D0%B8-stopcovid-wikistopcovidorgua)
 
-* вплинути на поведінку 1% населення
-* 10 великих медів підтримали кампанію \#лікарігерої
-* 10% лікарів прочитали наші матеріали
+## Повідомлення
 
-## Проекти
-
-* [Лікарі — герої](../../medikam/kampaniya-likarigeroyi.md)
-* [\#безтебеніяк](beztebeniyak.md)
+* [Лікарі — герої](../../medikam/kampaniya-likarigeroyi.md) на збільшення підтримки лікарів
+* [\#безтебеніяк](beztebeniyak.md) 
 * [Ти потрібен світові вдома](../../vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
-* Психологічна підтримка
-* [Экология](../../vrazlivi-verstvi-naselennya/ekologiya.md)
 
 ## Координатори напрямку
 
 * Загальна координація комуникацій: [Діана Кінг](https://t.me/dianatheking)
 * Посты которых мы долго ждали: Саша Барабаш 
-* Красиво улыбается: Карина 
+* Ситуативный текстнадзор: Карина Потиха
 * Космический креатив: Жансая Жайсанбаева
 
 ## Радники
@@ -47,13 +41,6 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * [Дошка завдань та вакансій](https://trello.com/b/IkonsFAY/main-board) \(комунікації\)
 * [Дошка завдань та вакансій](https://trello.com/b/6DCyBJA1/marketing-pr) \(маркетинг\)
 * [StopCovidUA \| YouTube](https://t.me/StopCovidYouTube)
-
-## Медіапартнери
-
-* [shieldmaiden.info](https://shieldmaiden.info)
-* [followers.com.ua](https://followers.com.ua/)
-* [unian.net](https://www.unian.net/society/10933154-pokupka-ivl-poshiv-zashchitnyh-kostyumov-produkty-dlya-pensionerov-kak-ukraincy-pomogayut-strane-spravitsya-s-epidemiey.html)
-* [Sillicon Drinkabout](https://silicondrinkabout.com/kiev)
 
 ## Банк ідей та завдань
 
@@ -79,4 +66,7 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * [https://didtheyhelp.com/](https://didtheyhelp.com/?fbclid=IwAR18pBwbTOfCnO0KfDJvGo5_fNrW0MTKoKRy449zgUuYfaBOrKwzIKwa0AM)
 * Креативные школы - Берите наши кейсы
 * Описывать достигнутые и плановые цели
+* Юрий Марченко / Platforma \(?\)
+* Банда \(?\)
+* Aimbulance \(?\)
 
