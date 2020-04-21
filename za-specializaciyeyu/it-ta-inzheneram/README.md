@@ -131,6 +131,7 @@ Coronavirus handbook \([https://coronavirustechhandbook.com/home](https://corona
 * [https://www.facebook.com/diia.gov.ua/photos/a.123355509068808/241180833952941/?type=3&theater](https://www.facebook.com/diia.gov.ua/photos/a.123355509068808/241180833952941/?type=3&theater)
 * Joseph Conrad \(для проведения хакатонов\) / Самые крутые хакатоны - Odyssey
 * [https://www.facebook.com/diia.gov.ua/photos/a.123355509068808/241180833952941/?type=3&theater](https://www.facebook.com/diia.gov.ua/photos/a.123355509068808/241180833952941/?type=3&theater)
+* Иван Пасичник, Kyivstar
 
 Вы готовы к новой реальности? Короновирус меняет Мир и создает новые тренды, многие из которых уже не будут обратимыми\)
 
