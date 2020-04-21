@@ -52,7 +52,7 @@
 ## Координація <a id="volonteram"></a>
 
 * [Комунікація](volonteram/informacionnaya-kampaniya/README.md)
-  * [Кампанія \#безтебеніяк](volonteram/informacionnaya-kampaniya/beztebeniyak.md)
+  * [\#безтебеніяк](volonteram/informacionnaya-kampaniya/beztebeniyak.md)
   * [Онлайн бар](volonteram/informacionnaya-kampaniya/ezhenedelnyi-onlain-bar.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](volonteram/informacionnaya-kampaniya/comms-19.03.md)
