@@ -107,6 +107,7 @@
   * [Tech Tactical 15.04](za-specializaciyeyu/it-ta-inzheneram/tech-tactical-15.04.md)
 * [Психологи та психотерапевти](za-specializaciyeyu/psychological-support/README.md)
   * [Коммуникация и психология.](za-specializaciyeyu/psychological-support/kommunikaciya-i-psikhologiya..md)
+  * [Коммуникация и психология.](za-specializaciyeyu/psychological-support/kommunikaciya-i-psikhologiya.-1.md)
   * [Y-clients](za-specializaciyeyu/psychological-support/y-clients.md)
   * [Events](za-specializaciyeyu/psychological-support/events.md)
   * [Events policy\*](za-specializaciyeyu/psychological-support/events-1.md)
