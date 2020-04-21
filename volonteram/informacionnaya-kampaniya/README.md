@@ -65,9 +65,10 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * Design force
 * Нативные проекты с рекламными бюджетами
 * [https://didtheyhelp.com/](https://didtheyhelp.com/?fbclid=IwAR18pBwbTOfCnO0KfDJvGo5_fNrW0MTKoKRy449zgUuYfaBOrKwzIKwa0AM)
-* Креативные школы - Берите наши кейсы
+* Креативные школы - Берите наши кейсы для генерации результатов
 * Описывать достигнутые и плановые цели
 * Юрий Марченко / Platforma \(?\)
 * Банда \(?\)
 * Aimbulance \(?\)
+* Истории волонтёров делать видеороликами . Искусственный интеллект генерирует видео [https://lumen5.com/](https://lumen5.com/)
 
