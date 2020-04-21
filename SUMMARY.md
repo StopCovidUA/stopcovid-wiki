@@ -94,7 +94,8 @@
   * [Coordination 14.04](volonteram/analitika-mepping-dannykh/coordination-14.04.md)
   * [Coordination 16.04](volonteram/analitika-mepping-dannykh/coordination-16.04.md)
 * [Операції та фінанси](volonteram/finansistam.md)
-* [Стратегія](volonteram/strategiya.md)
+* [Стратегія](volonteram/strategiya/README.md)
+  * [23.04](volonteram/strategiya/23.04.md)
 * [Партнерства](volonteram/partnerstva.md)
 
 ## За спеціалізацією
