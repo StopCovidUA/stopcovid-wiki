@@ -157,7 +157,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Весь бюджет решаем вместе как направить, через квадратичеакое голосование
 * Поддержать стопковид на патреоне
 * Благотворительный Метафест в онлайне
-* Грант: мб Фёдоров продаст месячное спонсорство?
+* Грант: мб Фёдоров продаст месячное спонсорство? аукцион
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
