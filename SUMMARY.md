@@ -17,6 +17,7 @@
   * [Саміт по коронавірусу. Базова інформація](ukrayinske-suspilstvo/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Школам та вишам](ukrayinske-suspilstvo/udalennoe-i-onlain-obrazovanie.md)
 * [Технологи та інженери](ukrayinske-suspilstvo/it-ta-inzheneram/README.md)
+  * [Tech Tactical 22.04](ukrayinske-suspilstvo/it-ta-inzheneram/tech-tactical-22.04.md)
   * [Tech Tactical 01.04](ukrayinske-suspilstvo/it-ta-inzheneram/tactical-01.04.md)
   * [Tech Tactical 07.04](ukrayinske-suspilstvo/it-ta-inzheneram/tech-tactical-01.04.md)
   * [Tech Tactical 15.04](ukrayinske-suspilstvo/it-ta-inzheneram/tech-tactical-15.04.md)
