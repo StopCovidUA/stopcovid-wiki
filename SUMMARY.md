@@ -19,7 +19,6 @@
 * [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
 * [Телемедицина](medikam/telemedicina.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
-* [Этичный трекинг](medikam/etitchnyi-treking.md)
 * [Кампанія \#лікарігерої](medikam/kampaniya-likarigeroyi.md)
 
 ## Вразливі верстви населення
@@ -97,6 +96,7 @@
   * [Volunteers 28.04](volonteram/analitika-mepping-dannykh/volunteers-28.04.md)
 * [Операції та фінанси](volonteram/finansistam.md)
 * [Стратегія](volonteram/strategiya/README.md)
+  * [Этичный трекинг](volonteram/strategiya/etitchnyi-treking.md)
   * [23.04](volonteram/strategiya/23.04.md)
 * [Партнерства](volonteram/partnerstva.md)
 

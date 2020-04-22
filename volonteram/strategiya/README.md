@@ -2,7 +2,7 @@
 
 ## Бачення
 
-![https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](../../.gitbook/assets/image%20%2877%29.png)
+![https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](../../.gitbook/assets/image%20%2878%29.png)
 
 ## Development Plan
 
@@ -121,5 +121,5 @@ Let’s say these 5 functions which comprise the administration had within them 
 
 * 1
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 

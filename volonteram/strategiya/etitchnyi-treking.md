@@ -56,5 +56,7 @@
 * [https://www.anti-malware.ru/news/2020-04-16-111332/32463](https://www.anti-malware.ru/news/2020-04-16-111332/32463)
 * Сделать сначала не на блокчейне, потом на блокчейне
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
+
+![](../../.gitbook/assets/image%20%2812%29.png)
 
