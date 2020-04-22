@@ -23,12 +23,14 @@
 
 ## Вразливі верстви населення
 
+* [Громадянам](vrazlivi-verstvi-naselennya/gromadyani.md)
 * [Стратегія](vrazlivi-verstvi-naselennya/strategiya.md)
 * [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya/hr-bezrabotica/README.md)
   * [Tactical 08.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-08.04.md)
   * [Tactical 16.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-15.04.md)
 * [Система логистики товаров](vrazlivi-verstvi-naselennya/sistema-logistiki.md)
 * [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
+* [Клуб свідомих українських медиків](vrazlivi-verstvi-naselennya/klub-svidomikh-ukrayinskikh-medikiv.md)
 
 ## Економіка та бізнес <a id="biznes"></a>
 
@@ -43,15 +45,17 @@
 * [Список компаний которые поддержали борьбу с covid-19](biznes/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
 * [Екологія](biznes/ekologiya.md)
 
-## Культура
+## Українське суспільство
 
-* [Стратегія](kultura/mistectvo.md)
-* [\#мистецтворятує](kultura/mistectvoryatuye.md)
+* [Кампанія \#безтебеніяк](ukrayinske-suspilstvo/beztebeniyak.md)
+* [Кампанія \#мистецтворятує](ukrayinske-suspilstvo/mistectvoryatuye.md)
+* [Все про коронавірус \(SARS-CoV-2\)](ukrayinske-suspilstvo/o-koronaviruse/README.md)
+  * [Саміт по коронавірусу. Базова інформація](ukrayinske-suspilstvo/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
+* [Школам та вишам](ukrayinske-suspilstvo/udalennoe-i-onlain-obrazovanie.md)
 
 ## Координація <a id="volonteram"></a>
 
 * [Комунікація](volonteram/informacionnaya-kampaniya/README.md)
-  * [Кампанія \#безтебеніяк](volonteram/informacionnaya-kampaniya/beztebeniyak.md)
   * [Онлайн бар](volonteram/informacionnaya-kampaniya/ezhenedelnyi-onlain-bar.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](volonteram/informacionnaya-kampaniya/comms-19.03.md)
@@ -131,11 +135,4 @@
   * [Tactical 31.03](za-specializaciyeyu/perekladacham/tactical-31.03.md)
   * [Tactical 28.03](za-specializaciyeyu/perekladacham/tactical-28.03.md)
 * [Менеджери та Біздеви](za-specializaciyeyu/inkubator-bizdev.md)
-
-## Контент для сайту <a id="do-saitu"></a>
-
-* [Громадянам](do-saitu/gromadyani.md)
-* [Все про коронавірус \(SARS-CoV-2\)](do-saitu/o-koronaviruse/README.md)
-  * [Саміт по коронавірусу. Базова інформація](do-saitu/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
-* [Школам та вишам](do-saitu/udalennoe-i-onlain-obrazovanie.md)
 
