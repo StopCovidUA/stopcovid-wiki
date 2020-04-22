@@ -26,9 +26,9 @@
 
 * [Координаторам, аналітикам та проєктним менеджерам](volonteram/analitika-mepping-dannykh/)
 * [Представникам ЗМІ, комунікаторам, дизайнерам та креаторам](https://app.gitbook.com/@dgov/s/stopcovid/~/drafts/-M3zNx5P-7ysMTiG6jk-/informacionnaya-kampaniya)
-* [Психологам, психотерапевтам, психіатрам](za-specializaciyeyu/psychological-support/)
-* [Перекладачам](za-specializaciyeyu/perekladacham/)
-* [IT-спеціалістам та інженерам](za-specializaciyeyu/it-ta-inzheneram/)
+* [Психологам, психотерапевтам, психіатрам](ukrayinske-suspilstvo/psychological-support/)
+* [Перекладачам](ukrayinske-suspilstvo/perekladacham/)
+* [IT-спеціалістам та інженерам](ukrayinske-suspilstvo/it-ta-inzheneram/)
 * [HR'ам](vrazlivi-verstvi-naselennya/hr-bezrabotica/)
 * [Фінансистам](volonteram/finansistam.md)
 
@@ -87,7 +87,7 @@
 
 [Статистика](https://combot.org/c/-1001383920031) нашого чату
 
-## [\#безтебеніяк](ukrayinske-suspilstvo/beztebeniyak.md)
+## [\#безтебеніяк](ukrayinske-suspilstvo/beztebeniyak/)
 
 Це інформаційна каманія для того щоб більше людей приєднались до волонтерства. Якщо хочешь допомогти – використовуй його в facebook та instagram, найкраще всього з історією того чому став волонтером чи коли збираєш команду. Також тегни нас будь-ласка й ми перепостимо.
 

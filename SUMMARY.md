@@ -9,6 +9,44 @@
 * [\#stopcovid ua - звіт 15](stopcovid-ua-tizhden-15.md)
 * [звіт 16](zvit-16.md)
 
+## Українське суспільство
+
+* [Кампанія \#безтебеніяк](ukrayinske-suspilstvo/beztebeniyak/README.md)
+  * [27.04](ukrayinske-suspilstvo/beztebeniyak/27.04.md)
+* [Кампанія \#мистецтворятує](ukrayinske-suspilstvo/mistectvoryatuye.md)
+* [Все про коронавірус \(SARS-CoV-2\)](ukrayinske-suspilstvo/o-koronaviruse/README.md)
+  * [Саміт по коронавірусу. Базова інформація](ukrayinske-suspilstvo/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
+* [Школам та вишам](ukrayinske-suspilstvo/udalennoe-i-onlain-obrazovanie.md)
+* [Технологи та інженери](ukrayinske-suspilstvo/it-ta-inzheneram/README.md)
+  * [Tech Tactical 01.04](ukrayinske-suspilstvo/it-ta-inzheneram/tactical-01.04.md)
+  * [Tech Tactical 07.04](ukrayinske-suspilstvo/it-ta-inzheneram/tech-tactical-01.04.md)
+  * [Tech Tactical 15.04](ukrayinske-suspilstvo/it-ta-inzheneram/tech-tactical-15.04.md)
+* [Психологи та психотерапевти](ukrayinske-suspilstvo/psychological-support/README.md)
+  * [Коммуникация и психология.](ukrayinske-suspilstvo/psychological-support/kommunikaciya-i-psikhologiya..md)
+  * [Коммуникация и психология.](ukrayinske-suspilstvo/psychological-support/kommunikaciya-i-psikhologiya.-1.md)
+  * [Y-clients](ukrayinske-suspilstvo/psychological-support/y-clients.md)
+  * [Events](ukrayinske-suspilstvo/psychological-support/events.md)
+  * [Events policy\*](ukrayinske-suspilstvo/psychological-support/events-1.md)
+  * [Psychology 09.04](ukrayinske-suspilstvo/psychological-support/psychology-09.04.md)
+  * [Reducing Stigma](ukrayinske-suspilstvo/psychological-support/reducing-stigma.md)
+  * [Здоровье на 100%](ukrayinske-suspilstvo/psychological-support/zdorove-na-100.md)
+  * [Медики](ukrayinske-suspilstvo/psychological-support/mediki.md)
+  * [Psychology 14.04](ukrayinske-suspilstvo/psychological-support/psychology-14.04.md)
+  * [Psychology 17.03](ukrayinske-suspilstvo/psychological-support/psychology-17.03.md)
+  * [Psychology 24.03](ukrayinske-suspilstvo/psychological-support/psychology-24.03.md)
+  * [Psychology 25.03](ukrayinske-suspilstvo/psychological-support/psychology-25.03.md)
+  * [Psychology 31.03](ukrayinske-suspilstvo/psychological-support/psychology-31.03.md)
+  * [Psychology 02.04](ukrayinske-suspilstvo/psychological-support/psychology-02.04.md)
+  * [Psychology 07.04](ukrayinske-suspilstvo/psychological-support/psychology-07.04.md)
+* [Перекладачі](ukrayinske-suspilstvo/perekladacham/README.md)
+  * [Цілі, способи та тактика роботи з матеріалами](ukrayinske-suspilstvo/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
+  * [Tactical 10.04](ukrayinske-suspilstvo/perekladacham/tactical-10.04.md)
+  * [Tactical 07.04](ukrayinske-suspilstvo/perekladacham/tactical-07.04.md)
+  * [Tactical 03.04](ukrayinske-suspilstvo/perekladacham/tactical-03.04.md)
+  * [Tactical 31.03](ukrayinske-suspilstvo/perekladacham/tactical-31.03.md)
+  * [Tactical 28.03](ukrayinske-suspilstvo/perekladacham/tactical-28.03.md)
+* [Менеджери та Біздеви](ukrayinske-suspilstvo/inkubator-bizdev.md)
+
 ## Допомога медикам <a id="medikam"></a>
 
 * [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
@@ -44,14 +82,6 @@
   * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
 * [Список компаний которые поддержали борьбу с covid-19](biznes/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
 * [Екологія](biznes/ekologiya.md)
-
-## Українське суспільство
-
-* [Кампанія \#безтебеніяк](ukrayinske-suspilstvo/beztebeniyak.md)
-* [Кампанія \#мистецтворятує](ukrayinske-suspilstvo/mistectvoryatuye.md)
-* [Все про коронавірус \(SARS-CoV-2\)](ukrayinske-suspilstvo/o-koronaviruse/README.md)
-  * [Саміт по коронавірусу. Базова інформація](ukrayinske-suspilstvo/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
-* [Школам та вишам](ukrayinske-suspilstvo/udalennoe-i-onlain-obrazovanie.md)
 
 ## Координація <a id="volonteram"></a>
 
@@ -103,36 +133,4 @@
   * [Этичный трекинг](volonteram/strategiya/etitchnyi-treking.md)
   * [23.04](volonteram/strategiya/23.04.md)
 * [Партнерства](volonteram/partnerstva.md)
-
-## За спеціалізацією
-
-* [Технологи та інженери](za-specializaciyeyu/it-ta-inzheneram/README.md)
-  * [Tech Tactical 01.04](za-specializaciyeyu/it-ta-inzheneram/tactical-01.04.md)
-  * [Tech Tactical 07.04](za-specializaciyeyu/it-ta-inzheneram/tech-tactical-01.04.md)
-  * [Tech Tactical 15.04](za-specializaciyeyu/it-ta-inzheneram/tech-tactical-15.04.md)
-* [Психологи та психотерапевти](za-specializaciyeyu/psychological-support/README.md)
-  * [Коммуникация и психология.](za-specializaciyeyu/psychological-support/kommunikaciya-i-psikhologiya..md)
-  * [Коммуникация и психология.](za-specializaciyeyu/psychological-support/kommunikaciya-i-psikhologiya.-1.md)
-  * [Y-clients](za-specializaciyeyu/psychological-support/y-clients.md)
-  * [Events](za-specializaciyeyu/psychological-support/events.md)
-  * [Events policy\*](za-specializaciyeyu/psychological-support/events-1.md)
-  * [Psychology 09.04](za-specializaciyeyu/psychological-support/psychology-09.04.md)
-  * [Reducing Stigma](za-specializaciyeyu/psychological-support/reducing-stigma.md)
-  * [Здоровье на 100%](za-specializaciyeyu/psychological-support/zdorove-na-100.md)
-  * [Медики](za-specializaciyeyu/psychological-support/mediki.md)
-  * [Psychology 14.04](za-specializaciyeyu/psychological-support/psychology-14.04.md)
-  * [Psychology 17.03](za-specializaciyeyu/psychological-support/psychology-17.03.md)
-  * [Psychology 24.03](za-specializaciyeyu/psychological-support/psychology-24.03.md)
-  * [Psychology 25.03](za-specializaciyeyu/psychological-support/psychology-25.03.md)
-  * [Psychology 31.03](za-specializaciyeyu/psychological-support/psychology-31.03.md)
-  * [Psychology 02.04](za-specializaciyeyu/psychological-support/psychology-02.04.md)
-  * [Psychology 07.04](za-specializaciyeyu/psychological-support/psychology-07.04.md)
-* [Перекладачі](za-specializaciyeyu/perekladacham/README.md)
-  * [Цілі, способи та тактика роботи з матеріалами](za-specializaciyeyu/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
-  * [Tactical 10.04](za-specializaciyeyu/perekladacham/tactical-10.04.md)
-  * [Tactical 07.04](za-specializaciyeyu/perekladacham/tactical-07.04.md)
-  * [Tactical 03.04](za-specializaciyeyu/perekladacham/tactical-03.04.md)
-  * [Tactical 31.03](za-specializaciyeyu/perekladacham/tactical-31.03.md)
-  * [Tactical 28.03](za-specializaciyeyu/perekladacham/tactical-28.03.md)
-* [Менеджери та Біздеви](za-specializaciyeyu/inkubator-bizdev.md)
 
