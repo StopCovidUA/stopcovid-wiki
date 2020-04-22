@@ -142,6 +142,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Открыть наши сервисы как апишки / сработать. С  Игниным из бидла
 * Проконсультироваться с крутым hr
 * [https://www.toptal.com/remote-work-playbook](https://www.toptal.com/remote-work-playbook)
+* Подбор твоей задачи через чат
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
