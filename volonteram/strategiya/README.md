@@ -119,7 +119,7 @@ Let’s say these 5 functions which comprise the administration had within them 
 
 ## Ідеї
 
-* 1
+* Таблеточки как пример/адвайзор
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
