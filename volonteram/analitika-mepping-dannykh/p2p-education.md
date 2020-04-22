@@ -316,6 +316,7 @@
 * [http://insha-osvita.org](http://insha-osvita.org/)
 * То что делает Рабинович
 * Ментор пишет рекомендацию
+* Agile проект менеджмент \(Артем\)
 
 ![](../../.gitbook/assets/image%20%2876%29.png)
 
