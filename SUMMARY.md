@@ -130,7 +130,7 @@
   * [Tactical 03.04](za-specializaciyeyu/perekladacham/tactical-03.04.md)
   * [Tactical 31.03](za-specializaciyeyu/perekladacham/tactical-31.03.md)
   * [Tactical 28.03](za-specializaciyeyu/perekladacham/tactical-28.03.md)
-* [Біздеви та інноваційні директори](za-specializaciyeyu/inkubator-bizdev.md)
+* [Менеджери та Біздеви](za-specializaciyeyu/inkubator-bizdev.md)
 
 ## Контент для сайту <a id="do-saitu"></a>
 
