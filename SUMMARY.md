@@ -132,6 +132,7 @@
   * [Volunteers 28.04](volonteram/analitika-mepping-dannykh/volunteers-28.04.md)
 * [Операції та фінанси](volonteram/finansistam.md)
 * [Стратегія](volonteram/strategiya/README.md)
+  * [Воркшоп "стратегическая сессия"](volonteram/strategiya/vorkshop-strategicheskaya-sessiya.md)
   * [Этичный трекинг](volonteram/strategiya/etitchnyi-treking.md)
   * [23.04](volonteram/strategiya/23.04.md)
 * [Партнерства](volonteram/partnerstva.md)
