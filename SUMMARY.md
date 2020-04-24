@@ -50,6 +50,7 @@
 ## Допомога медикам <a id="medikam"></a>
 
 * [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
+  * [\#мибачимо](medikam/sistema-zdravookhraneniya/mibachimo.md)
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
   * [20.04](medikam/sistema-zdravookhraneniya/untitled.md)
   * [27.04](medikam/sistema-zdravookhraneniya/27.04.md)
