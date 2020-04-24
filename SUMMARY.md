@@ -16,7 +16,6 @@
 * [Кампанія \#мистецтворятує](ukrayinske-suspilstvo/mistectvoryatuye.md)
 * [Все про коронавірус \(SARS-CoV-2\)](ukrayinske-suspilstvo/o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](ukrayinske-suspilstvo/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
-* [Школам та вишам](ukrayinske-suspilstvo/udalennoe-i-onlain-obrazovanie.md)
 * [Технологи та інженери](ukrayinske-suspilstvo/it-ta-inzheneram/README.md)
   * [Tech Tactical 22.04](ukrayinske-suspilstvo/it-ta-inzheneram/tech-tactical-22.04.md)
   * [Tech Tactical 01.04](ukrayinske-suspilstvo/it-ta-inzheneram/tactical-01.04.md)
@@ -61,17 +60,6 @@
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
 * [Кампанія \#лікарігерої](medikam/kampaniya-likarigeroyi.md)
 
-## Вразливі верстви населення
-
-* [Громадянам](vrazlivi-verstvi-naselennya/gromadyani.md)
-* [Стратегія](vrazlivi-verstvi-naselennya/strategiya.md)
-* [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya/hr-bezrabotica/README.md)
-  * [Tactical 08.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-08.04.md)
-  * [Tactical 16.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-15.04.md)
-* [Система логистики товаров](vrazlivi-verstvi-naselennya/sistema-logistiki.md)
-* [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
-* [Клуб свідомих українських медиків](vrazlivi-verstvi-naselennya/klub-svidomikh-ukrayinskikh-medikiv.md)
-
 ## Економіка та бізнес <a id="biznes"></a>
 
 * [Стратегія розвитку бізнесу](biznes/biznesy.md)
@@ -84,6 +72,21 @@
   * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
 * [Список компаний которые поддержали борьбу с covid-19](biznes/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
 * [Екологія](biznes/ekologiya.md)
+
+## Вразливі верстви населення
+
+* [Громадянам](vrazlivi-verstvi-naselennya/gromadyani.md)
+* [Стратегія](vrazlivi-verstvi-naselennya/strategiya.md)
+* [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya/hr-bezrabotica/README.md)
+  * [Tactical 08.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-08.04.md)
+  * [Tactical 16.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-15.04.md)
+* [Система логистики товаров](vrazlivi-verstvi-naselennya/sistema-logistiki.md)
+* [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
+* [Клуб свідомих українських медиків](vrazlivi-verstvi-naselennya/klub-svidomikh-ukrayinskikh-medikiv.md)
+
+## Діти
+
+* [Школам та вишам](diti/udalennoe-i-onlain-obrazovanie.md)
 
 ## Координація <a id="volonteram"></a>
 
