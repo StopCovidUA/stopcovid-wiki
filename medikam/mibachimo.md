@@ -6,32 +6,129 @@ description: >-
 
 # Проект \#мибачимо
 
+## Проблема
+
+Лікарям і медсестрам потрібно зайвий раз одягати ЗІЗ і заходити до пацієнта з Covid-19, коли достатньо було б поспілкуватися по відеозв'язку. Пацієнт міг би провести прості маніпуляції самостійно, якби медсестра контролювала по відеозв'язку. Вартість одного комплекту ЗІЗ скалає $10+, всі має бути чудової якості, комплект довго і важко одягати, і легко помилитися. За правилами, щодня кожному  Кожна така операція -- ризик для здоров'я 
+
+Зараз пацієнт та лікар зв'язуються по телефону, але в них немає можливості бачитись, якщо обидві сторони не використовують програму відеозв'язку. Також, потрібно, щоб одна сторона дзвонила, а друга — "знімала" трубку. Хворі, особливо важкі хворі, часто літні люди, яким важко впоратися з телефоном та смартфоном.
+
 ## Порівняння рішень
 
-| Функція | Feature phone | Viber on-demand дзвінок | Skype на телефоні | [Відеоняня на смартфоні](mibachimo.md#smartphone-nanny) | Відеоняня WiFi |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Вартість | 0 \(телефон\)  | 0 \(смартфон\) | 0 \(смартфон\)  | ліцензія програми + смартфон | $50+ |
-| Мережа | 3G | WiFi, 3G | WiFi, 3G | WiFi, 3G | WiFi |
-| Голосовий виклик |  |  |  |  |  |
-| Відео дзвінок |  |  |  | день | день+ніч |
-| Завжди включено або відповідь без пацієнта | ні | ні | ??? | так | так |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| Інші переваги |  |  |  |  | одночасна робота до 4 модулів пацієнтів |
-| Інші недоліки |  |  |  |  |  |
-
-## Skype на телефоні
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x424;&#x443;&#x43D;&#x43A;&#x446;&#x456;&#x44F;</th>
+      <th style="text-align:left">Feature phone</th>
+      <th style="text-align:left">Viber on-demand &#x434;&#x437;&#x432;&#x456;&#x43D;&#x43E;&#x43A;</th>
+      <th
+      style="text-align:left">Skype &#x43D;&#x430; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#x456;</th>
+        <th
+        style="text-align:left"><a href="mibachimo.md#smartphone-nanny">&#x412;&#x456;&#x434;&#x435;&#x43E;&#x43D;&#x44F;&#x43D;&#x44F; &#x43D;&#x430; &#x441;&#x43C;&#x430;&#x440;&#x442;&#x444;&#x43E;&#x43D;&#x456;</a>
+          </th>
+          <th style="text-align:left">&#x412;&#x456;&#x434;&#x435;&#x43E;&#x43D;&#x44F;&#x43D;&#x44F; WiFi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x412;&#x430;&#x440;&#x442;&#x456;&#x441;&#x442;&#x44C;</td>
+      <td style="text-align:left">0 (&#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;)</td>
+      <td style="text-align:left">0 (&#x441;&#x43C;&#x430;&#x440;&#x442;&#x444;&#x43E;&#x43D;)</td>
+      <td style="text-align:left">0 (&#x441;&#x43C;&#x430;&#x440;&#x442;&#x444;&#x43E;&#x43D;)</td>
+      <td style="text-align:left">&#x43B;&#x456;&#x446;&#x435;&#x43D;&#x437;&#x456;&#x44F; &#x43F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x438;
+        + &#x441;&#x43C;&#x430;&#x440;&#x442;&#x444;&#x43E;&#x43D;</td>
+      <td style="text-align:left">$50+</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x41C;&#x435;&#x440;&#x435;&#x436;&#x430;</td>
+      <td style="text-align:left">3G</td>
+      <td style="text-align:left">WiFi, 3G</td>
+      <td style="text-align:left">WiFi, 3G</td>
+      <td style="text-align:left">WiFi, 3G</td>
+      <td style="text-align:left">WiFi</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x413;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x438;&#x439; &#x432;&#x438;&#x43A;&#x43B;&#x438;&#x43A;</td>
+      <td
+      style="text-align:left">&#x442;&#x430;&#x43A;</td>
+        <td style="text-align:left">&#x442;&#x430;&#x43A;</td>
+        <td style="text-align:left">&#x442;&#x430;&#x43A;</td>
+        <td style="text-align:left">&#x442;&#x430;&#x43A;</td>
+        <td style="text-align:left">&#x442;&#x430;&#x43A;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x412;&#x456;&#x434;&#x435;&#x43E; &#x434;&#x437;&#x432;&#x456;&#x43D;&#x43E;&#x43A;</td>
+      <td
+      style="text-align:left">&#x43D;&#x456;</td>
+        <td style="text-align:left">&#x434;&#x435;&#x43D;&#x44C;</td>
+        <td style="text-align:left">&#x434;&#x435;&#x43D;&#x44C;</td>
+        <td style="text-align:left">&#x434;&#x435;&#x43D;&#x44C;</td>
+        <td style="text-align:left">&#x434;&#x435;&#x43D;&#x44C;+&#x43D;&#x456;&#x447;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x417;&#x430;&#x432;&#x436;&#x434;&#x438; &#x432;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;&#x43E;
+        &#x430;&#x431;&#x43E; &#x432;&#x456;&#x434;&#x43F;&#x43E;&#x432;&#x456;&#x434;&#x44C;
+        &#x431;&#x435;&#x437; &#x43F;&#x430;&#x446;&#x456;&#x454;&#x43D;&#x442;&#x430;</td>
+      <td
+      style="text-align:left">&#x43D;&#x456;</td>
+        <td style="text-align:left">&#x43D;&#x456;</td>
+        <td style="text-align:left">???</td>
+        <td style="text-align:left">&#x442;&#x430;&#x43A;</td>
+        <td style="text-align:left">&#x442;&#x430;&#x43A;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x406;&#x43D;&#x448;&#x456; &#x43F;&#x435;&#x440;&#x435;&#x432;&#x430;&#x433;&#x438;</td>
+      <td
+      style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left">
+          <p>&#x43E;&#x434;&#x43D;&#x43E;&#x447;&#x430;&#x441;&#x43D;&#x430; &#x440;&#x43E;&#x431;&#x43E;&#x442;&#x430;
+            &#x434;&#x43E; 4 &#x43C;&#x43E;&#x434;&#x443;&#x43B;&#x456;&#x432; &#x43F;&#x430;&#x446;&#x456;&#x454;&#x43D;&#x442;&#x456;&#x432;</p>
+          <p></p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x406;&#x43D;&#x448;&#x456; &#x43D;&#x435;&#x434;&#x43E;&#x43B;&#x456;&#x43A;&#x438;</td>
+      <td
+      style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>## Skype на телефоні
 
 _Щоб уникнути пропущених викликів / дзвінків, медсестрам / лікарям скайп на телефон і навушник. Навушник, щоб напевно не пропустити._
 
 Можна вивести скайп на якийсь великий екран в тому приміщенні, де завжди є хтось із медперсоналу. Щоб звідти вже викликали лікаря / медсестру, і т.д.
 
-### Проблема
-
-Лікарям і медсестрам потрібно зайвий раз одягати ЗІЗ і заходити до пацієнта з Covid-19, коли достатньо було б поспілкуватися по відеозв'язку. Пацієнт міг би провести прості маніпуляції самостійно, якби медсестра контролювала по відеозв'язку.
-
-Зараз пацієнт та лікар зв'язуються по телефону, але в них немає можливості бачитись, якщо обидві сторони не використовують програму відеозв'язку. Також, потрібно, щоб одна сторона дзвонила, а друга — "знімала" трубку. Хворі, особливо важкі хворі, часто літні люди, яким важко впоратися з телефоном та смартфоном.
+### 
 
 ## Рішення. Відеоняня на смартфоні <a id="smartphone-nanny"></a>
 
