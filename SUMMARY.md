@@ -109,7 +109,7 @@
   * [Comms 17.04](volonteram/informacionnaya-kampaniya/comms-17.04.md)
   * [Comms 20.04](volonteram/informacionnaya-kampaniya/comms-20.04.md)
 * [Людські ресурси](volonteram/analitika-mepping-dannykh/README.md)
-  * [Онбординг сценарий](volonteram/analitika-mepping-dannykh/onbording-scenarii.md)
+  * [Игра](volonteram/analitika-mepping-dannykh/igra.md)
   * [Кампанія "Жити по-новому"](volonteram/analitika-mepping-dannykh/kampaniya-zhiti-po-novomu.md)
   * [Школа координаторів](volonteram/analitika-mepping-dannykh/p2p-education.md)
   * [StopCovidUA Bot / Platform](volonteram/analitika-mepping-dannykh/operatoram-stopcovidua-bot.md)
