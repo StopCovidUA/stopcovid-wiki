@@ -64,7 +64,6 @@
 ## Економіка та бізнес <a id="biznes"></a>
 
 * [Стратегія розвитку бізнесу](biznes/biznesy.md)
-* [Рейтинг инициатив по эффективности вложений](biznes/reiting-iniciativ-po-effektivnosti-vlozhenii.md)
 * [Импакт фонд](biznes/impakt-fond.md)
 * [Список регуляций мешающих борьбе с covid](biznes/spisok-regulyacii-meshayushikh-borbe-s-covid.md)
 * [Зміни регуляторів](biznes/dopomoga-u-vedenni-biznesu.md)

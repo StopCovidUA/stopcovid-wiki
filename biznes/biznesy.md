@@ -17,7 +17,6 @@
 
 * [Група фейбсук "Бізнес для громад"](https://www.facebook.com/groups/231308464927219/?ref=share) – запити, "що потрібно громадам".
 * [Список фондов для поддержки больниц, пожилых людей и тд](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0)
-* [Рейтинг инициатив по эффективности вложений](reiting-iniciativ-po-effektivnosti-vlozhenii.md)
 * [Импакт Фонд](impakt-fond.md)
 * [Список регуляций мешающих борьбе с covid](spisok-regulyacii-meshayushikh-borbe-s-covid.md)
 * [Список компаний которые поддержали борьбу с covid-19](spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
@@ -51,4 +50,5 @@
 * [Центр економічної стратегії / Centre for Economic Strategy](https://www.facebook.com/cesukraine/)
 * Исследования указывают на роль христианства в повышении уровня доверия к посторонним, что в исторической перспективе привело к повышению общего уровня жизни[\[12\]](https://ru.m.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB#cite_note-Econ-12). Сравнение развития [католицизма](https://ru.m.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B7%D0%BC) в средневековой Европе в VI—XVI вв., с современным уровнем жизни в различных странах, указывает на позитивную корреляцию этих показателей. Влияние христианства также прослеживается в странах, созданных эмигрантами-христианами, каких как [США](https://ru.m.wikipedia.org/wiki/%D0%A1%D0%A8%D0%90)[\[12\]](https://ru.m.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB#cite_note-Econ-12).
 * Нова краина 2000 предпринимателей 3 месяца
+* Аспен \(макроеокномічна група\)
 
