@@ -39,4 +39,5 @@
 * Культурное влияние на членов сообществ
 * Изобразить акт волонтерства
 * Благотворительный концерт
+* [https://www.youtube.com/watch?v=noIW9A8V7WE](https://www.youtube.com/watch?v=noIW9A8V7WE)
 
