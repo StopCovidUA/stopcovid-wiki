@@ -186,8 +186,6 @@
 
 [Контакты центров псих.поддержки и телефонов доверия](https://docs.google.com/spreadsheets/d/1Tiz3PZtqXY4q34sdXC9balK1s8yA5-WBlnXXrCgTa54/edit#gid=0) 
 
-[База психологів-волонтерів \#StopCovidUa](https://docs.google.com/spreadsheets/d/1BnYBYNhAa2Yj0rjNnj4v4ohEgdXU2F3V95hiVNFxaE0/edit?usp=sharing)
-
 [Гаряча лінія професійної підтримки «Стоп, паніка»](https://m.facebook.com/story.php?story_fbid=2517763828496884&id=100007898741828)
 
 [Безкоштовна психологічна допомога \(Київ\)](https://kiev.vgorode.ua/news/sobytyia/394370-chto-to-prydumaem-hde-kyevliane-mohut-poluchyt-besplatnuui-psykholohycheskuui-pomosch)
