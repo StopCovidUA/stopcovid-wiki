@@ -54,12 +54,12 @@
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
   * [20.04](medikam/sistema-zdravookhraneniya/untitled.md)
   * [27.04](medikam/sistema-zdravookhraneniya/27.04.md)
+* [Кампанія \#лікарігерої](medikam/kampaniya-likarigeroyi.md)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Транспортні сервіси](medikam/servisy-transportirovki-vrachei.md)
 * [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
 * [Телемедицина](medikam/telemedicina.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
-* [Кампанія \#лікарігерої](medikam/kampaniya-likarigeroyi.md)
 
 ## Економіка та бізнес <a id="biznes"></a>
 
