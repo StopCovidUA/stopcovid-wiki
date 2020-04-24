@@ -1,4 +1,4 @@
-# Импакт фонд
+# Імпакт фонд
 
 На практиці, я бачу можливість на базі волонтерського руху починати створювати імпакт-інвест проекти...тільки не сервісні \(ресторан Урбан 500\), а продуктові \(наприклад\) з експортним потенціалом \(щоб вплив бувна економіку сильніший\) а прибуток від них реінвестувати знову таки внутрішні інфраструктурні \(благоустрій\) проекти в яких знову ж таки є бізнес-модель - тобто вони не проїдаються і "інвестуються".
 
@@ -63,4 +63,8 @@
 * Мб декілька стратегій
 * Зробити оцінку базуючись на дошейшенах людей / [Quadratic Voting](https://en.wikipedia.org/wiki/Quadratic_voting)
 * Fund relying on the open data Gursky
+* [7 Steps to Effective Impact Measurement](https://www.undp.org/content/dam/ukraine/docs/DG/socinnov/7%20Steps%20to%20Effective%20Impact%20Measurement_v3_13.12.16%20%281%29.pdf)
+* [Actionable Impact Management Framework ](https://www.sopact.com/social-impact-measurement-framework)
+* [The Best Practices on Measuring social impact](https://www.sopact.com/social-impact-measurement)
+* [https://impactmanagementproject.com/](https://impactmanagementproject.com/)
 
