@@ -50,7 +50,6 @@
 ## Допомога медикам <a id="medikam"></a>
 
 * [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
-  * [\#мибачимо](medikam/sistema-zdravookhraneniya/mibachimo.md)
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
   * [20.04](medikam/sistema-zdravookhraneniya/untitled.md)
   * [27.04](medikam/sistema-zdravookhraneniya/27.04.md)
@@ -60,6 +59,7 @@
 * [Транспортні сервіси](medikam/servisy-transportirovki-vrachei.md)
 * [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
 * [Телемедицина](medikam/telemedicina.md)
+* [Проект \#мибачимо](medikam/mibachimo.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
 
 ## Економіка та бізнес <a id="biznes"></a>
