@@ -56,7 +56,7 @@
 
 ## Економіка та бізнес <a id="biznes"></a>
 
-* [Стратегія розвитку бізнесу](biznes/biznesy.md)
+* [Стратегія підтримкі економіки](biznes/biznesy.md)
 * [Імпакт фонд](biznes/impakt-fond/README.md)
   * [Список компаний которые поддержали борьбу с covid-19](biznes/impakt-fond/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
 * [Дерегуляція](biznes/spisok-regulyacii-meshayushikh-borbe-s-covid.md)
