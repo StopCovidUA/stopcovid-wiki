@@ -55,7 +55,8 @@
 * [Транспортні сервіси](medikam/servisy-transportirovki-vrachei.md)
 * [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
 * [Телемедицина](medikam/telemedicina.md)
-* [Проект \#мибачимо](medikam/mibachimo.md)
+* [Проект \#мибачимо](medikam/mibachimo/README.md)
+  * [25.04](medikam/mibachimo/25.04.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
 
 ## Економіка та бізнес <a id="biznes"></a>

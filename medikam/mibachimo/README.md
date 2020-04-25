@@ -23,7 +23,7 @@ description: >-
       <th
       style="text-align:left">Skype &#x43D;&#x430; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#x456;</th>
         <th
-        style="text-align:left"><a href="mibachimo.md#smartphone-nanny">&#x412;&#x456;&#x434;&#x435;&#x43E;&#x43D;&#x44F;&#x43D;&#x44F; &#x43D;&#x430; &#x441;&#x43C;&#x430;&#x440;&#x442;&#x444;&#x43E;&#x43D;&#x456;</a>
+        style="text-align:left"><a href="./#smartphone-nanny">&#x412;&#x456;&#x434;&#x435;&#x43E;&#x43D;&#x44F;&#x43D;&#x44F; &#x43D;&#x430; &#x441;&#x43C;&#x430;&#x440;&#x442;&#x444;&#x43E;&#x43D;&#x456;</a>
           </th>
           <th style="text-align:left">&#x412;&#x456;&#x434;&#x435;&#x43E;&#x43D;&#x44F;&#x43D;&#x44F; WiFi</th>
     </tr>
