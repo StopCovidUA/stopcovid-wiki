@@ -141,5 +141,5 @@
   * [Воркшоп "стратегическая сессия"](volonteram/strategiya/vorkshop-strategicheskaya-sessiya.md)
   * [Этичный трекинг](volonteram/strategiya/etitchnyi-treking.md)
   * [23.04](volonteram/strategiya/23.04.md)
-* [Партнерства](volonteram/partnerstva.md)
+* [Екосистема і партнерства](volonteram/partnerstva.md)
 
