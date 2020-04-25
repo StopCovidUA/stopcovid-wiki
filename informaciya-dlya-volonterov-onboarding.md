@@ -30,7 +30,7 @@
 * [Представникам ЗМІ, комунікаторам, дизайнерам та креаторам](https://app.gitbook.com/@dgov/s/stopcovid/~/drafts/-M3zNx5P-7ysMTiG6jk-/informacionnaya-kampaniya)
 * [Психологам, психотерапевтам, психіатрам](ukrayinske-suspilstvo/psychological-support/)
 * [Перекладачам](ukrayinske-suspilstvo/perekladacham/)
-* [IT-спеціалістам та інженерам](ukrayinske-suspilstvo/it-ta-inzheneram/)
+* [IT-спеціалістам та інженерам](biznes/it-ta-inzheneram/)
 * [HR'ам](vrazlivi-verstvi-naselennya/hr-bezrabotica/)
 * [Фінансистам](volonteram/finansistam.md)
 
