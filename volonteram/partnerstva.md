@@ -17,7 +17,10 @@
 13. dgov foundation
 14. teal ua
 15. metacommunity
-16. edgyneers
+
+## Радники
+
+* Марина Гончаренко, Impact Hub Odessa
 
 ## Ідеї
 
