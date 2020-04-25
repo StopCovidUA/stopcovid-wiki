@@ -1,6 +1,6 @@
 # Школа координаторів
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 ## **Кор синхрон**
 
@@ -13,7 +13,7 @@
 
 8:15 - 8:30 свободное время; \(Если хотите, можем все вместе помедитировать, но не обязательно\)
 
-![https://communityroundtable.com/what-we-do/models-and-frameworks/community-skills-framework/](../../.gitbook/assets/image%20%2826%29.png)
+![https://communityroundtable.com/what-we-do/models-and-frameworks/community-skills-framework/](../../.gitbook/assets/image%20%2827%29.png)
 
 ## Strategy
 
@@ -328,9 +328,9 @@
 * [https://news.sky.com/story/coronavirus-only-9-of-britons-want-life-to-return-to-normal-once-lockdown-is-over-11974459?fbclid=IwAR0uUSPHHGKdRKg1IAfavUQGJVrYArOID-HXc5XyUdzXYazXiz9ZTzqJPts](https://news.sky.com/story/coronavirus-only-9-of-britons-want-life-to-return-to-normal-once-lockdown-is-over-11974459?fbclid=IwAR0uUSPHHGKdRKg1IAfavUQGJVrYArOID-HXc5XyUdzXYazXiz9ZTzqJPts)
 * Деталь празднования по выполнению целей и приглашать звёзд петь у нас на барах
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
-![&#x41B;&#x43E;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x443;&#x440;&#x43E;&#x432;&#x43D;&#x438; &#x414;&#x438;&#x43B;&#x442;&#x441;&#x430;](../../.gitbook/assets/image%20%2874%29.png)
+![&#x41B;&#x43E;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x443;&#x440;&#x43E;&#x432;&#x43D;&#x438; &#x414;&#x438;&#x43B;&#x442;&#x441;&#x430;](../../.gitbook/assets/image%20%2875%29.png)
 
 В The Leadership System \(модель, которую я использую в качестве основы\) хорошо работают "лидерские каникулы" - полдня, раз в месяц, интимная группа, глубокие диалоги.
 
