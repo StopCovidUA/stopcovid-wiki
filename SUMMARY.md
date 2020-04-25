@@ -64,7 +64,7 @@
 * [Стратегія розвитку бізнесу](biznes/biznesy.md)
 * [Імпакт фонд](biznes/impakt-fond.md)
 * [Дерегуляція](biznes/spisok-regulyacii-meshayushikh-borbe-s-covid.md)
-* [Кооперативи](biznes/kooperativi.md)
+* [Инкубатор для соц. предприятий](biznes/kooperativi.md)
 * [Дистанційна робота](biznes/untitled/README.md)
   * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznes/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
   * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
