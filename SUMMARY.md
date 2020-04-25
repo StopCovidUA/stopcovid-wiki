@@ -29,6 +29,7 @@
   * [Psychology 02.04](ukrayinske-suspilstvo/psychological-support/psychology-02.04.md)
   * [Psychology 07.04](ukrayinske-suspilstvo/psychological-support/psychology-07.04.md)
 * [Перекладачі](ukrayinske-suspilstvo/perekladacham/README.md)
+  * [Tactical 24.04](ukrayinske-suspilstvo/perekladacham/tactical-24.04.md)
   * [Цілі, способи та тактика роботи з матеріалами](ukrayinske-suspilstvo/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
   * [Tactical 10.04](ukrayinske-suspilstvo/perekladacham/tactical-10.04.md)
   * [Tactical 07.04](ukrayinske-suspilstvo/perekladacham/tactical-07.04.md)
