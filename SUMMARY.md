@@ -1,7 +1,6 @@
 # Table of contents
 
-* [🖐 Вітаємо. Го допомагати!](README.md)
-* [🚀 Як все працює?](informaciya-dlya-volonterov-onboarding.md)
+* [🚀 Як все працює?](README.md)
 * [🔥 Оновлення та звіти](onovlennya-ta-zviti.md)
 * [🙋‍♂️Реєстрація волонтерів](https://maxsemenchuk.typeform.com/to/ddlBil)
 
