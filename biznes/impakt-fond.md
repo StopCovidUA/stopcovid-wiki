@@ -66,3 +66,5 @@
 * [The Best Practices on Measuring social impact](https://www.sopact.com/social-impact-measurement)
 * [https://impactmanagementproject.com/](https://impactmanagementproject.com/)
 
+
+
