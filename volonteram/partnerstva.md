@@ -1,5 +1,7 @@
 # Екосистема і партнерства
 
+* [https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI\_EGrQ/edit\#gid=0](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0)
+
 ## **Наші партнери**
 
 1. [Bird in Flight](https://birdinflight.com/)
