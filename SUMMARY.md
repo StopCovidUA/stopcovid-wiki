@@ -8,6 +8,7 @@
 
 * [Кампанія \#безтебеніяк](ukrayinske-suspilstvo/beztebeniyak/README.md)
   * [27.04](ukrayinske-suspilstvo/beztebeniyak/27.04.md)
+  * [Untitled](ukrayinske-suspilstvo/beztebeniyak/untitled.md)
 * [Кампанія \#мистецтворятує](ukrayinske-suspilstvo/mistectvoryatuye.md)
 * [Все про коронавірус \(SARS-CoV-2\)](ukrayinske-suspilstvo/o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](ukrayinske-suspilstvo/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
