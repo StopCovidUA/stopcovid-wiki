@@ -12,6 +12,7 @@
 * [Все про коронавірус \(SARS-CoV-2\)](ukrayinske-suspilstvo/o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](ukrayinske-suspilstvo/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Психологи та психотерапевти](ukrayinske-suspilstvo/psychological-support/README.md)
+  * [Культура и искусство](ukrayinske-suspilstvo/psychological-support/kultura-i-iskusstvo.md)
   * [Коммуникация и психология.](ukrayinske-suspilstvo/psychological-support/kommunikaciya-i-psikhologiya..md)
   * [Коммуникация и психология.](ukrayinske-suspilstvo/psychological-support/kommunikaciya-i-psikhologiya.-1.md)
   * [Y-clients](ukrayinske-suspilstvo/psychological-support/y-clients.md)
