@@ -30,7 +30,7 @@
 * [Перекладачам](ukrayinske-suspilstvo/perekladacham/)
 * [IT-спеціалістам та інженерам](biznes/it-ta-inzheneram/)
 * [HR'ам](vrazlivi-verstvi-naselennya/hr-bezrabotica/)
-* [Фінансистам](volonteram/finansistam.md)
+* [Фінансистам](volonteram/finansistam/)
 
 ## Наші цінності
 
