@@ -6,21 +6,9 @@
 
 ## Українське суспільство
 
-* [Кампанія \#безтебеніяк](ukrayinske-suspilstvo/beztebeniyak/README.md)
-  * [27.04](ukrayinske-suspilstvo/beztebeniyak/27.04.md)
-  * [Untitled](ukrayinske-suspilstvo/beztebeniyak/untitled.md)
 * [Кампанія \#мистецтворятує](ukrayinske-suspilstvo/mistectvoryatuye.md)
 * [Все про коронавірус \(SARS-CoV-2\)](ukrayinske-suspilstvo/o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](ukrayinske-suspilstvo/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
-* [Перекладачі](ukrayinske-suspilstvo/perekladacham/README.md)
-  * [Tactical 24.04](ukrayinske-suspilstvo/perekladacham/tactical-24.04.md)
-  * [Цілі, способи та тактика роботи з матеріалами](ukrayinske-suspilstvo/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
-  * [Tactical 10.04](ukrayinske-suspilstvo/perekladacham/tactical-10.04.md)
-  * [Tactical 07.04](ukrayinske-suspilstvo/perekladacham/tactical-07.04.md)
-  * [Tactical 03.04](ukrayinske-suspilstvo/perekladacham/tactical-03.04.md)
-  * [Tactical 31.03](ukrayinske-suspilstvo/perekladacham/tactical-31.03.md)
-  * [Tactical 28.03](ukrayinske-suspilstvo/perekladacham/tactical-28.03.md)
-* [Менеджери та Біздеви](ukrayinske-suspilstvo/inkubator-bizdev.md)
 
 ## Медична система <a id="medikam"></a>
 
@@ -96,7 +84,9 @@
 ## Координація <a id="volonteram"></a>
 
 * [Комунікація](volonteram/informacionnaya-kampaniya/README.md)
-  * [Онлайн бар](volonteram/informacionnaya-kampaniya/ezhenedelnyi-onlain-bar.md)
+  * [Кампанія \#безтебеніяк](volonteram/informacionnaya-kampaniya/beztebeniyak/README.md)
+    * [27.04](volonteram/informacionnaya-kampaniya/beztebeniyak/27.04.md)
+    * [Untitled](volonteram/informacionnaya-kampaniya/beztebeniyak/untitled.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](volonteram/informacionnaya-kampaniya/comms-19.03.md)
   * [Comms 20.03](volonteram/informacionnaya-kampaniya/comms-20.03.md)
@@ -113,6 +103,7 @@
   * [Comms 17.04](volonteram/informacionnaya-kampaniya/comms-17.04.md)
   * [Comms 20.04](volonteram/informacionnaya-kampaniya/comms-20.04.md)
 * [Людські ресурси](volonteram/analitika-mepping-dannykh/README.md)
+  * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
   * [Гра](volonteram/analitika-mepping-dannykh/igra.md)
   * [Кампанія "Жити по-новому"](volonteram/analitika-mepping-dannykh/kampaniya-zhiti-po-novomu.md)
   * [Школа координаторів](volonteram/analitika-mepping-dannykh/p2p-education.md)
@@ -139,11 +130,20 @@
   * [Coordination 21.04](volonteram/analitika-mepping-dannykh/coordination-21.04.md)
   * [Volunteers 28.04](volonteram/analitika-mepping-dannykh/volunteers-28.04.md)
 * [Операції та фінанси](volonteram/finansistam/README.md)
+  * [Переклади](volonteram/finansistam/perekladacham/README.md)
+    * [Tactical 24.04](volonteram/finansistam/perekladacham/tactical-24.04.md)
+    * [Цілі, способи та тактика роботи з матеріалами](volonteram/finansistam/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
+    * [Tactical 10.04](volonteram/finansistam/perekladacham/tactical-10.04.md)
+    * [Tactical 07.04](volonteram/finansistam/perekladacham/tactical-07.04.md)
+    * [Tactical 03.04](volonteram/finansistam/perekladacham/tactical-03.04.md)
+    * [Tactical 31.03](volonteram/finansistam/perekladacham/tactical-31.03.md)
+    * [Tactical 28.03](volonteram/finansistam/perekladacham/tactical-28.03.md)
   * [StopCovidUA Bot / Platform](volonteram/finansistam/operatoram-stopcovidua-bot.md)
 * [Стратегія](volonteram/strategiya/README.md)
   * [Future Group](volonteram/strategiya/future-group.md)
   * [Воркшоп "стратегическая сессия"](volonteram/strategiya/vorkshop-strategicheskaya-sessiya.md)
   * [Этичный трекинг](volonteram/strategiya/etitchnyi-treking.md)
   * [23.04](volonteram/strategiya/23.04.md)
-* [Екосистема і партнерства](volonteram/partnerstva.md)
+* [Екосистема і партнерства](volonteram/partnerstva/README.md)
+  * [Менеджери та Біздеви](volonteram/partnerstva/inkubator-bizdev.md)
 
