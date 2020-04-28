@@ -26,7 +26,7 @@
 
 * [Координаторам, аналітикам та проєктним менеджерам](volonteram/analitika-mepping-dannykh/)
 * [Представникам ЗМІ, комунікаторам, дизайнерам та креаторам](volonteram/informacionnaya-kampaniya/)
-* [Психологам, психотерапевтам, психіатрам](ukrayinske-suspilstvo/psychological-support/)
+* [Психологам, психотерапевтам, психіатрам](medikam/psychological-support/)
 * [Перекладачам](ukrayinske-suspilstvo/perekladacham/)
 * [IT-спеціалістам та інженерам](biznes/it-ta-inzheneram/)
 * [HR'ам](vrazlivi-verstvi-naselennya/hr-bezrabotica/)
