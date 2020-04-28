@@ -47,6 +47,7 @@
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
   * [20.04](medikam/sistema-zdravookhraneniya/untitled.md)
   * [27.04](medikam/sistema-zdravookhraneniya/27.04.md)
+  * [04.05](medikam/sistema-zdravookhraneniya/04.05.md)
 * [Кампанія \#лікарігерої](medikam/kampaniya-likarigeroyi/README.md)
   * [24.04](medikam/kampaniya-likarigeroyi/24.04.md)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
