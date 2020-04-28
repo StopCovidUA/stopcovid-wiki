@@ -54,6 +54,7 @@
 * [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
 * [Телемедицина](medikam/telemedicina.md)
 * [Проект \#мибачимо](medikam/mibachimo/README.md)
+  * [Питання до медпрацівників](medikam/mibachimo/pitannya-do-medpracivnikiv.md)
   * [25.04](medikam/mibachimo/25.04.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
 
