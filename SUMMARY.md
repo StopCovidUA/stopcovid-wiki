@@ -4,12 +4,6 @@
 * [🔥 Оновлення та звіти](onovlennya-ta-zviti.md)
 * [🙋‍♂️Реєстрація волонтерів](https://maxsemenchuk.typeform.com/to/ddlBil)
 
-## Українське суспільство
-
-* [Кампанія \#мистецтворятує](ukrayinske-suspilstvo/mistectvoryatuye.md)
-* [Все про коронавірус \(SARS-CoV-2\)](ukrayinske-suspilstvo/o-koronaviruse/README.md)
-  * [Саміт по коронавірусу. Базова інформація](ukrayinske-suspilstvo/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
-
 ## Медична система <a id="medikam"></a>
 
 * [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
@@ -45,6 +39,8 @@
   * [Питання до медпрацівників](medikam/mibachimo/pitannya-do-medpracivnikiv.md)
   * [25.04](medikam/mibachimo/25.04.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
+* [Все про коронавірус \(SARS-CoV-2\)](medikam/o-koronaviruse/README.md)
+  * [Саміт по коронавірусу. Базова інформація](medikam/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Архів](medikam/arkhiv/README.md)
   * [Кампанія \#лікарігерої](medikam/arkhiv/kampaniya-likarigeroyi/README.md)
     * [24.04](medikam/arkhiv/kampaniya-likarigeroyi/24.04.md)
@@ -84,6 +80,7 @@
 ## Координація <a id="volonteram"></a>
 
 * [Комунікація](volonteram/informacionnaya-kampaniya/README.md)
+  * [Кампанія \#мистецтворятує](volonteram/informacionnaya-kampaniya/mistectvoryatuye.md)
   * [Кампанія \#безтебеніяк](volonteram/informacionnaya-kampaniya/beztebeniyak/README.md)
     * [27.04](volonteram/informacionnaya-kampaniya/beztebeniyak/27.04.md)
     * [Untitled](volonteram/informacionnaya-kampaniya/beztebeniyak/untitled.md)
