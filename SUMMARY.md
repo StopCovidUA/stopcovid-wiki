@@ -41,7 +41,7 @@
   * [Tactical 28.03](ukrayinske-suspilstvo/perekladacham/tactical-28.03.md)
 * [Менеджери та Біздеви](ukrayinske-suspilstvo/inkubator-bizdev.md)
 
-## Допомога медикам <a id="medikam"></a>
+## Медична система <a id="medikam"></a>
 
 * [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
