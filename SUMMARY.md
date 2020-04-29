@@ -137,6 +137,7 @@
     * [Tactical 31.03](volonteram/finansistam/perekladacham/tactical-31.03.md)
     * [Tactical 28.03](volonteram/finansistam/perekladacham/tactical-28.03.md)
   * [StopCovidUA Bot / Platform](volonteram/finansistam/operatoram-stopcovidua-bot.md)
+  * [29.04](volonteram/finansistam/29.04.md)
 * [Стратегія](volonteram/strategiya/README.md)
   * [Future Group](volonteram/strategiya/future-group.md)
   * [Воркшоп "стратегическая сессия"](volonteram/strategiya/vorkshop-strategicheskaya-sessiya.md)
