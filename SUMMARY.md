@@ -11,7 +11,7 @@
   * [20.04](medikam/sistema-zdravookhraneniya/untitled.md)
   * [27.04](medikam/sistema-zdravookhraneniya/27.04.md)
   * [04.05](medikam/sistema-zdravookhraneniya/04.05.md)
-* [Психологи та психотерапевти](medikam/psychological-support/README.md)
+* [Психологічна підтримка](medikam/psychological-support/README.md)
   * [\#StopCovidUa+LiveLovers](medikam/psychological-support/stopcovidua+livelovers.md)
   * [Psychology](medikam/psychological-support/ya-i-volonterstvo.md)
   * [Культура и искусство](medikam/psychological-support/kultura-i-iskusstvo.md)
