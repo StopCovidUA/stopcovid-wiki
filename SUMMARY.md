@@ -80,6 +80,7 @@
 ## Координація <a id="volonteram"></a>
 
 * [Комунікація](volonteram/informacionnaya-kampaniya/README.md)
+  * [Untitled](volonteram/informacionnaya-kampaniya/untitled-1.md)
   * [Кампанія \#мистецтворятує](volonteram/informacionnaya-kampaniya/mistectvoryatuye.md)
   * [Кампанія \#безтебеніяк](volonteram/informacionnaya-kampaniya/beztebeniyak/README.md)
     * [27.04](volonteram/informacionnaya-kampaniya/beztebeniyak/27.04.md)
