@@ -57,7 +57,7 @@
 * 1 ивент - 1 тема; 
 * Групповые работы количество: 7-8 - 10-15; 
 
-Бриф для мероприятий: : [https://forms.gle/DRwwS6C5FpQHE5s56](https://forms.gle/DRwwS6C5FpQHE5s56)
+Бриф для мероприятий: [https://forms.gle/DRwwS6C5FpQHE5s56](https://forms.gle/Zv7AwqWqcnLkPP8a8)
 
 Таблица ивентов:  [https://docs.google.com/spreadsheets/d/1B1--Oy\_O9biKlepfuZTnd6WN7eCF3rx\_j-AIrhwMoGU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1B1--Oy_O9biKlepfuZTnd6WN7eCF3rx_j-AIrhwMoGU/edit?usp=sharing) 
 
