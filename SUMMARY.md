@@ -46,7 +46,7 @@
   * [Кампанія \#лікарігерої](medikam/arkhiv/kampaniya-likarigeroyi/README.md)
     * [24.04](medikam/arkhiv/kampaniya-likarigeroyi/24.04.md)
 
-## Економіка та бізнес <a id="biznes"></a>
+## Підприємництво <a id="biznes"></a>
 
 * [Стратегія підтримкі економіки](biznes/biznesy.md)
 * [Імпакт фонд](biznes/impakt-fond/README.md)
@@ -61,9 +61,8 @@
 * [Дистанційна робота](biznes/untitled/README.md)
   * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznes/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
   * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
-* [Екологія](biznes/ekologiya.md)
 
-## Вразливі верстви населення
+## Громади <a id="vrazlivi-verstvi-naselennya"></a>
 
 * [Громадянам](vrazlivi-verstvi-naselennya/gromadyani.md)
 * [Стратегія](vrazlivi-verstvi-naselennya/strategiya.md)
@@ -73,10 +72,8 @@
 * [Система логистики товаров](vrazlivi-verstvi-naselennya/sistema-logistiki.md)
 * [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
 * [Клуб свідомих українських медиків](vrazlivi-verstvi-naselennya/klub-svidomikh-ukrayinskikh-medikiv.md)
-
-## Діти
-
-* [Школам та вишам](diti/udalennoe-i-onlain-obrazovanie.md)
+* [Школам та вишам](vrazlivi-verstvi-naselennya/udalennoe-i-onlain-obrazovanie.md)
+* [Екологія](vrazlivi-verstvi-naselennya/ekologiya.md)
 
 ## Координація <a id="volonteram"></a>
 
