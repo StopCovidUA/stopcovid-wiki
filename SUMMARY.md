@@ -39,6 +39,7 @@
   * [Питання до медпрацівників](medikam/mibachimo/pitannya-do-medpracivnikiv.md)
   * [25.04](medikam/mibachimo/25.04.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
+* [Донорство крови](medikam/donorstvo-krovi.md)
 * [Все про коронавірус \(SARS-CoV-2\)](medikam/o-koronaviruse/README.md)
   * [Саміт по коронавірусу. Базова інформація](medikam/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Архів](medikam/arkhiv/README.md)
