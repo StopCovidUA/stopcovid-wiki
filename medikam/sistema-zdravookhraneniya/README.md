@@ -56,8 +56,6 @@
 Для запису на консультацію звертайтеся за телефонами:  
 +38 095 216 64 32, +38 096 54 55 877 \(Viber, What'sUp\)
 
-
-
 ### Відкриті медичні пабліки в фейсбуці
 
 * [Віруси і люди / COVID-19](https://www.facebook.com/groups/216061242925171/) \(епідеміологія, 1000+ членів на 9 квіт.\)
@@ -65,8 +63,6 @@
 * [Стандарти і клінічні протоколи МОЗ](https://www.facebook.com/groups/1663381727323535/) 
 * \*\*\*\*[**ЛікарВторінкі**](https://www.facebook.com/groups/likarvtorynky/) ****
 * [Група Медиторія - медична територія](https://www.facebook.com/groups/meditory.com.ua)
-
-### 
 
 ### Житло
 
@@ -100,6 +96,7 @@
 
 ## Банк ідей
 
+* страхування медиків [https://drive.google.com/file/d/1rLeE6QwQQvVo5ySANJZs2Qc7Us-iqxz5/view](https://drive.google.com/file/d/1rLeE6QwQQvVo5ySANJZs2Qc7Us-iqxz5/view)
 * В Ташкенте создают мобильные госпиталя из контейнеров \(есть видео\)
 * [https://t.me/immune\_system\_optimization](https://t.me/immune_system_optimization)
 * [https://covid-19.alibabacloud.com](https://covid-19.alibabacloud.com)
