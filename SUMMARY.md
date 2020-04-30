@@ -4,7 +4,7 @@
 * [🔥 Оновлення та звіти](onovlennya-ta-zviti.md)
 * [🙋‍♂️Реєстрація волонтерів](https://maxsemenchuk.typeform.com/to/ddlBil)
 
-## Медична система <a id="medikam"></a>
+## Охорона здоров'я <a id="medikam"></a>
 
 * [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
