@@ -118,6 +118,10 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 Сейчас происходит много сборов денег, но трудно сказать что лучше закупать СИЗ или ИВЛ. В какие области и как. Стоит потратить на еду чтобы пожилые люди не выходили и избежать затрат на госпитализацию или помочь врачам. Есть такой сайт [https://www.givewell.org/](https://www.givewell.org/) который мониторит эффективность инициатив по выхлопу на вложенный доллар. Возможно мы могли бы сделать что-то такое.
 
+## Радники
+
+* dgov foundation
+
 ## Идеи
 
 * [https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19?fbclid=IwAR3LssTJIa49qbxsfgthz4SyWAnUEtPFfo-rE71isFL5AN4\_7YKSNEMiWUI](https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19?fbclid=IwAR3LssTJIa49qbxsfgthz4SyWAnUEtPFfo-rE71isFL5AN4_7YKSNEMiWUI)
