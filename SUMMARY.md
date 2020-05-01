@@ -101,7 +101,7 @@
   * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
   * [Гра](volonteram/analitika-mepping-dannykh/igra.md)
   * [Кампанія "Жити по-новому"](volonteram/analitika-mepping-dannykh/kampaniya-zhiti-po-novomu.md)
-  * [Школа координаторів](volonteram/analitika-mepping-dannykh/p2p-education.md)
+  * [Школа кризисного лидерства](volonteram/analitika-mepping-dannykh/p2p-education.md)
   * [March](volonteram/analitika-mepping-dannykh/march/README.md)
     * [Tactical 16.03](volonteram/analitika-mepping-dannykh/march/tactical-16.03.md)
     * [Tactical 17.03](volonteram/analitika-mepping-dannykh/march/tactical-17.03.md)
