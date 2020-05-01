@@ -81,7 +81,7 @@
   * [Кампанія \#мистецтворятує](volonteram/informacionnaya-kampaniya/mistectvoryatuye.md)
   * [Кампанія \#безтебеніяк](volonteram/informacionnaya-kampaniya/beztebeniyak/README.md)
     * [27.04](volonteram/informacionnaya-kampaniya/beztebeniyak/27.04.md)
-    * [Untitled](volonteram/informacionnaya-kampaniya/beztebeniyak/untitled.md)
+    * [04.05](volonteram/informacionnaya-kampaniya/beztebeniyak/untitled.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](volonteram/informacionnaya-kampaniya/comms-19.03.md)
   * [Comms 20.03](volonteram/informacionnaya-kampaniya/comms-20.03.md)
