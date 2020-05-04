@@ -128,6 +128,7 @@
   * [Volunteer 04.05](volonteram/analitika-mepping-dannykh/volunteer-04.05.md)
 * [Операції та фінанси](volonteram/finansistam/README.md)
   * [Переклади](volonteram/finansistam/perekladacham/README.md)
+    * [Tactical 04.05](volonteram/finansistam/perekladacham/tactical-04.05.md)
     * [Tactical 24.04](volonteram/finansistam/perekladacham/tactical-24.04.md)
     * [Цілі, способи та тактика роботи з матеріалами](volonteram/finansistam/perekladacham/cili-sposobi-ta-taktika-roboti-z-materialami.md)
     * [Tactical 10.04](volonteram/finansistam/perekladacham/tactical-10.04.md)
