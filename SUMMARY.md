@@ -78,6 +78,7 @@
 ## Координація <a id="volonteram"></a>
 
 * [Комунікація](volonteram/informacionnaya-kampaniya/README.md)
+  * [Коммуникаций 04.04](volonteram/informacionnaya-kampaniya/kommunikacii-04.04.md)
   * [Мистецтво Рятує](volonteram/informacionnaya-kampaniya/mistectvo-ryatuye.md)
   * [Кампанія \#мистецтворятує](volonteram/informacionnaya-kampaniya/mistectvoryatuye.md)
   * [Кампанія \#безтебеніяк](volonteram/informacionnaya-kampaniya/beztebeniyak/README.md)
