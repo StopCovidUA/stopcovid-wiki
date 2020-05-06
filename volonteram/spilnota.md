@@ -25,7 +25,7 @@
 
 ### Онбординг
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 * Посты вакансии и посты-отчеты
 * Общая информация / презентация
@@ -36,7 +36,7 @@
 
 ## Мотивація
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 ### Прозорі рейтинги ефективності
 
@@ -135,11 +135,11 @@
 * LinkedIn рекомендации / программа стажировки
 * HR CRM волонтёров
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 
 
