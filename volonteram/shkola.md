@@ -1,5 +1,80 @@
 # Школа
 
+## Задача
+
+* повышение уровня субъектности \(люди могут определить свою миссию\)
+* повышение уровня интеграции, взаимодействия и удовлетворения
+* лучше справляться со сложностью вместе через объединение намерений, внимания и ресурсов
+
+### Для кого
+
+* Люди, готовые делиться и учиться, открытым всему новому
+* Лидеры организаций \(компаний, сообществ\)
+* Выдающиеся профессионалам в своей сфере
+* Инвесторы которые ищут новые возможности и контакты
+
+### Motto
+
+* In this room is the power to change the world
+* In me is the power to change the world
+* If i'm going to change the world
+* I need a world of change in me
+* Change comes naturally
+* But it can also come intentionally
+* Through the power of goal setting & community
+* I can achieve anything I put my mind to
+* Everything is possible to the extent i believe it is
+* I want to dream wide awake as much as i do asleep
+* And through focused action we can do it \(30 days at a time\)
+
+### Форматы
+
+* Не уходить в детали
+* Встречаться со стабильной частотой
+* Уметь работать без хоста \(учиться\)
+* Хранить результаты \(записки, деревья\)
+* Делать рефлексии по сессия \(и предлагать изменения\)
+* Публиковать результаты для всех
+* Синхронизировать тех кто отстал
+* Качественно усилять нашу группу
+* Mastermind
+* Ritual dissent
+* Future backwards
+* Дебаты
+* Митап с предзаданной темой
+* Находить эксперта по запросам
+* Иметь core команду + приглашенные по доменам
+* Все время возвращаться к вопросу "зачем"
+* Определять формат под зачем
+* Приглашать мотивированных людей
+* Проводить офлайн встречи
+* Взаимодействовать с другими коммьюнити \(Сингуларити Ю, Институт Будущего\)
+* Диверсифицироваться интенционально \(не сидеть в 1 странах\)
+* Дизайн спринты: формируем и проверяем гипотезу
+* Комититься по задачам из пула
+* Определять цели на промежутки \(месяц, квартал, год\)
+* Внедрять Agile, Scrum \(вести доску\)
+* First principles thinking session для разрешения каких-то спорных вопросов.
+
+## Принципы
+
+* EduScrum
+* Regular reflection helps \(self and others\)
+* Discipline matters a lot
+* Healthy mind in the healthy body
+* Fail fast, don't hold too much
+* Every person is valuable
+* Keep savings all the time and donate
+* Если недоволен собой то недоволен и остальными
+* Чтобы быть уверенным нужно больше изучать
+* Чтобы любить надо познать
+
+## Адвайзоры
+
+* Свят Попов
+* Женя Лапин
+* Федор Скуратов
+
 ## Открытые группы
 
 * [Мастермайнд по бирюзовым организациям](https://t.me/joinchat/E9cyAxSx1Th3iKtHQQBsXg) с Teal ua
@@ -81,81 +156,6 @@
 * Graphics & Design
 * Writing
 * Communication planning
-
-## Задача
-
-* повышение уровня субъектности \(люди могут определить свою миссию\)
-* повышение уровня интеграции, взаимодействия и удовлетворения
-* лучше справляться со сложностью вместе через объединение намерений, внимания и ресурсов
-
-### Для кого
-
-* Люди, готовые делиться и учиться, открытым всему новому
-* Лидеры организаций \(компаний, сообществ\)
-* Выдающиеся профессионалам в своей сфере
-* Инвесторы которые ищут новые возможности и контакты
-
-### Motto
-
-* In this room is the power to change the world
-* In me is the power to change the world
-* If i'm going to change the world
-* I need a world of change in me
-* Change comes naturally
-* But it can also come intentionally
-* Through the power of goal setting & community
-* I can achieve anything I put my mind to
-* Everything is possible to the extent i believe it is
-* I want to dream wide awake as much as i do asleep
-* And through focused action we can do it \(30 days at a time\)
-
-### Форматы
-
-* Не уходить в детали
-* Встречаться со стабильной частотой
-* Уметь работать без хоста \(учиться\)
-* Хранить результаты \(записки, деревья\)
-* Делать рефлексии по сессия \(и предлагать изменения\)
-* Публиковать результаты для всех
-* Синхронизировать тех кто отстал
-* Качественно усилять нашу группу
-* Mastermind
-* Ritual dissent
-* Future backwards
-* Дебаты
-* Митап с предзаданной темой
-* Находить эксперта по запросам
-* Иметь core команду + приглашенные по доменам
-* Все время возвращаться к вопросу "зачем"
-* Определять формат под зачем
-* Приглашать мотивированных людей
-* Проводить офлайн встречи
-* Взаимодействовать с другими коммьюнити \(Сингуларити Ю, Институт Будущего\)
-* Диверсифицироваться интенционально \(не сидеть в 1 странах\)
-* Дизайн спринты: формируем и проверяем гипотезу
-* Комититься по задачам из пула
-* Определять цели на промежутки \(месяц, квартал, год\)
-* Внедрять Agile, Scrum \(вести доску\)
-* First principles thinking session для разрешения каких-то спорных вопросов.
-
-## Принципы
-
-* EduScrum
-* Regular reflection helps \(self and others\)
-* Discipline matters a lot
-* Healthy mind in the healthy body
-* Fail fast, don't hold too much
-* Every person is valuable
-* Keep savings all the time and donate
-* Если недоволен собой то недоволен и остальными
-* Чтобы быть уверенным нужно больше изучать
-* Чтобы любить надо познать
-
-## Адвайзоры
-
-* Свят Попов
-* Женя Лапин
-* Федор Скуратов
 
 ## Идеи
 
