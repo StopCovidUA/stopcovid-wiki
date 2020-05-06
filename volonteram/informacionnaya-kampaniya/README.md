@@ -45,7 +45,6 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 
 ## Банк ідей та завдань
 
-* Матрица Felipe
 * Долучити медіа до розробки контенту
 * Зробити лідерів думок друзями нашого руху
 * Зібрати перелік регіональних ЗМІ
@@ -57,8 +56,6 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * [How governments can engage digital resources to manage their Covid-19 response](https://stateup.co/how-governments-can-engage-digital-resources-to-manage-their-covid-19-response/)
 * [Crisis Communication Platform Template](https://powerapps.microsoft.com/en-us/blog/crisis-communication-a-power-platform-template/)
 * Записати аналогічний ролик [https://www.youtube.com/watch?v=wnzjOAfexlE&feature=emb\_title](https://www.youtube.com/watch?v=wnzjOAfexlE&feature=emb_title)
-* [http://uacrisis.org/reg](http://uacrisis.org/reg)
-* Міла Йовович?
 * [https://www.facebook.com/groups/POfinddesigner](https://www.facebook.com/groups/POfinddesigner)
 * Долучити Дена \(ЕКЦ\) до stopcovid
 * Future Backwards / от разных сообществ
@@ -67,7 +64,7 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * [https://didtheyhelp.com/](https://didtheyhelp.com/?fbclid=IwAR18pBwbTOfCnO0KfDJvGo5_fNrW0MTKoKRy449zgUuYfaBOrKwzIKwa0AM)
 * Креативные школы - Берите наши кейсы для генерации результатов
 * Описывать достигнутые и плановые цели
-* Юрий Марченко / Platforma \(?\)
+* Марченко
 * Банда \(?\)
 * Aimbulance \(?\)
 * Истории волонтёров делать видеороликами . Искусственный интеллект генерирует видео [https://lumen5.com/](https://lumen5.com/)
