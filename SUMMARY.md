@@ -101,7 +101,6 @@
   * [Comms 20.04](volonteram/informacionnaya-kampaniya/comms-20.04.md)
 * [Людські ресурси](volonteram/analitika-mepping-dannykh/README.md)
   * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
-  * [Гра](volonteram/analitika-mepping-dannykh/igra.md)
   * [Кампанія "Жити по-новому"](volonteram/analitika-mepping-dannykh/kampaniya-zhiti-po-novomu.md)
   * [March](volonteram/analitika-mepping-dannykh/march/README.md)
     * [Tactical 16.03](volonteram/analitika-mepping-dannykh/march/tactical-16.03.md)
@@ -146,5 +145,8 @@
   * [30.04](volonteram/strategiya/30.04.md)
 * [Екосистема і партнерства](volonteram/partnerstva/README.md)
   * [Менеджери та Біздеви](volonteram/partnerstva/inkubator-bizdev.md)
+* [Гра](volonteram/igra.md)
+* [Школа](volonteram/shkola.md)
+* [Спільнота](volonteram/spilnota.md)
 * [Еволюція організацій](volonteram/evolyuciya-organizacii.md)
 
