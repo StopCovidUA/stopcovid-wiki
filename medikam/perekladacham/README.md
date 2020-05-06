@@ -1,4 +1,4 @@
-# Переклади
+# coronavirus.co.ua
 
 ## Мета
 
