@@ -146,4 +146,5 @@
   * [30.04](volonteram/strategiya/30.04.md)
 * [Екосистема і партнерства](volonteram/partnerstva/README.md)
   * [Менеджери та Біздеви](volonteram/partnerstva/inkubator-bizdev.md)
+* [Еволюція організацій](volonteram/evolyuciya-organizacii.md)
 
