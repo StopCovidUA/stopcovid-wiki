@@ -31,6 +31,7 @@
   * [Psychology 31.03](medikam/psychological-support/psychology-31.03.md)
   * [Psychology 02.04](medikam/psychological-support/psychology-02.04.md)
   * [Psychology 07.04](medikam/psychological-support/psychology-07.04.md)
+* [Кампанія \#мистецтворятує](medikam/mistectvoryatuye.md)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Транспортні сервіси](medikam/servisy-transportirovki-vrachei.md)
 * [Онлайн курс для мед волонтерів](medikam/onlain-kurs-dlya-med-volonterov.md)
@@ -65,6 +66,9 @@
 ## Громади <a id="vrazlivi-verstvi-naselennya"></a>
 
 * [Громадянам](vrazlivi-verstvi-naselennya/gromadyani.md)
+* [Кампанія \#безтебеніяк](vrazlivi-verstvi-naselennya/beztebeniyak/README.md)
+  * [27.04](vrazlivi-verstvi-naselennya/beztebeniyak/27.04.md)
+  * [04.05](vrazlivi-verstvi-naselennya/beztebeniyak/untitled.md)
 * [Стратегія](vrazlivi-verstvi-naselennya/strategiya.md)
 * [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya/hr-bezrabotica/README.md)
   * [Tactical 08.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-08.04.md)
@@ -78,12 +82,6 @@
 ## Координація <a id="volonteram"></a>
 
 * [Комунікація](volonteram/informacionnaya-kampaniya/README.md)
-  * [Коммуникаций 04.04](volonteram/informacionnaya-kampaniya/kommunikacii-04.04.md)
-  * [Мистецтво Рятує](volonteram/informacionnaya-kampaniya/mistectvo-ryatuye.md)
-  * [Кампанія \#мистецтворятує](volonteram/informacionnaya-kampaniya/mistectvoryatuye.md)
-  * [Кампанія \#безтебеніяк](volonteram/informacionnaya-kampaniya/beztebeniyak/README.md)
-    * [27.04](volonteram/informacionnaya-kampaniya/beztebeniyak/27.04.md)
-    * [04.05](volonteram/informacionnaya-kampaniya/beztebeniyak/untitled.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](volonteram/informacionnaya-kampaniya/comms-19.03.md)
   * [Comms 20.03](volonteram/informacionnaya-kampaniya/comms-20.03.md)
@@ -93,6 +91,7 @@
   * [Comms 30.03](volonteram/informacionnaya-kampaniya/comms-30.03.md)
   * [Comms 01.04](volonteram/informacionnaya-kampaniya/comms-01.04.md)
   * [Comms 03.04](volonteram/informacionnaya-kampaniya/comms-03.04.md)
+  * [Comms 04.04](volonteram/informacionnaya-kampaniya/kommunikacii-04.04.md)
   * [Comms 06.04](volonteram/informacionnaya-kampaniya/communication.md)
   * [Comms 08.04](volonteram/informacionnaya-kampaniya/untitled.md)
   * [Comms 10.04](volonteram/informacionnaya-kampaniya/comms-10.04.md)

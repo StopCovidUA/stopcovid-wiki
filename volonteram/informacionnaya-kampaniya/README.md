@@ -18,7 +18,7 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 ## Повідомлення
 
 * [Лікарі — герої](../../medikam/arkhiv/kampaniya-likarigeroyi/) на збільшення підтримки лікарів
-* [\#безтебеніяк](beztebeniyak/) 
+* [\#безтебеніяк](../../vrazlivi-verstvi-naselennya/beztebeniyak/) 
 * \#мистецтворятує
 * [Ти потрібен світові вдома](../../vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
 
