@@ -1,6 +1,8 @@
 # Екосистема і партнерства
 
-* [https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI\_EGrQ/edit\#gid=0](https://docs.google.com/spreadsheets/d/10Yt17F3iB00pqf7DXrVjFYvW0qILdoHUajBujI_EGrQ/edit#gid=0)
+## Мапа екосистеми
+
+{% embed url="https://airtable.com/shrBBtpzCSL14Uhvs" %}
 
 ## **Наші партнери**
 
