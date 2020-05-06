@@ -359,9 +359,9 @@
 
 из [https://www.facebook.com/100000785299209/posts/2905484176154397/?d=n](https://www.facebook.com/100000785299209/posts/2905484176154397/?d=n)
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
