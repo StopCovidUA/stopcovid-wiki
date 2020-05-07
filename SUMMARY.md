@@ -149,5 +149,5 @@
   * [Кампанія "Жити по-новому"](volonteram/shkola/kampaniya-zhiti-po-novomu.md)
 * [Спільнота](volonteram/spilnota/README.md)
   * [Онлайн бар](volonteram/spilnota/ezhenedelnyi-onlain-bar.md)
-* [Еволюція організацій](volonteram/evolyuciya-organizacii.md)
+* [Фонд](volonteram/evolyuciya-organizacii.md)
 
