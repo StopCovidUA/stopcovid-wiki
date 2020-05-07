@@ -100,7 +100,7 @@
 * Future backwards
 * Дебаты
 * Митап с предзаданной темой
-* Балинтовская группа
+* [Балинтовские группы](http://psytherapy.com.ua/index.php/stati/11-chto-takoe-balintovskaya-gruppa)
 
 ### Правила
 
