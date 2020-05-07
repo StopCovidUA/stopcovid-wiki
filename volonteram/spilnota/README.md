@@ -47,7 +47,7 @@
 
 ### Онбординг
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 * Посты вакансии и посты-отчеты
 * Общая информация / презентация
@@ -58,7 +58,7 @@
 
 ## Мотивація
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 ### Прозорі рейтинги ефективності
 
@@ -157,11 +157,11 @@
 * LinkedIn рекомендации / программа стажировки
 * HR CRM волонтёров
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 * Сделать игру от Карины
 * Конкурс на лучшую историю

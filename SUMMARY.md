@@ -144,10 +144,10 @@
   * [30.04](volonteram/strategiya/30.04.md)
 * [Екосистема і партнерства](volonteram/partnerstva/README.md)
   * [Менеджери та Біздеви](volonteram/partnerstva/inkubator-bizdev.md)
-* [Гра](volonteram/igra/README.md)
-  * [Онлайн бар](volonteram/igra/ezhenedelnyi-onlain-bar.md)
+* [Гра](volonteram/igra.md)
 * [Школа](volonteram/shkola/README.md)
   * [Кампанія "Жити по-новому"](volonteram/shkola/kampaniya-zhiti-po-novomu.md)
-* [Спільнота](volonteram/spilnota.md)
+* [Спільнота](volonteram/spilnota/README.md)
+  * [Онлайн бар](volonteram/spilnota/ezhenedelnyi-onlain-bar.md)
 * [Еволюція організацій](volonteram/evolyuciya-organizacii.md)
 
