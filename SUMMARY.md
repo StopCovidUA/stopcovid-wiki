@@ -2,7 +2,7 @@
 
 * [🚀 Як все працює?](README.md)
 * [🔥 Оновлення та звіти](onovlennya-ta-zviti.md)
-* [🙋‍♂️Реєстрація волонтерів](https://maxsemenchuk.typeform.com/to/ddlBil)
+* [🎮Почати гру](https://maxsemenchuk.typeform.com/to/ddlBil)
 
 ## Охорона здоров'я <a id="medikam"></a>
 

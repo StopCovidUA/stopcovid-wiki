@@ -5,6 +5,7 @@
 * повышение уровня субъектности \(люди могут определить свою миссию\)
 * повышение уровня интеграции, взаимодействия и удовлетворения
 * лучше справляться со сложностью вместе через объединение намерений, внимания и ресурсов
+* Відкритість, пошук нових точок зору, смислотворення, розвиток внутрішнього компасу, співпереживання та емпаті
 
 ### Для кого
 
@@ -13,103 +14,17 @@
 * Выдающиеся профессионалам в своей сфере
 * Инвесторы которые ищут новые возможности и контакты
 
-### Motto
-
-* In this room is the power to change the world
-* In me is the power to change the world
-* If i'm going to change the world
-* I need a world of change in me
-* Change comes naturally
-* But it can also come intentionally
-* Through the power of goal setting & community
-* I can achieve anything I put my mind to
-* Everything is possible to the extent i believe it is
-* I want to dream wide awake as much as i do asleep
-* And through focused action we can do it \(30 days at a time\)
-
-### Форматы
-
-* Не уходить в детали
-* Встречаться со стабильной частотой
-* Уметь работать без хоста \(учиться\)
-* Хранить результаты \(записки, деревья\)
-* Делать рефлексии по сессия \(и предлагать изменения\)
-* Публиковать результаты для всех
-* Синхронизировать тех кто отстал
-* Качественно усилять нашу группу
-* Mastermind
-* Ritual dissent
-* Future backwards
-* Дебаты
-* Митап с предзаданной темой
-* Находить эксперта по запросам
-* Иметь core команду + приглашенные по доменам
-* Все время возвращаться к вопросу "зачем"
-* Определять формат под зачем
-* Приглашать мотивированных людей
-* Проводить офлайн встречи
-* Взаимодействовать с другими коммьюнити \(Сингуларити Ю, Институт Будущего\)
-* Диверсифицироваться интенционально \(не сидеть в 1 странах\)
-* Дизайн спринты: формируем и проверяем гипотезу
-* Комититься по задачам из пула
-* Определять цели на промежутки \(месяц, квартал, год\)
-* Внедрять Agile, Scrum \(вести доску\)
-* First principles thinking session для разрешения каких-то спорных вопросов.
-
-## Принципы
-
-* EduScrum
-* Regular reflection helps \(self and others\)
-* Discipline matters a lot
-* Healthy mind in the healthy body
-* Fail fast, don't hold too much
-* Every person is valuable
-* Keep savings all the time and donate
-* Если недоволен собой то недоволен и остальными
-* Чтобы быть уверенным нужно больше изучать
-* Чтобы любить надо познать
-
-## Адвайзоры
-
-* Свят Попов
-* Женя Лапин
-* Федор Скуратов
-
 ## Открытые группы
 
-* [Мастермайнд по бирюзовым организациям](https://t.me/joinchat/E9cyAxSx1Th3iKtHQQBsXg) с Teal ua
-* [Мастермайнд по цифровым продуктам](https://t.me/joinchat/E9cyA0opxdFB10nausa9IQ) \(с уклоном в блокчейн\) с BUIDL ua
-* Мастермайнд по развитию сообществ \([регистрация](https://forms.gle/RGqDumjVTR6bnCK68)\)
+* Розвиток екосистеми
+* Разработка цифровых продуктов \(дизайн мышление\)
+* Лидерство \(коммуникация, фандрейзинг, вовлечение\)
+* Стратегия
+* Коммуникации
 
-Відкритість, пошук нових точок зору, смислотворення, розвиток внутрішнього компасу, співпереживання та емпатія
+### Розвиток екосистеми
 
-Темы: 
-
-* фасилитация,
-* коучинг, 
-* самоорганизация,
-* медиация,
-* дизайн мышление,
-* философия,
-* социология
-* Коммуникация
-
-## Strategy
-
-* Community Strategy Development
-* Roadmap Development
-* Policy & guideline development
-* Needs & competitive analysis
-* Measurement, benchmarking & reporting
-* Trendspotting & synthesizing
-* Consulting
-* Executive coaching
-* Content strategy development
-* Evaluating engagement techniques
-
-## Business
-
-* Program management
+* Team management
 * Business model development
 * Budget & financial management
 * Team hiring & management
@@ -118,8 +33,23 @@
 * Training development & delivery
 * Vendor management
 * Governance management
+* Фасилитация
+* Медиация
+* Коучинг
 
-## Engagement
+### Разработка цифровых продуктов
+
+* System admin & configuration
+* Data collection & analysis
+* Tool evaluation & recommendation
+* Technical Support
+* Member database management
+* Platform architecture & integration
+* Software & application programming
+* UX & Design
+* Algorithm design & data manipulation
+
+### Лидерство
 
 * Listening & analyzing
 * Response and escalation
@@ -132,19 +62,20 @@
 * Member advocacy
 * Behaviour change & gamification
 
-## Technical
+### Стратегия
 
-* System admin & configuration
-* Data collection & analysis
-* Tool evaluation & recommendation
-* Technical Support
-* Member database management
-* Platform architecture & integration
-* Software & application programming
-* UX & Design
-* Algorithm design & data manipulation
+* Community Strategy Development
+* Roadmap Development
+* Policy & guideline development
+* Needs & competitive analysis
+* Measurement, benchmarking & reporting
+* Trendspotting & synthesizing
+* Consulting
+* Executive coaching
+* Content strategy development
+* Evaluating engagement techniques
 
-## Content
+### Коммуникации
 
 * SEO
 * Taxonomy or taging mgmt
@@ -156,6 +87,21 @@
 * Graphics & Design
 * Writing
 * Communication planning
+
+## Регистрация
+
+[https://maxsemenchuk.typeform.com/to/ddlBil](https://maxsemenchuk.typeform.com/to/ddlBil)
+
+## Адвайзоры
+
+* Свят Попов
+* Женя Лапин
+* Федор Скуратов
+* Диана Даюб
+* \*Чумаченко
+* \*Алексей Ткаченко
+* Марина Гончаренко
+* \*Nick Latushkin
 
 ## Идеи
 
@@ -179,8 +125,6 @@
 * Обучение требует впечатлений, не хватает сейчас \(VR?\)
 * Обучение через вдохновение и ролевые модели в сообществах
 * Бренд, сторителлинг
-* Коммуникации
-* Сообщества
 * Обучение при поддержке сообщества
 * Маркет валидейшен
 * Описать концепции управления Ted, burning man, анонимных алкоголиков и тд
@@ -340,6 +284,68 @@
 * Спринтовая школа
 
 В The Leadership System \(модель, которую я использую в качестве основы\) хорошо работают "лидерские каникулы" - полдня, раз в месяц, интимная группа, глубокие диалоги.
+
+
+
+### Форматы
+
+* Не уходить в детали
+* Встречаться со стабильной частотой
+* Уметь работать без хоста \(учиться\)
+* Хранить результаты \(записки, деревья\)
+* Делать рефлексии по сессия \(и предлагать изменения\)
+* Публиковать результаты для всех
+* Синхронизировать тех кто отстал
+* Качественно усилять нашу группу
+* Mastermind
+* Ritual dissent
+* Future backwards
+* Дебаты
+* Митап с предзаданной темой
+* Находить эксперта по запросам
+* Иметь core команду + приглашенные по доменам
+* Все время возвращаться к вопросу "зачем"
+* Определять формат под зачем
+* Приглашать мотивированных людей
+* Проводить офлайн встречи
+* Взаимодействовать с другими коммьюнити \(Сингуларити Ю, Институт Будущего\)
+* Диверсифицироваться интенционально \(не сидеть в 1 странах\)
+* Дизайн спринты: формируем и проверяем гипотезу
+* Комититься по задачам из пула
+* Определять цели на промежутки \(месяц, квартал, год\)
+* Внедрять Agile, Scrum \(вести доску\)
+* First principles thinking session для разрешения каких-то спорных вопросов.
+
+
+
+### Подход
+
+* In this community is the power to change the world
+* In me is the power to change the world
+* If i'm going to change the world
+* I need a world of change in me
+* Change comes naturally
+* But it can also come intentionally
+* Through the power of goal setting & community
+* I can achieve anything I put my mind to
+* Everything is possible to the extent i believe it is
+* I want to dream wide awake as much as i do asleep
+* And through focused action we can do it \(1 sprint at a time\)
+
+### Принципы
+
+* EduScrum
+* Regular reflection helps \(self and others\)
+* Discipline matters a lot
+* Healthy mind in the healthy body
+* Fail fast, don't hold too much
+* Every person is valuable
+* Keep savings all the time and donate
+* Если недоволен собой то недоволен и остальными
+* Чтобы быть уверенным нужно больше изучать
+* Чтобы любить надо познать
+
+
 
 1. Границы ответственности - ясно очерчивать причастность к работе и решениям.
 2. Процесс делегирования - плавно и вовремя передавать ответственность.
