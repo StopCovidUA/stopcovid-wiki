@@ -4,7 +4,7 @@
 * [🔥 Оновлення та звіти](onovlennya-ta-zviti.md)
 * [🎮Почати гру](https://maxsemenchuk.typeform.com/to/ddlBil)
 
-## Координація <a id="volonteram"></a>
+## Impact UA <a id="volonteram"></a>
 
 * [Гра](volonteram/informacionnaya-kampaniya/README.md)
   * [Менеджери та Біздеви](volonteram/informacionnaya-kampaniya/inkubator-bizdev.md)
@@ -114,7 +114,7 @@
   * [Кампанія \#лікарігерої](medikam/arkhiv/kampaniya-likarigeroyi/README.md)
     * [24.04](medikam/arkhiv/kampaniya-likarigeroyi/24.04.md)
 
-## Підприємництво <a id="biznes"></a>
+## SDG 9 Industry, Innovation and Infrastructure <a id="biznes"></a>
 
 * [Стратегія підтримкі економіки](biznes/biznesy.md)
 * [Імпакт фонд](biznes/impakt-fond/README.md)
@@ -130,7 +130,7 @@
   * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznes/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
   * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
 
-## Громади <a id="vrazlivi-verstvi-naselennya"></a>
+## SDG 11 Sustainable Cities and Communities <a id="vrazlivi-verstvi-naselennya"></a>
 
 * [Громадянам](vrazlivi-verstvi-naselennya/gromadyani.md)
 * [Кампанія \#безтебеніяк](vrazlivi-verstvi-naselennya/beztebeniyak/README.md)
