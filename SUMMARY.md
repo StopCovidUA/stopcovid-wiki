@@ -62,7 +62,7 @@
   * [30.04](volonteram/evolyuciya-organizacii/30.04.md)
   * [06.05](volonteram/evolyuciya-organizacii/06.05.md)
 
-## Охорона здоров'я <a id="medikam"></a>
+## SDG 3 Good Health and Well-being <a id="medikam"></a>
 
 * [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
