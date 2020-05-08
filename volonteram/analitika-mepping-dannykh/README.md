@@ -42,8 +42,6 @@ HR Назначение:  Обязанности: Сорсинг Онборди�
 * [Дошка вакансій](https://trello.com/b/IkonsFAY/main-board)
 * Телеграм канал [\#stopcoviduaupdates](https://t.me/stopcoviduaupdates)
 
-
-
 ## Мапа екосистеми
 
 {% embed url="https://airtable.com/shrBBtpzCSL14Uhvs" %}
