@@ -199,4 +199,5 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * [https://medium.com/dgov/what-is-distributed-governance-3b103eb082c0](https://medium.com/dgov/what-is-distributed-governance-3b103eb082c0)
 * Metacartel
 * [https://leader-id.ru/points/](https://leader-id.ru/points/)
+* Инвестиционная стратегия как у Нобелевского фонда
 
