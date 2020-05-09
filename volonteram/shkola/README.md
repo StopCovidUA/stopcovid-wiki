@@ -96,6 +96,7 @@
 ## Формат
 
 * Mastermind
+* Консультаційна сесія
 * Ritual dissent
 * Future backwards
 * Дебаты
