@@ -1,8 +1,6 @@
----
-description: 'Координаторам, аналітикам і проєктним менеджерам'
----
+# Спільнота волонтерів
 
-# Спільнота
+## Цель
 
 ## Проекти
 
@@ -169,7 +167,6 @@ description: 'Координаторам, аналітикам і проєктн
 * [За принципом рою. Тактична настанова про те, як змінити світ](https://texty.org.ua/archive-books/45215/za-pryntsypom-roju-taktychna-nastanova-pro-te-jak-zminyty-svit-45215/#45217)
 * [Democratic Mediums](https://medlabboulder.gitlab.io/democraticmediums/) is a directory of patterns for decision, deliberation, and noise
 * [https://sociocracy30.org/](https://sociocracy30.org/)
-* Привлечь скрам-мастеров
 * [https://wiki.teal.org.ua/](https://wiki.teal.org.ua/)
 * Тестить тип мышления волонтера
 * Баллы и репутация за хорошие дела, так меряем вовлечённость
