@@ -32,8 +32,6 @@ description: 'Координаторам, аналітикам і проєктн
 * [Контент-план](https://docs.google.com/spreadsheets/d/1vRUnJNAk7FgvdbDWydn429hRSV1j65q1VUCCLpXQTAQ/edit#gid=1872245614)
 * [Продуктова дошка](https://trello.com/b/6DCyBJA1/%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%82%D0%B0)
 
-## 
-
 ## **Наші партнери**
 
 1. [Bird in Flight](https://birdinflight.com/)
