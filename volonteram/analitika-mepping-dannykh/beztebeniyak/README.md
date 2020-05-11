@@ -30,7 +30,7 @@
 
 ### Теми 
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../../.gitbook/assets/image%20%2895%29.png)
 
 * формуємо реліз, чому саме ти потрібен нам
 * відео про важливість “твоєї” допомоги
@@ -71,4 +71,5 @@
 * [https://covid19help.com.ua/](https://covid19help.com.ua/) – подключить
 * Аспен инициативы
 * Спецматериал про волонтеров с платформой
+* [https://www.ifrc.org/Global/Publications/volunteers/1301100-Global-Review-on-Volunteering-Report\_EN.pdf](https://www.ifrc.org/Global/Publications/volunteers/1301100-Global-Review-on-Volunteering-Report_EN.pdf)
 

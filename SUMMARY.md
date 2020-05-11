@@ -7,6 +7,9 @@
 ## Impact UA <a id="volonteram"></a>
 
 * [Спільнота](volonteram/analitika-mepping-dannykh/README.md)
+  * [Кампанія \#безтебеніяк](volonteram/analitika-mepping-dannykh/beztebeniyak/README.md)
+    * [27.04](volonteram/analitika-mepping-dannykh/beztebeniyak/27.04.md)
+    * [04.05](volonteram/analitika-mepping-dannykh/beztebeniyak/untitled.md)
   * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
   * [March](volonteram/analitika-mepping-dannykh/march/README.md)
     * [Tactical 16.03](volonteram/analitika-mepping-dannykh/march/tactical-16.03.md)
@@ -134,9 +137,6 @@
 ## SDG 11 Sustainable Cities and Communities <a id="vrazlivi-verstvi-naselennya"></a>
 
 * [Громадянам](vrazlivi-verstvi-naselennya/gromadyani.md)
-* [Кампанія \#безтебеніяк](vrazlivi-verstvi-naselennya/beztebeniyak/README.md)
-  * [27.04](vrazlivi-verstvi-naselennya/beztebeniyak/27.04.md)
-  * [04.05](vrazlivi-verstvi-naselennya/beztebeniyak/untitled.md)
 * [Стратегія](vrazlivi-verstvi-naselennya/strategiya.md)
 * [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya/hr-bezrabotica/README.md)
   * [Tactical 08.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-08.04.md)
