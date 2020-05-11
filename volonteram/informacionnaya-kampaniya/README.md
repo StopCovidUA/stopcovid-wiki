@@ -11,8 +11,14 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * [Медіакіт](https://docs.google.com/document/d/1uyl3wf2cpi6yJFPKybJtQD9_LL5jKfdENCccA6LO10c/edit?usp=sharing)
 * [Усі матеріали у figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)
 * [Лого та інші прес-матеріали](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5?usp=sharing)
-* 
+
 [Наши цілі \(колонка Комунікації\)](https://trello.com/b/IkonsFAY/%D1%86%D1%96%D0%BB%D1%96-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%96-%D0%BE%D1%81%D0%BE%D0%B1%D0%B8-stopcovid-wikistopcovidorgua)
+
+## Продукти
+
+* Бали
+* Бейджики
+* Передбачення
 
 ## Повідомлення
 
