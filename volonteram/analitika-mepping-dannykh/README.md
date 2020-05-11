@@ -2,18 +2,11 @@
 description: 'Координаторам, аналітикам і проєктним менеджерам'
 ---
 
-# Спільнота
+# Екосистема
 
-## Ролі
+## Мапа екосистеми
 
-* Допомога медикам: [Сергей DropTablePassword](https://t.me/drop_table_password)
-* Зв'язок із волонтерами: [Vitaliy Gataulin](https://t.me/VGataulin)
-* Комунікацї [Діана Кінг](https://t.me/dianatheking)
-* Псіхологічна підтримка [Жансая Жайсанбаєва](https://t.me/SayaSemenchuk)
-* Переклади [Алекс Баир](http://t.me/ctalebap)
-* Кар'єрний розвиток [Настя Арабинская](http://t.me/Sia_AnastaSi)
-* Фасілітатор: [Макс Семенчук](https://t.me/maxsemenchuk)
-* Секретарь: [Макс Семенчук](https://t.me/maxsemenchuk)
+{% embed url="https://airtable.com/shrBBtpzCSL14Uhvs" %}
 
 ## Радники
 
@@ -36,10 +29,10 @@ description: 'Координаторам, аналітикам і проєктн
 * Discord-канал [\#coordination](https://discord.gg/DX883hY%20)
 * [Дошка вакансій](https://trello.com/b/IkonsFAY/main-board)
 * Телеграм канал [\#stopcoviduaupdates](https://t.me/stopcoviduaupdates)
+* [Контент-план](https://docs.google.com/spreadsheets/d/1vRUnJNAk7FgvdbDWydn429hRSV1j65q1VUCCLpXQTAQ/edit#gid=1872245614)
+* [Продуктова дошка](https://trello.com/b/6DCyBJA1/%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%82%D0%B0)
 
-## Мапа екосистеми
-
-{% embed url="https://airtable.com/shrBBtpzCSL14Uhvs" %}
+## 
 
 ## **Наші партнери**
 
@@ -205,17 +198,7 @@ description: 'Координаторам, аналітикам і проєктн
 
   Еще FAQ.
 
-* Taiwan’s success has rested on a fusion of technology, activism, and civic participation.
-  * Булавинова
-  * Гурский
-  * Тычкивская
-  * Сапрыкина
-  * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
-  * Think Tank
-  * Емченко
-  * Институт будущего партнерство
-  * Сразу создавать вопросы на кворе в определенном канал
-* Трекать топ инициативы/ренк по борьбе с короной
+* * Трекать топ инициативы/ренк по борьбе с короной
 * Достижения взять из [https://nobl.io/](https://nobl.io/)
 * [https://nobl.io/covid19-organizational-playbook](https://nobl.io/covid19-organizational-playbook)
 * Глобальный кооперейшен

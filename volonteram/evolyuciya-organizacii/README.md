@@ -333,6 +333,16 @@ Let’s say these 5 functions which comprise the administration had within them 
 * Metacartel
 * [https://leader-id.ru/points/](https://leader-id.ru/points/)
 * Инвестиционная стратегия как у Нобелевского фонда
+* Taiwan’s success has rested on a fusion of technology, activism, and civic participation.
+  * Булавинова
+  * Гурский
+  * Тычкивская
+  * Сапрыкина
+  * [WEF Covid Action Platform](https://toplink.weforum.org/discover/a0e0X00000hzu34QAA/covid-action-platform/overview)
+  * Think Tank
+  * Емченко
+  * Институт будущего партнерство
+  * Сразу создавать вопросы на кворе в определенном канал
 
 ![](../../.gitbook/assets/image%20%2876%29.png)
 
