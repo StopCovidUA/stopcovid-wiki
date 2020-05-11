@@ -139,4 +139,6 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * Fedorov 400k
 * Безтебенияк челлендж
 * [https://www.marketo.com/](https://www.marketo.com/)
+* Measure fun as much as you can
+* Подбор твоей задачи через чат
 
