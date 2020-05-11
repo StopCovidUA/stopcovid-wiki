@@ -6,7 +6,7 @@
 
 ## Impact UA <a id="volonteram"></a>
 
-* [Екосистема](volonteram/analitika-mepping-dannykh/README.md)
+* [Спільнота](volonteram/analitika-mepping-dannykh/README.md)
   * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
   * [March](volonteram/analitika-mepping-dannykh/march/README.md)
     * [Tactical 16.03](volonteram/analitika-mepping-dannykh/march/tactical-16.03.md)
