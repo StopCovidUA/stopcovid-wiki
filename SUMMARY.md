@@ -145,7 +145,6 @@
   * [Tactical 16.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-15.04.md)
 * [Система логистики товаров](vrazlivi-verstvi-naselennya/sistema-logistiki.md)
 * [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
-* [Клуб свідомих українських медиків](vrazlivi-verstvi-naselennya/klub-svidomikh-ukrayinskikh-medikiv.md)
 * [Школам та вишам](vrazlivi-verstvi-naselennya/udalennoe-i-onlain-obrazovanie.md)
 * [Екологія](vrazlivi-verstvi-naselennya/ekologiya.md)
 
