@@ -1,6 +1,12 @@
 # Стратегія допомоги медикам
 
-## Мета
+## Цілі
+
+1. Achieve universal health coverage, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all
+2. Substantially increase health financing and the recruitment, development, training and retention of the health workforce
+3. Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks
+
+## Задачі
 
 Допомогти медичним співробітникам виконувати їх професійні обов'язки, по мірі можливостей зробити їх роботу безпечною та комфортною.
 
