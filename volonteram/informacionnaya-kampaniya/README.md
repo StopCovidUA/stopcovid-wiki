@@ -141,4 +141,5 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * [https://www.marketo.com/](https://www.marketo.com/)
 * Measure fun as much as you can
 * Подбор твоей задачи через чат
+* Оперировать фактами, а не оценками \(научился х, сделал y\)
 
