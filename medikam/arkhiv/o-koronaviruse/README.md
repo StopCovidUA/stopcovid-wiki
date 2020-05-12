@@ -31,9 +31,9 @@
 
 [Здається, у мене коронавірус. Що робити?](https://www.the-village.com.ua/village/knowledge/health-knowledge/295233-zdaetsya-u-mene-koronavirus-scho-robiti) Не у всех больных есть симптомы
 
-![https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](../../.gitbook/assets/image%20%2844%29.png)
+![https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](../../../.gitbook/assets/image%20%2844%29.png)
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../../.gitbook/assets/image%20%2810%29.png)
 
 ## Распространение
 
@@ -44,7 +44,7 @@
 * Посмотрев вышеупомянутое видео, вы поймете логику статьи Яши Маунка в [The Atlantic, “Cancel Everything.”](https://www.theatlantic.com/ideas/archive/2020/03/coronavirus-cancel-everything/607675/) **Ключевой вывод:** до сих пор против коронавируса была эффективна только одна мера: крайнее социальное дистанцирование \(сидеть дома, не контактировать без крайней необходимости\). 
 * [Технический справочник по Коронавирусу \(англ\)](https://coronavirustechhandbook.com/) представляет собой открытый список ресурсов для граждан-ученых, производителей и других, заинтересованных в изучении того, как помочь". **Ключевой вывод:** активная коллективная деятельность вокруг ответов на COVID-19 огромна и является важным источником информационных сигналов для рассмотрения. 
 
-![](../../.gitbook/assets/89655588_3027786720607212_3993775460168237056_n.jpg)
+![](../../../.gitbook/assets/89655588_3027786720607212_3993775460168237056_n.jpg)
 
 ## Вакцина и лечение
 

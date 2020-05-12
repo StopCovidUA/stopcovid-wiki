@@ -95,7 +95,6 @@
   * [Psychology 31.03](medikam/psychological-support/psychology-31.03.md)
   * [Psychology 02.04](medikam/psychological-support/psychology-02.04.md)
   * [Psychology 07.04](medikam/psychological-support/psychology-07.04.md)
-* [Кампанія \#мистецтворятує](medikam/mistectvoryatuye.md)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [coronavirus.co.ua](medikam/perekladacham/README.md)
   * [Tactical 04.05](medikam/perekladacham/tactical-04.05.md)
@@ -114,11 +113,16 @@
   * [25.04](medikam/mibachimo/25.04.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
 * [Донорство крови](medikam/donorstvo-krovi.md)
-* [Все про коронавірус \(SARS-CoV-2\)](medikam/o-koronaviruse/README.md)
-  * [Саміт по коронавірусу. Базова інформація](medikam/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
 * [Архів](medikam/arkhiv/README.md)
+  * [Кампанія \#мистецтворятує](medikam/arkhiv/mistectvoryatuye.md)
+  * [Все про коронавірус \(SARS-CoV-2\)](medikam/arkhiv/o-koronaviruse/README.md)
+    * [Саміт по коронавірусу. Базова інформація](medikam/arkhiv/o-koronaviruse/sammit-po-koronavirusu.-osnovnaya-informaciya.md)
   * [Кампанія \#лікарігерої](medikam/arkhiv/kampaniya-likarigeroyi/README.md)
     * [24.04](medikam/arkhiv/kampaniya-likarigeroyi/24.04.md)
+
+## SDG 4 Quality Education
+
+* [Стратегія](sdg-4-quality-education/strategiya.md)
 
 ## SDG 9 Industry, Innovation and Infrastructure <a id="biznes"></a>
 
