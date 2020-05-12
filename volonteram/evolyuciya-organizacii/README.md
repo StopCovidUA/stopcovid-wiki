@@ -2,7 +2,7 @@
 
 ## Проекты
 
-{% embed url="https://airtable.com/tblFnACiOdd6fdKoI/viwYje98Y7ZvdR8Zx" %}
+{% embed url="https://airtable.com/shr8EEo7o3quHgALT" %}
 
 ## Governance
 

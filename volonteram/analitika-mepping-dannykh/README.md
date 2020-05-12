@@ -29,7 +29,7 @@
 
 ## Мапа екосистеми
 
-{% embed url="https://airtable.com/shrBBtpzCSL14Uhvs" %}
+{% embed url="https://airtable.com/shryDFvGal19xhJ1F" %}
 
 ## Радники
 
