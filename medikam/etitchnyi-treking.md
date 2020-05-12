@@ -57,7 +57,7 @@
 * Сделать сначала не на блокчейне, потом на блокчейне
 * Стандарт медицинского сертификата
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
