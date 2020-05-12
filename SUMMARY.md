@@ -124,6 +124,10 @@
 
 * [Стратегія](sdg-4-quality-education/strategiya.md)
 
+## SDG 8 Decent work & Economic growth
+
+* [Стратегія](sdg-8-decent-work-and-economic-growth/strategiya.md)
+
 ## SDG 9 Industry, Innovation and Infrastructure <a id="biznes"></a>
 
 * [Стратегія підтримкі економіки](biznes/biznesy.md)
