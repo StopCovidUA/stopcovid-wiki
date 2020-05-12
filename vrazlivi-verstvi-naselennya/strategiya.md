@@ -1,5 +1,11 @@
 # Стратегія
 
+## Цілі
+
+1. Ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums
+2. Reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to the global gross domestic product caused by disasters
+3. Reduce the adverse per capita environmental impact of cities. Implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters
+
 ## Вразливі групи
 
 1. Люди літнього віку \(60+\)

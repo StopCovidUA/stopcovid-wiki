@@ -142,8 +142,8 @@
 
 ## SDG 11 Sustainable Cities and Communities <a id="vrazlivi-verstvi-naselennya"></a>
 
-* [Громадянам](vrazlivi-verstvi-naselennya/gromadyani.md)
 * [Стратегія](vrazlivi-verstvi-naselennya/strategiya.md)
+* [Громадянам](vrazlivi-verstvi-naselennya/gromadyani.md)
 * [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya/hr-bezrabotica/README.md)
   * [Tactical 08.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-08.04.md)
   * [Tactical 16.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-15.04.md)

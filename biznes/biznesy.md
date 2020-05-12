@@ -1,6 +1,12 @@
 # Стратегія підтримкі економіки
 
-## Бачення
+## Цілі
+
+1. Develop quality, reliable, sustainable and resilient infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all
+2. Promote inclusive and sustainable industrialization, and  increase the access of small-scale industrial and other enterprises, to financial services and their integration into value chains and markets
+3. Enhance scientific research, upgrade the technological capabilities of industrial sectors, encouraging innovation and substantially increasing the number of research and development workers
+
+## Задачі
 
 * Бізнес знає, які є потреби на ринку, та куди інвестувати ресурси \(контекстно по типу допомоги і регіонах\).
 * Відповідна до ситуації поведінка покращує репутацію бізнесу,  невідповідна - погіршує.
