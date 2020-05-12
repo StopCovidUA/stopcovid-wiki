@@ -57,6 +57,7 @@
   * [Comms 17.04](volonteram/informacionnaya-kampaniya/comms-17.04.md)
   * [Comms 20.04](volonteram/informacionnaya-kampaniya/comms-20.04.md)
   * [Comms 08.05](volonteram/informacionnaya-kampaniya/comms-08.05.md)
+  * [Game 12.05](volonteram/informacionnaya-kampaniya/game-12.05.md)
 * [Меташкола](volonteram/shkola/README.md)
   * [Кампанія "Жити по-новому"](volonteram/shkola/kampaniya-zhiti-po-novomu.md)
 * [Інкубатор проектів](volonteram/evolyuciya-organizacii/README.md)
