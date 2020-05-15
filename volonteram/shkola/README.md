@@ -364,6 +364,7 @@
 * Настоящий учитель заинтересовывает
 * $10 школа / мес
 * Приведи друга, получи месяц
+* [https://competendo.net/en/Main\_Page](https://competendo.net/en/Main_Page)
 
 ![](../../.gitbook/assets/image%20%2839%29.png)
 
