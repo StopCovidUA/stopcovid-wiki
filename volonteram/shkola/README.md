@@ -361,6 +361,7 @@
 * [https://news.sky.com/story/coronavirus-only-9-of-britons-want-life-to-return-to-normal-once-lockdown-is-over-11974459?fbclid=IwAR0uUSPHHGKdRKg1IAfavUQGJVrYArOID-HXc5XyUdzXYazXiz9ZTzqJPts](https://news.sky.com/story/coronavirus-only-9-of-britons-want-life-to-return-to-normal-once-lockdown-is-over-11974459?fbclid=IwAR0uUSPHHGKdRKg1IAfavUQGJVrYArOID-HXc5XyUdzXYazXiz9ZTzqJPts)
 * [https://m.facebook.com/id.ukraine/](https://m.facebook.com/id.ukraine/)
 * Спринтовая школа
+* интегрировать с Глобал инсайт
 * Настоящий учитель заинтересовывает
 * $10 школа / мес
 * Приведи друга, получи месяц
