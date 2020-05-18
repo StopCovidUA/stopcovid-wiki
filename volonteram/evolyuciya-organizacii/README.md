@@ -8,13 +8,11 @@
 
 ### Глобальная интеграция
 
-Цели устойчивого развития
+Глобальные цели \(SDG\)
 
 Глобальные ценности
 
 Глобальный закон
-
-Being harder to corrupt
 
 ### Посткапитализм
 
@@ -31,6 +29,8 @@ Blockchain
 Счастье на 40% состоит из выбора
 
 Board represents all stakeholders
+
+Being harder to corrupt
 
 ## Tasks & Challenges <a id="d556"></a>
 
