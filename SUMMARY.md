@@ -7,7 +7,6 @@
 ## Impact UA <a id="volonteram"></a>
 
 * [Спільнота волонтерів](volonteram/analitika-mepping-dannykh/README.md)
-  * [12.04](volonteram/analitika-mepping-dannykh/12.04.md)
   * [Ментальное здоровье сообщество](volonteram/analitika-mepping-dannykh/mentalnoe-zdorove-soobshestvo.md)
   * [Кампанія \#безтебеніяк](volonteram/analitika-mepping-dannykh/beztebeniyak/README.md)
     * [27.04](volonteram/analitika-mepping-dannykh/beztebeniyak/27.04.md)
@@ -31,6 +30,7 @@
   * [Coordination 02.04](volonteram/analitika-mepping-dannykh/tactical-02.04.md)
   * [Coordination 07.04](volonteram/analitika-mepping-dannykh/coordination-07.04.md)
   * [Coordination 09.04](volonteram/analitika-mepping-dannykh/coordination-09.04.md)
+  * [12.04](volonteram/analitika-mepping-dannykh/12.04.md)
   * [Coordination 14.04](volonteram/analitika-mepping-dannykh/coordination-14.04.md)
   * [Coordination 16.04](volonteram/analitika-mepping-dannykh/coordination-16.04.md)
   * [Coordination 21.04](volonteram/analitika-mepping-dannykh/coordination-21.04.md)
