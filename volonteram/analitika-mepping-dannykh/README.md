@@ -2,12 +2,27 @@
 
 ![](../../.gitbook/assets/image%20%28103%29.png)
 
+Підвищувати рівень обізнаності про коронавірус та способи убезпечити себе від захворювання. Інформувати суспільство про роботу StopCovidUA та про досягнення руху. Об'єднувати ЗМІ та партнерські організації задля відкритого діалогу щодо викликів, які стоять перед суспільством у зв'язку з епідемією.
+
+* [Медіакіт](https://docs.google.com/document/d/1uyl3wf2cpi6yJFPKybJtQD9_LL5jKfdENCccA6LO10c/edit?usp=sharing)
+* [Усі матеріали у figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)
+* [Лого та інші прес-матеріали](https://drive.google.com/drive/folders/1yTjYafpFWmkKw7lYOdkMLlyPgBxgsTm5?usp=sharing)
+
+[Наши цілі \(колонка Комунікації\)](https://trello.com/b/IkonsFAY/%D1%86%D1%96%D0%BB%D1%96-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%96-%D0%BE%D1%81%D0%BE%D0%B1%D0%B8-stopcovid-wikistopcovidorgua)
+
 ## Проекти
 
 * Кампанія "безтебеніяк"
 * Онлайн бар
 * Календар заходів
 * Мапа екосистеми
+
+## Повідомлення
+
+* [Лікарі — герої](../../medikam/arkhiv/kampaniya-likarigeroyi/) на збільшення підтримки лікарів
+* [\#безтебеніяк](beztebeniyak/) 
+* \#мистецтворятує
+* [Ти потрібен світові вдома](../../vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
 
 ## Канали комунікації
 
@@ -16,6 +31,13 @@
 * Телеграм канал [\#stopcoviduaupdates](https://t.me/stopcoviduaupdates)
 * [Контент-план](https://docs.google.com/spreadsheets/d/1vRUnJNAk7FgvdbDWydn429hRSV1j65q1VUCCLpXQTAQ/edit#gid=1872245614)
 * [Продуктова дошка](https://trello.com/b/6DCyBJA1/%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%82%D0%B0)
+
+## Координатори напрямку
+
+* Загальна координація комуникацій: [Діана Кінг](https://t.me/dianatheking)
+* Посты которых мы долго ждали: Саша Барабаш 
+* Ситуативный текстнадзор: Карина Потиха
+* Космический креатив: Жансая Жайсанбаева
 
 ## Мапа екосистеми
 
