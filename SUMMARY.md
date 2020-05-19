@@ -79,6 +79,7 @@
   * [27.04](medikam/sistema-zdravookhraneniya/27.04.md)
   * [04.05](medikam/sistema-zdravookhraneniya/04.05.md)
   * [11.05](medikam/sistema-zdravookhraneniya/11.05.md)
+  * [18.05](medikam/sistema-zdravookhraneniya/18.05.md)
 * [Психологічна підтримка](medikam/psychological-support/README.md)
   * [\#StopCovidUa+LiveLovers](medikam/psychological-support/stopcovidua+livelovers.md)
   * [Reducing Stigma](medikam/psychological-support/reducing-stigma.md)
