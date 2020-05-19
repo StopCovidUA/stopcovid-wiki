@@ -1,6 +1,6 @@
 # Спільнота
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](../../.gitbook/assets/image%20%28103%29.png)
 
 ## Проекти
 
