@@ -140,7 +140,7 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 
 ![https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](../../.gitbook/assets/image%20%2896%29.png)
 
-## Development Plan
+## Maturity Level & Development Plan
 
 \(c\) [Nathan Snyder](https://www.linkedin.com/in/nathanvsnyder/)
 

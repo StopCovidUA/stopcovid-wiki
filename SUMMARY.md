@@ -6,7 +6,7 @@
 
 ## Impact UA <a id="volonteram"></a>
 
-* [Спільнота волонтерів](volonteram/analitika-mepping-dannykh/README.md)
+* [Спільнота](volonteram/analitika-mepping-dannykh/README.md)
   * [Ментальное здоровье сообщество](volonteram/analitika-mepping-dannykh/mentalnoe-zdorove-soobshestvo.md)
   * [Кампанія \#безтебеніяк](volonteram/analitika-mepping-dannykh/beztebeniyak/README.md)
     * [27.04](volonteram/analitika-mepping-dannykh/beztebeniyak/27.04.md)
