@@ -59,7 +59,7 @@
   * [Comms 20.04](volonteram/informacionnaya-kampaniya/comms-20.04.md)
   * [Comms 08.05](volonteram/informacionnaya-kampaniya/comms-08.05.md)
   * [Game 12.05](volonteram/informacionnaya-kampaniya/game-12.05.md)
-* [Креативный класс](volonteram/shkola/README.md)
+* [Креативний клас](volonteram/shkola/README.md)
   * [19.05](volonteram/shkola/19.05.md)
   * [Коммуникация](volonteram/shkola/kommunikaciya/README.md)
     * [15.05](volonteram/shkola/kommunikaciya/15.05.md)
