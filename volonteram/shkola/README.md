@@ -370,6 +370,7 @@
 * Приведи друга, получи месяц
 * [https://competendo.net/en/Main\_Page](https://competendo.net/en/Main_Page)
 * На каждого человека коуч, ментор и психолог
+* Дайджест школы - рассылка и все группы и результаты
 
 ![](../../.gitbook/assets/image%20%2839%29.png)
 
