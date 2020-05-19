@@ -321,6 +321,7 @@ Let’s say these 5 functions which comprise the administration had within them 
 * Проконсультироваться с крутым hr
 * [https://www.toptal.com/remote-work-playbook](https://www.toptal.com/remote-work-playbook)
 * Таймбанк
+* [https://www.upstock.io/product](https://www.upstock.io/product)
 
 {% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
 
