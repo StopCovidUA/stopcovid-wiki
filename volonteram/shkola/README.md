@@ -1,5 +1,7 @@
 # Креативний клас
 
+
+
 {% embed url="https://www.youtube.com/watch?v=D39dx1pAQ78" %}
 
 ## Задача
