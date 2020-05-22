@@ -20,11 +20,11 @@
 
 ## Открытые группы
 
-* Розвиток екосистем
-* Разработка продуктов
-* Лидерство
-* Стратегия
-* Коммуникации
+* [Розвиток екосистем](../../metashkola/rozvitok-ekosistem.md)
+* [Разработка продуктов](../../metashkola/razrabotka-produktov.md)
+* [Лидерство](../../metashkola/liderstvo.md)
+* [Стратегия](../../metashkola/strategiya.md)
+* [Коммуникации](../../metashkola/kommunikaciya/)
 * Управление личными финансами
 
 ## Формат
