@@ -1,7 +1,5 @@
 # Меташкола
 
-
-
 {% embed url="https://www.youtube.com/watch?v=D39dx1pAQ78" %}
 
 ## Задачи
@@ -28,74 +26,6 @@
 * Стратегия
 * Коммуникации
 * Управление личными финансами
-
-### Розвиток екосистем
-
-* Team management
-* Business model development
-* Budget & financial management
-* Team hiring & management
-* Selling, influencing & evangelizing
-* Community advocacy & promotion
-* Training development & delivery
-* Vendor management
-* Governance management
-* Фасилитация
-* Медиация
-* Коучинг
-
-### Разработка цифровых продуктов
-
-* System admin & configuration
-* Data collection & analysis
-* Tool evaluation & recommendation
-* Technical Support
-* Member database management
-* Platform architecture & integration
-* Software & application programming
-* UX & Design
-* Algorithm design & data manipulation
-
-### Лидерство
-
-* Listening & analyzing
-* Response and escalation
-* Moderation & conflict facilitation
-* Promoting productive behaviours
-* Empathy & member support
-* Facilitating connections
-* New member recruitment
-* New member welcoming
-* Member advocacy
-* Behaviour change & gamification
-
-### Стратегия
-
-* Community Strategy Development
-* Roadmap Development
-* Policy & guideline development
-* Needs & competitive analysis
-* Measurement, benchmarking & reporting
-* Trendspotting & synthesizing
-* Consulting
-* Executive coaching
-* Content strategy development
-* Evaluating engagement techniques
-
-### Коммуникации
-
-* SEO
-* Taxonomy or taging mgmt
-* Program & Event planning
-* Curation
-* Editing
-* Narrative Development
-* Multimedia Production
-* Graphics & Design
-* Writing
-* Communication planning
-* Бренд
-* Сторителлинг
 
 ## Формат
 

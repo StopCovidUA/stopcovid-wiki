@@ -61,7 +61,6 @@
   * [Game 12.05](volonteram/informacionnaya-kampaniya/game-12.05.md)
 * [Меташкола](volonteram/shkola/README.md)
   * [19.05](volonteram/shkola/19.05.md)
-  * [Кампанія "Жити по-новому"](volonteram/shkola/kampaniya-zhiti-po-novomu.md)
 * [Інкубатор проектів](volonteram/evolyuciya-organizacii/README.md)
   * [Future Group](volonteram/evolyuciya-organizacii/future-group.md)
   * [Воркшоп "стратегическая сессия"](volonteram/evolyuciya-organizacii/vorkshop-strategicheskaya-sessiya.md)
@@ -74,9 +73,13 @@
 
 ## Меташкола
 
+* [Разработка продуктов](metashkola/razrabotka-produktov.md)
 * [Коммуникация](metashkola/kommunikaciya/README.md)
   * [15.05](metashkola/kommunikaciya/15.05.md)
   * [22.05](metashkola/kommunikaciya/22.05.md)
+* [Розвиток екосистем](metashkola/rozvitok-ekosistem.md)
+* [Лидерство](metashkola/liderstvo.md)
+* [Стратегия](metashkola/strategiya.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
 
