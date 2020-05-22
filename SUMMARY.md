@@ -59,11 +59,8 @@
   * [Comms 20.04](volonteram/informacionnaya-kampaniya/comms-20.04.md)
   * [Comms 08.05](volonteram/informacionnaya-kampaniya/comms-08.05.md)
   * [Game 12.05](volonteram/informacionnaya-kampaniya/game-12.05.md)
-* [Креативний клас](volonteram/shkola/README.md)
+* [Меташкола](volonteram/shkola/README.md)
   * [19.05](volonteram/shkola/19.05.md)
-  * [Коммуникация](volonteram/shkola/kommunikaciya/README.md)
-    * [15.05](volonteram/shkola/kommunikaciya/15.05.md)
-    * [22.05](volonteram/shkola/kommunikaciya/22.05.md)
   * [Кампанія "Жити по-новому"](volonteram/shkola/kampaniya-zhiti-po-novomu.md)
 * [Інкубатор проектів](volonteram/evolyuciya-organizacii/README.md)
   * [Future Group](volonteram/evolyuciya-organizacii/future-group.md)
@@ -74,6 +71,12 @@
   * [30.04](volonteram/evolyuciya-organizacii/30.04.md)
   * [06.05](volonteram/evolyuciya-organizacii/06.05.md)
   * [Incubator 13.05](volonteram/evolyuciya-organizacii/incubator-13.05.md)
+
+## Меташкола
+
+* [Коммуникация](metashkola/kommunikaciya/README.md)
+  * [15.05](metashkola/kommunikaciya/15.05.md)
+  * [22.05](metashkola/kommunikaciya/22.05.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
 
