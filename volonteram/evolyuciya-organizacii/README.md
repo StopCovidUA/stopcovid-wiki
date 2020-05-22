@@ -335,6 +335,7 @@ Let’s say these 5 functions which comprise the administration had within them 
 * [https://leader-id.ru/points/](https://leader-id.ru/points/)
 * Инвестиционная стратегия как у Нобелевского фонда
 * VC chatroom
+* Психолог на команду
 * Taiwan’s success has rested on a fusion of technology, activism, and civic participation.
   * Булавинова
   * Гурский
