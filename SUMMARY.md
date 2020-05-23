@@ -61,7 +61,7 @@
   * [Game 12.05](volonteram/informacionnaya-kampaniya/game-12.05.md)
 * [Меташкола](volonteram/shkola/README.md)
   * [19.05](volonteram/shkola/19.05.md)
-* [Інкубатор проектів](volonteram/evolyuciya-organizacii/README.md)
+* [Реінкубатор](volonteram/evolyuciya-organizacii/README.md)
   * [Future Group](volonteram/evolyuciya-organizacii/future-group.md)
   * [Воркшоп "стратегическая сессия"](volonteram/evolyuciya-organizacii/vorkshop-strategicheskaya-sessiya.md)
   * [StopCovidUA Bot / Platform](volonteram/evolyuciya-organizacii/operatoram-stopcovidua-bot.md)

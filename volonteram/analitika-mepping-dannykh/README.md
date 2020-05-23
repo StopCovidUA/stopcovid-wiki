@@ -1,8 +1,10 @@
 # Спільнота
 
-![](../../.gitbook/assets/image%20%28103%29.png)
+## Мета
 
 Підвищувати рівень обізнаності про коронавірус та способи убезпечити себе від захворювання. Інформувати суспільство про роботу StopCovidUA та про досягнення руху. Об'єднувати ЗМІ та партнерські організації задля відкритого діалогу щодо викликів, які стоять перед суспільством у зв'язку з епідемією.
+
+![](../../.gitbook/assets/image%20%28103%29.png)
 
 * [Медіакіт](https://docs.google.com/document/d/1uyl3wf2cpi6yJFPKybJtQD9_LL5jKfdENCccA6LO10c/edit?usp=sharing)
 * [Усі матеріали у figma](https://www.figma.com/file/dL4QqItFu65HFNRwvs80sP/Stop-Covid?node-id=0%3A1)
