@@ -39,7 +39,7 @@
   * [Volunteer 13.05](volonteram/analitika-mepping-dannykh/volunteer-13.05.md)
   * [Community 11.05](volonteram/analitika-mepping-dannykh/community-11.05.md)
   * [Community 18.05](volonteram/analitika-mepping-dannykh/community-18.05.md)
-* [Гра](volonteram/informacionnaya-kampaniya/README.md)
+* [Метагра](volonteram/informacionnaya-kampaniya/README.md)
   * [Менеджери та Біздеви](volonteram/informacionnaya-kampaniya/inkubator-bizdev.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](volonteram/informacionnaya-kampaniya/comms-19.03.md)
