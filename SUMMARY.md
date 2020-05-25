@@ -73,13 +73,13 @@
 
 ## Меташкола
 
-* [Разработка продуктов](metashkola/razrabotka-produktov.md)
 * [Коммуникация](metashkola/kommunikaciya/README.md)
   * [15.05](metashkola/kommunikaciya/15.05.md)
   * [22.05](metashkola/kommunikaciya/22.05.md)
-* [Розвиток екосистем](metashkola/rozvitok-ekosistem.md)
 * [Лидерство](metashkola/liderstvo.md)
+* [Разработка продуктов](metashkola/razrabotka-produktov.md)
 * [Стратегия](metashkola/strategiya.md)
+* [Розвиток екосистем](metashkola/rozvitok-ekosistem.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
 
