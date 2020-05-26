@@ -245,4 +245,5 @@
 * [https://www.facebook.com/100003454797796/posts/2045727182219088/?d=n](https://www.facebook.com/100003454797796/posts/2045727182219088/?d=n)
 * Антрополог
 * Social video из репорта + ютюберы. 10 аниматоров рисуют 1 сюжет за 3 дня
+* Disruptor Skill: How disappointed are you if this haven't existed
 
