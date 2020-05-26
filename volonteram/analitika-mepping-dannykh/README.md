@@ -246,4 +246,5 @@
 * Антрополог
 * Social video из репорта + ютюберы. 10 аниматоров рисуют 1 сюжет за 3 дня
 * Disruptor Skill: How disappointed are you if this haven't existed
+* Viral Model: Interviewing other is the first task you need to do
 
