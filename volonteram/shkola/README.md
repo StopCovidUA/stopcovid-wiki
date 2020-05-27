@@ -22,7 +22,7 @@
 
 * [Розвиток екосистем](../../metashkola/rozvitok-ekosistem.md)
 * [Разработка продуктов](../../metashkola/razrabotka-produktov.md)
-* [Лидерство](../../metashkola/liderstvo.md)
+* [Лидерство](../../metashkola/liderstvo/)
 * [Стратегия](../../metashkola/strategiya.md)
 * [Коммуникации](../../metashkola/kommunikaciya/)
 * Управление личными финансами
