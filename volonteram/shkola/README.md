@@ -20,7 +20,7 @@
 
 ## Открытые группы
 
-* [Розвиток екосистем](../../metashkola/rozvitok-ekosistem.md)
+* [Розвиток екосистем](../../metashkola/rozvitok-ekosistem/)
 * [Разработка продуктов](../../metashkola/razrabotka-produktov.md)
 * [Лидерство](../../metashkola/liderstvo/)
 * [Стратегия](../../metashkola/strategiya.md)
