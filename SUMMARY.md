@@ -77,6 +77,7 @@
 * [Коммуникация](metashkola/kommunikaciya/README.md)
   * [15.05](metashkola/kommunikaciya/15.05.md)
   * [22.05](metashkola/kommunikaciya/22.05.md)
+  * [29.05](metashkola/kommunikaciya/29.05.md)
 * [Лидерство](metashkola/liderstvo/README.md)
   * [27.05](metashkola/liderstvo/27.05.md)
 * [Разработка продуктов](metashkola/razrabotka-produktov.md)
