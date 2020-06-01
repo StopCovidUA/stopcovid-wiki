@@ -40,6 +40,7 @@
   * [Community 11.05](volonteram/analitika-mepping-dannykh/community-11.05.md)
   * [Community 18.05](volonteram/analitika-mepping-dannykh/community-18.05.md)
   * [Community 26.05](volonteram/analitika-mepping-dannykh/26.05.md)
+  * [Community 01.06](volonteram/analitika-mepping-dannykh/community-01.06.md)
 * [Метагра](volonteram/informacionnaya-kampaniya/README.md)
   * [Менеджери та Біздеви](volonteram/informacionnaya-kampaniya/inkubator-bizdev.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
