@@ -50,9 +50,9 @@
 * [Артем Сердюк](https://www.linkedin.com/in/aserdyuk/)
 * [Jorgen Bo](https://www.linkedin.com/in/fixeroslo/)
 * [Nathan Snyder](https://www.linkedin.com/in/nathanvsnyder/)
+* Ира Соловей
 * Teal ua
 * Метасообщество
-* Ира Соловей
 * Марина Гончаренко, Impact Hub Odessa
 * Настя Слепцова
 
