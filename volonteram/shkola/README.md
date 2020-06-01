@@ -21,7 +21,7 @@
 ## Открытые группы
 
 * [Розвиток екосистем](../../metashkola/rozvitok-ekosistem/)
-* [Разработка продуктов](../../metashkola/razrabotka-produktov.md)
+* [Разработка продуктов](../../metashkola/razrabotka-produktov/)
 * [Лидерство](../../metashkola/liderstvo/)
 * [Стратегия](../../metashkola/strategiya.md)
 * [Коммуникации](../../metashkola/kommunikaciya/)
