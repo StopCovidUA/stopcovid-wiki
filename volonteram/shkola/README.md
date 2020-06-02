@@ -305,6 +305,7 @@
 * Сделать сайнап по всем темам Жени Лапина
 * Клуб "Развитие"
 * T shape skills
+* Beetroot / DVV partners / Sitra
 
 {% embed url="https://vimeo.com/77511311" %}
 
