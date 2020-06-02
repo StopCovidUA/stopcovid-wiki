@@ -312,6 +312,7 @@
 * Crypto school / Grant strategy for meta school in crypto 
 * Круги сами формируются школой по социократии
 * [http://metanoia.mba/](http://metanoia.mba/)
+* Пообщаться с Андреем ково
 
 {% embed url="https://vimeo.com/77511311" %}
 
