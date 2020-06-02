@@ -309,6 +309,7 @@
 * Beetroot / DVV partners / Sitra
 * Реклама школы - мини демка ивента
 * Бренд школы Женя Свистунов
+* Crypto school / Grant strategy for meta school in crypto 
 
 {% embed url="https://vimeo.com/77511311" %}
 
