@@ -310,6 +310,7 @@
 * Реклама школы - мини демка ивента
 * Бренд школы Женя Свистунов
 * Crypto school / Grant strategy for meta school in crypto 
+* Круги сами формируются школой по социократии
 
 {% embed url="https://vimeo.com/77511311" %}
 
