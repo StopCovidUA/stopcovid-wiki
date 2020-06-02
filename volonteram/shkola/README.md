@@ -313,6 +313,7 @@
 * Круги сами формируются школой по социократии
 * [http://metanoia.mba/](http://metanoia.mba/)
 * Пообщаться с Андреем ково
+* Трекать через [https://stopcovid-ua.canny.io/metaschool](https://stopcovid-ua.canny.io/metaschool)
 
 {% embed url="https://vimeo.com/77511311" %}
 
