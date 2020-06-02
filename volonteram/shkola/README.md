@@ -306,6 +306,7 @@
 * Клуб "Развитие"
 * T shape skills
 * Beetroot / DVV partners / Sitra
+* Реклама школы - мини демка ивента
 
 {% embed url="https://vimeo.com/77511311" %}
 
