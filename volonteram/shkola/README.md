@@ -307,6 +307,7 @@
 * T shape skills
 * Beetroot / DVV partners / Sitra
 * Реклама школы - мини демка ивента
+* Бренд школы Женя Свистунов
 
 {% embed url="https://vimeo.com/77511311" %}
 
