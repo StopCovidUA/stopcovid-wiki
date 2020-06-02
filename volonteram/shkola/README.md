@@ -315,6 +315,7 @@
 * Пообщаться с Андреем ково
 * Трекать через [https://stopcovid-ua.canny.io/metaschool](https://stopcovid-ua.canny.io/metaschool)
 * [https://www.evercoach.com/](https://www.evercoach.com/) This is a guy that i really enjoy listening too. [https://www.youtube.com/watch?v=RmUCP5OK6pg](https://www.youtube.com/watch?v=RmUCP5OK6pg)
+* What went badly? How was my discipline tested? What went well? How can i improve?
 
 {% embed url="https://vimeo.com/77511311" %}
 
