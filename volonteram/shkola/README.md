@@ -311,6 +311,7 @@
 * Бренд школы Женя Свистунов
 * Crypto school / Grant strategy for meta school in crypto 
 * Круги сами формируются школой по социократии
+* [http://metanoia.mba/](http://metanoia.mba/)
 
 {% embed url="https://vimeo.com/77511311" %}
 
