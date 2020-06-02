@@ -199,7 +199,9 @@
         </td>
     </tr>
   </tbody>
-</table>### [Карта экспертиз](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
+</table>
+
+### [Карта экспертиз](https://graphcommons.com/graphs/f73f4bd3-041d-42cb-a42b-ec72651d2989?auto=true&layout=fa2)
 
 {% embed url="https://www.loom.com/share/f8f1fbc235f24f48bc4c6ec6b17e100e" caption="" %}
 
