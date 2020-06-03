@@ -85,7 +85,7 @@
 * [Разработка продуктов](metashkola/razrabotka-produktov/README.md)
   * [02.06](metashkola/razrabotka-produktov/02.06.md)
 * [Стратегия](metashkola/strategiya.md)
-* [Розвиток екосистем](metashkola/rozvitok-ekosistem/README.md)
+* [Развитие экосистем](metashkola/rozvitok-ekosistem/README.md)
   * [28.05](metashkola/rozvitok-ekosistem/28.05.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>

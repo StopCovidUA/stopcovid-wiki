@@ -20,21 +20,25 @@
 
 ## Открытые группы
 
-* [Розвиток екосистем](../../metashkola/rozvitok-ekosistem/)
+* [Развитие экосистем](../../metashkola/rozvitok-ekosistem/)
 * [Разработка продуктов](../../metashkola/razrabotka-produktov/)
 * [Лидерство](../../metashkola/liderstvo/)
 * [Стратегия](../../metashkola/strategiya.md)
 * [Коммуникации](../../metashkola/kommunikaciya/)
-* Управление личными финансами
 
-## Формат
+## Форматы обучения
 
-* Mastermind
-* Консультаційна сесія
-* Ritual dissent
-* Future backwards
+* Групповой чат
+* База знаний
+* Мастермайнд
+* Менторская / Консультационная сессия
+* Коучинг сессия
+* Сессия с психологом
+* [Ritual dissent](https://cognitive-edge.com/methods/ritual-dissent/) для доработки идей
+* Сессия дизайн-мышления 
+* [Future backwards](https://cognitive-edge.com/methods/the-future-backwards/) для создания общего видения
 * Дебаты
-* Митап с предзаданной темой
+* Семинар / Вебинар
 * [Балинтовские группы](http://psytherapy.com.ua/index.php/stati/11-chto-takoe-balintovskaya-gruppa)
 
 ### Правила
@@ -64,7 +68,7 @@
 
 ### Подход
 
-В The Leadership System \(модель, которую я использую в качестве основы\) хорошо работают "лидерские каникулы" - полдня, раз в месяц, интимная группа, глубокие диалоги.
+В [The Leadership System](https://leadershipcircle.com/en/products/the-leadership-system/) \(модель, которую я использую в качестве основы\) хорошо работают "лидерские каникулы" - полдня, раз в месяц, интимная группа, глубокие диалоги.
 
 * In this community is the power to change the world
 * In me is the power to change the world
@@ -106,7 +110,7 @@
 * Обратная связь - задействовать фидбек для совершенствования людей и процессов. 
 * Признательное исследование - понимать и ценить человека, команду, организацию.
 * Энергия, фокус, комитмент - работать в поддерживаемом темпе и вовлеченности.
-* человек приходит с запросом и все ему помогают и готовятся
+* Человек приходит с запросом и все ему помогают и готовятся
 * Кто начинает группу – остается в истории 
 
 ## Регистрация
@@ -115,20 +119,35 @@
 
 ## Адвайзоры
 
-* Свят Попов
-* Женя Лапин
-* Федор Скуратов
-* Диана Даюб
-* Сергей Чумаченко
-* \*Алексей Ткаченко
-* Марина Гончаренко
-* \*Nick Latushkin
-* \*Nataliya Trenina
-* \*Cowo партнер
+* [Артем Сердюк](https://www.facebook.com/ekartem)
+* [Ирина Соловей](https://www.facebook.com/soloveyiryna)
+* [Nathan Snyder](https://www.linkedin.com/in/nathanvsnyder/)
+* [Robin T. Sverd](https://www.linkedin.com/in/robinsverd/)
+* [Марина Гончаренко](https://www.facebook.com/margonchar)
+* [Женя Лапин](https://www.facebook.com/yevhen.lapin)
+* [Сергей Чумаченко](https://www.facebook.com/s.chumachenko)
+* [Федор Скуратов](https://www.facebook.com/teodorix)
+* [Алексей Латышев](https://www.facebook.com/lx.latyshev)
+
+Партнеры
+
+* Cowo guru
+* Future Leaders Global
+* Global Shapers
 * ProBono Club
-* [http://insha-osvita.org](http://insha-osvita.org/)
-* Рабинович
-* Robin T. Sverd
+* Reincubator
+* Teal UA
+* Action Community
+
+Смотрим за работой
+
+* [Роман Рабинович](https://www.facebook.com/ddemed)
+* Свят Попов
+* [Алексей Ткаченко](https://www.facebook.com/animys.tk)
+* [Nick Latushkin](https://www.facebook.com/nicklatushkin)
+* [Nataliya Trenina](https://www.facebook.com/natatara)
+* Alona Karavai + [http://insha-osvita.org](http://insha-osvita.org/)
+* Beetroot
 
 ## Идеи
 
@@ -147,16 +166,13 @@
 * Массовые мастермайнды онлайн конфы
 * Курс по 100 навыка КМ \(круглая картинка\)
 * Конференция мастермайнд
-* Beetroot партнер
 * Обучение требует впечатлений, не хватает сейчас \(VR?\)
 * Обучение через вдохновение и ролевые модели в сообществах
 * Обучение при поддержке сообщества
-* Маркет валидейшен
 * Описать концепции управления Ted, burning man, анонимных алкоголиков и тд
 * Курс по реальному ТЗ \(как в сквоте\)
 * Вотинг за менторов
 * Курс саомоорганизации для сообществ
-* \(для взрослых и детей\)
 * студенты могут – можно сотрудничать со школами
 * Делать упражнения на интегральное развитие
 * Сообщество для повышения вовлечённости в онлайн образование \(а то не заканчивают курс\)
