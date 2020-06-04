@@ -11,7 +11,6 @@
   * [Кампанія \#безтебеніяк](volonteram/analitika-mepping-dannykh/beztebeniyak/README.md)
     * [27.04](volonteram/analitika-mepping-dannykh/beztebeniyak/27.04.md)
     * [04.05](volonteram/analitika-mepping-dannykh/beztebeniyak/untitled.md)
-  * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
   * [March](volonteram/analitika-mepping-dannykh/march/README.md)
     * [Tactical 16.03](volonteram/analitika-mepping-dannykh/march/tactical-16.03.md)
     * [Tactical 17.03](volonteram/analitika-mepping-dannykh/march/tactical-17.03.md)
@@ -87,6 +86,7 @@
 * [Стратегия](metashkola/strategiya.md)
 * [Развитие экосистем](metashkola/rozvitok-ekosistem/README.md)
   * [28.05](metashkola/rozvitok-ekosistem/28.05.md)
+* [Онлайн бар](metashkola/ezhenedelnyi-onlain-bar.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
 

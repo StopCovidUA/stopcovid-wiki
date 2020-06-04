@@ -61,7 +61,8 @@
 * Файли на [Google Drive](https://drive.google.com/drive/folders/1i4TaeHh8V0-WX8paR-xPhDIhl8tvFZTs?usp=sharing)
 * [Контакти команди](https://docs.google.com/spreadsheets/d/1aFogfzJFu_4oDbCVGvR0dE2BfQc6m9A1L3_KHz9t8SY/edit#gid=0) \(додай сюди свої\)
 * [Ключові показники \(KPI\)](https://docs.google.com/spreadsheets/d/1qxu6R_ToVvPUXK439pKcS8pDluyzr6lt5AjGpI-F8wY/edit#gid=0)
-* Для побудови гнучкої роботи ми спираємося на модель [соціократії](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F).
+* Для побудови гнучкої роботи ми спираємося на модель [соціократії](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F)
+* [Додавайте покращення тут](https://impact-ua.canny.io/metaschool)
 
 ### Цей сайт \(wiki\)
 
