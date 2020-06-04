@@ -88,7 +88,7 @@
   * [02.06: Настольные игры. Сервисы и коммуникация для сообществ. Как зайти в B2B с медитацией.](metashkola/razrabotka-produktov/02.06.md)
 * [Стратегия](metashkola/strategiya.md)
 * [Развитие экосистем](metashkola/rozvitok-ekosistem/README.md)
-  * [28.05](metashkola/rozvitok-ekosistem/28.05.md)
+  * [28.05 Как объяснить новым участникам о Меташколе. Что смотреть по развитию экосистем.](metashkola/rozvitok-ekosistem/28.05.md)
   * [04.06](metashkola/rozvitok-ekosistem/04.06.md)
 * [Онлайн бар](metashkola/ezhenedelnyi-onlain-bar.md)
 
