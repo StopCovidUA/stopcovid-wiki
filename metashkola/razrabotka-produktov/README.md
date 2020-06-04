@@ -22,3 +22,7 @@ Including, but not limited to
 * UX & Design
 * Algorithm design & data manipulation
 
+## Ideas
+
+* Креативность – Craft, латеральнее мышление, дизайн мышление, ТРИЗ
+
