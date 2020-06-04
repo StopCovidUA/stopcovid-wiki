@@ -2,6 +2,7 @@
 
 * [🚀 Як все працює?](README.md)
 * [🔥 Оновлення та звіти](onovlennya-ta-zviti.md)
+* [😤 Покращення](https://impact-ua.canny.io/metaschool)
 * [🎮Почати гру](https://maxsemenchuk.typeform.com/to/ddlBil)
 
 ## Impact UA <a id="volonteram"></a>
