@@ -26,7 +26,7 @@
 
 {% embed url="https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf" %}
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+![](../../../.gitbook/assets/image%20%28105%29.png)
 
 Алекс: пригодился бы человек МЛМ. Получить есть подходы против выпадания и выгорания.
 

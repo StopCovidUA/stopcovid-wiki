@@ -13,7 +13,7 @@
 
 ### Макс / Обновленная структура стейкхолдеров
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../../.gitbook/assets/image%20%2824%29.png)
 
 Вопросы:
 
@@ -35,11 +35,11 @@
 
 [https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf)
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../../.gitbook/assets/image%20%286%29.png)
 
-{% file src="../../.gitbook/assets/max\_skriny.pdf" %}
+{% file src="../../../.gitbook/assets/max\_skriny.pdf" %}
 
-{% file src="../../.gitbook/assets/max\_tablica \(1\).pdf" %}
+{% file src="../../../.gitbook/assets/max\_tablica \(1\).pdf" %}
 
 вперше почути про рій, знову почути про рій, пошукати про нього в інтернеті, зустріти на вулиці когось із рою, поспілкуватися з ним і т.д. Коли ці речі називаєш, вони виглядають очевидними, але попри їхню очевидність, дивно, як мало організацій беруть це до уваги. Ми називаємо цей процес
 
