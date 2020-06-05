@@ -77,6 +77,7 @@
 
 ## Меташкола
 
+* [📋Шаблон встречи](metashkola/shablon-vstrechi.md)
 * [Коммуникация](metashkola/kommunikaciya/README.md)
   * [15.05](metashkola/kommunikaciya/15.05.md)
   * [22.05](metashkola/kommunikaciya/22.05.md)
@@ -86,7 +87,6 @@
   * [03.06](metashkola/liderstvo/03.06.md)
 * [Разработка продуктов](metashkola/razrabotka-produktov/README.md)
   * [02.06: Настольные игры. Сервисы и коммуникация для сообществ. Как зайти в B2B с медитацией.](metashkola/razrabotka-produktov/02.06.md)
-* [Шаблон встречи](metashkola/shablon-vstrechi.md)
 * [Стратегия](metashkola/strategiya.md)
 * [Развитие экосистем](metashkola/rozvitok-ekosistem/README.md)
   * [28.05 Как объяснить новым участникам о Меташколе. Что смотреть по развитию экосистем.](metashkola/rozvitok-ekosistem/28.05.md)
