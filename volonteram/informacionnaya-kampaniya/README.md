@@ -138,4 +138,5 @@ description: 'ЗМІ, комунікаторам, дизайнерам та кр
 * Жизнь это игра
 * Просить Бадди быть коучами для лидерства
 * [https://www.facebook.com/nika.snizhko](https://www.facebook.com/nika.snizhko) занимается NLP для анализа текста
+* Mastermind на базе jitsi, найти инженера на форуме Джитси
 
