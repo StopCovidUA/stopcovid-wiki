@@ -1,6 +1,6 @@
 # Меташкола
 
-## Мета
+## Цели
 
 * Повышение уровня субъектности \(люди могут определить свою миссию\)
 * Повышение уровня интеграции, взаимодействия и удовлетворения
@@ -20,7 +20,9 @@
 
 ### Преимущества
 
-* T-shape skills
+* Знания по запросу just in time \(в нужный момент\)
+* Бесплатно или условно бесплатно
+* T-shape skills – в процессе обучения прокачиваются смежные навыки
 
 ## Открытые группы
 
@@ -47,6 +49,8 @@
 * [Балинтовские группы](http://psytherapy.com.ua/index.php/stati/11-chto-takoe-balintovskaya-gruppa)
 * Конференция / unconf
 * Eduscrum / sprint
+* Дайджест школы - рассылка и все группы и результаты
+* "лидерские каникулы" - полдня, раз в месяц, интимная группа, глубокие диалоги
 
 ### Правила
 
@@ -75,7 +79,7 @@
 
 ### Подход
 
-В [The Leadership System](https://leadershipcircle.com/en/products/the-leadership-system/) \(модель, которую я использую в качестве основы\) хорошо работают "лидерские каникулы" - полдня, раз в месяц, интимная группа, глубокие диалоги.
+В \(модель, которую я использую в качестве основы\) хорошо работают .
 
 * In this community is the power to change the world
 * In me is the power to change the world
@@ -87,11 +91,10 @@
 * I can achieve anything I put my mind to
 * Everything is possible to the extent i believe it is
 * I want to dream wide awake as much as i do asleep
-* And through focused action we can do it \(1 sprint at a time\)
+* And through focused action we can do it \(1 action at a time\)
 
 ### Принципы
 
-* EduScrum
 * Regular reflection helps \(self and others\)
 * Discipline matters a lot
 * Healthy mind in the healthy body
@@ -176,8 +179,6 @@
 * студенты могут – можно сотрудничать со школами
 * Делать упражнения на интегральное развитие
 * Сообщество для повышения вовлечённости в онлайн образование \(а то не заканчивают курс\)
-* Меташкола - знания по запросу
-* Нужна айти система для этого движения \(метчинг, репутация и тд\)
 * Суть школы - использовать collective intelligence
 * Кто бы хотел быть адвайзором такого проекта?
 * Разработайте курс который должны пройти депутаты
@@ -210,23 +211,19 @@
 * Делать и показывать адопшен
 * develop the use of collective intelligence
 * Узнать как работают другие зебра инкубаторы - собрать мастермайнд
-* В Y Combinator School было что-то вроде мастермайндов, можно узнать
-* [https://www.facebook.com/nika.snizhko](https://www.facebook.com/nika.snizhko) занимается NLP
-* Get advise from that feedback guy
+* * Get advise from that feedback guy
 * Фасилитатор - выбирать текущую тему
 * Указывать идею мастермайнд группы
 * Классно считывать показатели с людей - грустно/весело и пульс если есть часы
 * Берите культуру - шерьте дальше
 * Community trello board - what needs to be done
 * [https://designbundles.net/premium-logos/227361-mind-logo](https://designbundles.net/premium-logos/227361-mind-logo)
-* Closed groups are paid
+* Closed groups can be paid
 * С инвесторами коллабить идеи
 * Чтобы участвовать в мастермайнде – донейтишь на гивете
 * Conflict DJ
 * Сделать самую большую мастермайнд сессию
 * Ставить лайки людям после созвона
-* Рейтинг решений в мастермайнды
-* Сделать карту мастермайнд групп
 * Поработать с блоггерами, предложить им группу
 * Mastermind offline groups at conferences
 * List of mastermind group ideas to website
@@ -234,17 +231,12 @@
 * Все время чистить группу и проводить голосования?
 * Problem/Case based learning
 * Telegram группа для отправки апдейтов о продукте
-* Партнёрства доверия между мастермайндами
-* Группировать предпринимателей по размеру и сфере вопросв
-* Группа бесплатная платишь за неявку
-* Рассказать про мечту про сети
-* Graphcommons использовать как партнера по фронту
+* Graphcommons использовать как партнера 
 * Делать большую лабу у нас в офисе?
 * по целям устойчивого развития
 * Office hours with investors: Чтобы разбираться с defi проектами - нужно работать с defi проектами
 * Use value map for product features
 * Соцсети - способ коллабить быстрее
-* Не спрашивать - просто просить помочь людей с проектами реинкубатора
 * Хакатоны для консультантов \(шоу и призы $10k\)
 * Креативная Студия - набрать Креаторов и делать с ними
 * Дейтинг агентство
@@ -298,18 +290,15 @@
 * Мир изменился, нужно привыкать
 * Progressive view on what to expect. Адекватные предсказания
 * Подкасты/видеокаст \(Гуменюк?\) 1 раз в день/неделю
-* Футурологи
 * Social videos
 * [https://news.sky.com/story/coronavirus-only-9-of-britons-want-life-to-return-to-normal-once-lockdown-is-over-11974459?fbclid=IwAR0uUSPHHGKdRKg1IAfavUQGJVrYArOID-HXc5XyUdzXYazXiz9ZTzqJPts](https://news.sky.com/story/coronavirus-only-9-of-britons-want-life-to-return-to-normal-once-lockdown-is-over-11974459?fbclid=IwAR0uUSPHHGKdRKg1IAfavUQGJVrYArOID-HXc5XyUdzXYazXiz9ZTzqJPts)
 * [https://m.facebook.com/id.ukraine/](https://m.facebook.com/id.ukraine/)
-* Спринтовая школа
 * интегрировать с Глобал инсайт
 * Настоящий учитель заинтересовывает
 * $10 школа / мес
 * Приведи друга, получи месяц
 * [https://competendo.net/en/Main\_Page](https://competendo.net/en/Main_Page)
 * На каждого человека коуч, ментор и психолог
-* Дайджест школы - рассылка и все группы и результаты
 * Сделать сайнап по всем темам Жени Лапина
 * Клуб "Развитие"
 * T shape skills
@@ -325,6 +314,13 @@
 * What went badly? How was my discipline tested? What went well? How can i improve?
 * [https://www.facebook.com/ddemed/videos/10163612685930374/?d=n](https://www.facebook.com/ddemed/videos/10163612685930374/?d=n)
 * [https://www.coursera.org/learn/uva-darden-business-society/lecture/6F7mB](https://www.coursera.org/learn/uva-darden-business-society/lecture/6F7mB)
+* [http://kota.nu/data/file/Study\_circles\_10\_page\_RU.pdf](http://kota.nu/data/file/Study_circles_10_page_RU.pdf)
+* У меня на странице есть 5 переведенных частей брошюры шведской SIDA с кейсами реализации их концепции в других странах. Первая часть здесь: [https://www.facebook.com/notes/сергій-чумаченко/шведское-народное-развивающее-образование-опыт-внедрения-в-странах-третьего-мира/1775751189147677](https://www.facebook.com/notes/сергій-чумаченко/шведское-народное-развивающее-образование-опыт-внедрения-в-странах-третьего-мира/1775751189147677)
+* вторая: [https://www.facebook.com/notes/сергій-чумаченко/шведское-народное-развивающее-образование-для-взрослых-часть-2-учебный-круг-и-ор/1776345382421591](https://www.facebook.com/notes/сергій-чумаченко/шведское-народное-развивающее-образование-для-взрослых-часть-2-учебный-круг-и-ор/1776345382421591)
+* Третья - [https://www.facebook.com/notes/сергій-чумаченко/шведское-народное-развивающее-образование-опыт-внедрения-в-странах-третьего-мира/1786359434753519](https://www.facebook.com/notes/сергій-чумаченко/шведское-народное-развивающее-образование-опыт-внедрения-в-странах-третьего-мира/1786359434753519)
+* коротка 4-я [https://www.facebook.com/notes/сергій-чумаченко/шведское-народное-развивающее-образование-опыт-внедрения-в-странах-третьего-мира/2053882558001204](https://www.facebook.com/notes/сергій-чумаченко/шведское-народное-развивающее-образование-опыт-внедрения-в-странах-третьего-мира/2053882558001204)
+* [Шведское народное развивающее образование. Опыт внедрения в странах третьего мира \(Часть 5 Опыт внедрения в Португалии\)](https://www.facebook.com/notes/%D1%81%D0%B5%D1%80%D0%B3%D1%96%D0%B9-%D1%87%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE/%D1%88%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%BE%D0%B5-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B5-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%BF%D1%8B%D1%82-%D0%B2%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D1%85-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D0%B5%D0%B3%D0%BE-%D0%BC%D0%B8%D1%80%D0%B0/2053902364665890/)
+* [The Leadership System](https://leadershipcircle.com/en/products/the-leadership-system/) 
 
 {% embed url="https://vimeo.com/77511311" %}
 
