@@ -59,7 +59,7 @@
 * [Развитие экосистем](../../metashkola/rozvitok-ekosistem/)
 * [Разработка продуктов](../../metashkola/razrabotka-produktov/)
 * [Лидерство](../../metashkola/liderstvo/)
-* [Стратегия](../../metashkola/strategiya.md)
+* [Стратегия](../../metashkola/strategiya/)
 * [Коммуникации](../../metashkola/kommunikaciya/)
 * [Онлайн бар](../../metashkola/ezhenedelnyi-onlain-bar.md)
 
