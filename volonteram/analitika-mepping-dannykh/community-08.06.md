@@ -2,12 +2,16 @@
 
 {% hint style="info" %}
 ❇️**Вопросы которые обсудили:**  
-1.  
-2.  
-3.   
-...
+1. Итоги развития сообщества Impact Ua  
+2. Обсуждаем Business Model Canvas для сообщества Impact Ua \(успели обсудить разделы Пользователи, Ценностное предложение, Монетизация\)
 
 🔗Полезные ссылки:
+
+Итоги развития сообщества за 2 недели: [https://wiki.stopcovid.org.ua/onovlennya-ta-zviti](https://wiki.stopcovid.org.ua/onovlennya-ta-zviti)
+
+Что такое Business Model Canvas:  
+на рус: [https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B2%D0%B0\_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B2%D0%B0_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8)  
+На англ: [https://en.wikipedia.org/wiki/Business\_Model\_Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
 {% endhint %}
 
 ## 🎯 Цели и обновления \(Check-In\) <a id="celi-i-apdeity"></a>
