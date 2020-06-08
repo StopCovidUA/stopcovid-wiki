@@ -42,6 +42,7 @@
     * [Tactical 30.03](volonteram/analitika-mepping-dannykh/march/tactical-30.03.md)
     * [Tactical 31.03](volonteram/analitika-mepping-dannykh/march/tactical-31.03.md)
   * [Community 01.06](volonteram/analitika-mepping-dannykh/community-01.06.md)
+  * [Community 08.06](volonteram/analitika-mepping-dannykh/community-08.06.md)
 * [Метагра](volonteram/informacionnaya-kampaniya/README.md)
   * [Менеджери та Біздеви](volonteram/informacionnaya-kampaniya/inkubator-bizdev.md)
   * [Ментальное здоровье сообщество](volonteram/informacionnaya-kampaniya/mentalnoe-zdorove-soobshestvo.md)
