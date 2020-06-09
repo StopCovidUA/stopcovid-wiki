@@ -14,6 +14,8 @@
 На англ: [https://en.wikipedia.org/wiki/Business\_Model\_Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
 {% endhint %}
 
+{% embed url="https://youtu.be/32KBZSW2t9Y" %}
+
 ## 🎯 Цели и обновления \(Check-In\) <a id="celi-i-apdeity"></a>
 
 **Имя участника: цель, обновления**
