@@ -30,9 +30,9 @@
 
 [Здається, у мене коронавірус. Що робити?](https://www.the-village.com.ua/village/knowledge/health-knowledge/295233-zdaetsya-u-mene-koronavirus-scho-robiti) Не у всех больных есть симптомы
 
-![https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](../../.gitbook/assets/image%20%2844%29.png)
+![https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](../../.gitbook/assets/image%20%2836%29%20%281%29.png)
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 ## Распространение
 
