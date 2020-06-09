@@ -1,15 +1,15 @@
 # Разработка продуктов
 
-## Levels
-
+{% tabs %}
+{% tab title="Levels" %}
 1. Tallying the SOPP ledgers at a functional level 
 2. Designing and implementing systems of accounting & Opps efficiency
 3. Redesigning entire ledger across the spectrum
 4. Privately  & public finance making socio-technical systems making
 5. Trans-capital leadership and influence
+{% endtab %}
 
-## Topics
-
+{% tab title="Topics" %}
 Including, but not limited to
 
 * System admin & configuration
@@ -21,8 +21,18 @@ Including, but not limited to
 * Software & application programming
 * UX & Design
 * Algorithm design & data manipulation
+{% endtab %}
 
-## Ideas
+{% tab title="Ideas" %}
+Креативность – Craft, латеральнее мышление, дизайн мышление, ТРИЗ
+{% endtab %}
+{% endtabs %}
 
-* Креативность – Craft, латеральнее мышление, дизайн мышление, ТРИЗ
+## Записи прошлых встреч \(свежие вверху\)
+
+{% page-ref page="09.06.md" %}
+
+{% page-ref page="02.06.md" %}
+
+
 
