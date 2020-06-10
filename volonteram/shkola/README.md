@@ -63,13 +63,7 @@
 * [Коммуникации](../../metashkola/kommunikaciya/)
 * [Онлайн бар](../../metashkola/ezhenedelnyi-onlain-bar.md)
 
-Идеи для групп:
-
-* Краудфандинг
-* Критическое мышление, небинарное мышление \([реф](https://www.facebook.com/1763001290651097/posts/2619713674979850/?d=n)\)
-* Финансовая грамотность
-* Биохакинг
-* Колонизация Марса
+Запросы на новые классы и улучшения тут: [https://impact-ua.canny.io/metaschool](https://impact-ua.canny.io/metaschool) 
 
 ### Форматы обучения
 
