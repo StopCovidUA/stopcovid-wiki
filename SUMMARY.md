@@ -88,6 +88,7 @@
 * [Лидерство](metashkola/liderstvo/README.md)
   * [27.05](metashkola/liderstvo/27.05.md)
   * [03.06](metashkola/liderstvo/03.06.md)
+  * [10.06](metashkola/liderstvo/10.06.md)
 * [Разработка продуктов](metashkola/razrabotka-produktov/README.md)
   * [09.06.20: Инструменты аналитики, брендинг, повышение вовлеченности участников сообщества.](metashkola/razrabotka-produktov/09.06.md)
   * [02.06.20: Настольные игры. Сервисы и коммуникация для сообществ. Как зайти в B2B с медитацией.](metashkola/razrabotka-produktov/02.06.md)
