@@ -14,3 +14,5 @@ description: 'Для организаций семинаров, рабочих �
 | Product Canvas  | 15.06 | Lucy Che | [https://zoom.us/j/184906722](https://zoom.us/j/184906722) | 🟢 |
 | Community Canvas  |  | Saya |  |  |
 
+
+
