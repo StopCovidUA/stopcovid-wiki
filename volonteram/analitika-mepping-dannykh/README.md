@@ -251,4 +251,5 @@
 * Viral Model: Interviewing other is the first task you need to do
 * [https://global-ukraine.com/](https://global-ukraine.com/) + 
 * Мила Кунис, Чак Паланик и др креативные украинцы 
+* Форум по целям SDG
 
