@@ -191,4 +191,6 @@
 * [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
 * [Школам та вишам](vrazlivi-verstvi-naselennya/udalennoe-i-onlain-obrazovanie.md)
 * [Екологія](vrazlivi-verstvi-naselennya/ekologiya.md)
+* [Untitled](untitled.md)
+* [ТАЛАНТ ПАСПОРТ](talant-pasport.md)
 
