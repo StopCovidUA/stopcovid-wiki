@@ -33,7 +33,7 @@
 
  \*Даний перелік не є повним. Якщо ви хочете щось додати, напишіть [нам.](https://t.me/SayaSemenchuk)
 
-![](../../.gitbook/assets/image%20%2834%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 ## Координатори напрямку
 
@@ -50,7 +50,7 @@
 
 ## Гаряча лінія 
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2893%29%20%281%29.png)
 
 {% hint style="info" %}
 ГО «[Інститут медико-соціальних проблем вразливих категорій населення](http://ukrims.org/)» спільно з волонтерами руху  StopCovidUА організовує консультування на гарячей ліній  через платформу [УКРИМС.](http://ukrims.org/)
@@ -66,7 +66,7 @@
 
 ### \*\*\*\*[**Психологічна підтримка для медичних працівників**](https://www.facebook.com/kmarehab/photos/a.413080418887959/1277916832404309/?type=3&theater)\*\*\*\*
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2888%29%20%281%29.png)
 
 Команда спеціалістів [Центр психосоціальної реабілітації НаУКМА](https://www.facebook.com/kmarehab/?__tn__=K-R&eid=ARD6gWxl6h09SUmmhRVTBxa8lIYoJob4Eze0czitEfoPmKtnEWjM-yjV6H3keiniLE0bJTtYnnZo_bUg&fref=mentions&__xts__%5B0%5D=68.ARDG8nNiMNTk-hrb7x_rPhTclbN-gI6aoGYa5CebvMl_IaeL87ZKIMaMa9neW_WTVy2-Vk9t94emhwbbmKF-iNAB9K_xJMmFOMygEANIvVavNE4DG-I0hlwIqq9FQyqqMkVRF3ByfQXczGk-idPTMFnLr353UEodDa6OhW6CwOoLBcY8fkXXXL4FU1r9dDKnEFQ6honLrWdq1rcNrItYhdS7SFA2) у м. Києві та м. Покровську готова надавати якісну психологічну допомогу безкоштовно і конфіденційно, Медикам, в зручний час і в зручному онлайн-форматі.
 
@@ -98,7 +98,7 @@
 
 ## [Онлайн-друг на карантині](http://uplife.com.ua/?fbclid=IwAR2w7Wiu3GVDsaCb3hqbggIZskx-5cIz3rWs59SI4EK9ciGB9QSPkg8tPLA)
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 [Up-life](http://uplife.com.ua/?fbclid=IwAR2w7Wiu3GVDsaCb3hqbggIZskx-5cIz3rWs59SI4EK9ciGB9QSPkg8tPLA) - платформа которое поможет тебе пережить карантин и психологически справиться с кризисом. Проект состоит из 2-х частей, которые дополняют друг друга. Этот проект создан на волонтерской основе со стороны всех его участников. Это личная инициатива каждого из участников проекта, организаторов и ведущих, чтобы поддержать население страны во время карантина.
 
@@ -226,7 +226,7 @@ Telegram чат [Без паники ](https://t.me/bezpaniky)
 
 ## Банк ідей
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 #### Идеи для підтримки психологічного здоров'я
 

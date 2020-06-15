@@ -23,3 +23,8 @@ Including, but not limited to
 * Member advocacy
 * Behaviour change & gamification
 
+## Партнеры
+
+* Global Shapers Kyiv Hub
+* [Future Leaders Global](https://www.futureleadersglobal.com/)
+
