@@ -95,6 +95,7 @@
 * [Разработка продуктов](metashkola/razrabotka-produktov/README.md)
   * [09.06.20: Инструменты аналитики, брендинг, повышение вовлеченности участников сообщества.](metashkola/razrabotka-produktov/09.06.md)
   * [02.06.20: Настольные игры. Сервисы и коммуникация для сообществ. Как зайти в B2B с медитацией.](metashkola/razrabotka-produktov/02.06.md)
+  * [16.06](metashkola/razrabotka-produktov/16.06.md)
 * [Стратегия](metashkola/strategiya/README.md)
   * [08.06](metashkola/strategiya/08.06.md)
   * [15.06](metashkola/strategiya/15.06.md)
