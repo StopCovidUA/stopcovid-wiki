@@ -1,16 +1,46 @@
 # Коммуникация
 
-## Levels
+{% hint style="info" %}
+Это описание группы меташколы по коммуникациям. Больше о меташколе: [https://impactua.org/metaschool](https://impactua.org/metaschool)
+{% endhint %}
 
-1. Writing Tweets or designing landing pages
-2. Setting campaign standards across channels for continuous improvement
-3. e2e redesign of comms method
-4. Redefining meta-strategy of comms 
-5. Transformation of entire SOPP comms function including historical recasting 
+{% hint style="warning" %}
+Звонки 
+{% endhint %}
 
-## Topics
+## Цели
 
-Including, but not limited to
+* Сделать Украину самой креативной страной
+* Більше досвіду у взаємодії з різними людьми
+* Створення критичної маси креативних критично мислячих залучених українців
+* Максимізувати свій реальний видимий вплив на суспільство
+* Кардинально изменить восприятие людьми волонтерства в лучшую сторону 
+* Заработать денег на квартиру
+* Інформування учасників спільноти про апдейти та потреби спільноти
+* Аналитический дайджест
+* Стать профессионалом в сфере HR
+* Стать главным талент хабом в украине
+* Создание эффективной экосистемы которая бы генерировала решения и метчила людей, задачи и ресурсы
+* Максимизировать соц импакт
+* Запустить проект док.фильма
+* Разобраться, как менеджить различные сообщества
+* Создавать социально важные и коммерчески успешные проекты
+
+## Темы
+
+### Обсужденные темы
+
+[Как нужно описывать проекты чтобы заинтересовать креативщиков?](https://wiki.impactua.org/metashkola/kommunikaciya/15.05#maks-kak-nuzhno-opisat-etot-proekt-chtoby-zainteresovat-kreativshikov) / [Как креативно заявить о конкурсе?](https://wiki.impactua.org/metashkola/kommunikaciya/22.05)
+
+[Как развиваться в сфере коммуникаций?](https://wiki.impactua.org/metashkola/kommunikaciya/05.06#saya-kak-razvivatsya-v-sfere-kommunikacii)
+
+[Кейс: Создание школы по онлайн медитациям](https://wiki.impactua.org/metashkola/kommunikaciya/15.05#karina-gotovy-pouchastvovat-da-net-i-pochemu) / [Насколько люди оценивают свое эмоциональное здоровье? Что нужно чтобы добрать? Работают ли как-то с этим?](https://wiki.impactua.org/metashkola/kommunikaciya/22.05#karina-naskolko-by-vy-ocenili-svoe-emocionalnoe-zdorove-chto-nuzhno-chtoby-dobrat-rabotaet-li-kak-to-s-etim)
+
+[Как работает меташкола и в чем ценность?](https://wiki.impactua.org/metashkola/kommunikaciya/15.05#saya-kak-rabotaet-metashkola-i-v-chem-cennost) / [Идея школы](https://wiki.impactua.org/metashkola/kommunikaciya/29.05#yulya-ideya-shkoly) / [Как работает меташкола?](https://wiki.impactua.org/metashkola/kommunikaciya/05.06#tanya-kak-rabotaet-metashkola)
+
+[Как развивать доверие за короткий промежуток времени на удаленке?](https://wiki.impactua.org/metashkola/kommunikaciya/29.05#aleks-kak-razvivat-doverie-za-korotkii-promezhutok-vremeni-na-udalenke) / [Что нужно сделать чтобы сотрудники остались с нами и поменяли свои роли?](https://wiki.impactua.org/metashkola/kommunikaciya/22.05#arkadii-chto-nuzhno-sdelat-chtoby-perevodchiki-ostalis-s-nami-i-pomenyali-svoi-roli) / [С чего начать и первые шаги в фасилитации и медиации?](https://wiki.impactua.org/metashkola/kommunikaciya/15.05#arkadii-s-chego-nachat-i-pervye-shagi-v-fasilitacii-i-meditacii) / [Как мы можем популяризировать онлайн нетворкинги?](https://wiki.impactua.org/metashkola/kommunikaciya/05.06#anya-kak-my-mozhem-populyarizirovat-rendom-kofe)
+
+### Идеи
 
 * SEO
 * Taxonomy or taging mgmt
@@ -24,4 +54,14 @@ Including, but not limited to
 * Communication planning
 * Бренд
 * Сторителлинг
+
+## Группа
+
+{% embed url="https://airtable.com/shrcQQ99UgEi4hD1F" %}
+
+> Diana King: рада быть на этом звонке, надеюсь этот звонок станет стартом посещения звонков дальше. Проекты очень крутые, рада быть частью этого всего.
+
+> Alexander Kozlov: ответили на мой вопрос, очень раскрыто и кучу примеров, буду смотреть, как это нужно применить.
+
+> Карина: Ощущение полного доверия к людям с которыми обсуждаешь. Супер комфортно. Начинаем что-то новое и не хочется слышать критики, но объективной оценки из любви.
 
