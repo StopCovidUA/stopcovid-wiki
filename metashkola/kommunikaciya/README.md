@@ -5,7 +5,7 @@
 {% endhint %}
 
 {% hint style="warning" %}
-Звонки 
+Звонки: пт 19:00 [meet.google.com/jkj-ufah-ezo ](https://meet.google.com/jkj-ufah-ezo)
 {% endhint %}
 
 ## Цели
