@@ -271,6 +271,7 @@ Let’s say these 5 functions which comprise the administration had within them 
 ## Радники
 
 * dgov foundation
+* Rickard Falkvinge
 
 ## Идеи
 
