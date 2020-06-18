@@ -104,6 +104,7 @@
   * [28.05 Как объяснить новым участникам о Меташколе. Что смотреть по развитию экосистем.](metashkola/rozvitok-ekosistem/28.05.md)
   * [04.06 Колаборация между сообществами.Как повысить активность участников.Где собирать обратную связь](metashkola/rozvitok-ekosistem/04.06.md)
   * [11.06](metashkola/rozvitok-ekosistem/11.06.md)
+  * [18.06](metashkola/rozvitok-ekosistem/18.06.md)
 * [Онлайн бар](metashkola/ezhenedelnyi-onlain-bar.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
