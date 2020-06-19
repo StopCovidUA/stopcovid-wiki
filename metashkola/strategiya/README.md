@@ -23,3 +23,9 @@ Including, but not limited to
 * Content strategy development
 * Evaluating engagement techniques
 
+## Воркшопы
+
+### Community Canvas
+
+{% embed url="https://www.loom.com/share/4d7c7f589d2f496ba2ae3b0b4bd8532f" %}
+
