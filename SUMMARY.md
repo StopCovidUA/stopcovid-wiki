@@ -100,6 +100,7 @@
 * [Стратегия](metashkola/strategiya/README.md)
   * [08.06](metashkola/strategiya/08.06.md)
   * [15.06](metashkola/strategiya/15.06.md)
+  * [22.06](metashkola/strategiya/22.06.md)
 * [Развитие экосистем](metashkola/rozvitok-ekosistem/README.md)
   * [28.05 Как объяснить новым участникам о Меташколе. Что смотреть по развитию экосистем.](metashkola/rozvitok-ekosistem/28.05.md)
   * [04.06 Колаборация между сообществами.Как повысить активность участников.Где собирать обратную связь](metashkola/rozvitok-ekosistem/04.06.md)
