@@ -82,7 +82,7 @@
 
 ## Меташкола
 
-* [📋Шаблон встречи](metashkola/shablon-vstrechi.md)
+* [📋Процесс](metashkola/shablon-vstrechi.md)
 * [Коммуникация](metashkola/kommunikaciya/README.md)
   * [15.05](metashkola/kommunikaciya/15.05.md)
   * [22.05](metashkola/kommunikaciya/22.05.md)
