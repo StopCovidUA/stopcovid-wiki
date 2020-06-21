@@ -68,6 +68,7 @@
   * [Comms 08.05](volonteram/informacionnaya-kampaniya/comms-08.05.md)
   * [Game 12.05](volonteram/informacionnaya-kampaniya/game-12.05.md)
 * [Меташкола](volonteram/shkola/README.md)
+  * [Ідеї для меташколи](volonteram/shkola/ideyi-dlya-metashkoli.md)
   * [Меташкола \(Events/workshop...\)](volonteram/shkola/untitled.md)
   * [19.05](volonteram/shkola/19.05.md)
 * [Реінкубатор](volonteram/evolyuciya-organizacii/README.md)
