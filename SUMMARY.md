@@ -8,6 +8,7 @@
 ## Impact UA <a id="volonteram"></a>
 
 * [Спільнота](volonteram/analitika-mepping-dannykh/README.md)
+  * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
   * [Кампанія \#безтебеніяк](volonteram/analitika-mepping-dannykh/beztebeniyak/README.md)
     * [27.04](volonteram/analitika-mepping-dannykh/beztebeniyak/27.04.md)
     * [04.05](volonteram/analitika-mepping-dannykh/beztebeniyak/untitled.md)
@@ -93,7 +94,7 @@
   * [27.05](metashkola/liderstvo/27.05.md)
   * [03.06](metashkola/liderstvo/03.06.md)
   * [10.06](metashkola/liderstvo/10.06.md)
-* [Разработка продуктов](metashkola/razrabotka-produktov/README.md)
+* [Разработка продуктов и монетизация](metashkola/razrabotka-produktov/README.md)
   * [23.06](metashkola/razrabotka-produktov/23.06.md)
   * [09.06.20: Инструменты аналитики, брендинг, повышение вовлеченности участников сообщества.](metashkola/razrabotka-produktov/09.06.md)
   * [02.06.20: Настольные игры. Сервисы и коммуникация для сообществ. Как зайти в B2B с медитацией.](metashkola/razrabotka-produktov/02.06.md)
@@ -102,12 +103,12 @@
   * [08.06](metashkola/strategiya/08.06.md)
   * [15.06](metashkola/strategiya/15.06.md)
   * [22.06](metashkola/strategiya/22.06.md)
-* [Развитие экосистем](metashkola/rozvitok-ekosistem/README.md)
+* [Партнерство и развитие экосистем](metashkola/rozvitok-ekosistem/README.md)
   * [28.05 Как объяснить новым участникам о Меташколе. Что смотреть по развитию экосистем.](metashkola/rozvitok-ekosistem/28.05.md)
   * [04.06 Колаборация между сообществами.Как повысить активность участников.Где собирать обратную связь](metashkola/rozvitok-ekosistem/04.06.md)
   * [11.06](metashkola/rozvitok-ekosistem/11.06.md)
   * [18.06](metashkola/rozvitok-ekosistem/18.06.md)
-* [Онлайн бар](metashkola/ezhenedelnyi-onlain-bar.md)
+* [Edtech](metashkola/edtech.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
 

@@ -1,7 +1,5 @@
 # Ідеї для меташколи
 
-
-
 ## Jobs to be done
 
 * Повышение уровня субъектности \(люди могут определить свою миссию\)
@@ -63,7 +61,7 @@
 * [Лидерство](../../metashkola/liderstvo/)
 * [Стратегия](../../metashkola/strategiya/)
 * [Коммуникации](../../metashkola/kommunikaciya/)
-* [Онлайн бар](../../metashkola/ezhenedelnyi-onlain-bar.md)
+* [Онлайн бар](../analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
 
 Запросы на новые классы и улучшения тут: [https://impact-ua.canny.io/metaschool](https://impact-ua.canny.io/metaschool) 
 
@@ -124,8 +122,6 @@
 * Everything is possible to the extent i believe it is
 * I want to dream wide awake as much as i do asleep
 * And through focused action we can do it \(1 action at a time\)
-
-
 
 ## Другие
 
@@ -334,7 +330,7 @@
 * коротка 4-я [https://www.facebook.com/notes/сергій-чумаченко/шведское-народное-развивающее-образование-опыт-внедрения-в-странах-третьего-мира/2053882558001204](https://www.facebook.com/notes/сергій-чумаченко/шведское-народное-развивающее-образование-опыт-внедрения-в-странах-третьего-мира/2053882558001204)
 * [Шведское народное развивающее образование. Опыт внедрения в странах третьего мира \(Часть 5 Опыт внедрения в Португалии\)](https://www.facebook.com/notes/%D1%81%D0%B5%D1%80%D0%B3%D1%96%D0%B9-%D1%87%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE/%D1%88%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%BE%D0%B5-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B5-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%BF%D1%8B%D1%82-%D0%B2%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D1%85-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D0%B5%D0%B3%D0%BE-%D0%BC%D0%B8%D1%80%D0%B0/2053902364665890/)
 * [The Leadership System](https://leadershipcircle.com/en/products/the-leadership-system/) 
-* Оценка за митинг это экпириенс от 1 до 10
+* Программирований экспертов в звонки - это онбординг
 
 
 
