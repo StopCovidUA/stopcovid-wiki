@@ -226,7 +226,7 @@
 * develop the use of collective intelligence
 * Узнать как работают другие зебра инкубаторы - собрать мастермайнд
 * Get advise from that feedback tool guy
-* * Community trello board - what needs to be done
+* Community trello board - what needs to be done
 * [https://designbundles.net/premium-logos/227361-mind-logo](https://designbundles.net/premium-logos/227361-mind-logo)
 * Closed groups can be paid
 * С инвесторами коллабить идеи
@@ -332,8 +332,7 @@
 * [The Leadership System](https://leadershipcircle.com/en/products/the-leadership-system/) 
 * Программирований экспертов в звонки - это онбординг
 * Научное партнёрство - конференция
-
-
+* Говорит эксперт или брать готовое видео
 
 ![](../../.gitbook/assets/image%20%2834%29.png)
 
