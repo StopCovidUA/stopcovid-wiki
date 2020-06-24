@@ -315,6 +315,12 @@ Let’s say these 5 functions which comprise the administration had within them 
 
 ## Идеи
 
+* Ritual dissent переделать под онлайн
+* партнеры стартап инкубаторы \(лифт?\)
+* casers
+* Инкубационные звонки по темам
+* Воркшопы на проекты / идеатоны
+* Кинуть запрос с группу BA/PM etc
 * [https://opencollective.com/](https://opencollective.com/)
 * [https://medium.com/dgov/what-is-distributed-governance-3b103eb082c0](https://medium.com/dgov/what-is-distributed-governance-3b103eb082c0)
 * Metacartel

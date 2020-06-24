@@ -47,7 +47,6 @@
   * [15.06](volonteram/analitika-mepping-dannykh/15.06-1.md)
   * [22.06](volonteram/analitika-mepping-dannykh/22.06.md)
 * [Метагра](volonteram/informacionnaya-kampaniya/README.md)
-  * [Менеджери та Біздеви](volonteram/informacionnaya-kampaniya/inkubator-bizdev.md)
   * [Ментальное здоровье сообщество](volonteram/informacionnaya-kampaniya/mentalnoe-zdorove-soobshestvo.md)
   * [Comms 18.03](volonteram/informacionnaya-kampaniya/comms-18.03.md)
   * [Comms 19.03](volonteram/informacionnaya-kampaniya/comms-19.03.md)
