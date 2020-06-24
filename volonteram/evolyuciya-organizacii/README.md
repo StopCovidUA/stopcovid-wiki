@@ -19,7 +19,14 @@
 
 ## Проекты
 
-{% embed url="https://airtable.com/shr8EEo7o3quHgALT" %}
+{% embed url="https://airtable.com/shr4XY0JwCdfnf8nj" %}
+
+## Воркшопы
+
+* Product Model Canvas
+* Business Model Canvas
+* Community Canvas
+* Future Backwards
 
 ## Tasks & Challenges <a id="d556"></a>
 
@@ -328,6 +335,7 @@ Let’s say these 5 functions which comprise the administration had within them 
 * Инвестиционная стратегия как у Нобелевского фонда
 * VC chatroom
 * Психолог на команду
+* Запрограмить первые 5 воркшопов
 * Taiwan’s success has rested on a fusion of technology, activism, and civic participation.
   * Булавинова
   * Гурский
