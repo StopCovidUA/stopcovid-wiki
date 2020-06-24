@@ -336,6 +336,7 @@ Let’s say these 5 functions which comprise the administration had within them 
 * VC chatroom
 * Психолог на команду
 * Запрограмить первые 5 воркшопов
+* Заинтересовать общественность тогда придут деньги
 * Taiwan’s success has rested on a fusion of technology, activism, and civic participation.
   * Булавинова
   * Гурский
