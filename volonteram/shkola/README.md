@@ -36,7 +36,61 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=D39dx1pAQ78&feature=emb\_title" %}
 
-## **Графік зустрічей у Zoom:**
+## **Класи**
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x41A;&#x443;&#x440;&#x441;</th>
+      <th style="text-align:left">&#x41A;&#x43B;&#x430;&#x441;&#x438;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x41C;&#x435;&#x43D;&#x435;&#x434;&#x436;&#x43C;&#x435;&#x43D;&#x442;</td>
+      <td
+      style="text-align:left">
+        <p><a href="../../metashkola/kommunikaciya/">&#x41A;&#x43E;&#x43C;&#x43C;&#x443;&#x43D;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x44F;</a>
+        </p>
+        <p><a href="../../metashkola/liderstvo/">&#x41B;&#x438;&#x434;&#x435;&#x440;&#x441;&#x442;&#x432;&#x43E;</a>
+        </p>
+        <p><a href="../../metashkola/razrabotka-produktov/">&#x420;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x43A;&#x430; &#x43F;&#x440;&#x43E;&#x434;&#x443;&#x43A;&#x442;&#x43E;&#x432; &#x438; &#x43C;&#x43E;&#x43D;&#x435;&#x442;&#x438;&#x437;&#x430;&#x446;&#x438;&#x44F;</a>
+        </p>
+        <p><a href="../../metashkola/strategiya/">&#x421;&#x442;&#x440;&#x430;&#x442;&#x435;&#x433;&#x438;&#x44F;</a>
+        </p>
+        <p><a href="../../metashkola/rozvitok-ekosistem/">&#x41F;&#x430;&#x440;&#x442;&#x43D;&#x435;&#x440;&#x441;&#x442;&#x432;&#x43E; &#x438; &#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x44D;&#x43A;&#x43E;&#x441;&#x438;&#x441;&#x442;&#x435;&#x43C;</a>
+        </p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Impact UA</td>
+      <td style="text-align:left">
+        <p>Impact UA - &#x42D;&#x43A;&#x43E;&#x441;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x430;
+          <br
+          />&#x41C;&#x435;&#x442;&#x430;&#x438;&#x433;&#x440;&#x430; / Pacemakers</p>
+        <p>&#x41C;&#x435;&#x442;&#x430;&#x448;&#x43A;&#x43E;&#x43B;&#x430; - Edtech</p>
+        <p>&#x424;&#x43E;&#x43D;&#x434;</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Topics</td>
+      <td style="text-align:left">
+        <p>&#x41A;&#x43E;&#x43B;&#x43E;&#x43D;&#x438;&#x437;&#x430;&#x446;&#x438;&#x44F;
+          &#x41C;&#x430;&#x440;&#x441;&#x430;</p>
+        <p>&#x421;&#x43E;&#x446;&#x438;&#x443;&#x43C;/&#x43E;&#x431;&#x449;&#x435;&#x441;&#x442;&#x432;&#x43E;</p>
+        <p>&#x41A;&#x440;&#x430;&#x443;&#x434;&#x444;&#x430;&#x43D;&#x434;&#x438;&#x43D;&#x433;</p>
+        <p>&#x422;&#x440;&#x430;&#x43D;&#x441;&#x433;&#x443;&#x43C;&#x430;&#x43D;&#x438;&#x437;&#x43C;</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">SDG</td>
+      <td style="text-align:left">
+        <p>#3 Good Health &amp; Well-being</p>
+        <p>#4 Quality Education</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 [https://impactua.org/metaschool](https://impactua.org/metaschool)
 
