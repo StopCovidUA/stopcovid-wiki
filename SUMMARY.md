@@ -72,7 +72,7 @@
   * [Меташкола \(Events/workshop...\)](volonteram/shkola/metashkola-events-workshop.md)
   * [19.05](volonteram/shkola/19.05.md)
 * [Реінкубатор](volonteram/evolyuciya-organizacii/README.md)
-  * [Future Group](volonteram/evolyuciya-organizacii/future-group.md)
+  * [Талант паспорт](volonteram/evolyuciya-organizacii/talant-pasport.md)
   * [Воркшоп "стратегическая сессия"](volonteram/evolyuciya-organizacii/vorkshop-strategicheskaya-sessiya.md)
   * [StopCovidUA Bot / Platform](volonteram/evolyuciya-organizacii/operatoram-stopcovidua-bot.md)
   * [23.04](volonteram/evolyuciya-organizacii/23.04.md)
@@ -202,9 +202,4 @@
 * [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
 * [Школам та вишам](vrazlivi-verstvi-naselennya/udalennoe-i-onlain-obrazovanie.md)
 * [Екологія](vrazlivi-verstvi-naselennya/ekologiya.md)
-
----
-
-* [Untitled](untitled.md)
-* [ТАЛАНТ ПАСПОРТ](talant-pasport.md)
 
