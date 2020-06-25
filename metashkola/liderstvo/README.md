@@ -1,5 +1,13 @@
 # Лидерство
 
+## Темы
+
+\#информирование [Подача информации](https://wiki.impactua.org/metashkola/liderstvo/27.05#aleks-chto-zakhodit-a-chto-net) / [Как улучшить донесение задачи организации для новичков](https://wiki.impactua.org/metashkola/liderstvo/03.06#viktoriya-kak-uluchshit-donesenie-zadachi-organizacii-dlya-novichkov)
+
+\#культура [Как убрать стыд?](https://wiki.impactua.org/metashkola/liderstvo/27.05#maks-kak-ubrat-styd)
+
+\#организация [Самое сложное при работе с командами](https://wiki.impactua.org/metashkola/liderstvo/27.05#maks-samoe-slozhnoe-pri-rabote-s-komandami) / [Какие потребности стоят за лидерством в плоских организациях?](https://wiki.impactua.org/metashkola/liderstvo/03.06#lilya-kakie-potrebnosti-stoyat-za-liderstvom-v-ploskikh-organizaciyakh) / [Как сделать правильно самоорг. сообщество](https://wiki.impactua.org/metashkola/liderstvo/10.06#aleks-kak-sdelat-pravilno-samoorg-soobshestvo) / Каким образом лидеру мотивировать команду ради большой и недостижимой цели/ Формирование общей идеи
+
 ## Levels
 
 1. Enacting membership or being among org body
