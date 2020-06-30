@@ -72,8 +72,8 @@
   * [Меташкола \(Events/workshop...\)](volonteram/shkola/metashkola-events-workshop.md)
   * [19.05](volonteram/shkola/19.05.md)
 * [Реінкубатор](volonteram/evolyuciya-organizacii/README.md)
-  * [Талант паспорт](volonteram/evolyuciya-organizacii/talant-pasport.md)
   * [Воркшоп "стратегическая сессия"](volonteram/evolyuciya-organizacii/vorkshop-strategicheskaya-sessiya.md)
+  * [Талант паспорт](volonteram/evolyuciya-organizacii/talant-pasport.md)
   * [StopCovidUA Bot / Platform](volonteram/evolyuciya-organizacii/operatoram-stopcovidua-bot.md)
   * [23.04](volonteram/evolyuciya-organizacii/23.04.md)
   * [29.04](volonteram/evolyuciya-organizacii/29.04.md)
@@ -81,6 +81,7 @@
   * [06.05](volonteram/evolyuciya-organizacii/06.05.md)
   * [Incubator 13.05](volonteram/evolyuciya-organizacii/incubator-13.05.md)
 * [Метафонд](volonteram/metafond.md)
+* [Impact Cosmos](volonteram/impact-cosmos.md)
 
 ## Меташкола
 
