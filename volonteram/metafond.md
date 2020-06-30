@@ -8,23 +8,6 @@
 * создать х новый крутых предприятий
 * подстраховать МСБ от форс мажора
 
-## Идеи
-
-* Глобальная интеграция
-  * Глобальные цели \(SDG\)
-  * Глобальные ценности
-  * Глобальный закон
-* Посткапитализм
-  * UBI
-  * Максимизация счастья
-  * Бирюза + \#працювати по новому
-  * [DAO Fund](https://mainnet.aragon.org/#/buidl/0x3c367ee397c1a21a98cebe06d19a2ce6bf69f1c0/)
-* Цифровая демократия
-  * Blockchain
-  * Счастье на 40% состоит из выбора
-  * Board represents all stakeholders
-  * Being harder to corrupt
-
 ## Канали комунікації
 
 * [Первая версия бюджета](https://docs.google.com/spreadsheets/d/10zf30tMIWtH8CwGDVPshdlkLQ_FVWMKNNegQwspkfc4/edit#gid=0)
@@ -79,4 +62,27 @@ Building a system on the outlying principles will not only run into the misunder
 As a summary, distributed governance is an evolution proposal and experiment. Forward-thinking parties start to try it out with some success. Though there’s not a lot of well-known and clear results that can be taken into comparison with many long-living centralized systems.
 
 Only research and experiment in this sphere and only after some time can move the global perspective to adopt distributed governance. Clearly, this will produce mistakes and criticism, but it’s a natural way to learn.
+
+## Идеи
+
+* Глобальная интеграция
+  * Глобальные цели \(SDG\)
+  * Глобальные ценности
+  * Глобальный закон
+* Посткапитализм
+  * UBI
+  * Максимизация счастья
+  * Бирюза + \#працювати по новому
+  * [DAO Fund](https://mainnet.aragon.org/#/buidl/0x3c367ee397c1a21a98cebe06d19a2ce6bf69f1c0/)
+* Цифровая демократия
+  * Blockchain
+  * Счастье на 40% состоит из выбора
+  * Board represents all stakeholders
+  * Being harder to corrupt
+
+### Рейтинг инициатив по эффективности вложений
+
+Сейчас происходит много сборов денег, но трудно сказать что лучше закупать СИЗ или ИВЛ. В какие области и как. Стоит потратить на еду чтобы пожилые люди не выходили и избежать затрат на госпитализацию или помочь врачам. Есть такой сайт [https://www.givewell.org/](https://www.givewell.org/) который мониторит эффективность инициатив по выхлопу на вложенный доллар. Возможно мы могли бы сделать что-то такое.
+
+Лимит по участию в акциях
 

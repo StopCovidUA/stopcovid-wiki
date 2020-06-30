@@ -57,6 +57,7 @@ We have no employees. We only have business partners. We don't work, we create.
 * Сделать совместные проекты с каждым из сообществ - типа консультационное сессии
 * Повторяющаяся структура
 * Подготовить инструкцию типа франшиза
+* Ройалти за разработки и программы
 
 ### Малі самоорганізовані команди
 
@@ -83,8 +84,6 @@ New teams at all three companies emerge in an organic manner, initiated by entre
 * Если кто-то нужен - делаешь пост в фейсбуке мы его репостим
 * Ментор: Коммуникации 20 имён которые нам нужно найти
 * ...
-
-## 
 
 ## Maturity Level & Development Plan
 
@@ -225,15 +224,6 @@ Let’s say these 5 functions which comprise the administration had within them 
 * Чемпионат по кибериграм среди звезд
 * Обучение психологов кризисному консультированию
 
-### Рейтинг инициатив по эффективности вложений
-
-Сейчас происходит много сборов денег, но трудно сказать что лучше закупать СИЗ или ИВЛ. В какие области и как. Стоит потратить на еду чтобы пожилые люди не выходили и избежать затрат на госпитализацию или помочь врачам. Есть такой сайт [https://www.givewell.org/](https://www.givewell.org/) который мониторит эффективность инициатив по выхлопу на вложенный доллар. Возможно мы могли бы сделать что-то такое.
-
-## Радники
-
-* dgov foundation
-* Rickard Falkvinge
-
 ## Идеи
 
 * [https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19?fbclid=IwAR3LssTJIa49qbxsfgthz4SyWAnUEtPFfo-rE71isFL5AN4\_7YKSNEMiWUI](https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19?fbclid=IwAR3LssTJIa49qbxsfgthz4SyWAnUEtPFfo-rE71isFL5AN4_7YKSNEMiWUI)
@@ -288,6 +278,8 @@ Let’s say these 5 functions which comprise the administration had within them 
 * Инвестиционная стратегия как у Нобелевского фонда
 * VC chatroom
 * Психолог на команду
+* dgov foundation
+* Rickard Falkvinge
 * Запрограмить первые 5 воркшопов
 * Заинтересовать общественность тогда придут деньги
 * Taiwan’s success has rested on a fusion of technology, activism, and civic participation.
