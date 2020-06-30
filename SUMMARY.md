@@ -174,6 +174,7 @@
 ## SDG 4 Quality Education
 
 * [Стратегія](sdg-4-quality-education/strategiya.md)
+* [Конституція України для всіх і для кожного \(в коміксах\)](sdg-4-quality-education/konstituciya-ukrayini-dlya-vsikh-i-dlya-kozhnogo-v-komiksakh.md)
 
 ## SDG 8 Decent work & Economic growth
 
