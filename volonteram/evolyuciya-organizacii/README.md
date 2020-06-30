@@ -275,6 +275,7 @@ Let’s say these 5 functions which comprise the administration had within them 
 * [https://leader-id.ru/points/](https://leader-id.ru/points/)
 * Инвестиционная стратегия как у Нобелевского фонда
 * VC chatroom
+* 2х недельная акселерацмонная программа для команд
 * Психолог на команду
 * dgov foundation
 * Rickard Falkvinge
