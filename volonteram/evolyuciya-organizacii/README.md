@@ -1,25 +1,36 @@
 # Реінкубатор
 
-## Мета
+Reincubator – это организация, занимающаяся поддержкой общественных движений и сообществ на всех этапах развития.
 
-* Глобальная интеграция
-  * Глобальные цели \(SDG\)
-  * Глобальные ценности
-  * Глобальный закон
-* Посткапитализм
-  * UBI
-  * Максимизация счастья
-  * Бирюза + \#працювати по новому
-  * [DAO Fund](https://mainnet.aragon.org/#/buidl/0x3c367ee397c1a21a98cebe06d19a2ce6bf69f1c0/)
-* Цифровая демократия
-  * Blockchain
-  * Счастье на 40% состоит из выбора
-  * Board represents all stakeholders
-  * Being harder to corrupt
+### Ideas
+
+* VCs are broken: [we need more Zebras, than Unicorns](https://www.entrepreneur.com/article/322407)
+* Traction first: story, emotions, brand and community before the product
+* Real collaborative work with peers, investors and advisors
+* [Социальное предпринимательство](https://wiki.reincubator.org/metacommunity/baza-znanii-po-km/monetizaciya-soobshestv#socialnoe-predprinimatelstvo)
+* В обычной команде все должны быть заняты, нет места инновации. Нужна команда-сообщество \(100+ человек\)
+* Работаем над тем чтобы у сообщества появилось новое умение
+* Вместе пишем историю, метанаратив, мифологему
 
 ## Проекты
 
+* Metacommunity – сообщество комьюнити менеджеров, лидеров соц движений и строителей экосистем
+* [TED x Action](https://t.me/tedxaction) – движение направленное на реализацию идей и развитие сообщества TED
+* Teal ua – создаем бирюзовую Украину
+* BUIDL ua – развиваем украинские блокчейн продукты
+* [\#StopCovid](https://stopcovid.org.ua/) – Волонтерський рух по зупинці епідемії коронавірусу в Україні
+* [\#dgov foundation](https://dgov.foundation/) – connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
+
 {% embed url="https://airtable.com/shr4XY0JwCdfnf8nj" %}
+
+## Команда
+
+We have no employees. We only have business partners. We don't work, we create.
+
+* [Макс Семенчук](https://www.facebook.com/max.semenchuk)
+* [Сая Жайсанбаева](https://www.facebook.com/jansayajaisanbaeva)
+* [Диана Даюб](https://www.facebook.com/diana.dayub)
+* [Дим Заражевский](https://www.facebook.com/Zarazhevsky)
 
 ## Воркшопы
 
@@ -61,38 +72,6 @@ Building a system on the outlying principles will not only run into the misunder
 As a summary, distributed governance is an evolution proposal and experiment. Forward-thinking parties start to try it out with some success. Though there’s not a lot of well-known and clear results that can be taken into comparison with many long-living centralized systems.
 
 Only research and experiment in this sphere and only after some time can move the global perspective to adopt distributed governance. Clearly, this will produce mistakes and criticism, but it’s a natural way to learn.
-
-## Канали комунікації
-
-* [\#finance](https://discord.gg/yq5WV7p)
-* [Доска запросов на фаднинг](https://trello.com/b/fCpPgkFh/funding)
-
-## Финансирование
-
-Полезные проекты получают финансирование. Мы не просим с людей деньги, мы торгуем и делаем бизнес.
-
-* Расширить информационные кампании
-* Внутренние гранты на обучение
-* Сервисы типа коучинга, психологи
-* Стажировки для молодых 
-* Мотивация и поощрения командам
-* Инфраструктура \(например тот же сайт сделать\)
-* Медицинские страховки
-* Сид фандинг внутренних стартапов
-
-## Внутренние продукты, сервисы и воркшопы
-
-* Страт сессия
-* Сессия дизайн мышления / продукт
-* Переводы
-* Психологическая конльсутация
-* Креативный воркшоп
-* Аджайл спринт
-* NVC сессия
-* Коучинг
-* Менторинг
-* Мастермайнд
-* Фандинг аппликейшен
 
 ## Організаційна структура
 
