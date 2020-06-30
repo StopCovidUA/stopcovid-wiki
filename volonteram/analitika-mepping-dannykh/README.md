@@ -208,6 +208,7 @@
 * [https://global-ukraine.com/](https://global-ukraine.com/) + 
 * Мила Кунис, Чак Паланик и др креативные украинцы 
 * Форум по целям SDG
+* Вечеринки везде где были волонтеры
 
 ![](../../.gitbook/assets/image%20%28130%29.png)
 
