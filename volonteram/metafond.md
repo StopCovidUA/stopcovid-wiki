@@ -88,4 +88,5 @@ Only research and experiment in this sphere and only after some time can move th
 * Лимит по участию в акциях
 * 100 млрд - глобальные шейперы
 * Делать то что нужно нам с ресурсами союза
+* 100 млрд дол - бюджет решения целей устойчивого развития
 

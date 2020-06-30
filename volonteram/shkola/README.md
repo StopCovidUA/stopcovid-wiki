@@ -4,7 +4,7 @@ description: >-
   екосистеми Impact UA.
 ---
 
-# Меташкола
+# Меташкола / Think Tank
 
 ## Ціль 
 
@@ -105,4 +105,22 @@ description: >-
 {% file src="../../.gitbook/assets/fulltext01 \(1\).pdf" caption="Popular Education Power & Democracy" %}
 
 {% embed url="https://vimeo.com/77511311" %}
+
+![](../../.gitbook/assets/image%20%28133%29.png)
+
+![](../../.gitbook/assets/image%20%28132%29.png)
+
+![](../../.gitbook/assets/image%20%28135%29.png)
+
+![](../../.gitbook/assets/image%20%28136%29.png)
+
+![](../../.gitbook/assets/image%20%28138%29.png)
+
+![](../../.gitbook/assets/image%20%28137%29.png)
+
+![](../../.gitbook/assets/image%20%28134%29.png)
+
+![](../../.gitbook/assets/image%20%28131%29.png)
+
+{% file src="../../.gitbook/assets/gef\_educationalsystemsforsocietaltransformation\_report-1-.pdf" %}
 
