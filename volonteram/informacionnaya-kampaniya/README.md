@@ -147,6 +147,7 @@ description: Жизнь это игра
 * Долучити Дена \(ЕКЦ\) до stopcovid
 * Future Backwards / от разных сообществ
 * Design force
+* Ментора подбирать под цель
 * Нативные проекты с рекламными бюджетами
 * [https://didtheyhelp.com/](https://didtheyhelp.com/?fbclid=IwAR18pBwbTOfCnO0KfDJvGo5_fNrW0MTKoKRy449zgUuYfaBOrKwzIKwa0AM)
 * Креативные школы - Берите наши кейсы для генерации результатов
