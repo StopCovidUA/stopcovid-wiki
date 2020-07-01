@@ -94,6 +94,7 @@
   * [29.05](metashkola/kommunikaciya/29.05.md)
   * [05.06](metashkola/kommunikaciya/05.06.md)
   * [12.06](metashkola/kommunikaciya/12.06.md)
+  * [03.07](metashkola/kommunikaciya/03.07.md)
 * [Лидерство](metashkola/liderstvo/README.md)
   * [27.05](metashkola/liderstvo/27.05.md)
   * [03.06](metashkola/liderstvo/03.06.md)
