@@ -28,7 +28,7 @@
 * Медицинские страховки
 * Сид фандинг внутренних стартапов
 
-![\(c\) &#x41F;&#x430;&#x432;&#x43B;&#x43E; &#x420;&#x438;&#x436;&#x438;&#x439;](../.gitbook/assets/image%20%28129%29.png)
+![\(c\) &#x41F;&#x430;&#x432;&#x43B;&#x43E; &#x420;&#x438;&#x436;&#x438;&#x439; CICE Institute http://cice.institute/ ](../.gitbook/assets/image%20%28129%29.png)
 
 ## Tasks & Challenges <a id="d556"></a>
 
