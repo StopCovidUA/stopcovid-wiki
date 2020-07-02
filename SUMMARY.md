@@ -117,6 +117,7 @@
   * [18.06](metashkola/rozvitok-ekosistem/18.06.md)
 * [Edtech](metashkola/edtech/README.md)
   * [25.06](metashkola/edtech/25.06.md)
+  * [02.07](metashkola/edtech/02.07.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
 
