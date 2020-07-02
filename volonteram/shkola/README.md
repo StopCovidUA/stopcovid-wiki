@@ -124,3 +124,5 @@ description: >-
 
 {% file src="../../.gitbook/assets/gef\_educationalsystemsforsocietaltransformation\_report-1-.pdf" %}
 
+{% file src="../../.gitbook/assets/forum-dlia-liudei-web.pdf" %}
+
