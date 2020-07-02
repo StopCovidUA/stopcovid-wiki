@@ -126,3 +126,5 @@ description: >-
 
 {% file src="../../.gitbook/assets/forum-dlia-liudei-web.pdf" %}
 
+{% file src="../../.gitbook/assets/gcmx-manual.pdf" %}
+
