@@ -18,3 +18,5 @@
 | [Метафонд](metafond.md) | Фондування | DAO-Ендаумент |
 | [Impact Cosmos](impact-cosmos.md) | Розвиток зовнішної екосистеми | ? |
 
+{% file src="../.gitbook/assets/vnr-sdg-ukraine-2020.pdf" %}
+
