@@ -74,7 +74,7 @@
   * [Ідеї для меташколи](volonteram/shkola/ideyi-dlya-metashkoli.md)
   * [Меташкола \(Events/workshop...\)](volonteram/shkola/metashkola-events-workshop.md)
   * [19.05](volonteram/shkola/19.05.md)
-* [Реінкубатор](volonteram/evolyuciya-organizacii/README.md)
+* [Re:incubator](volonteram/evolyuciya-organizacii/README.md)
   * [Воркшопы](volonteram/evolyuciya-organizacii/vorkshop-strategicheskaya-sessiya.md)
   * [Талант паспорт](volonteram/evolyuciya-organizacii/talant-pasport.md)
   * [23.04](volonteram/evolyuciya-organizacii/23.04.md)
