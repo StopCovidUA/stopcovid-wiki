@@ -301,6 +301,7 @@ Let’s say these 5 functions which comprise the administration had within them 
 * Запрограмить первые 5 воркшопов
 * Заинтересовать общественность тогда придут деньги
 * Показать полноту команды по типажам
+* 1991 подключить
 * [http://www.socionics.com/rel/relcht.htm](http://www.socionics.com/rel/relcht.htm) – matching between sociotypes
 * Taiwan’s success has rested on a fusion of technology, activism, and civic participation.
   * Булавинова
