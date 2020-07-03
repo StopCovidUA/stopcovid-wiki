@@ -20,3 +20,7 @@
 
 {% file src="../.gitbook/assets/vnr-sdg-ukraine-2020.pdf" %}
 
+## Идеи
+
+* Выделить и описать бренд как продукт
+
