@@ -1,4 +1,4 @@
-# StopCovidUA Bot / Platform
+# Bot / Platform
 
 | Параметр | Измерение | Сейчас | Цель |
 | :--- | :--- | :--- | :--- |
