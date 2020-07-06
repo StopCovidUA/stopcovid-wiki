@@ -49,6 +49,7 @@
   * [15.06 Онбординг](volonteram/analitika-mepping-dannykh/15.06.md)
   * [15.06](volonteram/analitika-mepping-dannykh/15.06-1.md)
   * [22.06](volonteram/analitika-mepping-dannykh/22.06.md)
+  * [06.07](volonteram/analitika-mepping-dannykh/06.07.md)
 * [Метагра](volonteram/informacionnaya-kampaniya/README.md)
   * [Ментальное здоровье сообщество](volonteram/informacionnaya-kampaniya/mentalnoe-zdorove-soobshestvo.md)
   * [Bot / Platform](volonteram/informacionnaya-kampaniya/operatoram-stopcovidua-bot.md)
