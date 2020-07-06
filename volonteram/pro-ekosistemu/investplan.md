@@ -11,5 +11,11 @@
 
 ## Сообщества
 
+{% embed url="https://airtable.com/shr2zUPEKduwboEcr" %}
+
 Коммьюнити менеджер – Спонсорство редактору Вики/ сообщество - $500
+
+## Ideas
+
+* Network shares
 
