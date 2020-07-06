@@ -8,7 +8,7 @@
 4. Hosting executive. level partnerships relations 
 5. Making new institutions of partnership
 
-## Topics
+## 
 
 Including, but not limited to
 
