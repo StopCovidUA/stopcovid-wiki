@@ -185,6 +185,7 @@ description: Жизнь это игра
 * Подбор групп по тегам и частоте в интерфейсе
 * [https://forum.hyperlink.academy/t/andy-milenius/22](https://forum.hyperlink.academy/t/andy-milenius/22)
 * [https://hyperlink.academy/](https://hyperlink.academy/)
+* [http://worrydream.com/refs/Papert%20-%20Mindstorms%201st%20ed.pdf](http://worrydream.com/refs/Papert%20-%20Mindstorms%201st%20ed.pdf)
 
 ![](../../.gitbook/assets/frame-38.png)
 
