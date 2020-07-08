@@ -120,6 +120,10 @@ description: Freedom is out religion
 * Вакансии / задачи
 * Цепочка писем онбординга
 
+### Conflict Resolution
+
+> Hi! Sorry to see the escalation and latest developments. I’d like to offer a call with us three if you are open to this. For making us feel as comfortable as possible, I suggest it’s three of us and if necessary you name a person you would like to include in the conversation additionally for your own support and feeling of safety. Same message is being forwarded to Grace/Liliana. Once i receive consent from both, i’ll propose date and time for a call.
+
 ## Идеи
 
 * [https://thelobbyx.com/](https://thelobbyx.com/)
