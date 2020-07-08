@@ -104,4 +104,7 @@ Only research and experiment in this sphere and only after some time can move th
 * Люди голосуют за людей под UBI
 * Краудфандинг - вакансии инвесторов $1000
 * Группа по импакт инвеситрованию
+* Биткоин 120 млрд
+* Рей Далио 200 млрд
+* Уорен Баффет 400 млрд
 
