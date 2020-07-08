@@ -47,7 +47,8 @@ description: >-
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">&#x41C;&#x435;&#x43D;&#x435;&#x434;&#x436;&#x43C;&#x435;&#x43D;&#x442;</td>
+      <td style="text-align:left">&#x428;&#x43A;&#x43E;&#x43B;&#x430;
+        <br />&#x43F;&#x440;&#x435;&#x434;&#x43F;&#x440;&#x438;&#x43D;&#x438;&#x43C;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x442;&#x432;&#x430;</td>
       <td
       style="text-align:left">
         <p><a href="../../metashkola/kommunikaciya/">&#x41A;&#x43E;&#x43C;&#x43C;&#x443;&#x43D;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x44F;</a>
