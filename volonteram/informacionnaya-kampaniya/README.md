@@ -183,6 +183,8 @@ description: Жизнь это игра
 * Знакомство добавляют лайки
 * Бюджет на команду разработки игры
 * Подбор групп по тегам и частоте в интерфейсе
+* [https://forum.hyperlink.academy/t/andy-milenius/22](https://forum.hyperlink.academy/t/andy-milenius/22)
+* [https://hyperlink.academy/](https://hyperlink.academy/)
 
 ![](../../.gitbook/assets/frame-38.png)
 
