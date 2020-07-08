@@ -30,6 +30,14 @@
 
 ![\(c\) &#x41F;&#x430;&#x432;&#x43B;&#x43E; &#x420;&#x438;&#x436;&#x438;&#x439; CICE Institute http://cice.institute/ ](../.gitbook/assets/image%20%28129%29.png)
 
+## Советники <a id="d556"></a>
+
+* Павло Рыжий
+* Алексей Чуев
+* Антон Шулык
+* Демьян Ом
+* Свят Святненко
+
 ## Tasks & Challenges <a id="d556"></a>
 
 ### The Tyranny of Structurelessness <a id="e76e"></a>
@@ -94,4 +102,6 @@ Only research and experiment in this sphere and only after some time can move th
 * Аппау, бизнес100 партнеры по организации
 * Питчить импакт юа как стартап \(+awareness инвесторов\)
 * Люди голосуют за людей под UBI
+* Краудфандинг - вакансии инвесторов $1000
+* Группа по импакт инвеситрованию
 
