@@ -4,3 +4,11 @@
 2. Ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university
 3. Avoid gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable
 
+## SDG Ideathon
+
+Развитие детей как предпринимателей
+
+![](../.gitbook/assets/image%20%28142%29.png)
+
+
+

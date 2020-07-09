@@ -118,10 +118,10 @@
   * [04.06 Колаборация между сообществами.Как повысить активность участников.Где собирать обратную связь](metashkola/rozvitok-ekosistem/04.06.md)
   * [11.06](metashkola/rozvitok-ekosistem/11.06.md)
   * [18.06](metashkola/rozvitok-ekosistem/18.06.md)
-* [Edtech: Як команди та люди набувають компетенції](metashkola/edtech-yak-komandi-ta-lyudi-nabuvayut-kompetenciyi.md)
 * [Edtech](metashkola/edtech/README.md)
   * [25.06](metashkola/edtech/25.06.md)
   * [02.07](metashkola/edtech/02.07.md)
+  * [09.07](metashkola/edtech/09.07.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
 
