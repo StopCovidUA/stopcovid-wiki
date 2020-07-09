@@ -9,7 +9,6 @@
 
 * [Про екосистему](volonteram/pro-ekosistemu/README.md)
   * [08/07 Финальное обсуждение Business Model Canvas сообщества](volonteram/pro-ekosistemu/08-07-finalnoe-obsuzhdenie-business-model-canvas-soobshestva.md)
-  * [Untitled](volonteram/pro-ekosistemu/untitled.md)
   * [Инвестплан](volonteram/pro-ekosistemu/investplan.md)
 * [Креативні Українці](volonteram/analitika-mepping-dannykh/README.md)
   * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
