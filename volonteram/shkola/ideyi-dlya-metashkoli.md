@@ -349,7 +349,15 @@
 * [https://www.perts.net/](https://www.perts.net/)
 * [http://metanoia.mba/](http://metanoia.mba/)
 
+![](../../.gitbook/assets/image%20%2854%29.png)
+
+
+
 ![](../../.gitbook/assets/image%20%2834%29.png)
+
+
+
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 ![](../../.gitbook/assets/image%20%28125%29.png)
 
