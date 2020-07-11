@@ -105,6 +105,9 @@ Only research and experiment in this sphere and only after some time can move th
 * Краудфандинг - вакансии инвесторов $1000
 * Группа по импакт инвеситрованию
 * Биткоин 120 млрд
-* Рей Далио 200 млрд
-* Уорен Баффет 400 млрд
+* Рей Далио [Bridgewater Associates](https://ru.wikipedia.org/wiki/Bridgewater_Associates) $200 млрд
+* Уорен Баффет [Berkshire Hathaway](https://ru.wikipedia.org/wiki/Berkshire_Hathaway) $400 млрд
+* Джефф Безос Состояние: $113 млрд
+* Билл Гейтс Состояние: $98 млрд
+* Инвестиционная стратегия как у Нобелевского фонда
 

@@ -292,8 +292,8 @@ Let’s say these 5 functions which comprise the administration had within them 
 * [https://medium.com/dgov/what-is-distributed-governance-3b103eb082c0](https://medium.com/dgov/what-is-distributed-governance-3b103eb082c0)
 * Metacartel
 * [https://leader-id.ru/points/](https://leader-id.ru/points/)
-* Инвестиционная стратегия как у Нобелевского фонда
 * VC chatroom
+* [https://socialenterpriseinstitute.co/](https://socialenterpriseinstitute.co/)
 * Скрам мастер
 * 2х недельная акселерацмонная программа для команд
 * Психолог на команду
