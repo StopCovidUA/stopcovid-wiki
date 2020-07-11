@@ -344,6 +344,9 @@
 * Метаконференция
 * Культурные хабы - партнеры местные для мастермайнд
 * Dot Collector
+* [https://u.university/](https://u.university/)
+* [https://www.mindsetworks.com/](https://www.mindsetworks.com/)
+* [https://www.perts.net/](https://www.perts.net/)
 
 ![](../../.gitbook/assets/image%20%2834%29.png)
 
