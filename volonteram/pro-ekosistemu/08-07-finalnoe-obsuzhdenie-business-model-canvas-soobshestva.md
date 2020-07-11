@@ -1,6 +1,6 @@
 # 08/07 Финальное обсуждение Business Model Canvas сообщества
 
-
+{% embed url="https://youtu.be/xHMTU0JFp10" %}
 
 {% hint style="info" %}
 ❇️**Вопросы которые обсудили:**  

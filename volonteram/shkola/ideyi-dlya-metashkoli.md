@@ -347,6 +347,7 @@
 * [https://u.university/](https://u.university/)
 * [https://www.mindsetworks.com/](https://www.mindsetworks.com/)
 * [https://www.perts.net/](https://www.perts.net/)
+* [http://metanoia.mba/](http://metanoia.mba/)
 
 ![](../../.gitbook/assets/image%20%2834%29.png)
 
