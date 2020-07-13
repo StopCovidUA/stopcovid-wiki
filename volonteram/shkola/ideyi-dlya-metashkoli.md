@@ -232,6 +232,7 @@
 * [https://designbundles.net/premium-logos/227361-mind-logo](https://designbundles.net/premium-logos/227361-mind-logo)
 * Closed groups can be paid
 * С инвесторами коллабить идеи
+* Менторы из выпускников / заменяют по пирамидке
 * Чтобы участвовать в мастермайнде – донейтишь на гивете
 * Conflict DJ
 * Сделать самую большую мастермайнд сессию
