@@ -223,3 +223,7 @@
 * [Школам та вишам](vrazlivi-verstvi-naselennya/udalennoe-i-onlain-obrazovanie.md)
 * [Екологія](vrazlivi-verstvi-naselennya/ekologiya.md)
 
+## SDG 7 Affordable and Clean Energy
+
+* [Ideas](sdg-7-affordable-and-clean-energy/ideas.md)
+
