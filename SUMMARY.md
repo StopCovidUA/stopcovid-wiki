@@ -207,6 +207,10 @@
   * [Підбірка безкоштовних ресурсів від Київської школи економіки](biznes/untitled/pidbirka-bezkoshtovnikh-resursiv-vid-kiyivskoyi-shkoli-ekonomiki.md)
   * [Серія вебінарів «Бізнес VS Криза» від Львівської бізнес-школи](biznes/untitled/seriya-vebinariv-biznes-vs-kriza-vid-lvivskoyi-biznes-shkoli.md)
 
+## SDG 10 Reduced Inequalities
+
+* [Ideas](sdg-10-reduced-inequalities/ideas.md)
+
 ## SDG 11 Sustainable Cities and Communities <a id="vrazlivi-verstvi-naselennya"></a>
 
 * [Стратегія](vrazlivi-verstvi-naselennya/strategiya.md)
