@@ -30,7 +30,11 @@ Mar 12 – ongoing...
 
 #### How many people did your Hub reach through the project directly and indirectly?
 
-
+* ~50k views
+* ~400 volunteers engaged
+* ~$11-35k raised
+* \(audience of elders project\)
+* \(audience of med project\)
 
 #### How many Shapers participated in the project?
 
@@ -38,7 +42,7 @@ Mar 12 – ongoing...
 
 #### How many people are still benefiting from the project today?
 
-
+~5000
 
 [IO - Project Tracker Template.pptx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17cccb74-e671-4d0e-934c-2d26da3766d4/IO_-_Project_Tracker_Template.pptx)
 
