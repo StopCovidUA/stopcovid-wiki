@@ -22,8 +22,10 @@ Mar 12 – ongoing...
 
 ### What actions/activities did your Hub take?
 
-* * Organization and partnerships across 2 city coordination centers
-* 
+* Kyiv office 1
+* Kyiv office 2
+* Media publication
+
 ### What kind of an impact did these actions/activities had on the target population? If you can, try to answer specific questions like:
 
 #### How many people did your Hub reach through the project directly and indirectly?
