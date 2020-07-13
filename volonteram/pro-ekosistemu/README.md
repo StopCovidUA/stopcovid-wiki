@@ -7,6 +7,8 @@
 
 ![https://miro.com/app/board/o9J\_krphSr0=/](../../.gitbook/assets/image%20%28139%29.png)
 
+![](../../.gitbook/assets/image%20%28143%29.png)
+
 {% file src="../../.gitbook/assets/vnr-sdg-ukraine-2020.pdf" %}
 
 ## Органи
