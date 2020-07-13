@@ -195,6 +195,8 @@ Let’s say these 5 functions which comprise the administration had within them 
 * Таблеточки как пример/адвайзор
 * Разные горизонты планирования - разный размер анализа \(страна, регион, мир\)
 * Разные сценарии для стратегии
+* [http://www.cloudwatcher.ru/](http://www.cloudwatcher.ru/)
+* [https://te-st.ru/](https://te-st.ru/)
 
 ## Координація
 
