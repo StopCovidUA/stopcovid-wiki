@@ -349,6 +349,7 @@
 * [https://www.mindsetworks.com/](https://www.mindsetworks.com/)
 * [https://www.perts.net/](https://www.perts.net/)
 * [http://metanoia.mba/](http://metanoia.mba/)
+* [https://impact-ua.canny.io/](https://impact-ua.canny.io/) – использовать для планирования классов
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
 
