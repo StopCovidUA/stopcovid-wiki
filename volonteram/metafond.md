@@ -112,4 +112,5 @@ Only research and experiment in this sphere and only after some time can move th
 * Джефф Безос Состояние: $113 млрд
 * Билл Гейтс Состояние: $98 млрд
 * Инвестиционная стратегия как у Нобелевского фонда
+* [https://beliive.com/](https://beliive.com/)
 
