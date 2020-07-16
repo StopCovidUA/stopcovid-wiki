@@ -187,6 +187,7 @@ description: Жизнь это игра
 * [https://hyperlink.academy/](https://hyperlink.academy/)
 * [http://worrydream.com/refs/Papert%20-%20Mindstorms%201st%20ed.pdf](http://worrydream.com/refs/Papert%20-%20Mindstorms%201st%20ed.pdf)
 * Измерять вклад относительно меня
+* Подарок за 3+ вовлечения
 
 ![](../../.gitbook/assets/frame-38.png)
 
