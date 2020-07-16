@@ -114,4 +114,5 @@ Only research and experiment in this sphere and only after some time can move th
 * Инвестиционная стратегия как у Нобелевского фонда
 * [https://beliive.com/](https://beliive.com/)
 * УкрИнвестКлуб
+* Подключить бюджет тил к импакт юа
 
