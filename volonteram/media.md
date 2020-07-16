@@ -20,5 +20,5 @@
 * [https://circle.so/](https://circle.so/)
 * Вебинары с экостстемными людьми
 
-![](../.gitbook/assets/image%20%28145%29.png)
+![](../.gitbook/assets/image%20%28147%29.png)
 

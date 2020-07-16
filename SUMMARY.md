@@ -159,6 +159,7 @@
   * [Psychology 07.04](medikam/psychological-support/psychology-07.04.md)
 * [Этичный трекинг](medikam/etitchnyi-treking.md)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
+* [Кампанія "Ти потрібен світові двома"](medikam/ty-nuzhen-miru-doma.md)
 * [coronavirus.co.ua](medikam/perekladacham/README.md)
   * [Tactical 04.05](medikam/perekladacham/tactical-04.05.md)
   * [Tactical 24.04](medikam/perekladacham/tactical-24.04.md)
@@ -176,6 +177,7 @@
   * [25.04](medikam/mibachimo/25.04.md)
 * [Системы тестирования](medikam/sistemy-testirovaniya.md)
 * [Донорство крови](medikam/donorstvo-krovi.md)
+* [Дерегуляція](medikam/spisok-regulyacii-meshayushikh-borbe-s-covid.md)
 * [Архів](medikam/arkhiv/README.md)
   * [Кампанія \#мистецтворятує](medikam/arkhiv/mistectvoryatuye/README.md)
     * [Communication](medikam/arkhiv/mistectvoryatuye/communication.md)
@@ -187,6 +189,7 @@
 ## SDG 4 Quality Education
 
 * [Стратегія](sdg-4-quality-education/strategiya.md)
+* [Школам та вишам](sdg-4-quality-education/udalennoe-i-onlain-obrazovanie.md)
 * [Конституція України для всіх і для кожного \(в коміксах\)](sdg-4-quality-education/konstituciya-ukrayini-dlya-vsikh-i-dlya-kozhnogo-v-komiksakh.md)
 
 ## SDG 7 Affordable and Clean Energy
@@ -196,13 +199,15 @@
 ## SDG 8 Decent work & Economic growth
 
 * [Стратегія](sdg-8-decent-work-and-economic-growth/strategiya.md)
+* [Карьерная помощь / антикризис](sdg-8-decent-work-and-economic-growth/hr-bezrabotica/README.md)
+  * [Tactical 08.04](sdg-8-decent-work-and-economic-growth/hr-bezrabotica/tactical-08.04.md)
+  * [Tactical 16.04](sdg-8-decent-work-and-economic-growth/hr-bezrabotica/tactical-15.04.md)
 
 ## SDG 9 Industry, Innovation and Infrastructure <a id="biznes"></a>
 
 * [Стратегія підтримкі економіки](biznes/biznesy.md)
 * [Імпакт фонд](biznes/impakt-fond/README.md)
   * [Список компаний которые поддержали борьбу с covid-19](biznes/impakt-fond/spisok-kompanii-kotorye-podderzhali-borbu-s-covid-19.md)
-* [Дерегуляція](biznes/spisok-regulyacii-meshayushikh-borbe-s-covid.md)
 * [Технологічні рішення](biznes/it-ta-inzheneram/README.md)
   * [Tech Tactical 22.04](biznes/it-ta-inzheneram/tech-tactical-22.04.md)
   * [Tech Tactical 01.04](biznes/it-ta-inzheneram/tactical-01.04.md)
@@ -221,13 +226,7 @@
 
 * [Стратегія](vrazlivi-verstvi-naselennya/strategiya.md)
 * [Громадянам](vrazlivi-verstvi-naselennya/gromadyani.md)
-* [Карьерная помощь / антикризис](vrazlivi-verstvi-naselennya/hr-bezrabotica/README.md)
-  * [Tactical 08.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-08.04.md)
-  * [Tactical 16.04](vrazlivi-verstvi-naselennya/hr-bezrabotica/tactical-15.04.md)
 * [Система логистики товаров](vrazlivi-verstvi-naselennya/sistema-logistiki.md)
-* [Кампанія "Ти потрібен світові двома"](vrazlivi-verstvi-naselennya/ty-nuzhen-miru-doma.md)
-* [Школам та вишам](vrazlivi-verstvi-naselennya/udalennoe-i-onlain-obrazovanie.md)
-* [Екологія](vrazlivi-verstvi-naselennya/ekologiya.md)
 
 ## SDG 12 Responsible Consumption and Production
 
