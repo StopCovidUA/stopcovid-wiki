@@ -189,6 +189,10 @@
 * [Стратегія](sdg-4-quality-education/strategiya.md)
 * [Конституція України для всіх і для кожного \(в коміксах\)](sdg-4-quality-education/konstituciya-ukrayini-dlya-vsikh-i-dlya-kozhnogo-v-komiksakh.md)
 
+## SDG 7 Affordable and Clean Energy
+
+* [Ideas](sdg-7-affordable-and-clean-energy/ideas.md)
+
 ## SDG 8 Decent work & Economic growth
 
 * [Стратегія](sdg-8-decent-work-and-economic-growth/strategiya.md)
@@ -225,7 +229,7 @@
 * [Школам та вишам](vrazlivi-verstvi-naselennya/udalennoe-i-onlain-obrazovanie.md)
 * [Екологія](vrazlivi-verstvi-naselennya/ekologiya.md)
 
-## SDG 7 Affordable and Clean Energy
+## SDG 12 Responsible Consumption and Production
 
-* [Ideas](sdg-7-affordable-and-clean-energy/ideas.md)
+* [Econetwork](sdg-12-responsible-consumption-and-production/econetwork.md)
 
