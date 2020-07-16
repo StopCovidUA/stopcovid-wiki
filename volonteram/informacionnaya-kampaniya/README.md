@@ -186,6 +186,7 @@ description: Жизнь это игра
 * [https://forum.hyperlink.academy/t/andy-milenius/22](https://forum.hyperlink.academy/t/andy-milenius/22)
 * [https://hyperlink.academy/](https://hyperlink.academy/)
 * [http://worrydream.com/refs/Papert%20-%20Mindstorms%201st%20ed.pdf](http://worrydream.com/refs/Papert%20-%20Mindstorms%201st%20ed.pdf)
+* Измерять вклад относительно меня
 
 ![](../../.gitbook/assets/frame-38.png)
 
