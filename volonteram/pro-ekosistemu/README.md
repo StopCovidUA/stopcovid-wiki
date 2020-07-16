@@ -75,6 +75,7 @@
 * Выделить и описать бренд как продукт
 * Показать систему как пирамиду / пищевую цепочку
 * Вкладывать в импакт юа в развитие людей
+* [https://docs.google.com/presentation/d/1XdhvR8LFJ4Jcqmy2qVjGaEyd5pvecDqe58w4hBXJTyU/edit\#slide=id.g8c4063bc49\_0\_72](https://docs.google.com/presentation/d/1XdhvR8LFJ4Jcqmy2qVjGaEyd5pvecDqe58w4hBXJTyU/edit#slide=id.g8c4063bc49_0_72)
 
 {% file src="../../.gitbook/assets/vnr-sdg-ukraine-2020-1-.pdf" %}
 
