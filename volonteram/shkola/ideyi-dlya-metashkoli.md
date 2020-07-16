@@ -351,6 +351,7 @@
 * [http://metanoia.mba/](http://metanoia.mba/)
 * [https://impact-ua.canny.io/](https://impact-ua.canny.io/) – использовать для планирования классов
 * [https://fireflies.ai/](https://fireflies.ai/)
+* KPI школы - баллы экспириенса
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
 
