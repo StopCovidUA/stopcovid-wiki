@@ -122,6 +122,7 @@
   * [04.06 Колаборация между сообществами.Как повысить активность участников.Где собирать обратную связь](metashkola/rozvitok-ekosistem/04.06.md)
   * [11.06](metashkola/rozvitok-ekosistem/11.06.md)
   * [18.06](metashkola/rozvitok-ekosistem/18.06.md)
+  * [16.07](metashkola/rozvitok-ekosistem/16.07.md)
 * [Edtech](metashkola/edtech/README.md)
   * [25.06](metashkola/edtech/25.06.md)
   * [02.07](metashkola/edtech/02.07.md)
