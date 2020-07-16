@@ -18,6 +18,7 @@
 * Пишут члены экосистемы \(визионеры из урбан спейс и тд\)
 * [https://www.epravda.com.ua/](https://www.epravda.com.ua/)
 * [https://circle.so/](https://circle.so/)
+* Вебинары с экостстемными людьми
 
 ![](../.gitbook/assets/image%20%28145%29.png)
 
