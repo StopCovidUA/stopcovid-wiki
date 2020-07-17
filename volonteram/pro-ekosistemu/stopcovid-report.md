@@ -2,10 +2,6 @@
 
 ![](../../.gitbook/assets/group-2-4-.png)
 
-### Who was the primary contact for this project?
-
-Max Semenchuk
-
 ### What was the project’s problem statement?
 
 Fighting COVID pandemy became a cruicial challenge to the world and country. Working on it required the best possible collaboration, which wasn't possible due to
@@ -85,4 +81,14 @@ As well as over 30 advisors from other countries who supported us ****
 #### How many people are still benefiting from the project today?
 
 Network of ~5000 specialists is being developed under the impact ua ecosystem
+
+### More
+
+* [Website](https://stopcovid.org.ua/)
+* [Instagram](https://www.instagram.com/stopcovidua/)
+* [Youtube](https://www.youtube.com/channel/UC2wd337MNQZCrJ0NST544OA)
+
+Max Semenchuk  
+max.semenchuk@gmail.com  
+telegram: maxsemenchuk
 
