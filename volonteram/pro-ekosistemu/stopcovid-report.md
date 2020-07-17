@@ -6,11 +6,17 @@ Max Semenchuk
 
 ### What was the project’s problem statement?
 
-COVID pandemy
+Fighting COVID pandemy became a cruicial challenge to the world and country. Working on it required the best possible collaboration, which wasn't possible due to
+
+* lack of trust and connection between the private & public sector
+* distorted information flows and mixed public attitude
+* overlap in the same work done by many groups simultaneously 
+* a bunch of self-proclaimed coordination centers emerged, that weren't in contact between each other
+* some region didn't even have visible coordination centers
 
 ### What was the project’s proposed solution?
 
-Open Coordination Center
+Through the effort of volunteers from the creative economy \(entrepreneurs, marketers, translators, phycologists etc\) we created an open coordination center "Stop Covid ua". It relied on similar practices from the analogical global movement like endcoronavirus.org to open up th
 
 ### Who was the target audience?
 
