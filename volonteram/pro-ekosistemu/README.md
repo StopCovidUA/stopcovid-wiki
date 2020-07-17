@@ -5,6 +5,8 @@
 * Досягення планових показників по цілям сталого розвитку ООН до 2030
 * Розвиток організаційної культури серед всіх стейкхолдерів
 
+## Бачення
+
 ![https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](../../.gitbook/assets/image%20%2896%29%20%281%29.png)
 
 ![https://miro.com/app/board/o9J\_krphSr0=/](../../.gitbook/assets/image%20%28139%29.png)
@@ -41,7 +43,7 @@
 * [Метасообщество](../analitika-mepping-dannykh/) – краудфандинг
 * [Метаигра](../informacionnaya-kampaniya/) – подписка
 * [Меташкола](../shkola/) – гранты
-* [Реінкубатор](../evolyuciya-organizacii/) – долевое участие в прибыли
+* [Реінкубатор](../evolyuciya-organizacii/) – участие в прибыли
 * [Метафонд](../metafond.md) – эндаумент
 
 ## Распределенное управление
@@ -54,7 +56,9 @@ Challenge is how to maintain and implement changes in such an organization. As t
 
 > _Governance is the process of establishing and maintaining the legitimacy of decision making process –_ Vlad Zamfir
 
-The governance itself consists of signaling, proposing, review and acceptance.![Image for post](https://miro.medium.com/max/960/0*J0u4_bXSvZUG6zz4)
+The governance itself consists of signaling, proposing, review and acceptance.
+
+![Image for post](https://miro.medium.com/max/960/0*J0u4_bXSvZUG6zz4)
 
 Examples of things to be governed:
 
