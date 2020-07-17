@@ -63,7 +63,9 @@ Coordinating
 * Primary hospitals in 3 regions
 * 20+ organizations engaged including city councils, national health service, NGOs
 
-#### How many Shapers participated in the project?
+#### How many people participated in the project?
+
+Engaged Global Shapers:
 
 1. Max Semenchuk
 2. Dim Zarazhaevsky
@@ -72,10 +74,13 @@ Coordinating
 5. Anastasiya Klysakova
 6. Yelizaveta Demydenko
 7. Sviatoslav Sviatnenko
+8. Yuliya Tychkivska
 
-Huge thanks to all other leaders who helped this effort
+Huge thanks to all the leaders who helped this effort!
 
 {% embed url="https://airtable.com/shriLEdat9RbziBcn" %}
+
+As well as over 30 advisors from other countries who supported us ****
 
 #### How many people are still benefiting from the project today?
 
