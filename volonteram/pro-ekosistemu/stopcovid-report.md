@@ -80,7 +80,7 @@ As well as over 30 advisors from other countries who supported us ****
 
 #### How many people are still benefiting from the project today?
 
-Network of ~5000 specialists is being developed under the impact ua ecosystem
+Network of ~5000 specialists is being developed under the [**Impact ua ecosystem**](https://impactua.org/). Check out [our strategic plans here](./).
 
 ### More
 
