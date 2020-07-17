@@ -1,6 +1,6 @@
 # Impact Cosmos
 
-### Идеи
+## Идеи
 
 * Impact Earth
 * Impact Mars
