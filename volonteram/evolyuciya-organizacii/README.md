@@ -281,9 +281,6 @@ Let’s say these 5 functions which comprise the administration had within them 
 * [https://www.upstock.io/product](https://www.upstock.io/product)
 * Nesta грант
 * Реалити шоу про укр стартапы - последний герой
-
-{% embed url="https://airtable.com/shrgfT5wYaakTzFxF/tblGh1k80hsOm716Q?backgroundColor=red&viewControls=on&blocks=hide" %}
-
 * Ritual dissent переделать под онлайн
 * партнеры стартап инкубаторы \(лифт?\)
 * casers

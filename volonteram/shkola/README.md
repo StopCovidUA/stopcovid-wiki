@@ -4,7 +4,7 @@ description: >-
   екосистеми Impact UA.
 ---
 
-# Меташкола / Think Tank
+# Меташкола
 
 ## Ціль 
 
