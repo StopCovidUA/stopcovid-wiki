@@ -11,7 +11,6 @@
   * [\#StopCovid ua Report](volonteram/pro-ekosistemu/stopcovid-report.md)
   * [08/07 Финальное обсуждение Business Model Canvas сообщества](volonteram/pro-ekosistemu/08-07-finalnoe-obsuzhdenie-business-model-canvas-soobshestva.md)
   * [13.07](volonteram/pro-ekosistemu/13.07.md)
-  * [Инвестплан](volonteram/pro-ekosistemu/investplan.md)
 * [Медіа](volonteram/media.md)
 * [Метаспільнота Креативні Українці](volonteram/analitika-mepping-dannykh/README.md)
   * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
