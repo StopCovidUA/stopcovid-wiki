@@ -65,7 +65,7 @@ Coordinating
 
 #### How many Shapers participated in the project?
 
-8
+7
 
 #### How many people are still benefiting from the project today?
 
