@@ -14,6 +14,12 @@
 * Колонка на экономической правде \(импакт юа\)
 * Получить грант на развитие креативной экономики от международных доноров
 
+[Контент-план](https://docs.google.com/spreadsheets/d/1vRUnJNAk7FgvdbDWydn429hRSV1j65q1VUCCLpXQTAQ/edit#gid=1872245614)
+
+## Каналы
+
+{% embed url="https://airtable.com/shrWNd6QQ9x9eFDk3" %}
+
 ## Идеи
 
 * Говорить в интегральном фрейме человека 
