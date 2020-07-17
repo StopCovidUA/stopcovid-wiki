@@ -2,9 +2,9 @@
 description: Freedom is out religion
 ---
 
-# Метаспільнота Креативні Українці
+# Метаспільнота
 
-## Мета
+## Креативні Українці
 
 * Розвиток креативу в Україні
 * Підвищувати рівень обізнаності про проблеми суспільства та способи упередження
@@ -46,6 +46,8 @@ description: Freedom is out religion
 ## Мапа екосистеми
 
 {% embed url="https://airtable.com/shryDFvGal19xhJ1F" %}
+
++ [https://drive.google.com/file/d/1OKa10p2DJ\_4oV\_7sJEujAUy\_1WQ2IqjD/view](https://drive.google.com/file/d/1OKa10p2DJ_4oV_7sJEujAUy_1WQ2IqjD/view)
 
 ## Радники
 
