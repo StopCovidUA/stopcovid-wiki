@@ -2,12 +2,12 @@
 
 * [🚀 Як все працює?](README.md)
 * [🔥 Оновлення та звіти](onovlennya-ta-zviti.md)
-* [😤 Покращення](https://impact-ua.canny.io/metaschool)
-* [🎮Почати гру](https://maxsemenchuk.typeform.com/to/ddlBil)
+* [😤 Запити на покращення](https://impact-ua.canny.io/metaschool)
+* [🎮 Доєднатися](https://maxsemenchuk.typeform.com/to/ddlBil)
 
 ## Impact UA <a id="volonteram"></a>
 
-* [Про екосистему](volonteram/pro-ekosistemu/README.md)
+* [Стратегія екосистеми](volonteram/pro-ekosistemu/README.md)
   * [\#StopCovid ua Report](volonteram/pro-ekosistemu/stopcovid-report.md)
   * [08/07 Финальное обсуждение Business Model Canvas сообщества](volonteram/pro-ekosistemu/08-07-finalnoe-obsuzhdenie-business-model-canvas-soobshestva.md)
   * [13.07](volonteram/pro-ekosistemu/13.07.md)

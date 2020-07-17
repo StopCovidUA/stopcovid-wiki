@@ -65,7 +65,17 @@ Coordinating
 
 #### How many Shapers participated in the project?
 
-7
+1. Max Semenchuk
+2. Dim Zarazhaevsky
+3. Uliana Avtonomova
+4. Fedir Serdyuk
+5. Anastasiya Klysakova
+6. Yelizaveta Demydenko
+7. Sviatoslav Sviatnenko
+
+Huge thanks to all other leaders who helped this effort
+
+{% embed url="https://airtable.com/shriLEdat9RbziBcn" %}
 
 #### How many people are still benefiting from the project today?
 
