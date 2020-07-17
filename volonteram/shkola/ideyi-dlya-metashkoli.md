@@ -352,6 +352,7 @@
 * [https://impact-ua.canny.io/](https://impact-ua.canny.io/) – использовать для планирования классов
 * [https://fireflies.ai/](https://fireflies.ai/)
 * KPI школы - баллы экспириенса
+* Podia or Thinkific, Kartra
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
 

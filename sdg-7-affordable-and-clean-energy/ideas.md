@@ -8,6 +8,8 @@
 * Хакатони для вирішення найважливіших енергетичних проблем України \(Hack4energy\)
 * Ініціативна група RELoad Kyiv
 
+[https://socialbusiness.in.ua/enterprises/](https://socialbusiness.in.ua/enterprises/)
+
 ## Ideas
 
 * Lower the price of cleantech
