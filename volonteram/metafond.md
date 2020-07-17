@@ -8,12 +8,9 @@
 * создать х новый крутых предприятий
 * подстраховать МСБ от форс мажора
 
-## Канали комунікації
+## Ссылки
 
-* [Первая версия бюджета](https://docs.google.com/spreadsheets/d/10zf30tMIWtH8CwGDVPshdlkLQ_FVWMKNNegQwspkfc4/edit#gid=0)
-* [\#finance](https://discord.gg/yq5WV7p)
-* [Доска запросов на фаднинг](https://trello.com/b/fCpPgkFh/funding)
-
+* 
 ## Финансирование
 
 Полезные проекты получают финансирование. Мы не просим с людей деньги, мы торгуем и делаем бизнес.
@@ -29,6 +26,8 @@
 * Сид фандинг внутренних стартапов
 
 ![\(c\) &#x41F;&#x430;&#x432;&#x43B;&#x43E; &#x420;&#x438;&#x436;&#x438;&#x439; CICE Institute http://cice.institute/ ](../.gitbook/assets/image%20%28129%29.png)
+
+[Первая версия бюджета](https://docs.google.com/spreadsheets/d/10zf30tMIWtH8CwGDVPshdlkLQ_FVWMKNNegQwspkfc4/edit#gid=0)
 
 ## Советники <a id="d556"></a>
 
