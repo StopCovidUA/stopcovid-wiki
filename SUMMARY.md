@@ -78,7 +78,7 @@
   * [Ідеї для меташколи](volonteram/shkola/ideyi-dlya-metashkoli.md)
   * [Меташкола \(Events/workshop...\)](volonteram/shkola/metashkola-events-workshop.md)
   * [19.05](volonteram/shkola/19.05.md)
-* [Re:incubator](volonteram/evolyuciya-organizacii/README.md)
+* [Инкубатор](volonteram/evolyuciya-organizacii/README.md)
   * [Воркшопы](volonteram/evolyuciya-organizacii/vorkshop-strategicheskaya-sessiya.md)
   * [Талант паспорт](volonteram/evolyuciya-organizacii/talant-pasport.md)
   * [23.04](volonteram/evolyuciya-organizacii/23.04.md)
@@ -87,7 +87,6 @@
   * [06.05](volonteram/evolyuciya-organizacii/06.05.md)
   * [Incubator 13.05](volonteram/evolyuciya-organizacii/incubator-13.05.md)
 * [Метафонд](volonteram/metafond.md)
-* [Impact Cosmos](volonteram/impact-cosmos.md)
 
 ## Меташкола
 
@@ -130,7 +129,7 @@
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
 
-* [Стратегія допомоги медикам](medikam/sistema-zdravookhraneniya/README.md)
+* [Стратегія](medikam/sistema-zdravookhraneniya/README.md)
   * [13.04](medikam/sistema-zdravookhraneniya/13.04.md)
   * [20.04](medikam/sistema-zdravookhraneniya/untitled.md)
   * [27.04](medikam/sistema-zdravookhraneniya/27.04.md)
@@ -157,6 +156,7 @@
   * [Psychology 31.03](medikam/psychological-support/psychology-31.03.md)
   * [Psychology 02.04](medikam/psychological-support/psychology-02.04.md)
   * [Psychology 07.04](medikam/psychological-support/psychology-07.04.md)
+* [Системы против эпидемий](medikam/sistemy-protiv-epidemii.md)
 * [Этичный трекинг](medikam/etitchnyi-treking.md)
 * [Експертна думка та міжнародний досвід медиків по боротьбі з COVID-19](medikam/vazhlivi-dokumenti-dlya-anesteziologiv-i-reanimatologiv-ta-inshikh-med.-spivrobitnikiv-po-covid-19.md)
 * [Кампанія "Ти потрібен світові двома"](medikam/ty-nuzhen-miru-doma.md)

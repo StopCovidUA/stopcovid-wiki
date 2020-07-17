@@ -1,12 +1,22 @@
 ---
-description: Work in progress
+description: >-
+  Reincubator – это организация, занимающаяся поддержкой команд, сообществ и
+  общественных движений на всех этапах развития.
 ---
 
-# Re:incubator
+# Инкубатор
 
-Reincubator – это организация, занимающаяся поддержкой общественных движений и сообществ на всех этапах развития.
+## Цілі
 
-### Ideas
+Создать больше новый эффективных предприятий. Создать устойчивые проекты в экосистеме. Дати можливість учасникам школи долати складності у реалізації ідей через об'єднання ресурс
+
+* Привлечь менторов, коучей и психологов для помощи в релизации целей команд \(Промо экспертов в сообществе\)
+* Проект с ПРООН
+* Проект с Министерством цифровой трансформации
+* Описать кейс Карины
+* Описать кейс НГОшек которые мы консультировали
+
+## Принципы
 
 * VCs are broken: [we need more Zebras, than Unicorns](https://www.entrepreneur.com/article/322407)
 * Traction first: story, emotions, brand and community before the product
@@ -16,28 +26,13 @@ Reincubator – это организация, занимающаяся подд
 * Работаем над тем чтобы у сообщества появилось новое умение
 * Вместе пишем историю, метанаратив, мифологему
 * Главная ценность инкубатора - нетворкинг
+* We have no employees. We only have business partners. We don't work, we create.
 
 ## Проекты
 
-* Metacommunity – сообщество комьюнити менеджеров, лидеров соц движений и строителей экосистем
-* [TED x Action](https://t.me/tedxaction) – движение направленное на реализацию идей и развитие сообщества TED
-* Teal ua – создаем бирюзовую Украину
-* BUIDL ua – развиваем украинские блокчейн продукты
-* [\#StopCovid](https://stopcovid.org.ua/) – Волонтерський рух по зупинці епідемії коронавірусу в Україні
-* [\#dgov foundation](https://dgov.foundation/) – connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
-
 {% embed url="https://airtable.com/shr4XY0JwCdfnf8nj" %}
 
-## Команда
-
-We have no employees. We only have business partners. We don't work, we create.
-
-* [Макс Семенчук](https://www.facebook.com/max.semenchuk)
-* [Сая Жайсанбаева](https://www.facebook.com/jansayajaisanbaeva)
-* [Диана Даюб](https://www.facebook.com/diana.dayub)
-* [Дим Заражевский](https://www.facebook.com/Zarazhevsky)
-
-## Монетизация
+## Сервисы и монетизация 
 
 * продавать B2B сервис развития сотрудников ++
 * проводить платные ивенты +

@@ -80,7 +80,7 @@ As well as over 30 advisors from other countries who supported us ****
 
 #### How many people are still benefiting from the project today?
 
-Network of ~5000 specialists is being developed under the [**Impact ua ecosystem**](https://impactua.org/). Check out [our strategic plans here](./).
+Network of ~5000 specialists is being developed under the [**Impact ua ecosystem**](https://impactua.org/) ****with the focus on achieving UN Sustainable Development Goals.
 
 ### More
 
@@ -88,7 +88,7 @@ Network of ~5000 specialists is being developed under the [**Impact ua ecosystem
 * [Instagram](https://www.instagram.com/stopcovidua/)
 * [Youtube](https://www.youtube.com/channel/UC2wd337MNQZCrJ0NST544OA)
 
-Max Semenchuk  
+For more details contact Max Semenchuk  
 max.semenchuk@gmail.com  
 telegram: maxsemenchuk
 

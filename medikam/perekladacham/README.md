@@ -73,8 +73,4 @@
 * [Посібник з профілактики та лікування COVID-19 \(доповнений рекомендаціями\)](https://coronavirus.co.ua/covid-19-moz/) Прийнятий як рекомендований підручник МОЗ України
 * [Підготовка анестезіологічної та хірургічної служби до операції пацієнта з COVID-19](https://coronavirus.co.ua/covid-19-surgery/) Відео від Alberta Children's Hospital
 * [Brigham and Women’s Hospital COVID-19 Clinical Guidelines](https://coronavirus.co.ua/brigham-and-womens-hospital-covid-19-clinical-guidelines/)
-* 
-
-
-
 
