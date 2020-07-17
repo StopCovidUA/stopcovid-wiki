@@ -1,4 +1,6 @@
-# StopCovid Report
+# \#StopCovid ua Report
+
+![](../../.gitbook/assets/group-2-4-.png)
 
 ### Who was the primary contact for this project?
 
@@ -16,31 +18,50 @@ Fighting COVID pandemy became a cruicial challenge to the world and country. Wor
 
 ### What was the project’s proposed solution?
 
-Through the effort of volunteers from the creative economy \(entrepreneurs, marketers, translators, phycologists etc\) we created an open coordination center "Stop Covid ua". It relied on similar practices from the analogical global movement like endcoronavirus.org to open up th
+Through the effort of volunteers from the creative economy, we created an open coordination center "Stop Covid ua". It relied on similar practices from the analogical global movement like endcoronavirus.org to open up all available information on coronavirus, planned or working projects and coordination mechanisms as focused calls on identified problems.
+
+The ecosystem relied on
+
+* public wiki
+* telegram and discord chats to check and exchange info
+* public spreadsheets and registers 
 
 ### Who was the target audience?
 
-Creative Volunteers, Projects Leads, Citizens
+* Medical Staff
+* Elder people
+* Creative Volunteers \(entrepreneurs, marketers, translators, phycologists etc\)
+* NGOs
+* Businesses
+* Citizens
 
 ### Around when did the project start? About how long did it last?
 
-Mar 12 – ongoing...
+Mar 12 – ongoing and extended to the Impact UA Ecosystem
 
 ### What actions/activities did your Hub take?
 
-* Kyiv office 1
-* Kyiv office 2
-* Media publication
+Coordinating
+
+* Development of the IT infrastructure \(several tech projects helping anticovid effort\)
+* The supplies to elders and hospitals in 3 city hubs
+* Media campaigns on the appropriate behaviour, fact checking, volunteer engagement
+* Fundraising effort 
+* Translation of the medical protocols and equipment instruction
+* Psycological help for doctors, volunteers and people in lockdown
+* Transporation of the medical staff living out of the city
+* Cross-project collaboration and mentoring
 
 ### What kind of an impact did these actions/activities had on the target population? If you can, try to answer specific questions like:
 
 #### How many people did your Hub reach through the project directly and indirectly?
 
-* ~50k views
-* ~400 volunteers engaged
-* ~$11-35k raised
-* \(audience of elders project\)
-* \(audience of med project\)
+* 1M+ views with the support of 100+ media
+* 400+ volunteers engaged from 13 cities
+* $30k+ raised
+* 100k+ people 60+ y.o. who got supplies
+* Primary hospitals in 3 regions
+* 20+ organizations engaged including city councils, national health service, NGOs
 
 #### How many Shapers participated in the project?
 
@@ -48,7 +69,5 @@ Mar 12 – ongoing...
 
 #### How many people are still benefiting from the project today?
 
-~5000
-
-[IO - Project Tracker Template.pptx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17cccb74-e671-4d0e-934c-2d26da3766d4/IO_-_Project_Tracker_Template.pptx)
+Network of ~5000 specialists is being developed under the impact ua ecosystem
 
