@@ -195,7 +195,7 @@
 
 ## SDG 7 Affordable and Clean Energy
 
-* [Ideas](sdg-7-affordable-and-clean-energy/ideas.md)
+* [Strategy](sdg-7-affordable-and-clean-energy/ideas.md)
 
 ## SDG 8 Decent work & Economic growth
 
