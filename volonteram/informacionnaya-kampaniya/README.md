@@ -231,5 +231,6 @@ description: Жизнь это игра
 * [https://hyperlink.academy/](https://hyperlink.academy/)
 * [http://worrydream.com/refs/Papert%20-%20Mindstorms%201st%20ed.pdf](http://worrydream.com/refs/Papert%20-%20Mindstorms%201st%20ed.pdf)
 * Измерять вклад относительно меня
-* Подарок за 3+ вовлечения
+* Подарок за 3+ вовлечения \(или по $10/каждого\)
+* Вход через телеграм учетку
 
