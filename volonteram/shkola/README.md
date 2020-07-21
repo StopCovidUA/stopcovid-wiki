@@ -50,8 +50,9 @@ description: >-
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">&#x428;&#x43A;&#x43E;&#x43B;&#x430;
-        <br />&#x43F;&#x440;&#x435;&#x434;&#x43F;&#x440;&#x438;&#x43D;&#x438;&#x43C;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x442;&#x432;&#x430;</td>
+      <td style="text-align:left">&#x418;&#x43D;&#x43A;&#x443;&#x431;&#x430;&#x442;&#x43E;&#x440; / &#x428;&#x43A;&#x43E;&#x43B;&#x430;
+        <br
+        />&#x43F;&#x440;&#x435;&#x434;&#x43F;&#x440;&#x438;&#x43D;&#x438;&#x43C;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x442;&#x432;&#x430;</td>
       <td
       style="text-align:left">
         <p><a href="../../metashkola/kommunikaciya/">&#x41A;&#x43E;&#x43C;&#x43C;&#x443;&#x43D;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x44F;</a>
@@ -67,14 +68,15 @@ description: >-
         </td>
     </tr>
     <tr>
-      <td style="text-align:left">Impact UA</td>
-      <td style="text-align:left">
+      <td style="text-align:left">&#x41F;&#x440;&#x43E;&#x434;&#x443;&#x43A;&#x442;&#x44B; Impact UA</td>
+      <td
+      style="text-align:left">
         <p>Impact UA - &#x42D;&#x43A;&#x43E;&#x441;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x430;
           <br
           />&#x41C;&#x435;&#x442;&#x430;&#x438;&#x433;&#x440;&#x430; / Pacemakers</p>
-        <p>&#x41C;&#x435;&#x442;&#x430;&#x448;&#x43A;&#x43E;&#x43B;&#x430; - Edtech</p>
-        <p>&#x424;&#x43E;&#x43D;&#x434;</p>
-      </td>
+        <p>Edtech</p>
+        <p>&#x424;&#x43E;&#x43D;&#x434; / &#x42D;&#x43D;&#x434;&#x430;&#x443;&#x43C;&#x435;&#x43D;&#x442;</p>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">Topics</td>
