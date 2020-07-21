@@ -29,7 +29,7 @@
 
 ## Эндаумент <a id="d556"></a>
 
-{% embed url="https://drive.google.com/drive/folders/1\_4TAA4IaTZsRh3Wr\_FOnqAuePSlA4hIp" caption="Спасибо Ксении Кошелевой за материалы" %}
+{% embed url="https://drive.google.com/drive/folders/1\_4TAA4IaTZsRh3Wr\_FOnqAuePSlA4hIp" caption="" %}
 
 ## Советники <a id="d556"></a>
 
