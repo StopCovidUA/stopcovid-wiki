@@ -301,6 +301,16 @@ Let’s say these 5 functions which comprise the administration had within them 
 * [http://www.socionics.com/rel/relcht.htm](http://www.socionics.com/rel/relcht.htm) – matching between sociotypes
 * [https://finance.yahoo.com/news/startup-helping-employees-learn-other-130000848.html?guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAAGnngP9V\_vdw8v9WMxVOKoIFW\_Z-01aMbJmCEl2lQgXkmfPiqlb\_Li9z15OMmxztDaM6QhcEp1gH6LVzhXhLo9kwOqOAywAtCGkqZemvfPg-71OHzEzv83sr7kM1znJ8g1epScam5dHSp5SsW-kdZ1t-8xiYDonmBj64i6\_kPf5L&guccounter=1](https://finance.yahoo.com/news/startup-helping-employees-learn-other-130000848.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGnngP9V_vdw8v9WMxVOKoIFW_Z-01aMbJmCEl2lQgXkmfPiqlb_Li9z15OMmxztDaM6QhcEp1gH6LVzhXhLo9kwOqOAywAtCGkqZemvfPg-71OHzEzv83sr7kM1znJ8g1epScam5dHSp5SsW-kdZ1t-8xiYDonmBj64i6_kPf5L&guccounter=1)
 * Собрать 100 адвайзоров
+* **Как объяснить людям социократию?**
+
+  Сделать серию иллюстрированных анектодов/сторис. В рамках когнитивистики – доносить через несколько каналов. Второе – юмор. Яркая графика. Сторис с шутками. Каждую идею объяснить сюжетом. Типа 2 человечка – 1 практикует, 1 нет. Как они оба высказываются об 1 факте.
+
+  Включить больши инфо о структуре и схеме. Не хватит сказать просто самоорганизация. Особенно для олдскульных. Нужно понять как они приходят и как они могут сделать то что они хотят. Или чтобы поняли что они не готовы.
+
+  Много задач приходит – дайте мне задачу \(аааааа!\), как отсеивать... Если есть беклог. Можно сделать отдельную кнопку. Хотя бы какой следующий шаг
+
+  Еще FAQ.
+
 * Taiwan’s success has rested on a fusion of technology, activism, and civic participation.
   * Булавинова
   * Гурский
