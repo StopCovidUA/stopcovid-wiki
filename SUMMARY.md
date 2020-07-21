@@ -233,3 +233,7 @@
 
 * [Econetwork](sdg-12-responsible-consumption-and-production/econetwork.md)
 
+## 16 peace justice and strong institutions
+
+* [Стратегия](16-peace-justice-and-strong-institutions/strategiya.md)
+
