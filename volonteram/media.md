@@ -28,6 +28,9 @@
 * [https://circle.so/](https://circle.so/)
 * Вебинары с экостстемными людьми
 * Просто идейки по названию бирюзового медиа: "В потоке / FLOW" flowazure.com azzzure.org flowflow.org tealflow.org flowww.org indaflow.org \(аналогичный intheflow.org продают за косарь баксов\)
+* [https://qz.com/](https://qz.com/)
+* [https://zaborona.com/stories/festival-shypot/](https://zaborona.com/stories/festival-shypot/)
+* Social Videos
 
 ![](../.gitbook/assets/image%20%28149%29.png)
 
