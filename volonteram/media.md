@@ -31,6 +31,7 @@
 * [https://qz.com/](https://qz.com/)
 * [https://zaborona.com/stories/festival-shypot/](https://zaborona.com/stories/festival-shypot/)
 * Social Videos
+* Пригласить на вебинар автора 420
 
 ![](../.gitbook/assets/image%20%28149%29.png)
 
