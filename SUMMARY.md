@@ -104,6 +104,7 @@
   * [03.06](metashkola/liderstvo/03.06.md)
   * [10.06](metashkola/liderstvo/10.06.md)
   * [01.07](metashkola/liderstvo/01.07.md)
+  * [22.07](metashkola/liderstvo/22.07.md)
 * [Разработка продуктов и монетизация](metashkola/razrabotka-produktov/README.md)
   * [23.06](metashkola/razrabotka-produktov/23.06.md)
   * [09.06.20: Инструменты аналитики, брендинг, повышение вовлеченности участников сообщества.](metashkola/razrabotka-produktov/09.06.md)
