@@ -354,6 +354,7 @@
 * [https://fireflies.ai/](https://fireflies.ai/)
 * KPI школы - баллы экспириенса
 * Podia or Thinkific, Kartra
+* Религия это форма образования \(нужно продвигать внутри людей по уровням\)
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
 

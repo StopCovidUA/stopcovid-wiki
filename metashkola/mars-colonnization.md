@@ -6,6 +6,8 @@
 * Impact Earth
 * Impact Mars
 * Надо придумать где людям жить
+* У Аарона есть космос сообщество
+* Inscience есть контакт с украинцем из НАСА
 * [https://www.quora.com/What-is-cosmic-law](https://www.quora.com/What-is-cosmic-law)
 * [https://www.bizcatalyst360.com/the-7-natural-laws-of-the-universe/](https://www.bizcatalyst360.com/the-7-natural-laws-of-the-universe/)
   * The Law of Vibration. The Law of Vibration states that everything vibrates and nothing rests. ...
