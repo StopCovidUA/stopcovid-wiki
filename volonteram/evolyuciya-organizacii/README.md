@@ -326,3 +326,5 @@ Let’s say these 5 functions which comprise the administration had within them 
 
 ![](../../.gitbook/assets/img_2724.jpg)
 
+![](../../.gitbook/assets/image%20%28152%29.png)
+
