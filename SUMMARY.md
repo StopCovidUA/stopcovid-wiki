@@ -127,6 +127,7 @@
   * [25.06](metashkola/edtech/25.06.md)
   * [02.07](metashkola/edtech/02.07.md)
   * [09.07](metashkola/edtech/09.07.md)
+  * [23.07](metashkola/edtech/23.07.md)
 * [Mars Colonnization](metashkola/mars-colonnization.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
