@@ -138,13 +138,14 @@ description: Freedom is out religion
 * Disruptor Skill: How disappointed are you if this haven't existed
 * Viral Model: Interviewing other is the first task you need to do
 * [https://global-ukraine.com/](https://global-ukraine.com/) + 
-* Мила Кунис, Чак Паланик и др креативные украинцы 
+* Мила Кунис, Чак Паланюк и др креативные украинцы 
 * Форум по целям SDG
 * Вечеринки везде где были волонтеры
 * Партнёрство с деинде- брендинг сообщества
 * Брендинг сообщества должен быть креативный
 * Делиться с сообществами деньгами от выручки
 * Делайте свою безумную мечту а мы будем вас поддерживать и заботиться
+* Одно сообщество - клиент, исполнитель и инвестор
 
 ![](../../.gitbook/assets/image%20%28130%29.png)
 
