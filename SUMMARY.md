@@ -12,6 +12,7 @@
   * [08/07 Финальное обсуждение Business Model Canvas сообщества](volonteram/pro-ekosistemu/08-07-finalnoe-obsuzhdenie-business-model-canvas-soobshestva.md)
   * [13.07](volonteram/pro-ekosistemu/13.07.md)
   * [20.07](volonteram/pro-ekosistemu/20.07.md)
+  * [27.07](volonteram/pro-ekosistemu/27.07.md)
 * [Медіа](volonteram/media.md)
 * [Метаспільнота](volonteram/analitika-mepping-dannykh/README.md)
   * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
