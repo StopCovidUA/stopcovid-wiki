@@ -8,7 +8,13 @@
 4. Hosting executive. level partnerships relations 
 5. Making new institutions of partnership
 
-## 
+## Topics
+
+Розвиток екосистем: [Что смотреть по развитию экосистем?](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/28.05#maks-chto-smotret-po-razvitiyu-ekosistem) / [Как объединить коммьюнити где я работаю в большое и сделать метчинг между ними?](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/04.06#diana-obedinenie-etikh-kommyuniti-gde-ya-rabotayu-v-bolshoe-metching-mezhdu-nimi) / [Курс лидерству и работа с волонтерами](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/04.06#saya-kurs-vebinar-po-liderstvu-rabota-s-volonterami) / [Что в вашем понимании бизнес?](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/11.06#saya-kakoi-u-vas-opyt-predprinimatelstva) / [Какие типы партнерств могут помочь экосистеме?](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/16.07#diana-partnerstva-kosmos-ili)
+
+Impact ua: [Кто в этом сообществе, как они себя определяют?](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/28.05#karina-kto-v-etom-soobshestve-kak-oni-sebya-opredelyayut) / [Как проследить опыт до школы?](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/04.06#karina-mozhem-prosledit-lyudei-do-shkoly) / [Куда собираем обратную связь?](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/04.06#sasha-kuda-sobiraem-obratnuyu-svyaz) / [Повышение вовлеченности](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/16.07#diana-pochemu-nizkaya-vovlechennost)
+
+Кейс стаді: [Было ли бы интересно чему-то научиться или научить?](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/11.06#zhenya-bylo-li-by-interesno-chemu-to-nauchitsya-ili-nauchit) / [Кто изучал или знает специалиста по психологии?](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/28.05#denis-kto-izuchal-ili-znaet-specialista-po-psikhologii) / [Регистрация криптокомпании и фин помощь](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/18.06#andrei-registraciya-kriptokompanii-i-fin-pomosh) / [Создание теплых контактов в компаниях](https://wiki.impactua.org/metashkola/rozvitok-ekosistem/16.07#karina-teplye-kontakty-v-kompaniya)
 
 Including, but not limited to
 
