@@ -108,6 +108,8 @@ description: >-
 
 Професіонали своєї справи, представники креативного класу, експерти з досвідом у різних галузях знань, ініціативні українці, які вірять у краще в людях.
 
+## Ідеї
+
 {% file src="../../.gitbook/assets/fulltext01 \(1\).pdf" caption="Popular Education Power & Democracy" %}
 
 {% embed url="https://vimeo.com/77511311" %}
