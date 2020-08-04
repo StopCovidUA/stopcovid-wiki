@@ -89,6 +89,7 @@
   * [06.05](volonteram/evolyuciya-organizacii/06.05.md)
   * [Incubator 13.05](volonteram/evolyuciya-organizacii/incubator-13.05.md)
 * [Фонд](volonteram/metafond.md)
+* [Teal UA](volonteram/teal-ua.md)
 
 ## Меташкола
 
