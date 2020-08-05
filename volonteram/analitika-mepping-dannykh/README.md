@@ -126,6 +126,7 @@ description: Freedom is out religion
 * TedX
 * Google
 * Facebook
+* УАЛ
 * Global shapers Lviv hub делает проект по новостям
 * Каждый партнер должен получить благодарность
 * Все агенства вместе - проявите общность
