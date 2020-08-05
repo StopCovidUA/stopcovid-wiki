@@ -156,6 +156,7 @@ If the organization is clear in its goals and open to participation it can organ
 * Віртуальна країна
 * Там де 2 українця там 3 гетьмана 
 * Ресурсна економіка - підбираємо гроші под людей
+* трекать коэффициент переиспользованич денег в экосистеме
 
 {% file src="../../.gitbook/assets/vnr-sdg-ukraine-2020-1-.pdf" %}
 
