@@ -152,6 +152,7 @@ If the organization is clear in its goals and open to participation it can organ
 
 * Выделить и описать бренд как продукт
 * [Презентация](https://docs.google.com/presentation/d/1XdhvR8LFJ4Jcqmy2qVjGaEyd5pvecDqe58w4hBXJTyU/edit#slide=id.g8c4063bc49_0_72)
+* Віртуальна країна
 
 {% file src="../../.gitbook/assets/vnr-sdg-ukraine-2020-1-.pdf" %}
 
