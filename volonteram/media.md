@@ -34,6 +34,7 @@
 * Пригласить на вебинар автора 420
 * [https://forum.dgov.foundation/](https://forum.dgov.foundation/)
 * Paltforma, The Ukranian, Creativity ua, Reporter, The Ukrainer – можна почати з колонок
+* зареєструвати impact.ua
 
 ![](../.gitbook/assets/image%20%28149%29.png)
 
