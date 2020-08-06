@@ -41,7 +41,7 @@
 ### Идеи
 
 * SEO
-* Taxonomy or taging mgmt
+* Taxonomy or tagging mgmt
 * Program & Event planning
 * Curation
 * Editing
