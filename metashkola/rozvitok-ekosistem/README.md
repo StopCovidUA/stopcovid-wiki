@@ -1,4 +1,4 @@
-# Партнерство и развитие экосистем
+# Розвиток екосистем
 
 ## Levels
 
@@ -40,4 +40,6 @@ Including, but not limited to
 ## Ідєї
 
 * соціальна інституція
+* курс по бірюзі вже є \(Сердюк, Рабинович\)
+* [https://www.coursera.org/learn/ecosystem-services/](https://www.coursera.org/learn/ecosystem-services/)
 
