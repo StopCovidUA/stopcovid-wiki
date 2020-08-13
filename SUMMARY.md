@@ -132,6 +132,7 @@
   * [23.07](metashkola/edtech/23.07.md)
   * [30.07](metashkola/edtech/30.07.md)
   * [06.08 Фундаментальные подходы в формирование осознанности](metashkola/edtech/06.08.md)
+  * [13.08](metashkola/edtech/13.08.md)
 * [Mars Colonnization](metashkola/mars-colonnization.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
