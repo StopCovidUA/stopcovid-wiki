@@ -159,6 +159,7 @@ If the organization is clear in its goals and open to participation it can organ
 * трекать коэффициент переиспользованич денег в экосистеме
 * Делать лучшее место работы \(social good itself\)
 * Интерес побеждает страх
+* геоинформационное моделирование для экосистемы
 
 {% file src="../../.gitbook/assets/vnr-sdg-ukraine-2020-1-.pdf" %}
 
