@@ -15,6 +15,7 @@
   * [27.07](volonteram/pro-ekosistemu/27.07.md)
 * [Медіа](volonteram/media/README.md)
   * [10.08](volonteram/media/10.08.md)
+  * [17.08](volonteram/media/17.08.md)
 * [Метаспільнота](volonteram/analitika-mepping-dannykh/README.md)
   * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
   * [Кампанія \#безтебеніяк](volonteram/analitika-mepping-dannykh/beztebeniyak/README.md)
