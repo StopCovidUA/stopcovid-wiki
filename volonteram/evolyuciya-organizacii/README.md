@@ -315,6 +315,7 @@ Let’s say these 5 functions which comprise the administration had within them 
 * Предприниматель ад, работа - бесперспективный ад
 * Больше инвесторов в экосистеме
 * Стала модель співпраці що гарантує мою незалежність
+* [https://lootstrap.com/equity-free-startup-accelerators](https://lootstrap.com/equity-free-startup-accelerators)
 * Taiwan’s success has rested on a fusion of technology, activism, and civic participation.
   * Булавинова
   * Гурский
