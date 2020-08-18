@@ -314,6 +314,7 @@ Let’s say these 5 functions which comprise the administration had within them 
 * Мир тлен, справедливости не существует, я сильнее тебя
 * Предприниматель ад, работа - бесперспективный ад
 * Больше инвесторов в экосистеме
+* Стала модель співпраці що гарантує мою незалежність
 * Taiwan’s success has rested on a fusion of technology, activism, and civic participation.
   * Булавинова
   * Гурский
