@@ -127,6 +127,7 @@
   * [22.06](metashkola/strategiya/22.06.md)
   * [06.07](metashkola/strategiya/06.07.md)
 * [Edtech](metashkola/edtech/README.md)
+  * [Фундаментальні основи інтегральної гуманістичної освіти](metashkola/edtech/fundamentalni-osnovi-integralnoyi-gumanistichnoyi-osviti.md)
   * [25.06](metashkola/edtech/25.06.md)
   * [02.07](metashkola/edtech/02.07.md)
   * [09.07](metashkola/edtech/09.07.md)
