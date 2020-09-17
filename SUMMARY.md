@@ -136,6 +136,7 @@
   * [06.08 Фундаментальные подходы в формирование осознанности](metashkola/edtech/06.08.md)
   * [13.08](metashkola/edtech/13.08.md)
   * [27.08 Фундаментальні основи інтегральної гуманістичної освіти](metashkola/edtech/27.08-fundamentalni-osnovi-integralnoyi-gumanistichnoyi-osviti.md)
+  * [17.09](metashkola/edtech/17.09.md)
 * [Mars Colonnization](metashkola/mars-colonnization.md)
 
 ## SDG 3 Good Health and Well-being <a id="medikam"></a>
