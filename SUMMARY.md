@@ -102,6 +102,7 @@
   * [11.06](metashkola/rozvitok-ekosistem/11.06.md)
   * [18.06](metashkola/rozvitok-ekosistem/18.06.md)
   * [16.07](metashkola/rozvitok-ekosistem/16.07.md)
+  * [21.09](metashkola/rozvitok-ekosistem/21.09.md)
 * [Коммуникация](metashkola/kommunikaciya/README.md)
   * [15.05](metashkola/kommunikaciya/15.05.md)
   * [22.05](metashkola/kommunikaciya/22.05.md)
