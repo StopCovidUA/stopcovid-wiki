@@ -16,6 +16,7 @@
 * [Медіа](volonteram/media/README.md)
   * [10.08](volonteram/media/10.08.md)
   * [17.08](volonteram/media/17.08.md)
+  * [28.09](volonteram/media/28.09.md)
 * [Метаспільнота](volonteram/analitika-mepping-dannykh/README.md)
   * [Онлайн бар](volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
   * [Кампанія \#безтебеніяк](volonteram/analitika-mepping-dannykh/beztebeniyak/README.md)
