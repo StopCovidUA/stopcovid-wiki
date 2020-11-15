@@ -79,10 +79,6 @@
     * [Comms 20.04](volonteram/informacionnaya-kampaniya/tacticals/comms-20.04.md)
     * [Comms 08.05](volonteram/informacionnaya-kampaniya/tacticals/comms-08.05.md)
     * [Game 12.05](volonteram/informacionnaya-kampaniya/tacticals/game-12.05.md)
-* [Меташкола](volonteram/shkola/README.md)
-  * [Ідеї для меташколи](volonteram/shkola/ideyi-dlya-metashkoli.md)
-  * [Меташкола \(Events/workshop...\)](volonteram/shkola/metashkola-events-workshop.md)
-  * [19.05](volonteram/shkola/19.05.md)
 * [Інкубатор](volonteram/evolyuciya-organizacii/README.md)
   * [Воркшопы](volonteram/evolyuciya-organizacii/vorkshop-strategicheskaya-sessiya.md)
   * [Талант паспорт](volonteram/evolyuciya-organizacii/talant-pasport.md)
@@ -96,6 +92,10 @@
 
 ## Меташкола
 
+* [Меташкола](metashkola/shkola/README.md)
+  * [Ідеї для меташколи](metashkola/shkola/ideyi-dlya-metashkoli.md)
+  * [Меташкола \(Events/workshop...\)](metashkola/shkola/metashkola-events-workshop.md)
+  * [19.05](metashkola/shkola/19.05.md)
 * [📋Процесс](metashkola/shablon-vstrechi.md)
 * [Розвиток екосистем](metashkola/rozvitok-ekosistem/README.md)
   * [28.05 Как объяснить новым участникам о Меташколе. Что смотреть по развитию экосистем.](metashkola/rozvitok-ekosistem/28.05.md)

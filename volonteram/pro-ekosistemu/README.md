@@ -69,7 +69,7 @@
 * [Медиа](../media/) – спонсорство
 * [Метасообщество](../analitika-mepping-dannykh/) – краудфандинг
 * [Метаигра](../informacionnaya-kampaniya/) – подписка
-* [Меташкола](../shkola/) – гранты
+* [Меташкола](../../metashkola/shkola/) – гранты
 * [Реінкубатор](../evolyuciya-organizacii/) – участие в прибыли
 * [Метафонд](../metafond.md) – эндаумент
 

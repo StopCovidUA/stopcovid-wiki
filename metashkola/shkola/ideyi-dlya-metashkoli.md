@@ -56,12 +56,12 @@
 
 ### Группы
 
-* [Развитие экосистем](../../metashkola/rozvitok-ekosistem/)
-* [Разработка продуктов](../../metashkola/razrabotka-produktov/)
-* [Лидерство](../../metashkola/liderstvo/)
-* [Стратегия](../../metashkola/strategiya/)
-* [Коммуникации](../../metashkola/kommunikaciya/)
-* [Онлайн бар](../analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
+* [Развитие экосистем](../rozvitok-ekosistem/)
+* [Разработка продуктов](../razrabotka-produktov/)
+* [Лидерство](../liderstvo/)
+* [Стратегия](../strategiya/)
+* [Коммуникации](../kommunikaciya/)
+* [Онлайн бар](../../volonteram/analitika-mepping-dannykh/ezhenedelnyi-onlain-bar.md)
 
 Запросы на новые классы и улучшения тут: [https://impact-ua.canny.io/metaschool](https://impact-ua.canny.io/metaschool) 
 
