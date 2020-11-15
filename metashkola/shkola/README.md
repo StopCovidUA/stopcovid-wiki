@@ -13,6 +13,10 @@ description: >-
 * Школа развития предпринимательства
 * Краудфандинг кампания под меташколу \(дети\)
 
+![https://app.mural.co/t/seductive4559/m/seductive4559/1584954575906/bca4c9353968eebe74ac432bd90a35cd143acecf](../../.gitbook/assets/image%20%28158%29.png)
+
+![https://miro.com/app/board/o9J\_krphSr0=/](../../.gitbook/assets/image%20%28139%29.png)
+
 ## **Для кого?**
 
 1. Людей, які готові поділитися власними знаннями і вчитися від інших.
