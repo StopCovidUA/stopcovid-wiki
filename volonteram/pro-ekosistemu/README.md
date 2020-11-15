@@ -153,7 +153,8 @@ If the organization is clear in its goals and open to participation it can organ
 * [Презентация](https://docs.google.com/presentation/d/1XdhvR8LFJ4Jcqmy2qVjGaEyd5pvecDqe58w4hBXJTyU/edit#slide=id.g8c4063bc49_0_72)
 * Віртуальна країна
 * Там де 2 українця там 3 гетьмана 
-* Ресурсна економіка - підбираємо гроші под людей
+* Экономика знаний
+* Підбираємо гроші/умови під людей
 * трекать коэффициент переиспользованич денег в экосистеме
 * Делать лучшее место работы \(social good itself\)
 * Интерес побеждает страх
