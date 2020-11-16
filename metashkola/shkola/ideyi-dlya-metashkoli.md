@@ -359,6 +359,7 @@
 * Брендинг LMS One
 * Перевернутий клас
 * [https://vimeo.com/user3134329](https://vimeo.com/user3134329)
+* Как вовлечь чуваков из Википедии к проекту
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
 
