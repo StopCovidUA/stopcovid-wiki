@@ -173,7 +173,7 @@ Ostrom
 ### **Format**
 
 * Mastermind meetups
-* Skill focused mini-courses \(1 week duration to offer more flexibility depending on student objectives and prior qualifications\)
+* Skill focused mini-courses \(1-week duration to offer more flexibility depending on student objectives and prior qualifications\)
 * Video lectures \(theoretical ones, entrepreneurs presenting their businesses\)
 * \(Virtual\) visits to companies, incubators/accelerators, local government offices, think-tanks, etc.
 * Study journal - what did each course module / meetup / event / study visit actually teach the student?
