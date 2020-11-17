@@ -93,6 +93,7 @@
 ## Меташкола
 
 * [Меташкола](metashkola/shkola/README.md)
+  * [Курс распаковки](metashkola/shkola/kurs-raspakovki.md)
   * [Ідеї для меташколи](metashkola/shkola/ideyi-dlya-metashkoli.md)
   * [Меташкола \(Events/workshop...\)](metashkola/shkola/metashkola-events-workshop.md)
   * [19.05](metashkola/shkola/19.05.md)
