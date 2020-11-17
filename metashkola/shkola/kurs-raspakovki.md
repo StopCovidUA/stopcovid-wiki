@@ -170,6 +170,8 @@ Ostrom
 * Соблюдение форматов и методологий
 * Самоорганизация ученика
 
+[https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k/edit\#heading=h.4qr126s3qfr1](https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k/edit#heading=h.4qr126s3qfr1)
+
 ### **Format**
 
 * Mastermind meetups
