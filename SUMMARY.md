@@ -92,11 +92,6 @@
 
 ## Меташкола
 
-* [Меташкола](metashkola/shkola/README.md)
-  * [Курс распаковки](metashkola/shkola/kurs-raspakovki.md)
-  * [Ідеї для меташколи](metashkola/shkola/ideyi-dlya-metashkoli.md)
-  * [Меташкола \(Events/workshop...\)](metashkola/shkola/metashkola-events-workshop.md)
-  * [19.05](metashkola/shkola/19.05.md)
 * [📋Процесс](metashkola/shablon-vstrechi.md)
 * [Розвиток екосистем](metashkola/rozvitok-ekosistem/README.md)
   * [28.05 Как объяснить новым участникам о Меташколе. Что смотреть по развитию экосистем.](metashkola/rozvitok-ekosistem/28.05.md)
@@ -130,13 +125,10 @@
   * [22.06](metashkola/strategiya/22.06.md)
   * [06.07](metashkola/strategiya/06.07.md)
 * [Edtech](metashkola/edtech/README.md)
-  * [Фундаментальні основи інтегральної гуманістичної освіти](metashkola/edtech/fundamentalni-osnovi-integralnoyi-gumanistichnoyi-osviti.md)
-  * [25.06](metashkola/edtech/25.06.md)
   * [02.07](metashkola/edtech/02.07.md)
   * [09.07](metashkola/edtech/09.07.md)
   * [23.07](metashkola/edtech/23.07.md)
   * [30.07](metashkola/edtech/30.07.md)
-  * [06.08 Фундаментальные подходы в формирование осознанности](metashkola/edtech/06.08.md)
   * [13.08](metashkola/edtech/13.08.md)
   * [27.08 Фундаментальні основи інтегральної гуманістичної освіти](metashkola/edtech/27.08-fundamentalni-osnovi-integralnoyi-gumanistichnoyi-osviti.md)
   * [17.09](metashkola/edtech/17.09.md)
